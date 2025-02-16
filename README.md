@@ -1,5 +1,3 @@
-from run_ambiguity import data_scalefrom run_ambiguity import data_scalefrom run_ambiguity import data_scale
-
 # Rethinking the Role of LLMs as Knowledge Bases: Insights from Entity Ambiguity Resolution
 
 ## Data
