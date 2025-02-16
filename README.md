@@ -1,6 +1,6 @@
 from run_ambiguity import data_scalefrom run_ambiguity import data_scalefrom run_ambiguity import data_scale
 
-# Can LLMs Be Used as Knowledge Bases? Rethinking from Ambiguity Resolution
+# Rethinking the Role of LLMs as Knowledge Bases: Insights from Entity Ambiguity Resolution
 
 ## Data
 ### Extract disambiguation links from DBPedia
