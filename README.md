@@ -1,192 +1,129 @@
-# Rethinking the Role of LLMs as Knowledge Bases: Insights from Entity Ambiguity Resolution
+# EARBench: Evaluating the Entity Ambiguity Resolution Ability of LLMs
 
-## Data
-### Extract disambiguation links from DBPedia
-#### disambiguations_lang=en.ttl
-*  extracted from https://databus.dbpedia.org/dbpedia/generic/disambiguations/2020.11.01
-* organized as (disambiguation_head, http://dbpedia.org/ontology/wikiPageDisambiguates, specific_entity). 1 vs N format
+## Overview
+EARBench is a comprehensive benchmark designed to evaluate the entity ambiguity resolution capabilities of Large Language Models (LLMs). This benchmark covers multiple entity types and various evaluation tasks to provide a thorough assessment of models' ability to handle entity disambiguation in different contexts.
 
-    <http://dbpedia.org/resource/100_greatest> ｜ <http://dbpedia.org/ontology/wikiPageDisambiguates> ｜ <http://dbpedia.org/resource/100_Greatest_(TV_series)> .
+## Dataset Structure
+The benchmark consists of six entity types:
+- Person
+- Building
+- Place
+- Organisation
+- Work
+- MultiClass
 
-    <http://dbpedia.org/resource/100_greatest> ｜ <http://dbpedia.org/ontology/wikiPageDisambiguates> ｜ <http://dbpedia.org/resource/100_Greatest_African_Americans> .
+Each entity type contains multiple evaluation tasks:
 
-#### shuffled_disambiguations_lang=en.ttl
-* transformed from <disambiguations_lang=en.ttl>
-* random shuffled, not assigned by alphabetic order
-
-#### cleaned_shuffled_disambiguations_lang=en.ttl
-* clean_links.py
-* delete totally same links
-* 1 disambiguation v.s N entities
-
-### Sort links by class
-#### {Class}_disambiguation.ttl
-* construct_dataset.py
-* extracted from cleaned_diffname_shuffled_disambiguations_lang=en.ttl
-* the entities in links are assigned to same {Class}
-* 2k disambiguation name in total (for further choice)
-
-#### {Class}_triples
-* clean_triples.py
-* triples of entity in cleaned_diffname_shuffled_disambiguations_lang=en.ttl
-* filter some duplicated property (1 property v.s N values)
-* filter some useless property, save meaningful ones
-* shuffle property
-* Note: we manually select meaning propertys and form a dict
+| Task Type | Description | Average Data Size |
+|-----------|-------------|------------------|
+| Ambiguity Detection | Detect ambiguous names and recall corresponding entities | ~1,800 |
+| Entity Identification | Identify the correct entity based on relational and attribute information | ~1,800 |
+| Contextual Resolution | QA & Multi-turn QA for missing attribute and relation | ~1,800 samples |
 
 
-## Question Generation
+## Evaluation Metrics
 
-According to the defined question categories, combined with their respective evaluation indicators, we can generate corresponding questions.
+### Ambiguity Detection
+- Evaluates the model's performance in detecting entity ambiguity
 
-### Ambiguity
+1. **ADR (Ambiguity Detection Rate)**
+   - Task: Please give me some information about [ambiguous name].
+   - Evaluates the model's ability to detect ambiguous entities
 
-In the `Ambiguity` question category, we define two evaluation metrics and two corresponding question generation templates.
+2. **ARR (Ambiguity Recall Rate)**
+   - Task: Recall all possible entities of [ambiguous name].
+   - Measures the model's capability to recall entities
 
-- `Ambiguity Discover Rate(ADR)`: Please give me some information about [ambiguous name].
-- `Ambiguity Recall Rate(ARR)`: List all the specific entities associated with [ambiguous name].
+### Entity identification
+- Evaluates the model's performance in identifying correct entity
 
-```python
-data_scale = 100
-cls_list = ["Person", "Place", "Organisation", "Building", "Work", "MultiClass"]
+1. **BDR (Binary Dismbiguation Rate)**
+   - Task: "The [predicate] of [ambiguous name] is [object]. Is the [ambiguous name] referring to [entity name]?"
+   - Metrics (report pair accuracy in paper): 
+     - True Positive Rate
+     - True Negative Rate
+     - Pair Accuracy
+     - Overall Accuracy
 
-for cls in cls_list:
-    question_generator = QuestionGenerator(cls, data_scale)
-    
-    # multiQA for ADR, and links for ARR
-    multiQA, links = question_generator.genq_multi_turn()
-```
-
-### Disambiguation
-
-Two evaluation metrics, and two question generation templates:
-- `Binary Ambiguation(BA)`: The [predicate] of [ambiguous name] is [object]. Is the [ambiguous name] referring to [entity name]?
-- `Ambiguity Match Rate(AMR)`: The [predicate] of [ambiguous name] is [object]. Which one is [ambiguous name] referring to? a.[entity name1] b. c. ...
-
-```python
-data_scale = 100
-attr_scale = 5
-cls_list = ["Person", "Place", "Organisation", "Building", "Work", "MultiClass"]
-
-for one_cls in cls_list:
-    question_generator = QuestionGenerator(one_cls, data_scale, attr_scale)
-    disambqa = question_generator.genq_binary_judge(n=attr_scale) # for BA
-    question_generator.genq_match_rate(disambqa) # for AMR
-```
-
+2. **AMR (Ambiguity Match Rate)**
+   - Task: "The [predicate] of [ambiguous name] is [object]. Which one is [ambiguous name] referring to? a.[entity name1] b. c. ..."
+   - Evaluates the model's ability to match ambiguous entities with their correct references
 
 ### Contextual Resolution
+- Evaluates the model's performance in resolving entity ambiguity through multi-turn dialogue
+1. **ACR(Ambiguity Completion Rate)**
+   * Task: The [predicate1] of [ambiguous name] is [object1]. The [predicate2] of [name] is \_\_.
+   * Metrics
+      - Accuracy Before Multi-Turn Dialogue
+2. **Average Turns**
+   * Task: Feedback information: The [predicate3] of [ambiguous name] is [object3]. The [predicate2] of [ambiguous name] is \_\_?
+   * Metrics:
+      - Accuracy After Multi-Turn Dialogue
+      - Average Number of Turns
+<!-- 
+## Dataset Statistics
 
-Two evaluation metrics, but just one question generation template:
-- `Ambiguity Completion Rate (ACR)`: The [predicate1] of [ambiguous name] is [object1]. The [predicate2]of [name] is __.
-- `Multi-turn Adjustment (MA)`: The [predicate1] of [ambiguous name] is [object1]. The [predicate2] of [name] is __. (Feedback information: The [predicate3] of [name]is [object3], ...)
+### Entity-wise Distribution
+| Entity Type | Binary Judge | Contextual QA | Info Complete | Match Rate | Multi-turn |
+|-------------|--------------|---------------|---------------|------------|------------|
+| Person | 1,925 | 1,001 | 401 | 401 | 2,449 |
+| Building | 1,867 | 771 | 309 | 401 | - |
+| Place | 1,824 | 1,001 | 401 | 401 | - |
+| Organisation | 1,814 | 1,001 | 401 | 401 | - |
+| Work | 1,800 | 1,001 | 401 | 401 | - |
+| MultiClass | 1,722 | 1,001 | 401 | 401 | - | -->
 
-```python
-data_scale = 100
-attr_scale = 5
-cls_list = ["Person", "Place", "Organisation", "Building", "Work", "MultiClass"]
+## Usage
+You need to include all ```.py``` first. To evaluate a model on EARBench:
 
-# for each class, generate 5 questions with 2 choices
-for one_cls in cls_list:
-    question_generator = QuestionGenerator(one_cls, data_scale, attr_scale)
-    question_generator.genq_contextual(5, 2)
-```
-
-You can generate all questions at once, so that when evaluating the model, you can directly call the corresponding question set. You can also choose to generate questions as needed when evaluating the model.
-
-## Model Evaluation
-
-### Ambiguity
-
-- `Binary Ambiguation(BA)`: The [predicate] of [ambiguous name] is [object]. Is the [ambiguous name] referring to [entity name]?
-- `Ambiguity Match Rate(AMR)`: The [predicate] of [ambiguous name] is [object]. Which one is [ambiguous name] referring to? a.[entity name1] b. c. ...
-
-
+1. **Ambiguity Detection Evaluation**:
 ```python
 question_generator = QuestionGenerator(mycls, data_scale)
 multiQA, links = question_generator.genq_multi_answer()
 
-## Step 1: ADR
+# Step 1: ADR
 multiGenerator = BaseGenerator(genClient, genName)
 multiPredictions = multiGenerator.generate(list(multiQA.values()))
 multi_evaluator = MultiAnswerEvaluator(evalClient, evalName)
 multiPrecision, multiOutputList = multi_evaluator.eval(list(multiQA.keys()), multiPredictions)
-print(f"ADR: {multiPrecision}")
 
-## Step 2: ARR
+# Step 2: ARR
 recallGenerator = MultiAnswerGenerator(genClient, genName)
 recallPredictions = recallGenerator.generate(list(multiQA.keys()))
 recallEvaluator = EntityExistEvaluator(evalClient, evalName)
 ARR, outputList = recallEvaluator.eval(links, recallPredictions)
-print(f"ARR: {ARR}")
 ```
 
-### Disambiguation
-
-- `Binary Ambiguation(BA)`: The [predicate] of [ambiguous name] is [object]. Is the [ambiguous name] referring to [entity name]?
-- `Ambiguity Match Rate(AMR)`: The [predicate] of [ambiguous name] is [object]. Which one is [ambiguous name] referring to? a.[entity name1] b. c. ...
-
+2. **Entity Identification**:
 ```python
-## Step 1: BA
-with open(f"{input_dir}binary_judge.json", "r", encoding="utf-8") as f:
-    disamb2qa = json.load(f)
-
-biGenerator = BinaryJudgeGenerator(genClient, genName) # model generating predictions
-biEvaluator = BinaryJudgeEvaluator(evalClient, evalName) # model judging predictions
-
-questions, answers = [], []
-for disambEntityUrl, info in disamb2qa.items():
-    questions.extend([info["questions"][0][0], info["questions"][1][0]])
-    answers.extend([info["questions"][0][1], info["questions"][1][1]])
+# Step1: BDR
+biGenerator = BinaryJudgeGenerator(genClient, genName)
+biEvaluator = BinaryJudgeEvaluator(evalClient, evalName)
 predictions = biGenerator.generate(questions)
 pos_precision, neg_precision, cross_precision, all_precision = biEvaluator.eval(answers, predictions)
-
-print(f"True Postive: {pos_precision}")
-print(f"True Negative: {neg_precision}")
-print(f"Pair Accuracy: {cross_precision}")
-print(f"Accuracy: {all_precision}")
-
-matchGenerator = MatchRateGenerator(genClient, genName) 
+# Step2: MR
+matchGenerator = MatchRateGenerator(genClient, genName)
 matchEvaluator = MatchRateEvaluator(evalClient, evalName)
-
-## Step 2: AMR
-with open(f"{input_dir}match_rate.json", "r", encoding="utf-8") as f:
-    match_disamb2qa = json.load(f)
-
-questions, answers = [], []
-for disambEntityUrl, qa in match_disamb2qa.items():
-    questions.append(qa[0]); answers.append(qa[1])
 predictions = matchGenerator.generate(questions)
-AMR = matchEvaluator.eval(answers, predictions)
-
-print(f"MR: {AMR}")
+MR = matchEvaluator.eval(answers, predictions)
 ```
 
-### Contextual Resolution
-
-- `Binary Ambiguation(BA)`: The [predicate] of [ambiguous name] is [object]. Is the [ambiguous name] referring to [entity name]?
-- `Ambiguity Match Rate(AMR)`: The [predicate] of [ambiguous name] is [object]. Which one is [ambiguous name] referring to? a.[entity name1] b. c. ...
-
+3. **Contextual Resolution**:
 ```python
-with open(f"{input_dir}contextual_qa.json", "r", encoding='utf-8') as f:
-    disamb2qa = json.load(f)
-
-# Choose a subset of data
-disamb2qa = dict(islice(disamb2qa.items(), data_scale))
-questions, additionals, answers = [], [], []
-for disambEntityUrl in disamb2qa.keys():
-    val_dicts = disamb2qa[disambEntityUrl]
-    questions.append(val_dicts["qa"][0])
-    answers.append(val_dicts["qa"][1])
-    additionals.append(val_dicts["additionals"])
-
+# ACR & MT
 contextualBot = ContextualBot(genClient, genName, evalClient, evalName)
 acc_before, acc_after, avg_turn, predictions, precisions = contextualBot.chat(questions, additionals, answers)
-
-print(f'''Contextual Resolution,
-    "Questions Generated": {len(questions)},
-    "Accuracy Before": {acc_before},
-    "Accuracy After": {acc_after},
-    "Average Turns": {avg_turn}''')
 ```
 
+<!-- ## Citation
+If you use EARBench in your research, please cite our work:
+```
+@misc{earbench2024,
+    title={EARBench: Evaluating the Entity Ambiguity Resolution Ability of LLMs},
+    author={*},
+    year={2025},
+    publisher={GitHub},
+    journal={GitHub repository},
+    howpublished={\url{https://github.com/yourusername/EARBench}}
+}
+``` -->
