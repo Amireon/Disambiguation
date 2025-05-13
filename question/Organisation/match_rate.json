@@ -1,0 +1,402 @@
+{
+    "http://dbpedia.org/resource/Gtech": [
+        "The industry of \"Gtech\" is Major appliance, and locationCountry is United Kingdom. Which one is the \"Gtech\" referring to? A. GTECH Corporation B. Grey Technology (Gtech)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/NJS": [
+        "The state of \"NJS\" is Rhode Island, and country is United States. Which one is the \"NJS\" referring to? A. Nairobi Japanese School B. Naval Justice School",
+        "B"
+    ],
+    "http://dbpedia.org/resource/DMP": [
+        "The foundingYear of \"DMP\" is 1996, and country is United States. Which one is the \"DMP\" referring to? A. DMP Digital Music Products B. Digital Manga",
+        "B"
+    ],
+    "http://dbpedia.org/resource/DGG": [
+        "The foundingYear of \"DGG\" is 2008, and industry is Video game industry. Which one is the \"DGG\" referring to? A. Deutsche Grammophon B. Dutch Game Garden",
+        "B"
+    ],
+    "http://dbpedia.org/resource/VAHS": [
+        "The city of \"VAHS\" is Tucson, Arizona, and country is United States. Which one is the \"VAHS\" referring to? A. Vail Academy and High School B. Vicenza American High School",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Government_College_for_Women": [
+        "The city of \"Government College for Women\" is Rawalpindi, and established is 2004. Which one is the \"Government College for Women\" referring to? A. Government College for Women, Anantnag B. Government College for Women, Baramulla C. Government College for Women, Nawakadal Srinagar D. Government College for Women Dhoke Kala Khan",
+        "D"
+    ],
+    "http://dbpedia.org/resource/People's_Democratic_Party": [
+        "The country of \"People's Democratic Party\" is Tajikistan, and founder is Abdulmajid Dostiev. Which one is the \"People's Democratic Party\" referring to? A. Eelam People's Democratic Party B. People's Democratic Party of Afghanistan C. People's Democratic Party of Tajikistan D. People's Democratic Party of Uzbekistan",
+        "C"
+    ],
+    "http://dbpedia.org/resource/ATO": [
+        "The country of \"ATO\" is USA, and city is Indianapolis. Which one is the \"ATO\" referring to? A. ATO Records B. Air Traffic Organization C. Alpha Tau Omega D. Australian Taxation Office",
+        "C"
+    ],
+    "http://dbpedia.org/resource/DDI": [
+        "The locationCity of \"DDI\" is Pittsburgh, PA, and foundingYear is 1970. Which one is the \"DDI\" referring to? A. Development Dimensions International B. Direct Democracy Ireland C. KDDI",
+        "A"
+    ],
+    "http://dbpedia.org/resource/St._John's_High_School": [
+        "The address of \"St. John's High School\" is Qadar pura Rd, Naseer Nagar,, and country is India. Which one is the \"St. John's High School\" referring to? A. Saint John's High School (Massachusetts) B. St. John's High School, Amalapuram C. St. John's High School, Chandigarh D. St. John's High School, Ranchi E. St. John's High School, Siddipet",
+        "E"
+    ],
+    "http://dbpedia.org/resource/LLHS": [
+        "The foundingYear of \"LLHS\" is 1926, and country is USA. Which one is the \"LLHS\" referring to? A. Las Lomas High School B. Los Lunas High School",
+        "B"
+    ],
+    "http://dbpedia.org/resource/EGB": [
+        "The owner of \"EGB\" is DB RegioNetz, and industry is Rail transport. Which one is the \"EGB\" referring to? A. EGB Forces B. Erzgebirgsbahn",
+        "B"
+    ],
+    "http://dbpedia.org/resource/DRL": [
+        "The dissolved of \"DRL\" is 1945-05-31, and parentOrganisation is Nazi Party. Which one is the \"DRL\" referring to? A. Bureau of Democracy, Human Rights, and Labor B. Dr. Reddy's Laboratories C. National Socialist League of the Reich for Physical Exercise",
+        "C"
+    ],
+    "http://dbpedia.org/resource/King_Edward_VI_College": [
+        "The founder of \"King Edward VI College\" is Edward VI of England, and foundedBy is Edward VI of England. Which one is the \"King Edward VI College\" referring to? A. King Edward VI College, Nuneaton B. King Edward VI College, Stourbridge",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Seton_High_School": [
+        "The country of \"Seton High School\" is USA, and foundingYear is 1975. Which one is the \"Seton High School\" referring to? A. Elizabeth Seton High School B. Redeemer-Seton High School C. Seton School (Manassas, Virginia)",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Presidential_transition": [
+        "The foundingDate of \"Presidential transition\" is 2016-05-09, and motto is Change is Coming. Which one is the \"Presidential transition\" referring to? A. Presidential transition of Barack Obama B. Presidential transition of Donald Trump C. Presidential transition of Rodrigo Duterte",
+        "C"
+    ],
+    "http://dbpedia.org/resource/NHB": [
+        "The foundingYear of \"NHB\" is 1988, and industry is Mortgage loan. Which one is the \"NHB\" referring to? A. National Heritage Board (Singapore) B. National Housing Bank",
+        "B"
+    ],
+    "http://dbpedia.org/resource/PAEC": [
+        "The formationYear of \"PAEC\" is 1956, and location is Islamabad. Which one is the \"PAEC\" referring to? A. Pakistan Atomic Energy Commission B. Philippine Nuclear Research Institute",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Beltona": [
+        "The founder of \"Beltona\" is Steve Evans and Bill Johnson, and locationCountry is United Kingdom. Which one is the \"Beltona\" referring to? A. Beltona Records B. Beltona Resonator Instruments",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Equitable": [
+        "The industry of \"Equitable\" is Banking, and foundingYear is 1891. Which one is the \"Equitable\" referring to? A. Aegon UK B. SunTrust Banks C. The Equitable Life Assurance Society",
+        "B"
+    ],
+    "http://dbpedia.org/resource/WHA": [
+        "The country of \"WHA\" is Scotland, and address is Station Road. Which one is the \"WHA\" referring to? A. WHA Junior Hockey League B. Wallace Hall Academy C. World Hockey Association",
+        "B"
+    ],
+    "http://dbpedia.org/resource/St._Andrew's_College": [
+        "The city of \"St. Andrew's College\" is Winnipeg, and country is Canada. Which one is the \"St. Andrew's College\" referring to? A. Saint Dunstan's University B. St. Andrew's College, Aurora C. St. Andrew's College, Grahamstown D. St. Andrew's College, Manitoba",
+        "D"
+    ],
+    "http://dbpedia.org/resource/FDA": [
+        "The parentOrganisation of \"FDA\" is Government of Punjab, Pakistan, and formationYear is 1976. Which one is the \"FDA\" referring to? A. Faisalabad Development Authority B. Fuji Dream Airlines",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Wah_Yan": [
+        "The established of \"Wah Yan\" is 1919-12-16, and founder is Tsui Yan Sau Peter. Which one is the \"Wah Yan\" referring to? A. Wah Yan College, Hong Kong B. Wah Yan College, Kowloon",
+        "A"
+    ],
+    "http://dbpedia.org/resource/FHB": [
+        "The formationYear of \"FHB\" is 2007, and dissolved is 2022. Which one is the \"FHB\" referring to? A. FHB Mortgage Bank B. First Hawaiian Bank C. Food and Health Bureau D. Haitian Basketball Federation",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Commonweal": [
+        "The city of \"Commonweal\" is Swindon, and foundingYear is 1927. Which one is the \"Commonweal\" referring to? A. Commonweal Lodge B. Commonweal School",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Gaston_High_School": [
+        "The country of \"Gaston High School\" is United States, and city is Mount Holly, North Carolina. Which one is the \"Gaston High School\" referring to? A. East Gaston High School B. North Gaston High School",
+        "A"
+    ],
+    "http://dbpedia.org/resource/APCS": [
+        "The city of \"APCS\" is Maumelle, Arkansas, and address is 900 Edgewood Drive. Which one is the \"APCS\" referring to? A. Academics Plus Charter Schools B. Avoyelles Public Charter School",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Green_Alternative": [
+        "The country of \"Green Alternative\" is Russia, and formationYear is 1991. Which one is the \"Green Alternative\" referring to? A. Civil United Green Alternative B. Green Party – Green Alternative C. The Greens–Green Alternative",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Vanguard_School": [
+        "The state of \"Vanguard School\" is Colorado, and city is Colorado Springs, Colorado. Which one is the \"Vanguard School\" referring to? A. The Vanguard School (Colorado) B. The Vanguard School (Pennsylvania)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Ministry_of_Energy": [
+        "The formationYear of \"Ministry of Energy\" is 1991, and dissolved is 2017. Which one is the \"Ministry of Energy\" referring to? A. Ministry of Energy, Science & Technology and Public Utilities B. Ministry of Energy Infrastructures and Natural Resources (Armenia) C. Ministry of Energy and Mining (Algeria) D. Ministry of Energy of Georgia",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Allied_Bank": [
+        "The locationCountry of \"Allied Bank\" is Pakistan, and foundingYear is 1942. Which one is the \"Allied Bank\" referring to? A. Allied Bank Limited B. Allied Bank Zimbabwe Limited C. Allied Banking Corporation",
+        "A"
+    ],
+    "http://dbpedia.org/resource/MGM/UA": [
+        "The foundingDate of \"UA\" is 1956-06-30, and foundingYear is 1956. Which one is the \"UA\" referring to? A. MGM Home Entertainment B. MGM Television",
+        "B"
+    ],
+    "http://dbpedia.org/resource/VNU": [
+        "The established of \"VNU\" is 1995-01-27, and foundingDate is 1995-01-27. Which one is the \"VNU\" referring to? A. Vietnam National University, Hanoi B. Vietnam National University, Ho Chi Minh City",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Cooper_Middle_School": [
+        "The foundingYear of \"Cooper Middle School\" is 1959, and country is US. Which one is the \"Cooper Middle School\" referring to? A. Cobb County School District B. William John Cooper Academy",
+        "B"
+    ],
+    "http://dbpedia.org/resource/St._Lawrence_College": [
+        "The motto of \"St. Lawrence College\" is Hello Future., and established is 1967. Which one is the \"St. Lawrence College\" referring to? A. St. Lawrence College, Ontario B. St Lawrence College, Ramsgate",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Wesley_College": [
+        "The city of \"Wesley College\" is Kumasi, and country is Ghana. Which one is the \"Wesley College\" referring to? A. John Wesley College B. Wesley College, Auckland C. Wesley College, Colombo D. Wesley College, Dublin E. Wesley College, Perth F. Wesley College, University of Sydney G. Wesley College of Education, Kumasi",
+        "G"
+    ],
+    "http://dbpedia.org/resource/WPM": [
+        "The foundingYear of \"WPM\" is 2014, and locationCity is Florida. Which one is the \"WPM\" referring to? A. Wheaton Precious Metals B. World Patent Marketing",
+        "B"
+    ],
+    "http://dbpedia.org/resource/PCJ": [
+        "The country of \"PCJ\" is Netherlands, and dissolved is 1947-04-15. Which one is the \"PCJ\" referring to? A. PCJJ B. Petroleum Corporation of Jamaica",
+        "A"
+    ],
+    "http://dbpedia.org/resource/MBI": [
+        "The city of \"MBI\" is Columbus, Ohio, and country is United States. Which one is the \"MBI\" referring to? A. Mathematical Biosciences Institute B. Moody Bible Institute",
+        "A"
+    ],
+    "http://dbpedia.org/resource/OSB": [
+        "The parentOrganisation of \"OSB\" is Catholic Church, and motto is (English: 'Pray and Work'). Which one is the \"OSB\" referring to? A. Benedictines B. Open Source Business Alliance C. Oregon State Bar",
+        "A"
+    ],
+    "http://dbpedia.org/resource/GLHS": [
+        "The city of \"GLHS\" is Berkeley Heights, New Jersey, and country is United States. Which one is the \"GLHS\" referring to? A. Gordon Lee High School B. Governor Livingston High School C. Grass Lake High School D. Lincoln High School (Gahanna, Ohio)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Royal_Library": [
+        "The country of \"Royal Library\" is Denmark, and location is Copenhagen. Which one is the \"Royal Library\" referring to? A. Library of Alexandria B. National Library of Sweden C. Royal Library, Denmark D. Royal Library of Turin",
+        "C"
+    ],
+    "http://dbpedia.org/resource/SSIM": [
+        "The location of \"SSIM\" is Moscow, and country is Russia. Which one is the \"SSIM\" referring to? A. S. S. Institute of Medical Sciences B. Sri Siddhartha Institute of Business Management C. Swedish School in Moscow",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Grange_Academy": [
+        "The country of \"Grange Academy\" is England, and city is Runcorn. Which one is the \"Grange Academy\" referring to? A. Grange Academy, Kempston B. Grange Academy, Kilmarnock C. The Grange Academy, Bushey D. The Grange Academy, Runcorn",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Edison_State_College": [
+        "The country of \"Edison State College\" is United States, and city is Trenton, New Jersey. Which one is the \"Edison State College\" referring to? A. Florida SouthWestern State College B. Thomas Edison State University",
+        "B"
+    ],
+    "http://dbpedia.org/resource/OLF": [
+        "The formationYear of \"OLF\" is 1973, and country is Ethiopia. Which one is the \"OLF\" referring to? A. Office québécois de la langue française B. Oromo Liberation Front C. Our Lady of Fatima High School, Aligarh",
+        "B"
+    ],
+    "http://dbpedia.org/resource/IPN": [
+        "The dissolved of \"IPN\" is 2011, and foundedBy is Antony Fisher. Which one is the \"IPN\" referring to? A. Instituto Politécnico Nacional B. International Policy Network",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Sterling_Bank": [
+        "The foundingYear of \"Sterling Bank\" is 1934, and location is Sugar Creek, Missouri. Which one is the \"Sterling Bank\" referring to? A. American Sterling Bank B. Sterling Bank of Asia",
+        "A"
+    ],
+    "http://dbpedia.org/resource/AFSA": [
+        "The location of \"AFSA\" is Fort George G. Meade, and formationYear is 1952. Which one is the \"AFSA\" referring to? A. Australian Financial Security Authority B. National Security Agency",
+        "B"
+    ],
+    "http://dbpedia.org/resource/AEI": [
+        "The parentCompany of \"AEI\" is Mood Media, and locationCity is Austin, Texas. Which one is the \"AEI\" referring to? A. Associated Electrical Industries B. DMX (music service)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Enka": [
+        "The locationCity of \"Enka\" is Istanbul, and foundingYear is 1957. Which one is the \"Enka\" referring to? A. ENKA Schools B. Enka İnşaat ve Sanayi A.Ş.",
+        "B"
+    ],
+    "http://dbpedia.org/resource/UO": [
+        "The country of \"UO\" is New Zealand, and established is 4.7967552E9. Which one is the \"UO\" referring to? A. Osnabrück University B. Universal Orlando C. University of Okara D. University of Oradea E. University of Oregon F. University of Otago G. University of Ottawa H. University of Oxford I. Urban Outfitters",
+        "F"
+    ],
+    "http://dbpedia.org/resource/Staples": [
+        "The foundingYear of \"Staples\" is 1991, and founder is Jack Bingleman. Which one is the \"Staples\" referring to? A. Staples Canada B. Staples Inc.",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Bethany": [
+        "The city of \"Bethany\" is Mankato, Minnesota, and country is United States. Which one is the \"Bethany\" referring to? A. Bethany Christian Schools B. Bethany Lutheran College C. Bethany Lutheran Theological Seminary D. Bethany Theological Seminary",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Baldwin": [
+        "The country of \"Baldwin\" is India, and city is Bangalore. Which one is the \"Baldwin\" referring to? A. Baldwin Boys' High School B. Baldwin Girls' High School C. Baldwin Piano Company D. The Baldwin School",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Corvette": [
+        "The foundingYear of \"Corvette\" is 1958, and dissolutionDate is 2010-06-09. Which one is the \"Corvette\" referring to? A. Midway Games B. Schwinn Bicycle Company",
+        "A"
+    ],
+    "http://dbpedia.org/resource/KAOS": [
+        "The locationCountry of \"KAOS\" is United States of America, and foundedBy is Bert Emanuel. Which one is the \"KAOS\" referring to? A. Kaos Studios B. Kaos Worldwide",
+        "B"
+    ],
+    "http://dbpedia.org/resource/MCG": [
+        "The city of \"MCG\" is Augusta, Georgia, and country is United States. Which one is the \"MCG\" referring to? A. Management Consulting Group B. Medical College of Georgia",
+        "B"
+    ],
+    "http://dbpedia.org/resource/TRA": [
+        "The location of \"TRA\" is Dar es Salaam, and formationYear is 1995. Which one is the \"TRA\" referring to? A. TRA, Inc. B. Tanzania Revenue Authority C. Tripoli Rocketry Association",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Angelicum": [
+        "The founder of \"Angelicum\" is Rev.Fr.Rogelio B. Alarcon, OP, and established is 1978. Which one is the \"Angelicum\" referring to? A. Angelicum School Iloilo B. UST Angelicum College",
+        "A"
+    ],
+    "http://dbpedia.org/resource/MacKillop_College": [
+        "The motto of \"MacKillop College\" is In Omnibus Caritas - In all things love, and country is Australia. Which one is the \"MacKillop College\" referring to? A. Clairvaux MacKillop College B. MacKillop College, Bathurst C. MacKillop College, Mornington D. Mary MacKillop College, Kensington E. Mary MacKillop College, Wakeley F. St Mary MacKillop College, Canberra G. St Mary MacKillop College, Swan Hill",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Eaton": [
+        "The founder of \"Eaton\" is Angelo  Gencarelli Jr. , David Ligouri, and foundingYear is 1953. Which one is the \"Eaton\" referring to? A. Bess Eaton B. Eaton's",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Goodyear": [
+        "The locationCountry of \"Goodyear\" is Slovenia, and locationCity is Kranj. Which one is the \"Goodyear\" referring to? A. Goodyear Aerospace B. Goodyear Dunlop Sava Tires C. Goodyear Tire and Rubber Company",
+        "B"
+    ],
+    "http://dbpedia.org/resource/ASTA": [
+        "The foundingDate of \"ASTA\" is 1973-04-03, and founder is Barclay H. Warburton III. Which one is the \"ASTA\" referring to? A. American Society of Travel Advisors B. Tall Ships America",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Willamette": [
+        "The foundingYear of \"Willamette\" is 1906, and location is Portland, Oregon. Which one is the \"Willamette\" referring to? A. Willamette High School B. Willamette Industries C. Willamette University",
+        "B"
+    ],
+    "http://dbpedia.org/resource/WNC": [
+        "The parentOrganisation of \"WNC\" is Government Equalities Office, and formationYear is 1969. Which one is the \"WNC\" referring to? A. STI West Negros University B. Western Nevada College C. Women's National Commission",
+        "C"
+    ],
+    "http://dbpedia.org/resource/BC": [
+        "The founder of \"BC\" is John Moses Brunswick, and foundedBy is John Moses Brunswick. Which one is the \"BC\" referring to? A. BC Card B. Bakersfield College C. Basilian Chouerite Order of Saint John the Baptist D. Benedictine College E. Bergen Catholic High School F. Brazosport College G. Broward College H. Brunswick Corporation",
+        "H"
+    ],
+    "http://dbpedia.org/resource/PBS": [
+        "The industry of \"PBS\" is mechanical engineering, aerospace, precision casting, and foundingYear is 1950. Which one is the \"PBS\" referring to? A. Bombo Radyo Philippines B. General Services Administration C. PBS America D. PBS Kids E. PBS Velká Bíteš F. Pacific Broadcasting System G. Pakistan Bureau of Statistics H. Philippine Broadcasting Service I. Thai Public Broadcasting Service J. United Sabah Party",
+        "E"
+    ],
+    "http://dbpedia.org/resource/Creative": [
+        "The industry of \"Creative\" is Consumer electronics, and foundingDate is 1981-07-01. Which one is the \"Creative\" referring to? A. Creative Commons B. Creative Technology",
+        "B"
+    ],
+    "http://dbpedia.org/resource/SSI": [
+        "The industry of \"SSI\" is Market Research, and foundingYear is 1977. Which one is the \"SSI\" referring to? A. Sahaviriya Steel Industries B. Samsung C. State Security Investigations Service D. Survey Sampling International",
+        "D"
+    ],
+    "http://dbpedia.org/resource/WFHS": [
+        "The mascot of \"WFHS\" is Black Hawk, and city is Gilbert. Which one is the \"WFHS\" referring to? A. West Fargo High School B. West Florida High School of Advanced Technology C. West Forsyth High School (Georgia) D. West Forsyth High School (North Carolina) E. West Franklin High School F. Wichita Falls High School G. Williams Field High School H. Windsor Forest High School",
+        "G"
+    ],
+    "http://dbpedia.org/resource/Timm": [
+        "The country of \"Timm\" is Germany, and locationCountry is Germany. Which one is the \"Timm\" referring to? A. TIMM (TV) B. Timm Aircraft",
+        "A"
+    ],
+    "http://dbpedia.org/resource/St_Peter's_High_School": [
+        "The foundedBy of \"St Peter's High School\" is De La Salle Brothers, and city is Mandalay. Which one is the \"St Peter's High School\" referring to? A. Basic Education High School No. 9 Mandalay B. Ormiston Rivers Academy C. St Peter's High School, Gloucester",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Cabot": [
+        "The location of \"Cabot\" is 60, and established is 1901. Which one is the \"Cabot\" referring to? A. Cabot, Cabot & Forbes B. Cabot Corporation C. Cabot Creamery D. Cabot House",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Proffitt": [
+        "The dissolutionDate of \"Proffitt\" is 2006-03-08, and industry is Retail. Which one is the \"Proffitt\" referring to? A. Proffitt's B. Thacher Proffitt & Wood",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Palestine_High_School": [
+        "The country of \"Palestine High School\" is USA, and mascot is Dragon50px. Which one is the \"Palestine High School\" referring to? A. East Palestine High School B. New Palestine High School",
+        "B"
+    ],
+    "http://dbpedia.org/resource/PRO": [
+        "The founder of \"PRO\" is Carl Malamud, and foundedBy is Carl Malamud. Which one is the \"PRO\" referring to? A. Party for a Rule of Law Offensive B. Public.Resource.Org",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Wis": [
+        "The mascot of \"Wis\" is Red Devils, and country is United States. Which one is the \"Wis\" referring to? A. Washington International School B. Weizmann Institute of Science C. West Island School D. Windhoek International School",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Allard": [
+        "The country of \"Allard\" is Canada, and state is British Columbia. Which one is the \"Allard\" referring to? A. Allard Motor Company B. Peter A. Allard School of Law",
+        "B"
+    ],
+    "http://dbpedia.org/resource/National_Council": [
+        "The state of \"National Council\" is Burundi, and formationYear is 1998. Which one is the \"National Council\" referring to? A. Boy Scouts of America B. National Council for Accreditation of Teacher Education C. National Council for the Defense of Democracy D. National Council for the Defense of Democracy – Forces for the Defense of Democracy E. National Council of American–Soviet Friendship F. National Council of Architectural Registration Boards G. National Council of Examiners for Engineering and Surveying H. National Council of Negro Women I. National Council of Nigeria and the Cameroons J. National Council of Unions of the Industrial and Lower Income Group of Government Workers K. National Council of Venezuelan Indians L. United African National Council",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Navigator": [
+        "The industry of \"Navigator\" is Pulp and paper industry, and foundingYear is 2001. Which one is the \"Navigator\" referring to? A. Navigator Records B. The Navigator Company C. The Navigators (organization)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Veolia": [
+        "The industry of \"Veolia\" is Water supply, and foundingYear is 1848. Which one is the \"Veolia\" referring to? A. Veolia Cargo B. Veolia Transport C. Veolia Transport Nederland D. Veolia Water E. Veolia Water Central F. Veolia Water East G. Veolia Water Southeast",
+        "G"
+    ],
+    "http://dbpedia.org/resource/RWS": [
+        "The country of \"RWS\" is England, and motto is Committed to Excellence and Innovation. Which one is the \"RWS\" referring to? A. RWS Group B. Ravens Wood School C. Running with Scissors (company)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Christian_Heritage_Party": [
+        "The formationYear of \"Christian Heritage Party\" is 1987, and country is Canada. Which one is the \"Christian Heritage Party\" referring to? A. Christian Heritage Party of British Columbia B. Christian Heritage Party of Canada C. Christian Heritage Party of New Zealand",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Linx": [
+        "The industry of \"Linx\" is Logistics, and foundingYear is 2016. Which one is the \"Linx\" referring to? A. ENEA AB B. Linx Cargo Care Group C. Linx S.A.",
+        "B"
+    ],
+    "http://dbpedia.org/resource/St_Patrick's_Grammar_School": [
+        "The city of \"St Patrick's Grammar School\" is Armagh, and country is Northern Ireland. Which one is the \"St Patrick's Grammar School\" referring to? A. St Patrick's Grammar School, Armagh B. St Patrick's Grammar School, Downpatrick",
+        "A"
+    ],
+    "http://dbpedia.org/resource/PLC": [
+        "The country of \"PLC\" is Spain, and formationYear is 1876. Which one is the \"PLC\" referring to? A. Colombian Liberal Party B. Conservative Party (Spain) C. Presidents Leadership Class D. Prism Leisure Corporation",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Space_system": [
+        "The state of \"Space system\" is collapsed, and motto is \"Exploring the secrets of the universe for the benefit of all\". Which one is the \"Space system\" referring to? A. NASA B. SSL (company)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Saunders": [
+        "The foundingYear of \"Saunders\" is 1929, and industry is Aerospace, Engineering. Which one is the \"Saunders\" referring to? A. Saunders-Roe B. Saunders Secondary School",
+        "A"
+    ],
+    "http://dbpedia.org/resource/ASG": [
+        "The locationCity of \"ASG\" is Naples, Florida, and foundingYear is 1986. Which one is the \"ASG\" referring to? A. ASG Technologies B. All Saints Greek Orthodox Grammar School",
+        "A"
+    ],
+    "http://dbpedia.org/resource/TMK": [
+        "The established of \"TMK\" is 1964, and mottoTranslation is 50. Which one is the \"TMK\" referring to? A. Globe Life B. OAO TMK C. Türk Maarif Koleji",
+        "C"
+    ],
+    "http://dbpedia.org/resource/OAI": [
+        "The parentOrganisation of \"OAI\" is Executive Office of the President of the United States, and dissolutionDate is 2021-01-20. Which one is the \"OAI\" referring to? A. Office of American Innovation B. Omni Air International",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Mosaic": [
+        "The foundingDate of \"Mosaic\" is 2004-10-22, and location is Tampa, Florida, U.S.. Which one is the \"Mosaic\" referring to? A. Mosaic Inc. B. Mosaic Records C. Northwestern University D. The Mosaic Company",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Willard": [
+        "The foundingYear of \"Willard\" is 1814, and city is Troy, New York. Which one is the \"Willard\" referring to? A. Emma Willard School B. J. Willard Marriott Library",
+        "A"
+    ],
+    "http://dbpedia.org/resource/University_of_Foreign_Languages": [
+        "The foundingDate of \"University of Foreign Languages\" is 1994-10-26, and established is 1994-10-26. Which one is the \"University of Foreign Languages\" referring to? A. Dalian University of Foreign Languages B. Ho Chi Minh City University of Foreign Languages and Information Technology C. Yangon University of Foreign Languages",
+        "B"
+    ],
+    "http://dbpedia.org/resource/BNF": [
+        "The industry of \"BNF\" is Nuclear power, and parentCompany is UK Government. Which one is the \"BNF\" referring to? A. Belarusian Popular Front B. Botswana National Front C. British Nuclear Fuels Ltd D. National Front (UK)",
+        "C"
+    ],
+    "http://dbpedia.org/resource/USP": [
+        "The country of \"USP\" is Fiji, and city is Suva. Which one is the \"USP\" referring to? A. United States Pharmacopeia B. University of the Sciences C. University of the South Pacific",
+        "C"
+    ],
+    "http://dbpedia.org/resource/TNU": [
+        "The country of \"TNU\" is Tajikistan, and address is Rudaki str. 17, 734025. Which one is the \"TNU\" referring to? A. Tajik National University B. Tianjin Normal University C. Trevecca Nazarene University",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Bias": [
+        "The industry of \"Bias\" is Technology, and location is Petaluma, California. Which one is the \"Bias\" referring to? A. BIAS B. Birla Institute of Applied Sciences",
+        "A"
+    ]
+}

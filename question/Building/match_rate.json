@@ -1,0 +1,402 @@
+{
+    "http://dbpedia.org/resource/McLean_House": [
+        "The locmapin of \"McLean House\" is Massachusetts#USA, and nrhpReferenceNumber is 82001960. Which one is the \"McLean House\" referring to? A. Dr. Joseph A. McLean House B. Henry McLean House C. Isaac McLean House D. Thomas McLean House",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Transfiguration_Cathedral": [
+        "The country of \"Transfiguration Cathedral\" is Ukraine, and groundbreaking is 1758. Which one is the \"Transfiguration Cathedral\" referring to? A. Transfiguration Cathedral, Chernihiv B. Transfiguration Cathedral, Cluj-Napoca C. Transfiguration Cathedral, Novosibirsk D. Transfiguration Cathedral, Vinnytsia",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Weeks_House": [
+        "The nrhpReferenceNumber of \"Weeks House\" is 83003955, and locmapin is Utah#USA. Which one is the \"Weeks House\" referring to? A. Barzillai Weeks House B. Charles M. Weeks House C. Perkins Addition",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Convocation_Center": [
+        "The openingDate of \"Convocation Center\" is 2002-10-25, and buildingStartDate is June 17, 2000. Which one is the \"Convocation Center\" referring to? A. Chartway Arena B. First National Bank Arena C. Memorial Athletic and Convocation Center",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Gokoku_Shrine": [
+        "The religiousAffiliation of \"Gokoku Shrine\" is Shinto, and established is 1940. Which one is the \"Gokoku Shrine\" referring to? A. Gifu Gokoku Shrine B. Hida Gokoku Shrine C. Kyoto Ryozen Gokoku Shrine D. Nōhi Gokoku Shrine",
+        "A"
+    ],
+    "http://dbpedia.org/resource/John_Clark_House": [
+        "The architecture of \"John Clark House\" is Colonial Revival architecture, and locmapin is Minnesota#USA. Which one is the \"John Clark House\" referring to? A. Capt. John Clark House B. Clark and McCormack Quarry and House",
+        "B"
+    ],
+    "http://dbpedia.org/resource/American_Legion_Hall": [
+        "The yearOfConstruction of \"American Legion Hall\" is 1939, and locmapin is Idaho#USA. Which one is the \"American Legion Hall\" referring to? A. Faulkton American Legion Hall B. Fillmore American Legion Hall C. John Regan American Legion Hall",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Walton_Stadium": [
+        "The surface of \"Walton Stadium\" is FieldTurf, and architect is JDBA Architects. Which one is the \"Walton Stadium\" referring to? A. Audrey J. Walton Stadium (Central Missouri) B. Joe Walton Stadium",
+        "B"
+    ],
+    "http://dbpedia.org/resource/German_Bank": [
+        "The nrhpReferenceNumber of \"German Bank\" is 91000536, and yearOfConstruction is 1884. Which one is the \"German Bank\" referring to? A. German Bank Building B. German Bank Building of Walnut, Iowa",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Union_Building": [
+        "The size of \"Union Building\" is 3600.0, and architect is Sir Herbert Baker. Which one is the \"Union Building\" referring to? A. Union Building, Shanghai B. Union Building, Toronto C. Union Buildings",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Cathedral_of_San_Salvador": [
+        "The province of \"Cathedral of San Salvador\" is Roman Catholic Archdiocese of Zaragoza, and consecrationYear is 1318. Which one is the \"Cathedral of San Salvador\" referring to? A. Cathedral of the Savior of Zaragoza B. Oviedo Cathedral",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Stade_Municipal": [
+        "The renovated of \"Stade Municipal\" is 1948197919921997, and openingDate is 1927-01-30. Which one is the \"Stade Municipal\" referring to? A. Stade Canac B. Stade Général Aboubacar Sangoulé Lamizana C. Stade Municipal, Pétange D. Stade Municipal, Rumelange E. Stade Municipal, Schifflange F. Stade Municipal La Reole G. Stade Saint-Symphorien H. Stade du Ray I. Stadium Municipal d'Albi",
+        "H"
+    ],
+    "http://dbpedia.org/resource/Eaton": [
+        "The owner of \"Eaton\" is American Landmark Properties, and floorCount is 28. Which one is the \"Eaton\" referring to? A.  John Maryon Tower B. Eaton Center (Cleveland) C. Timothy Eaton Memorial Church",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Goodyear": [
+        "The buildingStartDate of \"Goodyear\" is March 2008, and owner is Goodyear, AZ. Which one is the \"Goodyear\" referring to? A. Goodyear Airdock B. Goodyear Ballpark",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Oratory": [
+        "The architectureStyle of \"Oratory\" is Cathedral architecture of Western Europe, and architect is Dalbé Viau, Alphonse Venne, Lucien Parent and Dom Paul Bellot. Which one is the \"Oratory\" referring to? A. Oxford Oratory B. Saint Joseph's Oratory",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Grant_House": [
+        "The yearOfConstruction of \"Grant House\" is 1852, and nrhpReferenceNumber is 78002136. Which one is the \"Grant House\" referring to? A. Benjamin Grant House B. Douglas and Charlotte Grant House C. Ebenezer Grant House D. Henry M. Grant House E. O.B. Grant House F. William H. Grant House (Middleport, Ohio) G. William H. Grant House (Richmond, Virginia)",
+        "F"
+    ],
+    "http://dbpedia.org/resource/Cabot": [
+        "The buildingStartDate of \"Cabot\" is 1898, and architect is William Howe Greene. Which one is the \"Cabot\" referring to? A. Cabot Tower, Bristol B. Cabot Tower (St. John's)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Dinglewood": [
+        "The added of \"Dinglewood\" is 1972-02-01, and yearOfConstruction is 1858. Which one is the \"Dinglewood\" referring to? A. Dinglewood, Columbus, Georgia B. Dinglewood House (Columbus, Georgia)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Isstadion": [
+        "The owner of \"Isstadion\" is Skien, and stadiumName is Skien Isstadion. Which one is the \"Isstadion\" referring to? A. Malmö Isstadion B. Skien Isstadion",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Vinje": [
+        "The country of \"Vinje\" is Norway, and consecratedDate is 1821. Which one is the \"Vinje\" referring to? A. Vinje Church (Trøndelag) B. Vinje Church (Vestland)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Perry_House": [
+        "The added of \"Perry House\" is 1983-06-06, and locmapin is Massachusetts#USA. Which one is the \"Perry House\" referring to? A. Ezikial Perry House B. Jacob P. Perry House C. James Perry House D. Lewis–Card–Perry House E. Melvin W. and Mary Perry House F. Peter D. Perry House G. T.B. Perry House",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Terwilliger": [
+        "The locmapin of \"Terwilliger\" is Illinois#USA, and nrhpReferenceNumber is 79003116. Which one is the \"Terwilliger\" referring to? A. Terwilliger House B. Terwilliger House (Shawangunk, New York)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Ravenscraig": [
+        "The renovated of \"Ravenscraig\" is 199220092012, and stadiumName is Ravenscraig Stadium. Which one is the \"Ravenscraig\" referring to? A. Ravenscraig Regional Sports Facility B. Ravenscraig Stadium",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Istana_Negara": [
+        "The buildingStartDate of \"Istana Negara\" is November 2007, and style is Malay, Islamic and Western architecture. Which one is the \"Istana Negara\" referring to? A. Istana Negara, Jalan Tuanku Abdul Halim B. The Istana",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Isenhour": [
+        "The owner of \"Isenhour\" is North Carolina State University, and renovated is 2011. Which one is the \"Isenhour\" referring to? A. Daniel Isenhour House and Farm B. J. W. Isenhour Tennis Center",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Frost_House": [
+        "The architecture of \"Frost House\" is Greek Revival, and locmapin is Connecticut#USA. Which one is the \"Frost House\" referring to? A. David Frost House B. Holt–Frost House C. John Frost House D. Levi B. Frost House E. Robert Frost House F. Walter Frost House",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Ellis_Park": [
+        "The stadiumName of \"Ellis Park\" is Ellis Park, and renovated is 1982. Which one is the \"Ellis Park\" referring to? A. Ellis Park Arena B. Ellis Park Stadium",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Swan": [
+        "The architect of \"Swan\" is Buckinghamshire County Architects, and renovated is 2010. Which one is the \"Swan\" referring to? A. Swan Theatre, Stratford-upon-Avon B. Wycombe Swan",
+        "B"
+    ],
+    "http://dbpedia.org/resource/St._Paul's_Lutheran_Church": [
+        "The yearOfConstruction of \"St. Paul's Lutheran Church\" is 1743, and nrhpReferenceNumber is 14000584. Which one is the \"St. Paul's Lutheran Church\" referring to? A. St. Paul's Lutheran Church, Parsonage and Cemetery B. St. Paul's Lutheran Church Historic District",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Clark_House": [
+        "The nrhpReferenceNumber of \"Clark House\" is 11000646, and locmapin is Pennsylvania#USA. Which one is the \"Clark House\" referring to? A. Alexander Clark House B. Benjamin Clark House C. Buehl House D. Burke–Clark House E. Capt. John Clark House F. Clark Houses G. Ezra Clark House H. Frank Chamberlain Clark House I. George Boardman Clark House J. Gerome Clark House K. John Clark House (Clarksdale, Mississippi) L. John Hector Clark House M. Morrison and Clark Houses N. Rev. Francis E. Clark House O. Robert F. and Elizabeth Clark House P. Robinson Plantation House Q. Sen. Joseph O. Clark House R. Silas M. Clark House S. William Clark House (Newark, New Jersey) T. William S. Clark House U. Willis G. Clark House",
+        "Q"
+    ],
+    "http://dbpedia.org/resource/Kingston_House": [
+        "The renovationDate of \"Kingston House\" is 1851, and owner is Government of South Australia. Which one is the \"Kingston House\" referring to? A. Kingston House, Kingston Park B. Kingston House, Kingston upon Hull C. Zachry-Kingston House",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Leavitt": [
+        "The added of \"Leavitt\" is 1991-11-14, and architect is Leavitt, Thomas Dudley. Which one is the \"Leavitt\" referring to? A. Blazo–Leavitt House B. James Leavitt House C. Thomas Leavitt House",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Minto": [
+        "The height of \"Minto\" is 125.8824, and developer is Minto Developments Inc.. Which one is the \"Minto\" referring to? A. Minto Metropole B. Minto Midtown C. Minto School",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Cathedral_of_the_Blessed_Sacrament": [
+        "The consecratedDate of \"Cathedral of the Blessed Sacrament\" is 1905-02-12, and country is New Zealand. Which one is the \"Cathedral of the Blessed Sacrament\" referring to? A. Blessed Sacrament Cathedral (Greensburg, Pennsylvania) B. Cathedral of the Blessed Sacrament, Christchurch",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Büro_Center": [
+        "The height of \"Büro Center\" is 142.0, and architect is Richard Heil. Which one is the \"Büro Center\" referring to? A. City Gate (Frankfurt) B. Frankfurter Büro Center C. Westend Gate",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Holy_Rosary_Parish": [
+        "The country of \"Holy Rosary Parish\" is United States, and province is List of the Catholic dioceses of the United States. Which one is the \"Holy Rosary Parish\" referring to? A. Holy Rosary Parish, Hadley B. Holy Rosary parish, Warispura",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Richmond": [
+        "The stadiumName of \"Richmond\" is Richmond Park, and owner is St Patrick's Athletic F.C.. Which one is the \"Richmond\" referring to? A. Richmond Park (football ground) B. Schloss Richmond",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Howe_House": [
+        "The yearOfConstruction of \"Howe House\" is 1866, and locmapin is Kansas#USA. Which one is the \"Howe House\" referring to? A. Richard Howe House B. Samuel Gridley and Julia Ward Howe House",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Jashari": [
+        "The stadiumName of \"Jashari\" is Tofik Jashari Stadium, and renovated is 2016. Which one is the \"Jashari\" referring to? A. Adem Jashari Olympic Stadium B. Tofik Jashari Stadium",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Hollywood_Casino": [
+        "The openingDate of \"Hollywood Casino\" is 1990-06-02, and owner is Live Nation (events promoter). Which one is the \"Hollywood Casino\" referring to? A. Hollywood Casino Amphitheatre (Maryland Heights, Missouri) B. Hollywood Casino Amphitheatre (Tinley Park, Illinois)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/St._James_Episcopal_Church": [
+        "The nrhpReferenceNumber of \"St. James Episcopal Church\" is 87001841, and locmapin is Montana. Which one is the \"St. James Episcopal Church\" referring to? A. St. James's Episcopal Church (Richmond, Virginia) B. St. James Episcopal Church, Mill Creek C. St. James Episcopal Church and Rectory (Bozeman, Montana) D. St. James Episcopal Church and Rectory (Kittrell, North Carolina)",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Tech": [
+        "The established of \"Tech\" is 1998-10-31, and architect is Ricardo Legorreta. Which one is the \"Tech\" referring to? A. Tech Tower B. The Tech Interactive",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Quadrangle": [
+        "The locmapin of \"Quadrangle\" is Philadelphia#Pennsylvania#USA, and yearOfConstruction is 1894. Which one is the \"Quadrangle\" referring to? A. Quadrangle Club B. Quadrangle Dormitories (University of Pennsylvania) C. Schenley Quadrangle",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Darul_Aman": [
+        "The buildingStartDate of \"Darul Aman\" is 1925, and renovationDate is 2016. Which one is the \"Darul Aman\" referring to? A. Darul Aman Palace B. Darul Aman Stadium",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Corinthia": [
+        "The openingDate of \"Corinthia\" is 2008, and owner is Libyan government. Which one is the \"Corinthia\" referring to? A. Corinthia Hotel Budapest B. Corinthia Hotel Khartoum C. Corinthia Hotel Prague D. Corinthia Hotel Tripoli",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Deacon_John": [
+        "The yearOfConstruction of \"Deacon John\" is 1790, and nrhpReferenceNumber is 90000056. Which one is the \"Deacon John\" referring to? A. Deacon John Buffington House B. Deacon John Symmes House",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Pinkham": [
+        "The architecture of \"Pinkham\" is Second Empire, and added is 1989-09-20. Which one is the \"Pinkham\" referring to? A. Pinkham House B. Richard Pinkham House",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Miller_Brothers": [
+        "The yearOfConstruction of \"Miller Brothers\" is 1890, and architect is Whittice & Pressley. Which one is the \"Miller Brothers\" referring to? A. Miller Brothers 101 Ranch B. Miller Brothers Farm",
+        "B"
+    ],
+    "http://dbpedia.org/resource/St._Joseph's_Roman_Catholic_Church": [
+        "The locmapin of \"St. Joseph's Roman Catholic Church\" is Massachusetts#USA, and yearOfConstruction is 1845. Which one is the \"St. Joseph's Roman Catholic Church\" referring to? A. Cathedral Basilica of St. Joseph (San Jose) B. Saint Joseph Parish (Mountain View, California) C. St. Joseph's Catholic Church (Bauer, Iowa) D. St. Joseph's Roman Catholic Church Rectory and School E. St. Joseph Catholic Church (Roxbury, Massachusetts)",
+        "E"
+    ],
+    "http://dbpedia.org/resource/Peery": [
+        "The added of \"Peery\" is 2001-10-12, and locmapin is Colorado#USA. Which one is the \"Peery\" referring to? A. Barnes–Peery House B. Peery's Egyptian Theater",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Hilton": [
+        "The surface of \"Hilton\" is Grass, and stadiumName is Hilton Park. Which one is the \"Hilton\" referring to? A. Hilton Coliseum B. Hilton Park (stadium) C. Hilton Village",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Sanford_House": [
+        "The yearOfConstruction of \"Sanford House\" is 1910, and nrhpReferenceNumber is 94001472. Which one is the \"Sanford House\" referring to? A. Esbon Sanford House B. George L. Sanford House",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Park_Inn": [
+        "The floorCount of \"Park Inn\" is 41, and buildingStartDate is 1967. Which one is the \"Park Inn\" referring to? A. Dog Bark Park Inn B. Green Park Inn C. Park Inn by Radisson Berlin Alexanderplatz D. The Omni Grove Park Inn",
+        "C"
+    ],
+    "http://dbpedia.org/resource/St_Botolph's_Church": [
+        "The foundedDate of \"St Botolph's Church\" is 11, and country is United Kingdom. Which one is the \"St Botolph's Church\" referring to? A. St Botolph's Church, Boston B. St Botolph's Church, Botolphs C. St Botolph's Church, Hardham D. St Botolph's Church, Heene E. St Botolph's Church, Quarrington F. St Botolph's Church, Ratcliffe on the Wreake G. St Botolph's Church, Skidbrooke H. St Botolph's Church, Wardley",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Powerhouse": [
+        "The renovationDate of \"Powerhouse\" is 2000, and architect is Roy Rusden Ogg. Which one is the \"Powerhouse\" referring to? A. Brisbane Powerhouse B. Powerhouse Museum C. Powerhouse Theater",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Waverly": [
+        "The nrhpReferenceNumber of \"Waverly\" is 89000035, and architecture is Queen Anne. Which one is the \"Waverly\" referring to? A. Hotel Waverly (New Bedford, Massachusetts) B. The Waverly",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Blanchard": [
+        "The height of \"Blanchard\" is 105.0, and architect is Chester L. Lindsey Architects. Which one is the \"Blanchard\" referring to? A. Blanchard Hall B. Blanchard House (Boyce, Louisiana) C. Blanchard House (Syracuse, New York) D. Fourth and Blanchard Building",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Cube": [
+        "The height of \"Cube\" is 70.40000000000001, and floorCount is 24. Which one is the \"Cube\" referring to? A. The Cube, Birmingham B. The Cube (restaurant)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Mount_Airy": [
+        "The architecture of \"Mount Airy\" is Palladian, and nrhpReferenceNumber is 66000845. Which one is the \"Mount Airy\" referring to? A. Mount Airy Forest B. Mount Airy Plantation",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Finley_Stadium": [
+        "The stadiumName of \"Finley Stadium\" is Finley Stadium Citizens Bank Field, and surface is FieldTurf. Which one is the \"Finley Stadium\" referring to? A. Carter–Finley Stadium B. Ron Finley Stadium",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Iris": [
+        "The height of \"Iris\" is 200.0, and architect is WS Atkins. Which one is the \"Iris\" referring to? A. IRIS Mist B. Iris Bay (Dubai)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Wagener": [
+        "The surface of \"Wagener\" is Grass, Astroturf, and owner is Koninklijke Nederlandse Hockey Bond. Which one is the \"Wagener\" referring to? A. Jacob B. Van Wagener Barn B. Wagener Stadium",
+        "B"
+    ],
+    "http://dbpedia.org/resource/St._Mary's_Church": [
+        "The consecratedDate of \"St. Mary's Church\" is 1961, and country is Pakistan. Which one is the \"St. Mary's Church\" referring to? A. Basilica of Our Lady of the Assumption, Secunderabad B. Basilica of Saint Mary of the Immaculate Conception (Norfolk, Virginia) C. Old St. Mary's Church (Cincinnati, Ohio) D. Old St. Mary's Church (Milwaukee, Wisconsin) E. St. Mary's Church, Callan F. St. Mary's Church, Castlemartin G. St. Mary's Church, Gdańsk H. St. Mary's Church, Gulberg I. St. Mary's Church, Hadlow J. St. Mary's Church, Helminghausen K. St. Mary's Church, Himmelpforten L. St. Mary's Church, Kilmore, County Wexford M. St. Mary's Church, Lübeck N. St. Mary's Church, Munich O. St. Mary's Church, Mühlhausen P. St. Mary's Church, New Ross Q. St. Mary's Church, Noida R. St. Mary's Church, Sukkur S. St. Mary's Church, Turku T. St. Mary's Church, Vijayawada U. St. Mary's Church Non-contiguous Historic District V. St. Mary's Church and Cemetery (Crompton, Rhode Island) W. St. Mary's Church and Rectory (Iowa City, Iowa) X. St. Mary's Church of Gilberts Y. St. Mary's Church of the Immaculate Conception Complex Z. St. Mary Church (Grand Street, Manhattan) [. St Mary's Church, Atherstone \\. St Mary's Church, Attenborough ]. St Mary's Church, Brook ^. St Mary's Church, Fairford _. St Mary's Church, Garforth `. St Mary's Church, Hanwell a. St Mary's Church, Higham Ferrers b. St Mary's Church, Hitchin c. St Mary's Church, Horncastle d. St Mary's Church, Longnewton e. St Mary's Church, Putney f. St Mary's Church, Watford g. St Mary the Virgin Church, Cowes",
+        "H"
+    ],
+    "http://dbpedia.org/resource/Day_House": [
+        "The architecture of \"Day House\" is Greek Revival architecture, and nrhpReferenceNumber is 87002153. Which one is the \"Day House\" referring to? A. Amasa Day House B. Anna Day House C. Fred Holland Day House D. Holman Day House E. Isham Day House F. Ivan W. Day House G. John W. Day House H. Josiah Day House",
+        "G"
+    ],
+    "http://dbpedia.org/resource/Big_Mosque": [
+        "The religiousAffiliation of \"Big Mosque\" is Sunni, Hanafi, Shazuli, Qadiri, and architectureStyle is Indo-Islamic architecture. Which one is the \"Big Mosque\" referring to? A. Kazimar Big Mosque B. Triplicane Big Mosque",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Church_of_the_Redeemer": [
+        "The district of \"Church of the Redeemer\" is Diocese of Jerusalem, and yearCompleted is 1949. Which one is the \"Church of the Redeemer\" referring to? A. Cathedral Church of the Redeemer B. Church of the Redeemer, Amman C. Church of the Redeemer, Bad Homburg D. Church of the Redeemer, Jamaica E. Church of the Redeemer, Sacrow",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Rose_Hill": [
+        "The nrhpReferenceNumber of \"Rose Hill\" is 83002185, and yearOfConstruction is 1858. Which one is the \"Rose Hill\" referring to? A. Rose Hill Methodist Episcopal Church B. Rose Hill Plantation House",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Ålgård": [
+        "The style of \"Ålgård\" is Art Nouveau, and consecratedDate is 1917-05-11. Which one is the \"Ålgård\" referring to? A. Old Ålgård Church B. Ålgård Church",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Bishop": [
+        "The locmapin of \"Bishop\" is Hawaii, and nrhpReferenceNumber is 82002500. Which one is the \"Bishop\" referring to? A. Bishop's Block B. Bishop Museum",
+        "B"
+    ],
+    "http://dbpedia.org/resource/United_Presbyterian_Church": [
+        "The locmapin of \"United Presbyterian Church\" is Oregon#USA, and added is 1998-03-05. Which one is the \"United Presbyterian Church\" referring to? A. United Presbyterian Church, Summerset B. United Presbyterian Church and Rectory (Albany, Oregon) C. United Presbyterian Church of Canehill D. United Presbyterian Church of Shedd",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Ark": [
+        "The owner of \"Ark\" is Duke University, and stadiumName is The Ark. Which one is the \"Ark\" referring to? A. The Ark, London B. The Ark (Duke University)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Darling_House": [
+        "The nrhpReferenceNumber of \"Darling House\" is 90002117, and yearOfConstruction is 1927. Which one is the \"Darling House\" referring to? A. Frederick L. Darling House B. Henry Darling House C. Jay Norwood and Genevieve Pendleton Darling House D. Robert and Julia Darling House",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Iolani": [
+        "The yearOfConstruction of \"Iolani\" is 1870, and locmapin is Hawaii. Which one is the \"Iolani\" referring to? A. ʻIolani Barracks B. ʻIolani Palace",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Prudential": [
+        "The openingDate of \"Prudential\" is 2007-10-25, and buildingStartDate is October 3, 2005. Which one is the \"Prudential\" referring to? A. Prudential Center B. Prudential Tower",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Van_Camp": [
+        "The nrhpReferenceNumber of \"Van Camp\" is 83001603, and added is 1983-03-11. Which one is the \"Van Camp\" referring to? A. Potter-Van Camp House B. Stokely-Van Camp Industrial Complex",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Jenkins_House": [
+        "The nrhpReferenceNumber of \"Jenkins House\" is 87000027, and architecture is Tudor Revival architecture. Which one is the \"Jenkins House\" referring to? A. Benjamin Jenkins House B. Dr. George A. Jenkins House C. Franklin B. Jenkins House (Chestnut Street, Stoneham, Massachusetts) D. Franklin B. Jenkins House (Middle Street, Stoneham, Massachusetts) E. Gen. Albert Gallatin Jenkins House F. Israel Jenkins House G. Joseph J. Jenkins House",
+        "B"
+    ],
+    "http://dbpedia.org/resource/CEC": [
+        "The architect of \"CEC\" is Eliel Saarinen, and architecture is 20. Which one is the \"CEC\" referring to? A. Cranbrook Educational Community B. PPG Paints Arena",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Middlebush": [
+        "The foundedDate of \"Middlebush\" is 1834-03-19, and country is United States. Which one is the \"Middlebush\" referring to? A. Middlebush Reformed Church B. Middlebush Village Historic District",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Wyman_House": [
+        "The added of \"Wyman House\" is 1989-09-18, and locmapin is Massachusetts#USA. Which one is the \"Wyman House\" referring to? A. Fowle-Reed-Wyman House B. Francis Wyman House C. George Wyman House D. Otis-Wyman House",
+        "D"
+    ],
+    "http://dbpedia.org/resource/St._Margaret's_Church": [
+        "The country of \"St. Margaret's Church\" is England, and province is Province of Canterbury. Which one is the \"St. Margaret's Church\" referring to? A. St. Margaret's Church, Mediaș B. St. Margaret's Church, Rochester",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Johnson_Farm": [
+        "The added of \"Johnson Farm\" is 2007-11-07, and architecture is I-house. Which one is the \"Johnson Farm\" referring to? A. Atkins-Johnson Farmhouse Property B. Knipe–Johnson Farm C. Moss–Johnson Farm",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Bryan_House": [
+        "The locmapin of \"Bryan House\" is USA Georgia#USA, and yearOfConstruction is 1833. Which one is the \"Bryan House\" referring to? A. Alden Bryan House B. Bryan House and Office C. Hardy Bryan House D. Villa Serena E. William Jennings Bryan House (Asheville, North Carolina) F. William Jennings Bryan House (Lincoln, Nebraska)",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Big_Bend": [
+        "The height of \"Big Bend\" is 609.6, and architect is Ioannis Oikonomou. Which one is the \"Big Bend\" referring to? A. Big Bend Historical Area B. The Big Bend",
+        "B"
+    ],
+    "http://dbpedia.org/resource/River_House": [
+        "The added of \"River House\" is 1979-12-18, and yearOfConstruction is 1936. Which one is the \"River House\" referring to? A. Galena Hotel B. Harlem River Houses C. Las Olas River House D. River House Condominiums",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Vallejo": [
+        "The openingDate of \"Vallejo\" is 1925-11-29, and stadiumName is Estadio de Vallejo. Which one is the \"Vallejo\" referring to? A. Estadio de Vallejo B. Vallejo Estate",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Steyer": [
+        "The stadiumName of \"Steyer\" is Heinz-Steyer-Stadion, and openingDate is 1919-01-01. Which one is the \"Steyer\" referring to? A. Heinz-Steyer-Stadion B. Steyer Bridge C. Steyer Opera House",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Waterfront": [
+        "The developer of \"Waterfront\" is Sun Hung Kai Properties, and height is 256.0. Which one is the \"Waterfront\" referring to? A. The Waterfront B. Union Square (Hong Kong) C. Waterfront Hall D. Waterfront Place, Brisbane",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Church_of_the_Immaculate_Conception": [
+        "The foundedDate of \"Church of the Immaculate Conception\" is 1834, and country is Republic of Ireland. Which one is the \"Church of the Immaculate Conception\" referring to? A. Cathedral of the Immaculate Conception (Camden, New Jersey) B. Church of the Immaculate Conception, Baku C. Church of the Immaculate Conception, Dublin D. Church of the Immaculate Conception, Farm Street E. Church of the Immaculate Conception, Spinkhill F. Church of the Immaculate Conception and Clergy Houses G. Collegiate Church of the Immaculate Conception, Bormla H. Immacolata Concezione, Riccia I. Immaculate Conception Church (Tuckahoe, New York) J. Immaculate Conception St. Mary's Church",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Graham_House": [
+        "The yearOfConstruction of \"Graham House\" is 1822, and locmapin is Tennessee. Which one is the \"Graham House\" referring to? A. James Graham House B. Maj. David Graham House C. Peters-Graham House D. William J. Graham House",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Central_Methodist_Church": [
+        "The country of \"Central Methodist Church\" is United States, and style is Gothic revival architecture. Which one is the \"Central Methodist Church\" referring to? A. Central Methodist Church, Eastbourne B. Hanson Place Central United Methodist Church",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Walt_Whitman": [
+        "The owner of \"Walt Whitman\" is Simon Property Group, and architect is Welton Becket. Which one is the \"Walt Whitman\" referring to? A. Walt Whitman House B. Walt Whitman Shops",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Meeker": [
+        "The yearOfConstruction of \"Meeker\" is 1899, and added is 2003-06-13. Which one is the \"Meeker\" referring to? A. Meeker's Hardware B. Meeker Island Lock and Dam C. Meeker Sugar Refinery",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Mesilla": [
+        "The owner of \"Mesilla\" is Namdar Realty Group, and openingDate is 1981. Which one is the \"Mesilla\" referring to? A. Mesilla Plaza B. Mesilla Valley Mall",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Kirby_House": [
+        "The added of \"Kirby House\" is 1999-04-01, and locmapin is Idaho#USA. Which one is the \"Kirby House\" referring to? A. Josiah Kirby House B. Kirby House, Coventry C. Maxwell-Kirby House D. McKleroy-Wilson-Kirby House E. Thomas Kirby House",
+        "E"
+    ],
+    "http://dbpedia.org/resource/Église_Saint-Étienne": [
+        "The religiousAffiliation of \"Église Saint-Étienne\" is Roman Catholic Church, and province is Roman Catholic Archdiocese of Paris. Which one is the \"Église Saint-Étienne\" referring to? A. Church of Saint-Étienne, Lille B. Saint-Étienne-du-Mont",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Hemingway": [
+        "The architect of \"Hemingway\" is Grace Hall Hemingway, and nrhpReferenceNumber is 68000026. Which one is the \"Hemingway\" referring to? A. Ernest Hemingway Cottage B. Ernest Hemingway House",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Paddock": [
+        "The architect of \"Paddock\" is Hose, John, and added is 1979-12-11. Which one is the \"Paddock\" referring to? A. Paddock Building B. Paddock Mall C. Paddock Mansion D. Paddock Shops",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Davidson_House": [
+        "The locmapin of \"Davidson House\" is Illinois#USA, and added is 1980-05-31. Which one is the \"Davidson House\" referring to? A. Benjamin W. Davidson House B. Clarke–Hobbs–Davidson House C. Gifford–Davidson House D. Walter V. Davidson House",
+        "C"
+    ],
+    "http://dbpedia.org/resource/St._Peter's_Cathedral": [
+        "The heightMax of \"St. Peter's Cathedral\" is 222.0, and country is United States. Which one is the \"St. Peter's Cathedral\" referring to? A. Cathedral of Saint Peter (Belleville, Illinois) B. St. Peter's Cathedral, Rabat C. St Peter's Cathedral, Hamilton D. Vannes Cathedral",
+        "A"
+    ],
+    "http://dbpedia.org/resource/White_House": [
+        "The yearOfConstruction of \"White House\" is 1818, and added is 1966-10-15. Which one is the \"White House\" referring to? A. First White House of the Confederacy B. Little White House C. The White House (Hartwick, New York) D. The White House (Luray, Virginia) E. White House of the Chickasaws F. White House of the Confederacy",
+        "F"
+    ]
+}

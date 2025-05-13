@@ -1,0 +1,1825 @@
+{
+    "http://dbpedia.org/resource/Rocky_Cape": {
+        "chosen_entity": "http://dbpedia.org/resource/Rocky_Cape_National_Park",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Rocky_Cape,_Tasmania",
+            "http://dbpedia.org/resource/Rocky_Cape_National_Park"
+        ],
+        "questions": [
+            [
+                "The country of Rocky Cape is Australia, and established is 1967. Is the Rocky Cape referring to Rocky Cape National Park?",
+                "Yes"
+            ],
+            [
+                "The country of Rocky Cape is Australia, and established is 1967. Is the Rocky Cape referring to Rocky Cape, Tasmania?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ellendale": {
+        "chosen_entity": "http://dbpedia.org/resource/Ellendale,_Minnesota",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ellendale,_Delaware",
+            "http://dbpedia.org/resource/Ellendale,_Minnesota",
+            "http://dbpedia.org/resource/Ellendale,_North_Dakota",
+            "http://dbpedia.org/resource/Ellendale,_Tasmania",
+            "http://dbpedia.org/resource/Ellendale,_Tennessee"
+        ],
+        "questions": [
+            [
+                "The postalCode of Ellendale is 56026, and timeZone is North American Central Time Zone. Is the Ellendale referring to Ellendale, Minnesota?",
+                "Yes"
+            ],
+            [
+                "The postalCode of Ellendale is 56026, and timeZone is North American Central Time Zone. Is the Ellendale referring to Ellendale, Delaware?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Abrizaki": {
+        "chosen_entity": "http://dbpedia.org/resource/Abrizaki,_Andika",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Abrizaki,_Andika",
+            "http://dbpedia.org/resource/Abrizaki,_Izeh"
+        ],
+        "questions": [
+            [
+                "The country of Abrizaki is Iran, and timezoneDst is Iran Daylight Time. Is the Abrizaki referring to Abrizaki, Andika?",
+                "Yes"
+            ],
+            [
+                "The country of Abrizaki is Iran, and timezoneDst is Iran Daylight Time. Is the Abrizaki referring to Abrizaki, Izeh?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Avançon": {
+        "chosen_entity": "http://dbpedia.org/resource/Avançon,_Hautes-Alpes",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Avançon,_Ardennes",
+            "http://dbpedia.org/resource/Avançon,_Hautes-Alpes"
+        ],
+        "questions": [
+            [
+                "The mayor of Avançon is Laurent Nicolas, and canton is Tallard. Is the Avançon referring to Avançon, Hautes-Alpes?",
+                "Yes"
+            ],
+            [
+                "The mayor of Avançon is Laurent Nicolas, and canton is Tallard. Is the Avançon referring to Avançon, Ardennes?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Rockford_Township": {
+        "chosen_entity": "http://dbpedia.org/resource/Rockford_Township,_Wright_County,_Minnesota",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Rockford_Township,_Floyd_County,_Iowa",
+            "http://dbpedia.org/resource/Rockford_Township,_Sedgwick_County,_Kansas",
+            "http://dbpedia.org/resource/Rockford_Township,_Winnebago_County,_Illinois",
+            "http://dbpedia.org/resource/Rockford_Township,_Wright_County,_Minnesota"
+        ],
+        "questions": [
+            [
+                "The timeZone of Rockford Township is North American Central Time Zone, and postalCode is 55373. Is the Rockford Township referring to Rockford Township, Wright County, Minnesota?",
+                "Yes"
+            ],
+            [
+                "The timeZone of Rockford Township is North American Central Time Zone, and postalCode is 55373. Is the Rockford Township referring to Rockford Township, Sedgwick County, Kansas?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/San_Marino": {
+        "chosen_entity": "http://dbpedia.org/resource/San_Marino,_Croatia",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/City_of_San_Marino",
+            "http://dbpedia.org/resource/San_Marino,_California",
+            "http://dbpedia.org/resource/San_Marino,_Croatia"
+        ],
+        "questions": [
+            [
+                "The timezoneDst of San Marino is Central European Summer Time, and utcOffsetDst is +2. Is the San Marino referring to San Marino, Croatia?",
+                "Yes"
+            ],
+            [
+                "The timezoneDst of San Marino is Central European Summer Time, and utcOffsetDst is +2. Is the San Marino referring to City of San Marino?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Valashid": {
+        "chosen_entity": "http://dbpedia.org/resource/Valashid,_Nur",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Valashid,_Nur",
+            "http://dbpedia.org/resource/Valashid,_Sari"
+        ],
+        "questions": [
+            [
+                "The country of Valashid is Iran, and timezoneDst is Iran Daylight Time. Is the Valashid referring to Valashid, Nur?",
+                "Yes"
+            ],
+            [
+                "The country of Valashid is Iran, and timezoneDst is Iran Daylight Time. Is the Valashid referring to Valashid, Sari?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Donji_Lukavac": {
+        "chosen_entity": "http://dbpedia.org/resource/Donji_Lukavac,_Nevesinje",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Donji_Lukavac,_Gradačac",
+            "http://dbpedia.org/resource/Donji_Lukavac,_Nevesinje"
+        ],
+        "questions": [
+            [
+                "The timezoneDst of Donji Lukavac is Central European Summer Time, and country is Bosnia and Herzegovina. Is the Donji Lukavac referring to Donji Lukavac, Nevesinje?",
+                "Yes"
+            ],
+            [
+                "The timezoneDst of Donji Lukavac is Central European Summer Time, and country is Bosnia and Herzegovina. Is the Donji Lukavac referring to Donji Lukavac, Gradačac?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Tudar": {
+        "chosen_entity": "http://dbpedia.org/resource/Tudar,_Azerbaijan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Tudar,_Azerbaijan",
+            "http://dbpedia.org/resource/Tudar,_Iran",
+            "http://dbpedia.org/resource/Tudar-e_Molla",
+            "http://dbpedia.org/resource/Tudar-e_Ruteh",
+            "http://dbpedia.org/resource/Tudar-e_Samadi"
+        ],
+        "questions": [
+            [
+                "The country of Tudar is Azerbaijan, and utcOffsetDst is +5. Is the Tudar referring to Tudar, Azerbaijan?",
+                "Yes"
+            ],
+            [
+                "The country of Tudar is Azerbaijan, and utcOffsetDst is +5. Is the Tudar referring to Tudar-e Molla?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Hochstadt": {
+        "chosen_entity": "http://dbpedia.org/resource/Hochstadt,_Rhineland-Palatinate",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Hochstadt,_Rhineland-Palatinate",
+            "http://dbpedia.org/resource/Hochstadt_am_Main"
+        ],
+        "questions": [
+            [
+                "The country of Hochstadt is Germany, and mayor is Timo Reuther. Is the Hochstadt referring to Hochstadt, Rhineland-Palatinate?",
+                "Yes"
+            ],
+            [
+                "The country of Hochstadt is Germany, and mayor is Timo Reuther. Is the Hochstadt referring to Hochstadt am Main?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Markid": {
+        "chosen_entity": "http://dbpedia.org/resource/Markid_Kharabehsi",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Markid,_Heris",
+            "http://dbpedia.org/resource/Markid,_Marand",
+            "http://dbpedia.org/resource/Markid_Kharabehsi"
+        ],
+        "questions": [
+            [
+                "The country of Markid is Iran, and timezoneDst is Iran Daylight Time. Is the Markid referring to Markid Kharabehsi?",
+                "Yes"
+            ],
+            [
+                "The country of Markid is Iran, and timezoneDst is Iran Daylight Time. Is the Markid referring to Markid, Marand?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Golkan": {
+        "chosen_entity": "http://dbpedia.org/resource/Gelkuyeh",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Gelkuyeh",
+            "http://dbpedia.org/resource/Golkan-e_Shahid_Medani"
+        ],
+        "questions": [
+            [
+                "The country of Golkan is Iran, and timezoneDst is Iran Daylight Time. Is the Golkan referring to Gelkuyeh?",
+                "Yes"
+            ],
+            [
+                "The country of Golkan is Iran, and timezoneDst is Iran Daylight Time. Is the Golkan referring to Golkan-e Shahid Medani?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bagheshlu": {
+        "chosen_entity": "http://dbpedia.org/resource/Bagheshlu,_Ardabil",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bagheshlu,_Ardabil",
+            "http://dbpedia.org/resource/Bagheshlu,_East_Azerbaijan"
+        ],
+        "questions": [
+            [
+                "The country of Bagheshlu is Iran, and timezoneDst is Iran Daylight Time. Is the Bagheshlu referring to Bagheshlu, Ardabil?",
+                "Yes"
+            ],
+            [
+                "The country of Bagheshlu is Iran, and timezoneDst is Iran Daylight Time. Is the Bagheshlu referring to Bagheshlu, East Azerbaijan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Akseh": {
+        "chosen_entity": "http://dbpedia.org/resource/Akseh-ye_Sofla",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Akseh-ye_Olya",
+            "http://dbpedia.org/resource/Akseh-ye_Sofla"
+        ],
+        "questions": [
+            [
+                "The country of Akseh is Iran, and timezoneDst is Iran Daylight Time. Is the Akseh referring to Akseh-ye Sofla?",
+                "Yes"
+            ],
+            [
+                "The country of Akseh is Iran, and timezoneDst is Iran Daylight Time. Is the Akseh referring to Akseh-ye Olya?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bucey": {
+        "chosen_entity": "http://dbpedia.org/resource/Bucey-en-Othe",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bucey-en-Othe",
+            "http://dbpedia.org/resource/Bucey-lès-Gy",
+            "http://dbpedia.org/resource/Bucey-lès-Traves"
+        ],
+        "questions": [
+            [
+                "The mayor of Bucey is Pascal Desrousseaux, and canton is Aix-Villemaur-Pâlis. Is the Bucey referring to Bucey-en-Othe?",
+                "Yes"
+            ],
+            [
+                "The mayor of Bucey is Pascal Desrousseaux, and canton is Aix-Villemaur-Pâlis. Is the Bucey referring to Bucey-lès-Traves?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Lehqorbani": {
+        "chosen_entity": "http://dbpedia.org/resource/Lehqorbani-ye_Olya",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Lehqorbani-ye_Olya",
+            "http://dbpedia.org/resource/Lehqorbani-ye_Sofla"
+        ],
+        "questions": [
+            [
+                "The country of Lehqorbani is Iran, and timezoneDst is Iran Daylight Time. Is the Lehqorbani referring to Lehqorbani-ye Olya?",
+                "Yes"
+            ],
+            [
+                "The country of Lehqorbani is Iran, and timezoneDst is Iran Daylight Time. Is the Lehqorbani referring to Lehqorbani-ye Sofla?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kani_Kabud": {
+        "chosen_entity": "http://dbpedia.org/resource/Cheshmeh_Kabud,_Gilan-e_Gharb",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Cheshmeh_Kabud,_Gilan-e_Gharb",
+            "http://dbpedia.org/resource/Kani_Kabud,_Divandarreh",
+            "http://dbpedia.org/resource/Kani_Kabud,_Kermanshah",
+            "http://dbpedia.org/resource/Kani_Kabud-e_Maran"
+        ],
+        "questions": [
+            [
+                "The country of Kani Kabud is Iran, and timezoneDst is Iran Daylight Time. Is the Kani Kabud referring to Cheshmeh Kabud, Gilan-e Gharb?",
+                "Yes"
+            ],
+            [
+                "The country of Kani Kabud is Iran, and timezoneDst is Iran Daylight Time. Is the Kani Kabud referring to Kani Kabud, Divandarreh?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Perrine": {
+        "chosen_entity": "http://dbpedia.org/resource/East_Perrine,_Florida",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/East_Perrine,_Florida",
+            "http://dbpedia.org/resource/West_Perrine,_Florida"
+        ],
+        "questions": [
+            [
+                "The timezoneDst of Perrine is EDT, and country is United States. Is the Perrine referring to East Perrine, Florida?",
+                "Yes"
+            ],
+            [
+                "The timezoneDst of Perrine is EDT, and country is United States. Is the Perrine referring to West Perrine, Florida?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Novate": {
+        "chosen_entity": "http://dbpedia.org/resource/Novate_Milanese",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Novate_Mezzola",
+            "http://dbpedia.org/resource/Novate_Milanese"
+        ],
+        "questions": [
+            [
+                "The country of Novate is Italy, and mayor is Daniela Maldini. Is the Novate referring to Novate Milanese?",
+                "Yes"
+            ],
+            [
+                "The country of Novate is Italy, and mayor is Daniela Maldini. Is the Novate referring to Novate Mezzola?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Chianeh": {
+        "chosen_entity": "http://dbpedia.org/resource/Chianeh,_Piranshahr",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Chianeh,_Naqadeh",
+            "http://dbpedia.org/resource/Chianeh,_Piranshahr"
+        ],
+        "questions": [
+            [
+                "The country of Chianeh is Iran, and timezoneDst is Iran Daylight Time. Is the Chianeh referring to Chianeh, Piranshahr?",
+                "Yes"
+            ],
+            [
+                "The country of Chianeh is Iran, and timezoneDst is Iran Daylight Time. Is the Chianeh referring to Chianeh, Naqadeh?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Lewis_Township": {
+        "chosen_entity": "http://dbpedia.org/resource/Lewis_Township,_Mille_Lacs_County,_Minnesota",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Lewis_Township,_Bottineau_County,_North_Dakota",
+            "http://dbpedia.org/resource/Lewis_Township,_Brown_County,_Ohio",
+            "http://dbpedia.org/resource/Lewis_Township,_Lycoming_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Lewis_Township,_Mille_Lacs_County,_Minnesota",
+            "http://dbpedia.org/resource/Lewis_Township,_Northumberland_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Lewis_Township,_Union_County,_Pennsylvania"
+        ],
+        "questions": [
+            [
+                "The timezoneDst of Lewis Township is CDT, and timezone is North American Central Time Zone. Is the Lewis Township referring to Lewis Township, Mille Lacs County, Minnesota?",
+                "Yes"
+            ],
+            [
+                "The timezoneDst of Lewis Township is CDT, and timezone is North American Central Time Zone. Is the Lewis Township referring to Lewis Township, Bottineau County, North Dakota?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Sarkhun": {
+        "chosen_entity": "http://dbpedia.org/resource/Sarkhun,_Hormozgan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Sarkhun,_Hormozgan",
+            "http://dbpedia.org/resource/Soreykhan-e_Sofla"
+        ],
+        "questions": [
+            [
+                "The country of Sarkhun is Iran, and timezoneDst is Iran Daylight Time. Is the Sarkhun referring to Sarkhun, Hormozgan?",
+                "Yes"
+            ],
+            [
+                "The country of Sarkhun is Iran, and timezoneDst is Iran Daylight Time. Is the Sarkhun referring to Soreykhan-e Sofla?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Yenikışla": {
+        "chosen_entity": "http://dbpedia.org/resource/Yenikışla,_Kumluca",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Yenikışla,_Kumluca",
+            "http://dbpedia.org/resource/Yenikışla,_Ulus"
+        ],
+        "questions": [
+            [
+                "The country of Yenikışla is Turkey, and timezoneDst is Eastern European Summer Time. Is the Yenikışla referring to Yenikışla, Kumluca?",
+                "Yes"
+            ],
+            [
+                "The country of Yenikışla is Turkey, and timezoneDst is Eastern European Summer Time. Is the Yenikışla referring to Yenikışla, Ulus?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Inwood": {
+        "chosen_entity": "http://dbpedia.org/resource/Inwood,_Mississippi",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Brooke-Alvinston",
+            "http://dbpedia.org/resource/Inwood,_Florida",
+            "http://dbpedia.org/resource/Inwood,_Iowa",
+            "http://dbpedia.org/resource/Inwood,_Manhattan",
+            "http://dbpedia.org/resource/Inwood,_Mississippi",
+            "http://dbpedia.org/resource/Inwood,_New_York",
+            "http://dbpedia.org/resource/Inwood,_San_Antonio",
+            "http://dbpedia.org/resource/Inwood,_West_Virginia",
+            "http://dbpedia.org/resource/Inwood_Township,_Michigan",
+            "http://dbpedia.org/resource/Rural_Municipality_of_Armstrong"
+        ],
+        "questions": [
+            [
+                "The postalCode of Inwood is 38778, and timezoneDst is CDT. Is the Inwood referring to Inwood, Mississippi?",
+                "Yes"
+            ],
+            [
+                "The postalCode of Inwood is 38778, and timezoneDst is CDT. Is the Inwood referring to Inwood Township, Michigan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Thurlaston": {
+        "chosen_entity": "http://dbpedia.org/resource/Thurlaston,_Warwickshire",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Thurlaston,_Leicestershire",
+            "http://dbpedia.org/resource/Thurlaston,_Warwickshire"
+        ],
+        "questions": [
+            [
+                "The areaCode of Thurlaston is 01788, and postalCode is CV23. Is the Thurlaston referring to Thurlaston, Warwickshire?",
+                "Yes"
+            ],
+            [
+                "The areaCode of Thurlaston is 01788, and postalCode is CV23. Is the Thurlaston referring to Thurlaston, Leicestershire?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Waldegg": {
+        "chosen_entity": "http://dbpedia.org/resource/Waldegg,_Lower_Austria",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Uitikon",
+            "http://dbpedia.org/resource/Waldegg,_Lower_Austria"
+        ],
+        "questions": [
+            [
+                "The postalCode of Waldegg is 2754, and timezoneDst is Central European Summer Time. Is the Waldegg referring to Waldegg, Lower Austria?",
+                "Yes"
+            ],
+            [
+                "The postalCode of Waldegg is 2754, and timezoneDst is Central European Summer Time. Is the Waldegg referring to Uitikon?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Andrée": {
+        "chosen_entity": "http://dbpedia.org/resource/Andrée_Island",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Andrée_Island",
+            "http://dbpedia.org/resource/Andrée_Land_(Greenland)"
+        ],
+        "questions": [
+            [
+                "The location of Andrée is Antarctica, and country is None. Is the Andrée referring to Andrée Island?",
+                "Yes"
+            ],
+            [
+                "The location of Andrée is Antarctica, and country is None. Is the Andrée referring to Andrée Land (Greenland)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Aspach": {
+        "chosen_entity": "http://dbpedia.org/resource/Aspach,_Haut-Rhin",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Aspach,_Baden-Württemberg",
+            "http://dbpedia.org/resource/Aspach,_Haut-Rhin",
+            "http://dbpedia.org/resource/Aspach,_Moselle",
+            "http://dbpedia.org/resource/Aspach,_Thuringia",
+            "http://dbpedia.org/resource/Aspach,_Upper_Austria",
+            "http://dbpedia.org/resource/Aspach-le-Bas",
+            "http://dbpedia.org/resource/Aspach-le-Haut"
+        ],
+        "questions": [
+            [
+                "The inseeCode of Aspach is 68010, and country is France. Is the Aspach referring to Aspach, Haut-Rhin?",
+                "Yes"
+            ],
+            [
+                "The inseeCode of Aspach is 68010, and country is France. Is the Aspach referring to Aspach, Baden-Württemberg?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Cabbage_Tree_Point": {
+        "chosen_entity": "http://dbpedia.org/resource/Shorncliffe,_Queensland",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Shorncliffe,_Queensland",
+            "http://dbpedia.org/resource/Steiglitz,_Queensland"
+        ],
+        "questions": [
+            [
+                "The country of Cabbage Tree Point is Australia, and location is Brisbane GPO. Is the Cabbage Tree Point referring to Shorncliffe, Queensland?",
+                "Yes"
+            ],
+            [
+                "The country of Cabbage Tree Point is Australia, and location is Brisbane GPO. Is the Cabbage Tree Point referring to Steiglitz, Queensland?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Vankal": {
+        "chosen_entity": "http://dbpedia.org/resource/Vankal,_Champhai",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Vankal,_Champhai",
+            "http://dbpedia.org/resource/Vankal,_Surat"
+        ],
+        "questions": [
+            [
+                "The timezone of Vankal is Indian Standard Time, and country is India. Is the Vankal referring to Vankal, Champhai?",
+                "Yes"
+            ],
+            [
+                "The timezone of Vankal is Indian Standard Time, and country is India. Is the Vankal referring to Vankal, Surat?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Remigny": {
+        "chosen_entity": "http://dbpedia.org/resource/Remigny,_Saône-et-Loire",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Remigny,_Aisne",
+            "http://dbpedia.org/resource/Remigny,_Saône-et-Loire"
+        ],
+        "questions": [
+            [
+                "The canton of Remigny is Chagny, and inseeCode is 71369. Is the Remigny referring to Remigny, Saône-et-Loire?",
+                "Yes"
+            ],
+            [
+                "The canton of Remigny is Chagny, and inseeCode is 71369. Is the Remigny referring to Remigny, Aisne?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/El_Marsa": {
+        "chosen_entity": "http://dbpedia.org/resource/El_Marsa,_Algiers",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/El_Marsa,_Algiers",
+            "http://dbpedia.org/resource/El_Marsa,_Chlef",
+            "http://dbpedia.org/resource/El_Marsa,_Skikda"
+        ],
+        "questions": [
+            [
+                "The country of El Marsa is Algeria, and postalCode is 16111. Is the El Marsa referring to El Marsa, Algiers?",
+                "Yes"
+            ],
+            [
+                "The country of El Marsa is Algeria, and postalCode is 16111. Is the El Marsa referring to El Marsa, Chlef?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Quchaq": {
+        "chosen_entity": "http://dbpedia.org/resource/Quchaq,_Divandarreh",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Quchaq,_Divandarreh",
+            "http://dbpedia.org/resource/Quchaq,_Saqqez",
+            "http://dbpedia.org/resource/Qujaq"
+        ],
+        "questions": [
+            [
+                "The country of Quchaq is Iran, and timezoneDst is Iran Daylight Time. Is the Quchaq referring to Quchaq, Divandarreh?",
+                "Yes"
+            ],
+            [
+                "The country of Quchaq is Iran, and timezoneDst is Iran Daylight Time. Is the Quchaq referring to Quchaq, Saqqez?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Esençay": {
+        "chosen_entity": "http://dbpedia.org/resource/Esençay,_Karacasu",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Esençay,_Karacasu",
+            "http://dbpedia.org/resource/Esençay,_Mut"
+        ],
+        "questions": [
+            [
+                "The country of Esençay is Turkey, and timezoneDst is Eastern European Summer Time. Is the Esençay referring to Esençay, Karacasu?",
+                "Yes"
+            ],
+            [
+                "The country of Esençay is Turkey, and timezoneDst is Eastern European Summer Time. Is the Esençay referring to Esençay, Mut?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Nance": {
+        "chosen_entity": "http://dbpedia.org/resource/Nance_County,_Nebraska",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Nance,_Jura",
+            "http://dbpedia.org/resource/Nance_County,_Nebraska"
+        ],
+        "questions": [
+            [
+                "The country of Nance is United States, and timeZone is Central. Is the Nance referring to Nance County, Nebraska?",
+                "Yes"
+            ],
+            [
+                "The country of Nance is United States, and timeZone is Central. Is the Nance referring to Nance, Jura?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Park_Township": {
+        "chosen_entity": "http://dbpedia.org/resource/Park_Township,_Pine_County,_Minnesota",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Park_Township,_Ottawa_County,_Michigan",
+            "http://dbpedia.org/resource/Park_Township,_Pine_County,_Minnesota",
+            "http://dbpedia.org/resource/Park_Township,_Sedgwick_County,_Kansas",
+            "http://dbpedia.org/resource/Park_Township,_St._Joseph_County,_Michigan"
+        ],
+        "questions": [
+            [
+                "The timezoneDst of Park Township is CDT, and timezone is North American Central Time Zone. Is the Park Township referring to Park Township, Pine County, Minnesota?",
+                "Yes"
+            ],
+            [
+                "The timezoneDst of Park Township is CDT, and timezone is North American Central Time Zone. Is the Park Township referring to Park Township, St. Joseph County, Michigan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Zardab": {
+        "chosen_entity": "http://dbpedia.org/resource/Zardan,_Zirkuh",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Zardab-e_Mohebb",
+            "http://dbpedia.org/resource/Zardab_District",
+            "http://dbpedia.org/resource/Zardan,_Zirkuh"
+        ],
+        "questions": [
+            [
+                "The country of Zardab is Iran, and timezoneDst is Iran Daylight Time. Is the Zardab referring to Zardan, Zirkuh?",
+                "Yes"
+            ],
+            [
+                "The country of Zardab is Iran, and timezoneDst is Iran Daylight Time. Is the Zardab referring to Zardab-e Mohebb?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Carmel_Valley": {
+        "chosen_entity": "http://dbpedia.org/resource/Carmel_Valley_AVA",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Carmel_Valley_AVA",
+            "http://dbpedia.org/resource/Carmel_Valley_Village,_California"
+        ],
+        "questions": [
+            [
+                "The country of Carmel Valley is United States, and location is United States. Is the Carmel Valley referring to Carmel Valley AVA?",
+                "Yes"
+            ],
+            [
+                "The country of Carmel Valley is United States, and location is United States. Is the Carmel Valley referring to Carmel Valley Village, California?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Karim_Haseleh": {
+        "chosen_entity": "http://dbpedia.org/resource/Karim_Haseleh-ye_Sofla",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Karim_Haseleh-ye_Olya",
+            "http://dbpedia.org/resource/Karim_Haseleh-ye_Sofla"
+        ],
+        "questions": [
+            [
+                "The country of Karim Haseleh is Iran, and timezoneDst is Iran Daylight Time. Is the Karim Haseleh referring to Karim Haseleh-ye Sofla?",
+                "Yes"
+            ],
+            [
+                "The country of Karim Haseleh is Iran, and timezoneDst is Iran Daylight Time. Is the Karim Haseleh referring to Karim Haseleh-ye Olya?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ali_Qeshlaqi": {
+        "chosen_entity": "http://dbpedia.org/resource/Ali_Qeshlaqi,_Ardabil",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ali_Qeshlaqi,_Ardabil",
+            "http://dbpedia.org/resource/Ali_Qeshlaqi,_East_Azerbaijan"
+        ],
+        "questions": [
+            [
+                "The country of Ali Qeshlaqi is Iran, and timezoneDst is Iran Daylight Time. Is the Ali Qeshlaqi referring to Ali Qeshlaqi, Ardabil?",
+                "Yes"
+            ],
+            [
+                "The country of Ali Qeshlaqi is Iran, and timezoneDst is Iran Daylight Time. Is the Ali Qeshlaqi referring to Ali Qeshlaqi, East Azerbaijan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Mörel": {
+        "chosen_entity": "http://dbpedia.org/resource/Mörel,_Germany",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Mörel,_Germany",
+            "http://dbpedia.org/resource/Mörel,_Switzerland"
+        ],
+        "questions": [
+            [
+                "The mayor of Mörel is Klaus-Peter Lucht, and country is Germany. Is the Mörel referring to Mörel, Germany?",
+                "Yes"
+            ],
+            [
+                "The mayor of Mörel is Klaus-Peter Lucht, and country is Germany. Is the Mörel referring to Mörel, Switzerland?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Campbell_Hill": {
+        "chosen_entity": "http://dbpedia.org/resource/Little_Bay_Islands",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Campbell_Hill,_Illinois",
+            "http://dbpedia.org/resource/Little_Bay_Islands"
+        ],
+        "questions": [
+            [
+                "The areaCode of Campbell Hill is 709, and country is Canada. Is the Campbell Hill referring to Little Bay Islands?",
+                "Yes"
+            ],
+            [
+                "The areaCode of Campbell Hill is 709, and country is Canada. Is the Campbell Hill referring to Campbell Hill, Illinois?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Mehtar": {
+        "chosen_entity": "http://dbpedia.org/resource/Mehtar,_Zanjan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Mehtar,_Lorestan",
+            "http://dbpedia.org/resource/Mehtar,_Zanjan"
+        ],
+        "questions": [
+            [
+                "The country of Mehtar is Iran, and timezoneDst is Iran Daylight Time. Is the Mehtar referring to Mehtar, Zanjan?",
+                "Yes"
+            ],
+            [
+                "The country of Mehtar is Iran, and timezoneDst is Iran Daylight Time. Is the Mehtar referring to Mehtar, Lorestan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Allenville": {
+        "chosen_entity": "http://dbpedia.org/resource/Allenville,_Wisconsin",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Allenville,_Illinois",
+            "http://dbpedia.org/resource/Allenville,_Missouri",
+            "http://dbpedia.org/resource/Allenville,_Wisconsin",
+            "http://dbpedia.org/resource/Brevort_Township,_Michigan"
+        ],
+        "questions": [
+            [
+                "The timezoneDst of Allenville is CDT, and country is United States. Is the Allenville referring to Allenville, Wisconsin?",
+                "Yes"
+            ],
+            [
+                "The timezoneDst of Allenville is CDT, and country is United States. Is the Allenville referring to Allenville, Illinois?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kordeh_Deh": {
+        "chosen_entity": "http://dbpedia.org/resource/Kordeh_Deh,_Ardabil",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kordeh_Deh,_Ardabil",
+            "http://dbpedia.org/resource/Kordeh_Deh,_East_Azerbaijan"
+        ],
+        "questions": [
+            [
+                "The country of Kordeh Deh is Iran, and timezoneDst is Iran Daylight Time. Is the Kordeh Deh referring to Kordeh Deh, Ardabil?",
+                "Yes"
+            ],
+            [
+                "The country of Kordeh Deh is Iran, and timezoneDst is Iran Daylight Time. Is the Kordeh Deh referring to Kordeh Deh, East Azerbaijan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Les_Essards": {
+        "chosen_entity": "http://dbpedia.org/resource/Les_Essards,_Charente-Maritime",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Les_Essards,_Charente-Maritime",
+            "http://dbpedia.org/resource/Les_Essards,_Charente",
+            "http://dbpedia.org/resource/Les_Essards,_Indre-et-Loire",
+            "http://dbpedia.org/resource/Les_Essards-Taignevaux"
+        ],
+        "questions": [
+            [
+                "The canton of Les Essards is Saint-Porchaire, and country is France. Is the Les Essards referring to Les Essards, Charente-Maritime?",
+                "Yes"
+            ],
+            [
+                "The canton of Les Essards is Saint-Porchaire, and country is France. Is the Les Essards referring to Les Essards, Charente?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Shahneh_Kola": {
+        "chosen_entity": "http://dbpedia.org/resource/Shahneh_Kola,_Amol",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Shahneh_Kola,_Amol",
+            "http://dbpedia.org/resource/Shahneh_Kola,_Juybar"
+        ],
+        "questions": [
+            [
+                "The country of Shahneh Kola is Iran, and timezoneDst is Iran Daylight Time. Is the Shahneh Kola referring to Shahneh Kola, Amol?",
+                "Yes"
+            ],
+            [
+                "The country of Shahneh Kola is Iran, and timezoneDst is Iran Daylight Time. Is the Shahneh Kola referring to Shahneh Kola, Juybar?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Town_Creek": {
+        "chosen_entity": "http://dbpedia.org/resource/Town_Creek,_Dallas",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Town_Creek,_Alabama",
+            "http://dbpedia.org/resource/Town_Creek,_Dallas",
+            "http://dbpedia.org/resource/Town_Creek,_Maryland",
+            "http://dbpedia.org/resource/Town_Creek_Indian_Mound"
+        ],
+        "questions": [
+            [
+                "The postalCodeType of Town Creek is ZIP code, and postalCode is 75243. Is the Town Creek referring to Town Creek, Dallas?",
+                "Yes"
+            ],
+            [
+                "The postalCodeType of Town Creek is ZIP code, and postalCode is 75243. Is the Town Creek referring to Town Creek, Maryland?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Osceola_Township": {
+        "chosen_entity": "http://dbpedia.org/resource/Osceola_Township,_Camden_County,_Missouri",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Osceola_Township,_Camden_County,_Missouri",
+            "http://dbpedia.org/resource/Osceola_Township,_Franklin_County,_Iowa",
+            "http://dbpedia.org/resource/Osceola_Township,_Houghton_County,_Michigan",
+            "http://dbpedia.org/resource/Osceola_Township,_Osceola_County,_Michigan",
+            "http://dbpedia.org/resource/Osceola_Township,_Renville_County,_Minnesota",
+            "http://dbpedia.org/resource/Osceola_Township,_Stark_County,_Illinois",
+            "http://dbpedia.org/resource/Osceola_Township,_Tioga_County,_Pennsylvania"
+        ],
+        "questions": [
+            [
+                "The timeZone of Osceola Township is North American Central Time Zone, and timezoneDst is North American Central Time Zone. Is the Osceola Township referring to Osceola Township, Camden County, Missouri?",
+                "Yes"
+            ],
+            [
+                "The timeZone of Osceola Township is North American Central Time Zone, and timezoneDst is North American Central Time Zone. Is the Osceola Township referring to Osceola Township, Houghton County, Michigan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Minneiska": {
+        "chosen_entity": "http://dbpedia.org/resource/Minneiska_Township,_Wabasha_County,_Minnesota",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Minneiska,_Minnesota",
+            "http://dbpedia.org/resource/Minneiska_Township,_Wabasha_County,_Minnesota"
+        ],
+        "questions": [
+            [
+                "The timezoneDst of Minneiska is CDT, and timezone is North American Central Time Zone. Is the Minneiska referring to Minneiska Township, Wabasha County, Minnesota?",
+                "Yes"
+            ],
+            [
+                "The timezoneDst of Minneiska is CDT, and timezone is North American Central Time Zone. Is the Minneiska referring to Minneiska, Minnesota?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Pozm": {
+        "chosen_entity": "http://dbpedia.org/resource/Pozm-e_Machchan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Pozm-e_Machchan",
+            "http://dbpedia.org/resource/Pozm-e_Tiab"
+        ],
+        "questions": [
+            [
+                "The country of Pozm is Iran, and timezoneDst is Iran Daylight Time. Is the Pozm referring to Pozm-e Machchan?",
+                "Yes"
+            ],
+            [
+                "The country of Pozm is Iran, and timezoneDst is Iran Daylight Time. Is the Pozm referring to Pozm-e Tiab?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Vauchamps": {
+        "chosen_entity": "http://dbpedia.org/resource/Vauchamps,_Marne",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Vauchamps,_Doubs",
+            "http://dbpedia.org/resource/Vauchamps,_Marne"
+        ],
+        "questions": [
+            [
+                "The country of Vauchamps is France, and postalCode is 51210. Is the Vauchamps referring to Vauchamps, Marne?",
+                "Yes"
+            ],
+            [
+                "The country of Vauchamps is France, and postalCode is 51210. Is the Vauchamps referring to Vauchamps, Doubs?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Talkh": {
+        "chosen_entity": "http://dbpedia.org/resource/Talkh-e_Ataher",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Estakhr,_Razavi_Khorasan",
+            "http://dbpedia.org/resource/Talkh-e_Ataher"
+        ],
+        "questions": [
+            [
+                "The country of Talkh is Iran, and timezoneDst is Iran Daylight Time. Is the Talkh referring to Talkh-e Ataher?",
+                "Yes"
+            ],
+            [
+                "The country of Talkh is Iran, and timezoneDst is Iran Daylight Time. Is the Talkh referring to Estakhr, Razavi Khorasan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kashkak": {
+        "chosen_entity": "http://dbpedia.org/resource/Kashkak,_Lorestan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kashkak,_Lorestan",
+            "http://dbpedia.org/resource/Kashkak,_Mazandaran",
+            "http://dbpedia.org/resource/Kashkak,_Razavi_Khorasan"
+        ],
+        "questions": [
+            [
+                "The country of Kashkak is Iran, and timezoneDst is Iran Daylight Time. Is the Kashkak referring to Kashkak, Lorestan?",
+                "Yes"
+            ],
+            [
+                "The country of Kashkak is Iran, and timezoneDst is Iran Daylight Time. Is the Kashkak referring to Kashkak, Razavi Khorasan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Burnaby": {
+        "chosen_entity": "http://dbpedia.org/resource/Burnaby_Island",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Burnaby_Island",
+            "http://dbpedia.org/resource/Burnaby_Range"
+        ],
+        "questions": [
+            [
+                "The location of Burnaby is British Columbia Coast, and country is Canada. Is the Burnaby referring to Burnaby Island?",
+                "Yes"
+            ],
+            [
+                "The location of Burnaby is British Columbia Coast, and country is Canada. Is the Burnaby referring to Burnaby Range?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Rembercourt": {
+        "chosen_entity": "http://dbpedia.org/resource/Rembercourt-Sommaisne",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Rembercourt-Sommaisne",
+            "http://dbpedia.org/resource/Rembercourt-sur-Mad"
+        ],
+        "questions": [
+            [
+                "The country of Rembercourt is France, and inseeCode is 55423. Is the Rembercourt referring to Rembercourt-Sommaisne?",
+                "Yes"
+            ],
+            [
+                "The country of Rembercourt is France, and inseeCode is 55423. Is the Rembercourt referring to Rembercourt-sur-Mad?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Said_Kandi": {
+        "chosen_entity": "http://dbpedia.org/resource/Said_Kandi,_Zanjan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Said_Kandi,_Mahneshan",
+            "http://dbpedia.org/resource/Said_Kandi,_Zanjan"
+        ],
+        "questions": [
+            [
+                "The country of Said Kandi is Iran, and timezoneDst is Iran Daylight Time. Is the Said Kandi referring to Said Kandi, Zanjan?",
+                "Yes"
+            ],
+            [
+                "The country of Said Kandi is Iran, and timezoneDst is Iran Daylight Time. Is the Said Kandi referring to Said Kandi, Mahneshan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Lowick": {
+        "chosen_entity": "http://dbpedia.org/resource/Lowick,_Northumberland",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Lowick,_Cumbria",
+            "http://dbpedia.org/resource/Lowick,_Northamptonshire",
+            "http://dbpedia.org/resource/Lowick,_Northumberland"
+        ],
+        "questions": [
+            [
+                "The postalCode of Lowick is TD15, and areaCode is 01289. Is the Lowick referring to Lowick, Northumberland?",
+                "Yes"
+            ],
+            [
+                "The postalCode of Lowick is TD15, and areaCode is 01289. Is the Lowick referring to Lowick, Northamptonshire?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Daqiao": {
+        "chosen_entity": "http://dbpedia.org/resource/Daqiao,_Hejiang_County",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Daqiao,_Binyang_County",
+            "http://dbpedia.org/resource/Daqiao,_Dingyuan_County",
+            "http://dbpedia.org/resource/Daqiao,_Dong'e_County",
+            "http://dbpedia.org/resource/Daqiao,_Fujian",
+            "http://dbpedia.org/resource/Daqiao,_Gansu",
+            "http://dbpedia.org/resource/Daqiao,_Ganzhou",
+            "http://dbpedia.org/resource/Daqiao,_Hejiang_County",
+            "http://dbpedia.org/resource/Daqiao,_Jiangshan",
+            "http://dbpedia.org/resource/Daqiao,_Jiaxing",
+            "http://dbpedia.org/resource/Daqiao,_Luchuan_County",
+            "http://dbpedia.org/resource/Daqiao,_Maoming",
+            "http://dbpedia.org/resource/Daqiao,_Mianning_County",
+            "http://dbpedia.org/resource/Daqiao,_Nanbu_County",
+            "http://dbpedia.org/resource/Daqiao,_Pingwu_County",
+            "http://dbpedia.org/resource/Daqiao,_Renhua_County",
+            "http://dbpedia.org/resource/Daqiao,_Ruyuan_County",
+            "http://dbpedia.org/resource/Daqiao,_Xiushui_County",
+            "http://dbpedia.org/resource/Daqiao,_Yancheng",
+            "http://dbpedia.org/resource/Daqiao,_Yangzhou",
+            "http://dbpedia.org/resource/Daqiao_Subdistrict,_Anqing",
+            "http://dbpedia.org/resource/Daqiao_Subdistrict,_Jinan",
+            "http://dbpedia.org/resource/Daqiao_Subdistrict,_Shanghai",
+            "http://dbpedia.org/resource/Daqiao_Subdistrict,_Zhangshu",
+            "http://dbpedia.org/resource/Daqiao_Township,_Huize_County",
+            "http://dbpedia.org/resource/Daqiao_Township,_Jilin",
+            "http://dbpedia.org/resource/Daqiao_Township,_Neixiang_County",
+            "http://dbpedia.org/resource/Daqiao_Township,_Shiping_County",
+            "http://dbpedia.org/resource/Daqiao_Township,_Weishi_County",
+            "http://dbpedia.org/resource/Daqiao_Township,_Xinjiang",
+            "http://dbpedia.org/resource/Daqiao_Yao_Ethnic_Township"
+        ],
+        "questions": [
+            [
+                "The postalCodeType of Daqiao is List of postal codes in China, and timezone is China Standard Time. Is the Daqiao referring to Daqiao, Hejiang County?",
+                "Yes"
+            ],
+            [
+                "The postalCodeType of Daqiao is List of postal codes in China, and timezone is China Standard Time. Is the Daqiao referring to Daqiao Subdistrict, Zhangshu?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Manoora": {
+        "chosen_entity": "http://dbpedia.org/resource/Manoora,_South_Australia",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Manoora,_Queensland",
+            "http://dbpedia.org/resource/Manoora,_South_Australia"
+        ],
+        "questions": [
+            [
+                "The country of Manoora is Australia, and postcode is 5414. Is the Manoora referring to Manoora, South Australia?",
+                "Yes"
+            ],
+            [
+                "The country of Manoora is Australia, and postcode is 5414. Is the Manoora referring to Manoora, Queensland?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Beckville": {
+        "chosen_entity": "http://dbpedia.org/resource/Beckville,_Minnesota",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Beckville,_Indiana",
+            "http://dbpedia.org/resource/Beckville,_Minnesota",
+            "http://dbpedia.org/resource/Beckville,_Texas"
+        ],
+        "questions": [
+            [
+                "The postalCode of Beckville is 55355, and areaCode is 320. Is the Beckville referring to Beckville, Minnesota?",
+                "Yes"
+            ],
+            [
+                "The postalCode of Beckville is 55355, and areaCode is 320. Is the Beckville referring to Beckville, Indiana?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Naqiabad": {
+        "chosen_entity": "http://dbpedia.org/resource/Naqiabad,_Golestan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Naqiabad,_Golestan",
+            "http://dbpedia.org/resource/Naqiabad,_North_Khorasan",
+            "http://dbpedia.org/resource/Naqiabad-e_Nadar"
+        ],
+        "questions": [
+            [
+                "The country of Naqiabad is Iran, and timezoneDst is Iran Daylight Time. Is the Naqiabad referring to Naqiabad, Golestan?",
+                "Yes"
+            ],
+            [
+                "The country of Naqiabad is Iran, and timezoneDst is Iran Daylight Time. Is the Naqiabad referring to Naqiabad-e Nadar?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Aisey": {
+        "chosen_entity": "http://dbpedia.org/resource/Aisey-sur-Seine",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Aisey-et-Richecourt",
+            "http://dbpedia.org/resource/Aisey-sur-Seine"
+        ],
+        "questions": [
+            [
+                "The inseeCode of Aisey is 21006, and country is France. Is the Aisey referring to Aisey-sur-Seine?",
+                "Yes"
+            ],
+            [
+                "The inseeCode of Aisey is 21006, and country is France. Is the Aisey referring to Aisey-et-Richecourt?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kur": {
+        "chosen_entity": "http://dbpedia.org/resource/Kor,_East_Azerbaijan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kor,_East_Azerbaijan",
+            "http://dbpedia.org/resource/Kor-e_Sofla",
+            "http://dbpedia.org/resource/Kur,_Iran",
+            "http://dbpedia.org/resource/Kur,_Rajasthan",
+            "http://dbpedia.org/resource/Kur_Island"
+        ],
+        "questions": [
+            [
+                "The country of Kur is Iran, and timezoneDst is Iran Daylight Time. Is the Kur referring to Kor, East Azerbaijan?",
+                "Yes"
+            ],
+            [
+                "The country of Kur is Iran, and timezoneDst is Iran Daylight Time. Is the Kur referring to Kur, Rajasthan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Hot_Springs,_California": {
+        "chosen_entity": "http://dbpedia.org/resource/Boyes_Hot_Springs,_California",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Boyes_Hot_Springs,_California",
+            "http://dbpedia.org/resource/Desert_Hot_Springs,_California"
+        ],
+        "questions": [
+            [
+                "The areaCode of Hot Springs, California is 707, and country is United States. Is the Hot Springs, California referring to Boyes Hot Springs, California?",
+                "Yes"
+            ],
+            [
+                "The areaCode of Hot Springs, California is 707, and country is United States. Is the Hot Springs, California referring to Desert Hot Springs, California?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Lindenhurst": {
+        "chosen_entity": "http://dbpedia.org/resource/Lindenhurst,_Illinois",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Lindenhurst,_Illinois",
+            "http://dbpedia.org/resource/Lindenhurst,_New_York"
+        ],
+        "questions": [
+            [
+                "The timeZone of Lindenhurst is North American Central Time Zone, and postalCode is 60046. Is the Lindenhurst referring to Lindenhurst, Illinois?",
+                "Yes"
+            ],
+            [
+                "The timeZone of Lindenhurst is North American Central Time Zone, and postalCode is 60046. Is the Lindenhurst referring to Lindenhurst, New York?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Boat_Harbour": {
+        "chosen_entity": "http://dbpedia.org/resource/Boat_Harbour_Beach",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Boat_Harbour,_New_South_Wales",
+            "http://dbpedia.org/resource/Boat_Harbour_Beach"
+        ],
+        "questions": [
+            [
+                "The postcode of Boat Harbour is 7321, and country is Australia. Is the Boat Harbour referring to Boat Harbour Beach?",
+                "Yes"
+            ],
+            [
+                "The postcode of Boat Harbour is 7321, and country is Australia. Is the Boat Harbour referring to Boat Harbour, New South Wales?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Tangra": {
+        "chosen_entity": "http://dbpedia.org/resource/Tangra,_Kolkata",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Tangra,_Kolkata",
+            "http://dbpedia.org/resource/Tangra_Mountains"
+        ],
+        "questions": [
+            [
+                "The timezone of Tangra is IST, and postalCodeType is PIN. Is the Tangra referring to Tangra, Kolkata?",
+                "Yes"
+            ],
+            [
+                "The timezone of Tangra is IST, and postalCodeType is PIN. Is the Tangra referring to Tangra Mountains?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Michiana": {
+        "chosen_entity": "http://dbpedia.org/resource/Michiana,_Michigan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Michiana,_Michigan",
+            "http://dbpedia.org/resource/Michiana_Shores,_Indiana"
+        ],
+        "questions": [
+            [
+                "The timezoneDst of Michiana is EDT, and postalCode is 49117. Is the Michiana referring to Michiana, Michigan?",
+                "Yes"
+            ],
+            [
+                "The timezoneDst of Michiana is EDT, and postalCode is 49117. Is the Michiana referring to Michiana Shores, Indiana?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Las_Mercedes": {
+        "chosen_entity": "http://dbpedia.org/resource/Las_Mercedes_Municipality",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Las_Mercedes,_Caracas",
+            "http://dbpedia.org/resource/Las_Mercedes_Municipality"
+        ],
+        "questions": [
+            [
+                "The timezone of Las Mercedes is Venezuelan Standard Time Zone, and timeZone is Venezuelan Standard Time Zone. Is the Las Mercedes referring to Las Mercedes Municipality?",
+                "Yes"
+            ],
+            [
+                "The timezone of Las Mercedes is Venezuelan Standard Time Zone, and timeZone is Venezuelan Standard Time Zone. Is the Las Mercedes referring to Las Mercedes, Caracas?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Harby": {
+        "chosen_entity": "http://dbpedia.org/resource/Harby,_Nottinghamshire",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Harby,_Leicestershire",
+            "http://dbpedia.org/resource/Harby,_Nottinghamshire"
+        ],
+        "questions": [
+            [
+                "The areaCode of Harby is 01522, and postalCode is NG23. Is the Harby referring to Harby, Nottinghamshire?",
+                "Yes"
+            ],
+            [
+                "The areaCode of Harby is 01522, and postalCode is NG23. Is the Harby referring to Harby, Leicestershire?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Jahangirabad": {
+        "chosen_entity": "http://dbpedia.org/resource/Goruk_Kandi",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Goruk_Kandi",
+            "http://dbpedia.org/resource/Jahangirabad,_Ilam",
+            "http://dbpedia.org/resource/Jahangirabad,_Lorestan",
+            "http://dbpedia.org/resource/Jahangirabad_Raj"
+        ],
+        "questions": [
+            [
+                "The country of Jahangirabad is Iran, and timezoneDst is Iran Daylight Time. Is the Jahangirabad referring to Goruk Kandi?",
+                "Yes"
+            ],
+            [
+                "The country of Jahangirabad is Iran, and timezoneDst is Iran Daylight Time. Is the Jahangirabad referring to Jahangirabad, Lorestan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Rashk-e_Sofla": {
+        "chosen_entity": "http://dbpedia.org/resource/Rashk-e_Sofla,_Kerman",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Rashk-e_Sofla,_Fars",
+            "http://dbpedia.org/resource/Rashk-e_Sofla,_Kerman"
+        ],
+        "questions": [
+            [
+                "The country of Rashk-e Sofla is Iran, and timezoneDst is Iran Daylight Time. Is the Rashk-e Sofla referring to Rashk-e Sofla, Kerman?",
+                "Yes"
+            ],
+            [
+                "The country of Rashk-e Sofla is Iran, and timezoneDst is Iran Daylight Time. Is the Rashk-e Sofla referring to Rashk-e Sofla, Fars?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bolleville": {
+        "chosen_entity": "http://dbpedia.org/resource/Bolleville,_Seine-Maritime",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bolleville,_Manche",
+            "http://dbpedia.org/resource/Bolleville,_Seine-Maritime"
+        ],
+        "questions": [
+            [
+                "The postalCode of Bolleville is 76210, and canton is Port-Jérôme-sur-Seine. Is the Bolleville referring to Bolleville, Seine-Maritime?",
+                "Yes"
+            ],
+            [
+                "The postalCode of Bolleville is 76210, and canton is Port-Jérôme-sur-Seine. Is the Bolleville referring to Bolleville, Manche?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Shiawassee": {
+        "chosen_entity": "http://dbpedia.org/resource/Shiawassee_Township,_Michigan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Shiawassee_County,_Michigan",
+            "http://dbpedia.org/resource/Shiawassee_National_Wildlife_Refuge",
+            "http://dbpedia.org/resource/Shiawassee_Township,_Michigan"
+        ],
+        "questions": [
+            [
+                "The timezoneDst of Shiawassee is EDT, and postalCodeType is ZIP Code. Is the Shiawassee referring to Shiawassee Township, Michigan?",
+                "Yes"
+            ],
+            [
+                "The timezoneDst of Shiawassee is EDT, and postalCodeType is ZIP Code. Is the Shiawassee referring to Shiawassee County, Michigan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kamangar_Kola": {
+        "chosen_entity": "http://dbpedia.org/resource/Kamangar_Kola,_Qaem_Shahr",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kamangar_Kola,_Amol",
+            "http://dbpedia.org/resource/Kamangar_Kola,_Dabudasht",
+            "http://dbpedia.org/resource/Kamangar_Kola,_Qaem_Shahr"
+        ],
+        "questions": [
+            [
+                "The country of Kamangar Kola is Iran, and timezoneDst is Iran Daylight Time. Is the Kamangar Kola referring to Kamangar Kola, Qaem Shahr?",
+                "Yes"
+            ],
+            [
+                "The country of Kamangar Kola is Iran, and timezoneDst is Iran Daylight Time. Is the Kamangar Kola referring to Kamangar Kola, Amol?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Greetwell": {
+        "chosen_entity": "http://dbpedia.org/resource/Scawby",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Greetwell,_West_Lindsey",
+            "http://dbpedia.org/resource/Scawby"
+        ],
+        "questions": [
+            [
+                "The region of Greetwell is Yorkshire and the Humber, and postalCode is DN20. Is the Greetwell referring to Scawby?",
+                "Yes"
+            ],
+            [
+                "The region of Greetwell is Yorkshire and the Humber, and postalCode is DN20. Is the Greetwell referring to Greetwell, West Lindsey?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Agency_Township": {
+        "chosen_entity": "http://dbpedia.org/resource/Agency_Township,_Osage_County,_Kansas",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Agency_Township,_Osage_County,_Kansas",
+            "http://dbpedia.org/resource/Agency_Township,_Roberts_County,_South_Dakota"
+        ],
+        "questions": [
+            [
+                "The timezoneDst of Agency Township is CDT, and timezone is North American Central Time Zone. Is the Agency Township referring to Agency Township, Osage County, Kansas?",
+                "Yes"
+            ],
+            [
+                "The timezoneDst of Agency Township is CDT, and timezone is North American Central Time Zone. Is the Agency Township referring to Agency Township, Roberts County, South Dakota?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Valgu": {
+        "chosen_entity": "http://dbpedia.org/resource/Valgu,_Hiiu_County",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Valgu,_Hiiu_County",
+            "http://dbpedia.org/resource/Valgu,_Rapla_County"
+        ],
+        "questions": [
+            [
+                "The country of Valgu is Estonia, and timezoneDst is Eastern European Summer Time. Is the Valgu referring to Valgu, Hiiu County?",
+                "Yes"
+            ],
+            [
+                "The country of Valgu is Estonia, and timezoneDst is Eastern European Summer Time. Is the Valgu referring to Valgu, Rapla County?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Neufchâtel": {
+        "chosen_entity": "http://dbpedia.org/resource/Quebec_City",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Neufchâtel-Hardelot",
+            "http://dbpedia.org/resource/Neufchâtel-en-Bray",
+            "http://dbpedia.org/resource/Neufchâtel-sur-Aisne",
+            "http://dbpedia.org/resource/Quebec_City"
+        ],
+        "questions": [
+            [
+                "The timezone of Neufchâtel is Eastern Time Zone, and timezoneDst is EDT. Is the Neufchâtel referring to Quebec City?",
+                "Yes"
+            ],
+            [
+                "The timezone of Neufchâtel is Eastern Time Zone, and timezoneDst is EDT. Is the Neufchâtel referring to Neufchâtel-Hardelot?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Abrak": {
+        "chosen_entity": "http://dbpedia.org/resource/Abrak-e_Azhgil",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Abrak-e_Azhgil",
+            "http://dbpedia.org/resource/Abrak-e_Do",
+            "http://dbpedia.org/resource/Abrak-e_Yek"
+        ],
+        "questions": [
+            [
+                "The country of Abrak is Iran, and timezoneDst is Iran Daylight Time. Is the Abrak referring to Abrak-e Azhgil?",
+                "Yes"
+            ],
+            [
+                "The country of Abrak is Iran, and timezoneDst is Iran Daylight Time. Is the Abrak referring to Abrak-e Yek?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Larbaa": {
+        "chosen_entity": "http://dbpedia.org/resource/Larbaâ,_Batna",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Larbaa,_Tissemsilt",
+            "http://dbpedia.org/resource/Larbaâ,_Batna",
+            "http://dbpedia.org/resource/Larbaâ,_Blida"
+        ],
+        "questions": [
+            [
+                "The timezone of Larbaa is West Africa Time, and timeZone is West Africa Time. Is the Larbaa referring to Larbaâ, Batna?",
+                "Yes"
+            ],
+            [
+                "The timezone of Larbaa is West Africa Time, and timeZone is West Africa Time. Is the Larbaa referring to Larbaa, Tissemsilt?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Badarpur": {
+        "chosen_entity": "http://dbpedia.org/resource/Badarpur,_Bangladesh",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Badalpur,_Gautam_Buddh_Nagar",
+            "http://dbpedia.org/resource/Badarpur,_Assam",
+            "http://dbpedia.org/resource/Badarpur,_Bangladesh",
+            "http://dbpedia.org/resource/Badarpur,_Delhi",
+            "http://dbpedia.org/resource/Badarpur,_Gujarat",
+            "http://dbpedia.org/resource/Badarpur_Railway_Town"
+        ],
+        "questions": [
+            [
+                "The postalCode of Badarpur is 8601, and country is Bangladesh. Is the Badarpur referring to Badarpur, Bangladesh?",
+                "Yes"
+            ],
+            [
+                "The postalCode of Badarpur is 8601, and country is Bangladesh. Is the Badarpur referring to Badarpur, Assam?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Littleworth": {
+        "chosen_entity": "http://dbpedia.org/resource/Rossington",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Littleworth,_South_Bucks",
+            "http://dbpedia.org/resource/Littleworth,_South_Oxfordshire",
+            "http://dbpedia.org/resource/Littleworth,_Vale_of_White_Horse",
+            "http://dbpedia.org/resource/Littleworth,_Worcestershire",
+            "http://dbpedia.org/resource/Milton_Lilbourne",
+            "http://dbpedia.org/resource/Rossington"
+        ],
+        "questions": [
+            [
+                "The postalCode of Littleworth is DN11, and region is Yorkshire and the Humber. Is the Littleworth referring to Rossington?",
+                "Yes"
+            ],
+            [
+                "The postalCode of Littleworth is DN11, and region is Yorkshire and the Humber. Is the Littleworth referring to Littleworth, South Bucks?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kishoreganj": {
+        "chosen_entity": "http://dbpedia.org/resource/Kishoreganj_Sadar_Upazila",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kishoreganj_District",
+            "http://dbpedia.org/resource/Kishoreganj_Sadar_Upazila",
+            "http://dbpedia.org/resource/Kishoreganj_Upazila"
+        ],
+        "questions": [
+            [
+                "The country of Kishoreganj is Bangladesh, and timezone is Bangladesh Standard Time. Is the Kishoreganj referring to Kishoreganj Sadar Upazila?",
+                "Yes"
+            ],
+            [
+                "The country of Kishoreganj is Bangladesh, and timezone is Bangladesh Standard Time. Is the Kishoreganj referring to Kishoreganj District?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Rompicherla": {
+        "chosen_entity": "http://dbpedia.org/resource/Rompicherla,_Guntur_district",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Rompicherla,_Chittoor_district",
+            "http://dbpedia.org/resource/Rompicherla,_Guntur_district"
+        ],
+        "questions": [
+            [
+                "The areaCode of Rompicherla is +91–, and timezone is Indian Standard Time. Is the Rompicherla referring to Rompicherla, Guntur district?",
+                "Yes"
+            ],
+            [
+                "The areaCode of Rompicherla is +91–, and timezone is Indian Standard Time. Is the Rompicherla referring to Rompicherla, Chittoor district?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Khanjarabad": {
+        "chosen_entity": "http://dbpedia.org/resource/Khanjarabad,_Hamadan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Khanjarabad,_Hamadan",
+            "http://dbpedia.org/resource/Khanjarabad,_Kermanshah"
+        ],
+        "questions": [
+            [
+                "The country of Khanjarabad is Iran, and timezoneDst is Iran Daylight Time. Is the Khanjarabad referring to Khanjarabad, Hamadan?",
+                "Yes"
+            ],
+            [
+                "The country of Khanjarabad is Iran, and timezoneDst is Iran Daylight Time. Is the Khanjarabad referring to Khanjarabad, Kermanshah?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Hancock_Township": {
+        "chosen_entity": "http://dbpedia.org/resource/Hancock_Township,_Hancock_County,_Illinois",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Hancock_Township,_Carver_County,_Minnesota",
+            "http://dbpedia.org/resource/Hancock_Township,_Hancock_County,_Illinois",
+            "http://dbpedia.org/resource/Hancock_Township,_Michigan"
+        ],
+        "questions": [
+            [
+                "The timeZone of Hancock Township is North American Central Time Zone, and timezoneDst is North American Central Time Zone. Is the Hancock Township referring to Hancock Township, Hancock County, Illinois?",
+                "Yes"
+            ],
+            [
+                "The timeZone of Hancock Township is North American Central Time Zone, and timezoneDst is North American Central Time Zone. Is the Hancock Township referring to Hancock Township, Michigan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kuheh": {
+        "chosen_entity": "http://dbpedia.org/resource/Kuheh-ye_Do",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kohuiyeh",
+            "http://dbpedia.org/resource/Kuheh-ye_Do",
+            "http://dbpedia.org/resource/Kuheh-ye_Yek",
+            "http://dbpedia.org/resource/Qaheh"
+        ],
+        "questions": [
+            [
+                "The country of Kuheh is Iran, and timezoneDst is Iran Daylight Time. Is the Kuheh referring to Kuheh-ye Do?",
+                "Yes"
+            ],
+            [
+                "The country of Kuheh is Iran, and timezoneDst is Iran Daylight Time. Is the Kuheh referring to Kohuiyeh?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bhagawatipur": {
+        "chosen_entity": "http://dbpedia.org/resource/Bhagawatipur,_Sarlahi",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bhagawatipur,_Sarlahi",
+            "http://dbpedia.org/resource/Bhagawatipur,_Siraha"
+        ],
+        "questions": [
+            [
+                "The timezone of Bhagawatipur is Nepal Time, and timeZone is Nepal Time. Is the Bhagawatipur referring to Bhagawatipur, Sarlahi?",
+                "Yes"
+            ],
+            [
+                "The timezone of Bhagawatipur is Nepal Time, and timeZone is Nepal Time. Is the Bhagawatipur referring to Bhagawatipur, Siraha?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Doluca": {
+        "chosen_entity": "http://dbpedia.org/resource/Doluca,_Gümüşhacıköy",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Doluca,_Batman",
+            "http://dbpedia.org/resource/Doluca,_Gümüşhacıköy",
+            "http://dbpedia.org/resource/Doluca,_Kahta"
+        ],
+        "questions": [
+            [
+                "The country of Doluca is Turkey, and timezoneDst is Eastern European Summer Time. Is the Doluca referring to Doluca, Gümüşhacıköy?",
+                "Yes"
+            ],
+            [
+                "The country of Doluca is Turkey, and timezoneDst is Eastern European Summer Time. Is the Doluca referring to Doluca, Kahta?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Abrahámovce": {
+        "chosen_entity": "http://dbpedia.org/resource/Abrahámovce,_Kežmarok_District",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Abrahámovce,_Bardejov_District",
+            "http://dbpedia.org/resource/Abrahámovce,_Kežmarok_District"
+        ],
+        "questions": [
+            [
+                "The areaCode of Abrahámovce is +421 52, and postalCodeType is Postal code. Is the Abrahámovce referring to Abrahámovce, Kežmarok District?",
+                "Yes"
+            ],
+            [
+                "The areaCode of Abrahámovce is +421 52, and postalCodeType is Postal code. Is the Abrahámovce referring to Abrahámovce, Bardejov District?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Warren_Township": {
+        "chosen_entity": "http://dbpedia.org/resource/Warren_Township,_Putnam_County,_Indiana",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Warren_Township,_Belmont_County,_Ohio",
+            "http://dbpedia.org/resource/Warren_Township,_Bremer_County,_Iowa",
+            "http://dbpedia.org/resource/Warren_Township,_Franklin_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Warren_Township,_Jefferson_County,_Ohio",
+            "http://dbpedia.org/resource/Warren_Township,_Jo_Daviess_County,_Illinois",
+            "http://dbpedia.org/resource/Warren_Township,_Lake_County,_Illinois",
+            "http://dbpedia.org/resource/Warren_Township,_Michigan",
+            "http://dbpedia.org/resource/Warren_Township,_New_Jersey",
+            "http://dbpedia.org/resource/Warren_Township,_Putnam_County,_Indiana",
+            "http://dbpedia.org/resource/Warren_Township,_St._Joseph_County,_Indiana",
+            "http://dbpedia.org/resource/Warren_Township,_Story_County,_Iowa",
+            "http://dbpedia.org/resource/Warren_Township,_Trumbull_County,_Ohio",
+            "http://dbpedia.org/resource/Warren_Township,_Tuscarawas_County,_Ohio",
+            "http://dbpedia.org/resource/Warren_Township,_Warren_County,_Indiana",
+            "http://dbpedia.org/resource/Warren_Township,_Washington_County,_Ohio",
+            "http://dbpedia.org/resource/Warren_Township,_Winona_County,_Minnesota"
+        ],
+        "questions": [
+            [
+                "The timezone of Warren Township is Eastern Time Zone, and timezoneDst is EDT. Is the Warren Township referring to Warren Township, Putnam County, Indiana?",
+                "Yes"
+            ],
+            [
+                "The timezone of Warren Township is Eastern Time Zone, and timezoneDst is EDT. Is the Warren Township referring to Warren Township, Lake County, Illinois?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Qəzli": {
+        "chosen_entity": "http://dbpedia.org/resource/Qəzli,_Sabirabad",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Qəzli,_Ismailli",
+            "http://dbpedia.org/resource/Qəzli,_Sabirabad"
+        ],
+        "questions": [
+            [
+                "The country of Qəzli is Azerbaijan, and utcOffsetDst is +5. Is the Qəzli referring to Qəzli, Sabirabad?",
+                "Yes"
+            ],
+            [
+                "The country of Qəzli is Azerbaijan, and utcOffsetDst is +5. Is the Qəzli referring to Qəzli, Ismailli?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kamachal": {
+        "chosen_entity": "http://dbpedia.org/resource/Kamachal-e_Bala_Mahalleh",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kamachal-e_Bala_Mahalleh",
+            "http://dbpedia.org/resource/Kamachal-e_Pain_Mahalleh"
+        ],
+        "questions": [
+            [
+                "The country of Kamachal is Iran, and timezoneDst is Iran Daylight Time. Is the Kamachal referring to Kamachal-e Bala Mahalleh?",
+                "Yes"
+            ],
+            [
+                "The country of Kamachal is Iran, and timezoneDst is Iran Daylight Time. Is the Kamachal referring to Kamachal-e Pain Mahalleh?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bradford_Village_Historic_District": {
+        "chosen_entity": "http://dbpedia.org/resource/Bradford_(CDP),_Vermont",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bradford,_Rhode_Island",
+            "http://dbpedia.org/resource/Bradford_(CDP),_Vermont"
+        ],
+        "questions": [
+            [
+                "The timezoneDst of Bradford Village Historic District is EDT, and postalCodeType is ZIP code. Is the Bradford Village Historic District referring to Bradford (CDP), Vermont?",
+                "Yes"
+            ],
+            [
+                "The timezoneDst of Bradford Village Historic District is EDT, and postalCodeType is ZIP code. Is the Bradford Village Historic District referring to Bradford, Rhode Island?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Mahmudlu": {
+        "chosen_entity": "http://dbpedia.org/resource/Üçüncü_Mahmudlu",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Birinci_Mahmudlu",
+            "http://dbpedia.org/resource/Mahmudlu,_Jabrayil",
+            "http://dbpedia.org/resource/Mahmudlu,_Qubadli",
+            "http://dbpedia.org/resource/Mahmudlu,_Shamkir",
+            "http://dbpedia.org/resource/Üçüncü_Mahmudlu",
+            "http://dbpedia.org/resource/İkinci_Mahmudlu"
+        ],
+        "questions": [
+            [
+                "The country of Mahmudlu is Azerbaijan, and timeZone is Azerbaijan Time. Is the Mahmudlu referring to Üçüncü Mahmudlu?",
+                "Yes"
+            ],
+            [
+                "The country of Mahmudlu is Azerbaijan, and timeZone is Azerbaijan Time. Is the Mahmudlu referring to Mahmudlu, Qubadli?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Deh-e_Miran": {
+        "chosen_entity": "http://dbpedia.org/resource/Deh-e_Miran,_Khuzestan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Deh-e_Miran,_Khuzestan",
+            "http://dbpedia.org/resource/Deh-e_Miran,_Sistan_and_Baluchestan"
+        ],
+        "questions": [
+            [
+                "The country of Deh-e Miran is Iran, and timezoneDst is Iran Daylight Time. Is the Deh-e Miran referring to Deh-e Miran, Khuzestan?",
+                "Yes"
+            ],
+            [
+                "The country of Deh-e Miran is Iran, and timezoneDst is Iran Daylight Time. Is the Deh-e Miran referring to Deh-e Miran, Sistan and Baluchestan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Henderson_Township": {
+        "chosen_entity": "http://dbpedia.org/resource/Henderson_Township,_Sibley_County,_Minnesota",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Henderson_Township,_Huntingdon_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Henderson_Township,_Jefferson_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Henderson_Township,_Knox_County,_Illinois",
+            "http://dbpedia.org/resource/Henderson_Township,_Michigan",
+            "http://dbpedia.org/resource/Henderson_Township,_Sibley_County,_Minnesota"
+        ],
+        "questions": [
+            [
+                "The timeZone of Henderson Township is North American Central Time Zone, and areaCode is 507. Is the Henderson Township referring to Henderson Township, Sibley County, Minnesota?",
+                "Yes"
+            ],
+            [
+                "The timeZone of Henderson Township is North American Central Time Zone, and areaCode is 507. Is the Henderson Township referring to Henderson Township, Michigan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Qara_Deh": {
+        "chosen_entity": "http://dbpedia.org/resource/Qarah_Din",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Qarah_Day",
+            "http://dbpedia.org/resource/Qarah_Din"
+        ],
+        "questions": [
+            [
+                "The country of Qara Deh is Iran, and timezoneDst is Iran Daylight Time. Is the Qara Deh referring to Qarah Din?",
+                "Yes"
+            ],
+            [
+                "The country of Qara Deh is Iran, and timezoneDst is Iran Daylight Time. Is the Qara Deh referring to Qarah Day?",
+                "No"
+            ]
+        ]
+    }
+}

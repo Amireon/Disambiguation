@@ -1,0 +1,1002 @@
+{
+    "http://dbpedia.org/resource/Ellendale": {
+        "qa": [
+            "The postalCode of Ellendale is 19941, and areaCode is 302. The postalCodeType of Ellendale is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The utcOffsetDst of Ellendale is &minus;4.",
+            "The timeZone of Ellendale is North American Eastern Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Rockford_Township": {
+        "qa": [
+            "The postalCodeType of Rockford Township is ZIP Codes, and timezone is North American Central Time Zone. The timezoneDst of Rockford Township is __ .",
+            "North American Central Time Zone"
+        ],
+        "additionals": [
+            "The timeZone of Rockford Township is North American Central Time Zone.",
+            "The country of Rockford Township is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/San_Marino": {
+        "qa": [
+            "The postalCodeType of San Marino is Postal code, and postalCode is RSM-47890. The timezone of San Marino is __ .",
+            "CET"
+        ],
+        "additionals": [
+            "The country of San Marino is San Marino.",
+            "The timezoneDst of San Marino is CEST."
+        ]
+    },
+    "http://dbpedia.org/resource/Bucey": {
+        "qa": [
+            "The mayor of Bucey is Pascal Desrousseaux, and canton is Aix-Villemaur-Pâlis. The postalCode of Bucey is __ .",
+            "10190"
+        ],
+        "additionals": [
+            "The country of Bucey is France.",
+            "The inseeCode of Bucey is 10066."
+        ]
+    },
+    "http://dbpedia.org/resource/Perrine": {
+        "qa": [
+            "The utcOffsetDst of Perrine is -4, and timezoneDst is EDT. The timezone of Perrine is __ .",
+            "North American Eastern Time Zone"
+        ],
+        "additionals": [
+            "The country of Perrine is United States.",
+            "The timeZone of Perrine is North American Eastern Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Inwood": {
+        "qa": [
+            "The areaCode of Inwood is 906, and postalCodeType is ZIP Code. The timezone of Inwood is __ .",
+            "North American Eastern Time Zone"
+        ],
+        "additionals": [
+            "The utcOffsetDst of Inwood is -4.",
+            "The timezoneDst of Inwood is EDT."
+        ]
+    },
+    "http://dbpedia.org/resource/Aspach": {
+        "qa": [
+            "The inseeCode of Aspach is 68011, and country is France. The canton of Aspach is __ .",
+            "Cernay"
+        ],
+        "additionals": [
+            "The mayor of Aspach is Maurice Lemblé.",
+            "The postalCode of Aspach is 68700."
+        ]
+    },
+    "http://dbpedia.org/resource/Campbell_Hill": {
+        "qa": [
+            "The timezone of Campbell Hill is North American Central Time Zone, and postalCode is 62916. The areaCode of Campbell Hill is __ .",
+            "618"
+        ],
+        "additionals": [
+            "The timeZone of Campbell Hill is North American Central Time Zone.",
+            "The country of Campbell Hill is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/Allenville": {
+        "qa": [
+            "The timezone of Allenville is Central Time Zone, and timezoneDst is CDT. The areaCode of Allenville is __ .",
+            "920"
+        ],
+        "additionals": [
+            "The timeZone of Allenville is Central Time Zone.",
+            "The country of Allenville is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/Les_Essards": {
+        "qa": [
+            "The mayor of Les Essards is Philippe Adamy, and country is France. The canton of Les Essards is __ .",
+            "Tude-et-Lavalette"
+        ],
+        "additionals": [
+            "The inseeCode of Les Essards is 16130.",
+            "The postalCode of Les Essards is 16210."
+        ]
+    },
+    "http://dbpedia.org/resource/Town_Creek": {
+        "qa": [
+            "The timezone of Town Creek is Eastern Time Zone, and timeZone is Eastern Time Zone. The postalCodeType of Town Creek is __ .",
+            "ZIP codes"
+        ],
+        "additionals": [
+            "The utcOffsetDst of Town Creek is -4.",
+            "The timezoneDst of Town Creek is EDT."
+        ]
+    },
+    "http://dbpedia.org/resource/Osceola_Township": {
+        "qa": [
+            "The areaCode of Osceola Township is 906, and postalCodeType is ZIP Code. The timezone of Osceola Township is __ .",
+            "North American Eastern Time Zone"
+        ],
+        "additionals": [
+            "The utcOffsetDst of Osceola Township is -4.",
+            "The timezoneDst of Osceola Township is EDT."
+        ]
+    },
+    "http://dbpedia.org/resource/Rembercourt": {
+        "qa": [
+            "The inseeCode of Rembercourt is 55423, and mayor is Sylvain Obara. The canton of Rembercourt is __ .",
+            "Revigny-sur-Ornain"
+        ],
+        "additionals": [
+            "The postalCode of Rembercourt is 55250.",
+            "The country of Rembercourt is France."
+        ]
+    },
+    "http://dbpedia.org/resource/Beckville": {
+        "qa": [
+            "The areaCode of Beckville is 903, and timezone is North American Central Time Zone. The postalCodeType of Beckville is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The timezoneDst of Beckville is CDT.",
+            "The timeZone of Beckville is North American Central Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Aisey": {
+        "qa": [
+            "The mayor of Aisey is Guy Mercier, and canton is Jussey. The inseeCode of Aisey is __ .",
+            "70009"
+        ],
+        "additionals": [
+            "The country of Aisey is France.",
+            "The postalCode of Aisey is 70500."
+        ]
+    },
+    "http://dbpedia.org/resource/Hot_Springs,_California": {
+        "qa": [
+            "The postalCodeType of Hot Springs, California is ZIP codes, and timezoneDst is Pacific Daylight Time. The utcOffsetDst of Hot Springs, California is __ .",
+            "-7"
+        ],
+        "additionals": [
+            "The location of Hot Springs, California is Palm Springs Int'l Airport elev. 425 ft. 9 mi south of Desert Hot Springs CA.",
+            "The timezone of Hot Springs, California is Pacific Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Lindenhurst": {
+        "qa": [
+            "The postalCode of Lindenhurst is 11757, and areaCode is 631. The postalCodeType of Lindenhurst is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The timeZone of Lindenhurst is North American Eastern Time Zone.",
+            "The utcOffsetDst of Lindenhurst is -4."
+        ]
+    },
+    "http://dbpedia.org/resource/Michiana": {
+        "qa": [
+            "The postalCodeType of Michiana is ZIP Code, and timeZone is North American Eastern Time Zone. The areaCode of Michiana is __ .",
+            "269"
+        ],
+        "additionals": [
+            "The postalCode of Michiana is 49117.",
+            "The utcOffsetDst of Michiana is -4."
+        ]
+    },
+    "http://dbpedia.org/resource/Neufchâtel": {
+        "qa": [
+            "The inseeCode of Neufchâtel is 76462, and country is France. The canton of Neufchâtel is __ .",
+            "Neufchâtel-en-Bray"
+        ],
+        "additionals": [
+            "The postalCode of Neufchâtel is 76270.",
+            "The mayor of Neufchâtel is Xavier Lefrançois."
+        ]
+    },
+    "http://dbpedia.org/resource/Rompicherla": {
+        "qa": [
+            "The timeZone of Rompicherla is Indian Standard Time, and country is India. The timezone of Rompicherla is __ .",
+            "Indian Standard Time"
+        ],
+        "additionals": [
+            "The postalCodeType of Rompicherla is Postal Index Number.",
+            "The areaCode of Rompicherla is +91–."
+        ]
+    },
+    "http://dbpedia.org/resource/Hancock_Township": {
+        "qa": [
+            "The postalCodeType of Hancock Township is ZIP codes, and timezone is North American Central Time Zone. The timezoneDst of Hancock Township is __ .",
+            "North American Central Time Zone"
+        ],
+        "additionals": [
+            "The timeZone of Hancock Township is North American Central Time Zone.",
+            "The country of Hancock Township is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/Warren_Township": {
+        "qa": [
+            "The timezone of Warren Township is North American Eastern Time Zone, and utcOffsetDst is -4. The postalCodeType of Warren Township is __ .",
+            "ZIP codes"
+        ],
+        "additionals": [
+            "The timezoneDst of Warren Township is EDT.",
+            "The timeZone of Warren Township is North American Eastern Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Qəzli": {
+        "qa": [
+            "The timeZone of Qəzli is Azerbaijan Time, and utcOffsetDst is +5. The timezone of Qəzli is __ .",
+            "Azerbaijan Time"
+        ],
+        "additionals": [
+            "The timezoneDst of Qəzli is Azerbaijan Time.",
+            "The country of Qəzli is Azerbaijan."
+        ]
+    },
+    "http://dbpedia.org/resource/Bradford_Village_Historic_District": {
+        "qa": [
+            "The postalCodeType of Bradford Village Historic District is ZIP code, and timeZone is North American Eastern Time Zone. The areaCode of Bradford Village Historic District is __ .",
+            "802"
+        ],
+        "additionals": [
+            "The utcOffsetDst of Bradford Village Historic District is -4.",
+            "The timezoneDst of Bradford Village Historic District is EDT."
+        ]
+    },
+    "http://dbpedia.org/resource/Mahmudlu": {
+        "qa": [
+            "The timeZone of Mahmudlu is Azerbaijan Time, and utcOffsetDst is +5. The timezone of Mahmudlu is __ .",
+            "Azerbaijan Time"
+        ],
+        "additionals": [
+            "The timezoneDst of Mahmudlu is Azerbaijan Time.",
+            "The country of Mahmudlu is Azerbaijan."
+        ]
+    },
+    "http://dbpedia.org/resource/Henderson_Township": {
+        "qa": [
+            "The postalCodeType of Henderson Township is ZIP codes, and timezone is North American Central Time Zone. The timezoneDst of Henderson Township is __ .",
+            "North American Central Time Zone"
+        ],
+        "additionals": [
+            "The timeZone of Henderson Township is North American Central Time Zone.",
+            "The country of Henderson Township is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/Arbon": {
+        "qa": [
+            "The mayor of Arbon is André Esparbes, and country is France. The postalCode of Arbon is __ .",
+            "31160"
+        ],
+        "additionals": [
+            "The canton of Arbon is Bagnères-de-Luchon.",
+            "The inseeCode of Arbon is 31012."
+        ]
+    },
+    "http://dbpedia.org/resource/Riacho": {
+        "qa": [
+            "The timeZone of Riacho is Time in Brazil, and postalCodeType is Postal code. The country of Riacho is __ .",
+            "Brazil"
+        ],
+        "additionals": [
+            "The areaCode of Riacho is +55-83.",
+            "The timezone of Riacho is Time in Brazil."
+        ]
+    },
+    "http://dbpedia.org/resource/Plouhinec": {
+        "qa": [
+            "The inseeCode of Plouhinec is 29197, and mayor is Yvan Moullec. The postalCode of Plouhinec is __ .",
+            "29780"
+        ],
+        "additionals": [
+            "The canton of Plouhinec is Douarnenez.",
+            "The country of Plouhinec is France."
+        ]
+    },
+    "http://dbpedia.org/resource/Lastic": {
+        "qa": [
+            "The postalCode of Lastic is 15500, and country is France. The inseeCode of Lastic is __ .",
+            "15097"
+        ],
+        "additionals": [
+            "The canton of Lastic is Saint-Flour-1.",
+            "The mayor of Lastic is Serge Talamandier."
+        ]
+    },
+    "http://dbpedia.org/resource/Lenore": {
+        "qa": [
+            "The timezone of Lenore is Eastern Time Zone, and timeZone is Eastern Time Zone. The postalCodeType of Lenore is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The utcOffsetDst of Lenore is -4.",
+            "The postalCode of Lenore is 25676."
+        ]
+    },
+    "http://dbpedia.org/resource/Piotrków": {
+        "qa": [
+            "The timezone of Piotrków is Central European Time, and postalCodeType is Postal code. The timezoneDst of Piotrków is __ .",
+            "Central European Summer Time"
+        ],
+        "additionals": [
+            "The country of Piotrków is Poland.",
+            "The utcOffsetDst of Piotrków is +2."
+        ]
+    },
+    "http://dbpedia.org/resource/Ledyard": {
+        "qa": [
+            "The areaCode of Ledyard is 315, and postalCode is 13026. The postalCodeType of Ledyard is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The timeZone of Ledyard is North American Eastern Time Zone.",
+            "The utcOffsetDst of Ledyard is -4."
+        ]
+    },
+    "http://dbpedia.org/resource/Michigan_City": {
+        "qa": [
+            "The timezone of Michigan City is Central Time Zone, and timezoneDst is CDT. The postalCodeType of Michigan City is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The postalCode of Michigan City is 58259.",
+            "The timeZone of Michigan City is Central Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Luxi": {
+        "qa": [
+            "The postalCodeType of Luxi is Postal code of China, and postalCode is 337200. The country of Luxi is __ .",
+            "China"
+        ],
+        "additionals": [
+            "The timezone of Luxi is China Standard Time.",
+            "The timeZone of Luxi is China Standard Time."
+        ]
+    },
+    "http://dbpedia.org/resource/Cassadaga": {
+        "qa": [
+            "The postalCode of Cassadaga is 14718, and areaCode is 716. The postalCodeType of Cassadaga is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The timeZone of Cassadaga is North American Eastern Time Zone.",
+            "The utcOffsetDst of Cassadaga is -4."
+        ]
+    },
+    "http://dbpedia.org/resource/Le_Pin": {
+        "qa": [
+            "The canton of Le Pin is Garonne-Lomagne-Brulhois, and postalCode is 82340. The inseeCode of Le Pin is __ .",
+            "82139"
+        ],
+        "additionals": [
+            "The country of Le Pin is France.",
+            "The mayor of Le Pin is Stéphan Ratto."
+        ]
+    },
+    "http://dbpedia.org/resource/Hico": {
+        "qa": [
+            "The timezone of Hico is Central Time Zone, and timeZone is Central Time Zone. The postalCodeType of Hico is __ .",
+            "ZIP codes"
+        ],
+        "additionals": [
+            "The timezoneDst of Hico is CST.",
+            "The utcOffsetDst of Hico is -5."
+        ]
+    },
+    "http://dbpedia.org/resource/Şıxlı": {
+        "qa": [
+            "The timeZone of Şıxlı is Azerbaijan Time, and utcOffsetDst is +5. The timezone of Şıxlı is __ .",
+            "Azerbaijan Time"
+        ],
+        "additionals": [
+            "The timezoneDst of Şıxlı is Azerbaijan Time.",
+            "The country of Şıxlı is Azerbaijan."
+        ]
+    },
+    "http://dbpedia.org/resource/Roxton": {
+        "qa": [
+            "The timezone of Roxton is Eastern Time Zone, and postalCodeType is Canadian postal code. The country of Roxton is __ .",
+            "Canada"
+        ],
+        "additionals": [
+            "The utcOffsetDst of Roxton is −4.",
+            "The timezoneDst of Roxton is Eastern Daylight Time."
+        ]
+    },
+    "http://dbpedia.org/resource/Albiac": {
+        "qa": [
+            "The inseeCode of Albiac is 46002, and country is France. The mayor of Albiac is __ .",
+            "Marie Berthoumieu"
+        ],
+        "additionals": [
+            "The postalCode of Albiac is 46500.",
+            "The canton of Albiac is Gramat."
+        ]
+    },
+    "http://dbpedia.org/resource/Galeton": {
+        "qa": [
+            "The utcOffsetDst of Galeton is -6, and postalCodeType is ZIP code. The timezoneDst of Galeton is __ .",
+            "Mountain Time Zone"
+        ],
+        "additionals": [
+            "The timeZone of Galeton is Mountain Time Zone.",
+            "The timezone of Galeton is Mountain Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Johnstown": {
+        "qa": [
+            "The postalCode of Johnstown is 80534, and utcOffsetDst is -6. The timezoneDst of Johnstown is __ .",
+            "Mountain Time Zone"
+        ],
+        "additionals": [
+            "The postalCodeType of Johnstown is ZIP code.",
+            "The timeZone of Johnstown is Mountain Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Bois_Blanc": {
+        "qa": [
+            "The timezoneDst of Bois Blanc is Eastern Time Zone, and timezone is Eastern Time Zone. The country of Bois Blanc is __ .",
+            "Canada"
+        ],
+        "additionals": [
+            "The location of Bois Blanc is Detroit River.",
+            "The utcOffsetDst of Bois Blanc is -4."
+        ]
+    },
+    "http://dbpedia.org/resource/Lakeview": {
+        "qa": [
+            "The postalCodeType of Lakeview is Canadian postal code, and utcOffsetDst is −6. The timezoneDst of Lakeview is __ .",
+            "MDT"
+        ],
+        "additionals": [
+            "The timezone of Lakeview is Mountain Standard Time.",
+            "The timeZone of Lakeview is Mountain Standard Time."
+        ]
+    },
+    "http://dbpedia.org/resource/Saint-Martin-du-Fouilloux": {
+        "qa": [
+            "The canton of Saint-Martin-du-Fouilloux is La Gâtine, and mayor is Patrice Bergeon. The postalCode of Saint-Martin-du-Fouilloux is __ .",
+            "79420"
+        ],
+        "additionals": [
+            "The country of Saint-Martin-du-Fouilloux is France.",
+            "The inseeCode of Saint-Martin-du-Fouilloux is 79278."
+        ]
+    },
+    "http://dbpedia.org/resource/Al_Hafirah": {
+        "qa": [
+            "The timezoneDst of Al Hafirah is East Africa Time, and country is Saudi Arabia. The utcOffsetDst of Al Hafirah is __ .",
+            "+3"
+        ],
+        "additionals": [
+            "The timezone of Al Hafirah is East Africa Time.",
+            "The timeZone of Al Hafirah is East Africa Time."
+        ]
+    },
+    "http://dbpedia.org/resource/Normanna": {
+        "qa": [
+            "The postalCode of Normanna is 78142, and postalCodeType is ZIP code. The areaCode of Normanna is __ .",
+            "361"
+        ],
+        "additionals": [
+            "The timezone of Normanna is North American Central Time Zone.",
+            "The timezoneDst of Normanna is CDT."
+        ]
+    },
+    "http://dbpedia.org/resource/Hudson_Township": {
+        "qa": [
+            "The timezone of Hudson Township is North American Eastern Time Zone, and postalCodeType is ZIP Code. The areaCode of Hudson Township is __ .",
+            "231"
+        ],
+        "additionals": [
+            "The utcOffsetDst of Hudson Township is -4.",
+            "The timezoneDst of Hudson Township is EDT."
+        ]
+    },
+    "http://dbpedia.org/resource/Xenia_Township": {
+        "qa": [
+            "The postalCodeType of Xenia Township is ZIP codes, and timezone is North American Central Time Zone. The timezoneDst of Xenia Township is __ .",
+            "North American Central Time Zone"
+        ],
+        "additionals": [
+            "The timeZone of Xenia Township is North American Central Time Zone.",
+            "The utcOffsetDst of Xenia Township is -5."
+        ]
+    },
+    "http://dbpedia.org/resource/Elkins": {
+        "qa": [
+            "The postalCode of Elkins is 26241, and location is Elkins, West Virginia , 1991&ndash;2020 normals, extremes 1899–present. The postalCodeType of Elkins is __ .",
+            "ZIP Code"
+        ],
+        "additionals": [
+            "The timeZone of Elkins is North American Eastern Time Zone.",
+            "The utcOffsetDst of Elkins is −4."
+        ]
+    },
+    "http://dbpedia.org/resource/Longvilliers": {
+        "qa": [
+            "The postalCode of Longvilliers is 78730, and country is France. The inseeCode of Longvilliers is __ .",
+            "78349"
+        ],
+        "additionals": [
+            "The mayor of Longvilliers is Maurice Chanclud.",
+            "The canton of Longvilliers is Rambouillet."
+        ]
+    },
+    "http://dbpedia.org/resource/San_Francisco_District": {
+        "qa": [
+            "The postalCodeType of San Francisco District is Postal code, and timeZone is UTC−06:00. The timezone of San Francisco District is __ .",
+            "360.0"
+        ],
+        "additionals": [
+            "The country of San Francisco District is Costa Rica.",
+            "The postalCode of San Francisco District is 40604."
+        ]
+    },
+    "http://dbpedia.org/resource/Montot": {
+        "qa": [
+            "The canton of Montot is Brazey-en-Plaine, and inseeCode is 21440. The mayor of Montot is __ .",
+            "Jocelyne Beaunée"
+        ],
+        "additionals": [
+            "The country of Montot is France.",
+            "The postalCode of Montot is 21170."
+        ]
+    },
+    "http://dbpedia.org/resource/North_Fork": {
+        "qa": [
+            "The postalCodeType of North Fork is ZIP codes, and timezoneDst is PDT. The utcOffsetDst of North Fork is __ .",
+            "-7"
+        ],
+        "additionals": [
+            "The timezone of North Fork is Pacific Time Zone.",
+            "The timeZone of North Fork is Pacific Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Chassigny": {
+        "qa": [
+            "The mayor of Chassigny is Marie-Anne Bois, and inseeCode is 71110. The canton of Chassigny is __ .",
+            "Chauffailles"
+        ],
+        "additionals": [
+            "The postalCode of Chassigny is 71170.",
+            "The country of Chassigny is France."
+        ]
+    },
+    "http://dbpedia.org/resource/Marty": {
+        "qa": [
+            "The timezone of Marty is Central Time Zone, and timezoneDst is CDT. The postalCodeType of Marty is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The postalCode of Marty is 55353.",
+            "The timeZone of Marty is Central Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/San_Narciso": {
+        "qa": [
+            "The timezone of San Narciso is Philippine Standard Time, and timeZone is Philippine Standard Time. The location of San Narciso is __ .",
+            "San Narciso, Quezon"
+        ],
+        "additionals": [
+            "The postalCodeType of San Narciso is List of ZIP codes in the Philippines.",
+            "The country of San Narciso is Philippines."
+        ]
+    },
+    "http://dbpedia.org/resource/Cow_Creek": {
+        "qa": [
+            "The timezone of Cow Creek is Central Time Zone, and timezoneDst is CDT. The areaCode of Cow Creek is __ .",
+            "605"
+        ],
+        "additionals": [
+            "The timeZone of Cow Creek is Central Time Zone.",
+            "The utcOffsetDst of Cow Creek is -5."
+        ]
+    },
+    "http://dbpedia.org/resource/Redecilla": {
+        "qa": [
+            "The timezone of Redecilla is Central European Time, and country is Spain. The timezoneDst of Redecilla is __ .",
+            "Central European Summer Time"
+        ],
+        "additionals": [
+            "The postalCodeType of Redecilla is Postal code.",
+            "The utcOffsetDst of Redecilla is +2."
+        ]
+    },
+    "http://dbpedia.org/resource/Jacksonburg": {
+        "qa": [
+            "The timezone of Jacksonburg is Eastern Time Zone, and areaCode is 315. The postalCodeType of Jacksonburg is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The postalCode of Jacksonburg is 13407.",
+            "The timeZone of Jacksonburg is Eastern Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Pondosa": {
+        "qa": [
+            "The timezoneDst of Pondosa is PDT, and timezone is Pacific Time Zone. The utcOffsetDst of Pondosa is __ .",
+            "-7"
+        ],
+        "additionals": [
+            "The country of Pondosa is United States.",
+            "The timeZone of Pondosa is Pacific Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Middle_River": {
+        "qa": [
+            "The timezoneDst of Middle River is CDT, and timeZone is Central Time Zone. The timezone of Middle River is __ .",
+            "Central Time Zone"
+        ],
+        "additionals": [
+            "The country of Middle River is United States.",
+            "The utcOffsetDst of Middle River is -5."
+        ]
+    },
+    "http://dbpedia.org/resource/La_Bastide": {
+        "qa": [
+            "The canton of La Bastide is Pertuis, and country is France. The mayor of La Bastide is __ .",
+            "Séverine Maugan-Curnier"
+        ],
+        "additionals": [
+            "The postalCode of La Bastide is 84240.",
+            "The inseeCode of La Bastide is 84009."
+        ]
+    },
+    "http://dbpedia.org/resource/Neustadt": {
+        "qa": [
+            "The timezoneDst of Neustadt is Eastern Time Zone, and timezone is Eastern Time Zone. The country of Neustadt is __ .",
+            "Canada"
+        ],
+        "additionals": [
+            "The timeZone of Neustadt is Eastern Time Zone.",
+            "The utcOffsetDst of Neustadt is -4."
+        ]
+    },
+    "http://dbpedia.org/resource/Rosholt": {
+        "qa": [
+            "The postalCodeType of Rosholt is ZIP code, and postalCode is 57260. The areaCode of Rosholt is __ .",
+            "605"
+        ],
+        "additionals": [
+            "The timezone of Rosholt is North American Central Time Zone.",
+            "The timezoneDst of Rosholt is CDT."
+        ]
+    },
+    "http://dbpedia.org/resource/Komensky": {
+        "qa": [
+            "The timezone of Komensky is Central Time Zone, and timezoneDst is CDT. The postalCodeType of Komensky is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The postalCode of Komensky is 55350.",
+            "The timeZone of Komensky is Central Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Louisburg": {
+        "qa": [
+            "The timezone of Louisburg is Atlantic Standard Time Zone, and location is Fortress of Louisbourg, 1981–2010 normals, extremes 1972–present. The areaCode of Louisburg is __ .",
+            "902"
+        ],
+        "additionals": [
+            "The timeZone of Louisburg is Atlantic Standard Time Zone.",
+            "The timezoneDst of Louisburg is ADT."
+        ]
+    },
+    "http://dbpedia.org/resource/Ərəb": {
+        "qa": [
+            "The timeZone of Ərəb is Azerbaijan Time, and utcOffsetDst is +5. The timezone of Ərəb is __ .",
+            "Azerbaijan Time"
+        ],
+        "additionals": [
+            "The timezoneDst of Ərəb is Azerbaijan Time.",
+            "The country of Ərəb is Azerbaijan."
+        ]
+    },
+    "http://dbpedia.org/resource/Linkou": {
+        "qa": [
+            "The location of Linkou is Linkou, and postalCodeType is Postal code of China. The country of Linkou is __ .",
+            "China"
+        ],
+        "additionals": [
+            "The timezone of Linkou is China Standard Time.",
+            "The timeZone of Linkou is China Standard Time."
+        ]
+    },
+    "http://dbpedia.org/resource/Casco": {
+        "qa": [
+            "The timezone of Casco is North American Central Time Zone, and timezoneDst is CDT. The areaCode of Casco is __ .",
+            "920"
+        ],
+        "additionals": [
+            "The location of Casco is right.",
+            "The timeZone of Casco is North American Central Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Barag": {
+        "qa": [
+            "The timezone of Barag is China Standard Time, and country is People's Republic of China. The postalCodeType of Barag is __ .",
+            "Postal code"
+        ],
+        "additionals": [
+            "The timeZone of Barag is China Standard Time.",
+            "The location of Barag is New Barag Right Banner."
+        ]
+    },
+    "http://dbpedia.org/resource/Dawsonville": {
+        "qa": [
+            "The postalCodeType of Dawsonville is ZIP code, and postalCode is 30534. The areaCode of Dawsonville is __ .",
+            "706"
+        ],
+        "additionals": [
+            "The timeZone of Dawsonville is North American Eastern Time Zone.",
+            "The utcOffsetDst of Dawsonville is -4."
+        ]
+    },
+    "http://dbpedia.org/resource/Benville": {
+        "qa": [
+            "The timezoneDst of Benville is CDT, and timeZone is Central Time Zone. The timezone of Benville is __ .",
+            "Central Time Zone"
+        ],
+        "additionals": [
+            "The areaCode of Benville is 217.",
+            "The utcOffsetDst of Benville is -5."
+        ]
+    },
+    "http://dbpedia.org/resource/Castillon": {
+        "qa": [
+            "The country of Castillon is France, and mayor is Jean-Marie Vignes. The postalCode of Castillon is __ .",
+            "65130"
+        ],
+        "additionals": [
+            "The canton of Castillon is La Vallée de l'Arros et des Baïses.",
+            "The inseeCode of Castillon is 65135."
+        ]
+    },
+    "http://dbpedia.org/resource/Saint-Eusèbe": {
+        "qa": [
+            "The mayor of Saint-Eusèbe is Jean-François Perissoud, and country is France. The canton of Saint-Eusèbe is __ .",
+            "Rumilly"
+        ],
+        "additionals": [
+            "The inseeCode of Saint-Eusèbe is 74231.",
+            "The postalCode of Saint-Eusèbe is 74150."
+        ]
+    },
+    "http://dbpedia.org/resource/Chemung": {
+        "qa": [
+            "The postalCode of Chemung is 14825, and timeZone is North American Eastern Time Zone. The postalCodeType of Chemung is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The utcOffsetDst of Chemung is -4.",
+            "The timezoneDst of Chemung is EDT."
+        ]
+    },
+    "http://dbpedia.org/resource/Aigueperse": {
+        "qa": [
+            "The inseeCode of Aigueperse is 63001, and mayor is Luc Chaput. The canton of Aigueperse is __ .",
+            "Aigueperse"
+        ],
+        "additionals": [
+            "The postalCode of Aigueperse is 63260.",
+            "The country of Aigueperse is France."
+        ]
+    },
+    "http://dbpedia.org/resource/Long_Point": {
+        "qa": [
+            "The postalCodeType of Long Point is ZIP code, and timezone is North American Central Time Zone. The postalCode of Long Point is __ .",
+            "61333"
+        ],
+        "additionals": [
+            "The timeZone of Long Point is North American Central Time Zone.",
+            "The country of Long Point is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/Armenia": {
+        "qa": [
+            "The timezone of Armenia is Eastern Time Zone, and timeZone is Eastern Time Zone. The postalCodeType of Armenia is __ .",
+            "ZIP codes"
+        ],
+        "additionals": [
+            "The utcOffsetDst of Armenia is -4.",
+            "The timezoneDst of Armenia is EDT."
+        ]
+    },
+    "http://dbpedia.org/resource/Haraucourt": {
+        "qa": [
+            "The mayor of Haraucourt is Yannick Fagot-Revurat, and postalCode is 54110. The inseeCode of Haraucourt is __ .",
+            "54250"
+        ],
+        "additionals": [
+            "The canton of Haraucourt is Grand Couronné.",
+            "The country of Haraucourt is France."
+        ]
+    },
+    "http://dbpedia.org/resource/Pill_Hill": {
+        "qa": [
+            "The postalCodeType of Pill Hill is ZIP Codes, and location is Oakland Museum. The timezoneDst of Pill Hill is __ .",
+            "Pacific Daylight Time"
+        ],
+        "additionals": [
+            "The timezone of Pill Hill is Pacific Time Zone.",
+            "The utcOffsetDst of Pill Hill is 420.0."
+        ]
+    },
+    "http://dbpedia.org/resource/Schwarzach": {
+        "qa": [
+            "The timezone of Schwarzach is Central European Time, and postalCodeType is List of postal codes in Austria. The timezoneDst of Schwarzach is __ .",
+            "Central European Summer Time"
+        ],
+        "additionals": [
+            "The country of Schwarzach is Austria.",
+            "The postalCode of Schwarzach is 5620."
+        ]
+    },
+    "http://dbpedia.org/resource/Snow_Hill": {
+        "qa": [
+            "The postalCodeType of Snow Hill is ZIP code, and timezone is Eastern Time Zone. The postalCode of Snow Hill is __ .",
+            "47836"
+        ],
+        "additionals": [
+            "The areaCode of Snow Hill is 765.",
+            "The timeZone of Snow Hill is Eastern Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Shady_Grove": {
+        "qa": [
+            "The timezone of Shady Grove is Central Time Zone, and timezoneDst is CDT. The postalCodeType of Shady Grove is __ .",
+            "ZIP codes"
+        ],
+        "additionals": [
+            "The timeZone of Shady Grove is Central Time Zone.",
+            "The utcOffsetDst of Shady Grove is -5."
+        ]
+    },
+    "http://dbpedia.org/resource/Frailes": {
+        "qa": [
+            "The postalCodeType of Frailes is Postal code, and postalCode is 10306. The timezone of Frailes is __ .",
+            "360.0"
+        ],
+        "additionals": [
+            "The timeZone of Frailes is UTC−06:00.",
+            "The country of Frailes is Costa Rica."
+        ]
+    },
+    "http://dbpedia.org/resource/Mesita": {
+        "qa": [
+            "The utcOffsetDst of Mesita is -6, and postalCode is 87026. The postalCodeType of Mesita is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The timezoneDst of Mesita is MDT.",
+            "The timeZone of Mesita is Mountain Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Sandyville": {
+        "qa": [
+            "The postalCodeType of Sandyville is ZIP code, and timezone is North American Central Time Zone. The country of Sandyville is __ .",
+            "United States"
+        ],
+        "additionals": [
+            "The areaCode of Sandyville is 515.",
+            "The timezoneDst of Sandyville is CDT."
+        ]
+    },
+    "http://dbpedia.org/resource/Peebles": {
+        "qa": [
+            "The timeZone of Peebles is Central Time Zone (North America), and postalCode is S0G 3V0. The country of Peebles is __ .",
+            "Canada"
+        ],
+        "additionals": [
+            "The areaCode of Peebles is 306.",
+            "The postalCodeType of Peebles is Postal Code."
+        ]
+    },
+    "http://dbpedia.org/resource/North_York": {
+        "qa": [
+            "The timezoneDst of North York is CDT, and timeZone is Central Time Zone. The timezone of North York is __ .",
+            "Central Time Zone"
+        ],
+        "additionals": [
+            "The country of North York is United States.",
+            "The utcOffsetDst of North York is -5."
+        ]
+    },
+    "http://dbpedia.org/resource/Pleasant_Hill": {
+        "qa": [
+            "The timezone of Pleasant Hill is North American Central Time Zone, and timeZone is North American Central Time Zone. The postalCodeType of Pleasant Hill is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The areaCode of Pleasant Hill is 217.",
+            "The postalCode of Pleasant Hill is 62366."
+        ]
+    },
+    "http://dbpedia.org/resource/La_Chapelle-Blanche": {
+        "qa": [
+            "The mayor of La Chapelle-Blanche is Sandrine Deutschmann, and country is France. The canton of La Chapelle-Blanche is __ .",
+            "Broons"
+        ],
+        "additionals": [
+            "The postalCode of La Chapelle-Blanche is 22350.",
+            "The inseeCode of La Chapelle-Blanche is 22036."
+        ]
+    },
+    "http://dbpedia.org/resource/Absecon": {
+        "qa": [
+            "The postalCodeType of Absecon is ZIP Codes, and location is Absecon, New Jersey. The timezone of Absecon is __ .",
+            "Eastern Time Zone"
+        ],
+        "additionals": [
+            "The utcOffsetDst of Absecon is 240.0.",
+            "The timezoneDst of Absecon is Eastern Daylight Time."
+        ]
+    },
+    "http://dbpedia.org/resource/Netra": {
+        "qa": [
+            "The areaCode of Netra is +91 3174, and timezone is Indian Standard Time. The postalCodeType of Netra is __ .",
+            "PIN"
+        ],
+        "additionals": [
+            "The timeZone of Netra is Indian Standard Time.",
+            "The country of Netra is India."
+        ]
+    },
+    "http://dbpedia.org/resource/Cürəli": {
+        "qa": [
+            "The timeZone of Cürəli is Azerbaijan Time, and utcOffsetDst is +5. The timezone of Cürəli is __ .",
+            "Azerbaijan Time"
+        ],
+        "additionals": [
+            "The timezoneDst of Cürəli is Azerbaijan Time.",
+            "The country of Cürəli is Azerbaijan."
+        ]
+    },
+    "http://dbpedia.org/resource/Bethany": {
+        "qa": [
+            "The timezone of Bethany is Eastern Time Zone, and areaCode is 765. The postalCodeType of Bethany is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The timeZone of Bethany is Eastern Time Zone.",
+            "The postalCode of Bethany is 47872."
+        ]
+    },
+    "http://dbpedia.org/resource/Crillon": {
+        "qa": [
+            "The inseeCode of Crillon is 84041, and country is France. The canton of Crillon is __ .",
+            "Pernes-les-Fontaines"
+        ],
+        "additionals": [
+            "The postalCode of Crillon is 84410.",
+            "The mayor of Crillon is Guy Girard."
+        ]
+    },
+    "http://dbpedia.org/resource/Baldwin": {
+        "qa": [
+            "The timeZone of Baldwin is Central Time Zone (Americas), and postalCode is 58521. The postalCodeType of Baldwin is __ .",
+            "ZIP codes"
+        ],
+        "additionals": [
+            "The timezoneDst of Baldwin is CDT.",
+            "The areaCode of Baldwin is 701."
+        ]
+    },
+    "http://dbpedia.org/resource/Sugar_Island": {
+        "qa": [
+            "The timezone of Sugar Island is Central Time Zone, and timezoneDst is CDT. The areaCode of Sugar Island is __ .",
+            "920"
+        ],
+        "additionals": [
+            "The timeZone of Sugar Island is Central Time Zone.",
+            "The country of Sugar Island is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/Chandanapally": {
+        "qa": [
+            "The timezone of Chandanapally is Indian Standard Time, and timeZone is Indian Standard Time. The postalCode of Chandanapally is __ .",
+            "689648"
+        ],
+        "additionals": [
+            "The country of Chandanapally is India.",
+            "The postalCodeType of Chandanapally is Postal Index Number."
+        ]
+    }
+}

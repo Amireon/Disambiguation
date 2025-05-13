@@ -1,0 +1,2450 @@
+{
+    "http://dbpedia.org/resource/Maha_Dewi": {
+        "qa": [
+            "Question: The child of Maha Dewi is __ . Additional information:\tA. father\tB. mother\tC. birthDate\tD. religion",
+            "Razadarit"
+        ],
+        "choices": [
+            [
+                "father",
+                "Saw Zein"
+            ],
+            [
+                "mother",
+                "Sanda Min Hla"
+            ],
+            [
+                "birthDate",
+                "(in or before) 1322"
+            ],
+            [
+                "religion",
+                "Theravada Buddhism"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kumashiro": {
+        "qa": [
+            "Question: The successor of Kumashiro is __ . Additional information:\tA. termPeriod\tB. birthDate\tC. termStart\tD. termEnd",
+            "Seiji Hagiwara"
+        ],
+        "choices": [
+            [
+                "termPeriod",
+                "Akihiko Kumashiro  Tenure  1"
+            ],
+            [
+                "birthDate",
+                "1940-02-21"
+            ],
+            [
+                "termStart",
+                "1993"
+            ],
+            [
+                "termEnd",
+                "2005"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Finck": {
+        "qa": [
+            "Question: The deathDate of Finck is __ . Additional information:\tA. nationality\tB. birthDate\tC. stateOfOrigin\tD. birthYear",
+            "1558-12-28"
+        ],
+        "choices": [
+            [
+                "nationality",
+                "Germans"
+            ],
+            [
+                "birthDate",
+                "1527-03-21"
+            ],
+            [
+                "stateOfOrigin",
+                "Germans"
+            ],
+            [
+                "birthYear",
+                "1527"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ellis_Marsalis": {
+        "qa": [
+            "Question: The occupation of Ellis Marsalis is __ . Additional information:\tA. deathDate\tB. activeYearsStartYear\tC. instrument\tD. activeYearsEndYear",
+            "Musician, educator"
+        ],
+        "choices": [
+            [
+                "deathDate",
+                "2020-04-01"
+            ],
+            [
+                "activeYearsStartYear",
+                "1949"
+            ],
+            [
+                "instrument",
+                "Piano"
+            ],
+            [
+                "activeYearsEndYear",
+                "2020"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/McWhirter": {
+        "qa": [
+            "Question: The birthDate of McWhirter is __ . Additional information:\tA. birthYear\tB. birthPlace\tC. activeYearsStartYear\tD. activeYearsEndYear",
+            "1953"
+        ],
+        "choices": [
+            [
+                "birthYear",
+                "1953"
+            ],
+            [
+                "birthPlace",
+                "Lanarkshire"
+            ],
+            [
+                "activeYearsStartYear",
+                "1977"
+            ],
+            [
+                "activeYearsEndYear",
+                "2007"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Shimazaki": {
+        "qa": [
+            "Question: The birthPlace of Shimazaki is __ . Additional information:\tA. youthclubs\tB. college\tC. position\tD. birthDate",
+            "Kawasaki, Japan"
+        ],
+        "choices": [
+            [
+                "youthclubs",
+                "Kawasaki Frontale"
+            ],
+            [
+                "college",
+                "VCU Rams men's soccer"
+            ],
+            [
+                "position",
+                "Defender (association football)"
+            ],
+            [
+                "birthDate",
+                "1997-04-19"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Pianalto": {
+        "qa": [
+            "Question: The termStart of Pianalto is __ . Additional information:\tA. termPeriod\tB. predecessor\tC. termEnd\tD. successor",
+            "2003-02-01"
+        ],
+        "choices": [
+            [
+                "termPeriod",
+                "Sandra Pianalto  Tenure  1"
+            ],
+            [
+                "predecessor",
+                "Jerry Jordan"
+            ],
+            [
+                "termEnd",
+                "2014-05-31"
+            ],
+            [
+                "successor",
+                "Loretta J. Mester"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Balzani": {
+        "qa": [
+            "Question: The stateOfOrigin of Balzani is __ . Additional information:\tA. club\tB. country\tC. birthDate\tD. sport",
+            "Italy"
+        ],
+        "choices": [
+            [
+                "club",
+                "Edera Atletica"
+            ],
+            [
+                "country",
+                "Italy"
+            ],
+            [
+                "birthDate",
+                "1967-04-15"
+            ],
+            [
+                "sport",
+                "Athletics (sport)"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Seiler": {
+        "qa": [
+            "Question: The successor of Seiler is __ . Additional information:\tA. predecessor\tB. birthDate\tC. deathDate\tD. spouse",
+            "June P. (J. P.) Morgan"
+        ],
+        "choices": [
+            [
+                "predecessor",
+                "Robert True Donnelly"
+            ],
+            [
+                "birthDate",
+                "1912-12-05"
+            ],
+            [
+                "deathDate",
+                "1998-04-13"
+            ],
+            [
+                "spouse",
+                "Faye Poore"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Partee": {
+        "qa": [
+            "Question: The spouse of Partee is __ . Additional information:\tA. party\tB. birthPlace\tC. deathPlace\tD. deathDate",
+            "Paris"
+        ],
+        "choices": [
+            [
+                "party",
+                "Democratic Party (United States)"
+            ],
+            [
+                "birthPlace",
+                "Blytheville, Arkansas"
+            ],
+            [
+                "deathPlace",
+                "Chicago, Illinois"
+            ],
+            [
+                "deathDate",
+                "1994-08-17"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Sanguinetti": {
+        "qa": [
+            "Question: The activeYearsStartYear of Sanguinetti is __ . Additional information:\tA. weightLb\tB. birthDate\tC. activeYearsEndYear\tD. height",
+            "2007"
+        ],
+        "choices": [
+            [
+                "weightLb",
+                "190"
+            ],
+            [
+                "birthDate",
+                "1988-02-29"
+            ],
+            [
+                "activeYearsEndYear",
+                "2020"
+            ],
+            [
+                "height",
+                "1.905"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Terzian": {
+        "qa": [
+            "Question: The child of Terzian is __ . Additional information:\tA. birthDate\tB. birthPlace\tC. employer\tD. birthYear",
+            "Gracie Terzian"
+        ],
+        "choices": [
+            [
+                "birthDate",
+                "1952-10-19"
+            ],
+            [
+                "birthPlace",
+                "Boston, Massachusetts"
+            ],
+            [
+                "employer",
+                "Institute for Humane Studies"
+            ],
+            [
+                "birthYear",
+                "1952"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Barrault": {
+        "qa": [
+            "Question: The height of Barrault is __ . Additional information:\tA. birthDate\tB. activeYearsStartYear\tC. activeYearsEndYear\tD. weightLb",
+            "1.8796"
+        ],
+        "choices": [
+            [
+                "birthDate",
+                "1970-04-21"
+            ],
+            [
+                "activeYearsStartYear",
+                "1991"
+            ],
+            [
+                "activeYearsEndYear",
+                "1998"
+            ],
+            [
+                "weightLb",
+                "205"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kathryn": {
+        "qa": [
+            "Question: The party of Kathryn is __ . Additional information:\tA. spouse\tB. almaMater\tC. birthDate\tD. deathDate",
+            "Democratic Party (United States)"
+        ],
+        "choices": [
+            [
+                "spouse",
+                "William T. Granahan"
+            ],
+            [
+                "almaMater",
+                "Chestnut Hill College"
+            ],
+            [
+                "birthDate",
+                "1894-12-07"
+            ],
+            [
+                "deathDate",
+                "1979-07-10"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Toshimi": {
+        "qa": [
+            "Question: The birthDate of Toshimi is __ . Additional information:\tA. stateOfOrigin\tB. successor\tC. predecessor\tD. father",
+            "1708-06-14"
+        ],
+        "choices": [
+            [
+                "stateOfOrigin",
+                "Japanese people"
+            ],
+            [
+                "successor",
+                "Nanbu Toshikatsu"
+            ],
+            [
+                "predecessor",
+                "Nanbu Toshimoto"
+            ],
+            [
+                "father",
+                "Nanbu Nobuoki"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/McKeough": {
+        "qa": [
+            "Question: The termStart of McKeough is __ . Additional information:\tA. successor\tB. party\tC. birthDate\tD. termPeriod",
+            "1935-01-03"
+        ],
+        "choices": [
+            [
+                "successor",
+                "William A. Rowan"
+            ],
+            [
+                "party",
+                "Democratic Party (United States)"
+            ],
+            [
+                "birthDate",
+                "1888-04-29"
+            ],
+            [
+                "termPeriod",
+                "Raymond S. McKeough  Tenure  1"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/De_Alvear": {
+        "qa": [
+            "Question: The birthDate of De Alvear is __ . Additional information:\tA. spouse\tB. deathDate\tC. party\tD. almaMater",
+            "1868-10-04"
+        ],
+        "choices": [
+            [
+                "spouse",
+                "Regina Pacini"
+            ],
+            [
+                "deathDate",
+                "1942-04-23"
+            ],
+            [
+                "party",
+                "Radical Civic Union"
+            ],
+            [
+                "almaMater",
+                "University of Buenos Aires"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Aikman": {
+        "qa": [
+            "Question: The birthYear of Aikman is __ . Additional information:\tA. deathDate\tB. activeYearsStartYear\tC. nationality\tD. activeYearsEndYear",
+            "1755"
+        ],
+        "choices": [
+            [
+                "deathDate",
+                "1838-07-06"
+            ],
+            [
+                "activeYearsStartYear",
+                "1791"
+            ],
+            [
+                "nationality",
+                "British"
+            ],
+            [
+                "activeYearsEndYear",
+                "1807"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Steve_Adubato": {
+        "qa": [
+            "Question: The almaMater of Steve Adubato is __ . Additional information:\tA. birthYear\tB. deathYear\tC. deathDate\tD. stateOfOrigin",
+            "Seton Hall University"
+        ],
+        "choices": [
+            [
+                "birthYear",
+                "1932"
+            ],
+            [
+                "deathYear",
+                "2020"
+            ],
+            [
+                "deathDate",
+                "2020-10-13"
+            ],
+            [
+                "stateOfOrigin",
+                "Americans"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Nahum": {
+        "qa": [
+            "Question: The nationality of Nahum is __ . Additional information:\tA. birthYear\tB. birthDate\tC. child\tD. almaMater",
+            "Uruguayan"
+        ],
+        "choices": [
+            [
+                "birthYear",
+                "1937"
+            ],
+            [
+                "birthDate",
+                "1937-02-02"
+            ],
+            [
+                "child",
+                "Ana Nahum"
+            ],
+            [
+                "almaMater",
+                "Instituto de Profesores Artigas"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Pery": {
+        "qa": [
+            "Question: The deathDate of Pery is __ . Additional information:\tA. father\tB. nationality\tC. birthYear\tD. birthDate",
+            "--09-24"
+        ],
+        "choices": [
+            [
+                "father",
+                "Ernesto Igel"
+            ],
+            [
+                "nationality",
+                "Brazilian"
+            ],
+            [
+                "birthYear",
+                "1921"
+            ],
+            [
+                "birthDate",
+                "1921-11-27"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ivan_III": {
+        "qa": [
+            "Question: The mother of Ivan III is __ . Additional information:\tA. religion\tB. activeYearsEndYear\tC. birthDate\tD. deathDate",
+            "Maria of Borovsk"
+        ],
+        "choices": [
+            [
+                "religion",
+                "Russian Orthodox"
+            ],
+            [
+                "activeYearsEndYear",
+                "1505"
+            ],
+            [
+                "birthDate",
+                "1440-01-22"
+            ],
+            [
+                "deathDate",
+                "1505-10-27"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/DiMarco": {
+        "qa": [
+            "Question: The activeYearsEndYear of DiMarco is __ . Additional information:\tA. almaMater\tB. birthDate\tC. activeYearsStartYear\tD. birthYear",
+            "1995"
+        ],
+        "choices": [
+            [
+                "almaMater",
+                "York University"
+            ],
+            [
+                "birthDate",
+                "1976-01-01"
+            ],
+            [
+                "activeYearsStartYear",
+                "1995"
+            ],
+            [
+                "birthYear",
+                "1976"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Laffey": {
+        "qa": [
+            "Question: The termStart of Laffey is __ . Additional information:\tA. spouse\tB. termPeriod\tC. residence\tD. termEnd",
+            "2003-01-06"
+        ],
+        "choices": [
+            [
+                "spouse",
+                "Kelly Laffey"
+            ],
+            [
+                "termPeriod",
+                "Steve Laffey  Tenure  1"
+            ],
+            [
+                "residence",
+                "Fort Collins, Colorado"
+            ],
+            [
+                "termEnd",
+                "2007-01-06"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Boesch": {
+        "qa": [
+            "Question: The birthYear of Boesch is __ . Additional information:\tA. deathDate\tB. deathPlace\tC. birthDate\tD. deathYear",
+            "1918"
+        ],
+        "choices": [
+            [
+                "deathDate",
+                "2012-01-20"
+            ],
+            [
+                "deathPlace",
+                "Vienna, Austria"
+            ],
+            [
+                "birthDate",
+                "1918-01-09"
+            ],
+            [
+                "deathYear",
+                "2012"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kozłowski": {
+        "qa": [
+            "Question: The religion of Kozłowski is __ . Additional information:\tA. birthDate\tB. deathDate\tC. almaMater\tD. deathPlace",
+            "Catholic Church"
+        ],
+        "choices": [
+            [
+                "birthDate",
+                "1860-11-21"
+            ],
+            [
+                "deathDate",
+                "1915-08-07"
+            ],
+            [
+                "almaMater",
+                "St. Francis Seminary (Wisconsin)"
+            ],
+            [
+                "deathPlace",
+                "Milwaukee, Wisconsin"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Battisti": {
+        "qa": [
+            "Question: The birthYear of Battisti is __ . Additional information:\tA. birthDate\tB. deathDate\tC. spouse\tD. deathYear",
+            "1875"
+        ],
+        "choices": [
+            [
+                "birthDate",
+                "1875-02-04"
+            ],
+            [
+                "deathDate",
+                "1916-07-12"
+            ],
+            [
+                "spouse",
+                "Ernesta Bittanti Battisti"
+            ],
+            [
+                "deathYear",
+                "1916"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Fazlul_Haq": {
+        "qa": [
+            "Question: The termPeriod of Fazlul Haq is __ . Additional information:\tA. termStart\tB. predecessor\tC. termEnd\tD. party",
+            "Fazlul Haque (judge)  Tenure  1"
+        ],
+        "choices": [
+            [
+                "termStart",
+                "2007-01-11"
+            ],
+            [
+                "predecessor",
+                "Iajuddin Ahmed"
+            ],
+            [
+                "termEnd",
+                "2007-01-12"
+            ],
+            [
+                "party",
+                "Independent (politician)"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Garling": {
+        "qa": [
+            "Question: The deathDate of Garling is __ . Additional information:\tA. activeYearsStartYear\tB. birthYear\tC. birthPlace\tD. birthDate",
+            "1873-11-16"
+        ],
+        "choices": [
+            [
+                "activeYearsStartYear",
+                "1829"
+            ],
+            [
+                "birthYear",
+                "1806"
+            ],
+            [
+                "birthPlace",
+                "London, England"
+            ],
+            [
+                "birthDate",
+                "1806-02-23"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Dawkins": {
+        "qa": [
+            "Question: The termPeriod of Dawkins is __ . Additional information:\tA. occupation\tB. party\tC. termStart\tD. child",
+            "Boyd Dawkins  Tenure  1"
+        ],
+        "choices": [
+            [
+                "occupation",
+                "farmer and politician"
+            ],
+            [
+                "party",
+                "Liberal and Country League"
+            ],
+            [
+                "termStart",
+                "March 1962"
+            ],
+            [
+                "child",
+                "John Dawkins (South Australian politician)"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Lipke": {
+        "qa": [
+            "Question: The birthDate of Lipke is __ . Additional information:\tA. almaMater\tB. deathDate\tC. birthPlace\tD. deathPlace",
+            "1921-04-21"
+        ],
+        "choices": [
+            [
+                "almaMater",
+                "Leiden University"
+            ],
+            [
+                "deathDate",
+                "2008-03-07"
+            ],
+            [
+                "birthPlace",
+                "Probolinggo"
+            ],
+            [
+                "deathPlace",
+                "Leiden"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Schelfhout": {
+        "qa": [
+            "Question: The nationality of Schelfhout is __ . Additional information:\tA. birthDate\tB. deathPlace\tC. birthPlace\tD. deathDate",
+            "Netherlands"
+        ],
+        "choices": [
+            [
+                "birthDate",
+                "1787-02-16"
+            ],
+            [
+                "deathPlace",
+                "The Hague"
+            ],
+            [
+                "birthPlace",
+                "The Hague"
+            ],
+            [
+                "deathDate",
+                "1870-04-19"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Masumi": {
+        "qa": [
+            "Question: The birthDate of Masumi is __ . Additional information:\tA. nationality\tB. deathYear\tC. deathPlace\tD. stateOfOrigin",
+            "1887-10-07"
+        ],
+        "choices": [
+            [
+                "nationality",
+                "Canadians"
+            ],
+            [
+                "deathYear",
+                "1987"
+            ],
+            [
+                "deathPlace",
+                "Canada"
+            ],
+            [
+                "stateOfOrigin",
+                "Canadians"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kathrin": {
+        "qa": [
+            "Question: The height of Kathrin is __ . Additional information:\tA. nationality\tB. college\tC. position\tD. birthDate",
+            "1.9304"
+        ],
+        "choices": [
+            [
+                "nationality",
+                "Italian"
+            ],
+            [
+                "college",
+                "Boston College Eagles women's basketball"
+            ],
+            [
+                "position",
+                "Forward (basketball)"
+            ],
+            [
+                "birthDate",
+                "1985-06-26"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Njoya": {
+        "qa": [
+            "Question: The termPeriod of Njoya is __ . Additional information:\tA. termStart\tB. successor\tC. predecessor\tD. deathDate",
+            "Seidou Njimoluh Njoya  Tenure  1"
+        ],
+        "choices": [
+            [
+                "termStart",
+                "1933"
+            ],
+            [
+                "successor",
+                "Ibrahim Mbombo Njoya"
+            ],
+            [
+                "predecessor",
+                "Ibrahim Njoya"
+            ],
+            [
+                "deathDate",
+                "1992-07-28"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Shulgin": {
+        "qa": [
+            "Question: The nationality of Shulgin is __ . Additional information:\tA. occupation\tB. deathPlace\tC. deathDate\tD. birthDate",
+            "American"
+        ],
+        "choices": [
+            [
+                "occupation",
+                "Author"
+            ],
+            [
+                "deathPlace",
+                "Lafayette, California"
+            ],
+            [
+                "deathDate",
+                "2022-07-09"
+            ],
+            [
+                "birthDate",
+                "1931-03-22"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Shopov": {
+        "qa": [
+            "Question: The birthYear of Shopov is __ . Additional information:\tA. activeYearsEndYear\tB. activeYearsStartYear\tC. child\tD. birthDate",
+            "1930"
+        ],
+        "choices": [
+            [
+                "activeYearsEndYear",
+                "2012"
+            ],
+            [
+                "activeYearsStartYear",
+                "1957"
+            ],
+            [
+                "child",
+                "Hristo Shopov"
+            ],
+            [
+                "birthDate",
+                "1930-07-27"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Behan": {
+        "qa": [
+            "Question: The birthPlace of Behan is __ . Additional information:\tA. deathPlace\tB. birthDate\tC. debutyear\tD. finaldate",
+            "Dallas City, Pennsylvania"
+        ],
+        "choices": [
+            [
+                "deathPlace",
+                "Bradford, Pennsylvania"
+            ],
+            [
+                "birthDate",
+                "1887-12-11"
+            ],
+            [
+                "debutyear",
+                "1921"
+            ],
+            [
+                "finaldate",
+                "--09-26"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Dockrell": {
+        "qa": [
+            "Question: The nationality of Dockrell is __ . Additional information:\tA. almaMater\tB. deathDate\tC. deathPlace\tD. father",
+            "Irish people"
+        ],
+        "choices": [
+            [
+                "almaMater",
+                "Trinity College Dublin"
+            ],
+            [
+                "deathDate",
+                "1955-10-26"
+            ],
+            [
+                "deathPlace",
+                "Dublin, Ireland"
+            ],
+            [
+                "father",
+                "Maurice Dockrell (Unionist politician)"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Yitzhak": {
+        "qa": [
+            "Question: The party of Yitzhak is __ . Additional information:\tA. predecessor\tB. birthDate\tC. deathDate\tD. nationality",
+            "Alignment (political party)"
+        ],
+        "choices": [
+            [
+                "predecessor",
+                "Ephraim Katzir"
+            ],
+            [
+                "birthDate",
+                "1921-04-09"
+            ],
+            [
+                "deathDate",
+                "2015-11-06"
+            ],
+            [
+                "nationality",
+                "Israeli"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ananda_Rao": {
+        "qa": [
+            "Question: The termPeriod of Ananda Rao is __ . Additional information:\tA. successor\tB. birthDate\tC. party\tD. spouse",
+            "B. Radhabai Ananda Rao  Tenure  1"
+        ],
+        "choices": [
+            [
+                "successor",
+                "Sode Ramaiah"
+            ],
+            [
+                "birthDate",
+                "1930-02-02"
+            ],
+            [
+                "party",
+                "Indian National Congress"
+            ],
+            [
+                "spouse",
+                "B. K. Ananda Rao"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Claribel": {
+        "qa": [
+            "Question: The birthDate of Claribel is __ . Additional information:\tA. birthYear\tB. birthPlace\tC. activeYearsEndYear\tD. activeYearsStartYear",
+            "1961-12-16"
+        ],
+        "choices": [
+            [
+                "birthYear",
+                "1961"
+            ],
+            [
+                "birthPlace",
+                "San Juan, Puerto Rico"
+            ],
+            [
+                "activeYearsEndYear",
+                "1984"
+            ],
+            [
+                "activeYearsStartYear",
+                "1984"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Alsing": {
+        "qa": [
+            "Question: The weightLb of Alsing is __ . Additional information:\tA. birthDate\tB. height\tC. position\tD. activeYearsStartYear",
+            "170"
+        ],
+        "choices": [
+            [
+                "birthDate",
+                "1996-05-01"
+            ],
+            [
+                "height",
+                "1.8034"
+            ],
+            [
+                "position",
+                "Defenceman"
+            ],
+            [
+                "activeYearsStartYear",
+                "2014"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Symmachus": {
+        "qa": [
+            "Question: The termStart of Symmachus is __ . Additional information:\tA. successor\tB. predecessor\tC. termEnd\tD. deathDate",
+            "0498-11-22"
+        ],
+        "choices": [
+            [
+                "successor",
+                "Pope Hormisdas"
+            ],
+            [
+                "predecessor",
+                "Pope Anastasius II"
+            ],
+            [
+                "termEnd",
+                "0514-07-19"
+            ],
+            [
+                "deathDate",
+                "0514-07-19"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Koroma": {
+        "qa": [
+            "Question: The birthDate of Koroma is __ . Additional information:\tA. college\tB. birthPlace\tC. position\tD. currentTeam",
+            "1996-04-27"
+        ],
+        "choices": [
+            [
+                "college",
+                "BYU Cougars football"
+            ],
+            [
+                "birthPlace",
+                "Dallas"
+            ],
+            [
+                "position",
+                "Center (gridiron football)"
+            ],
+            [
+                "currentTeam",
+                "Michigan Panthers"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Eliason": {
+        "qa": [
+            "Question: The height of Eliason is __ . Additional information:\tA. college\tB. activeYearsEndYear\tC. nationality\tD. deathDate",
+            "1.8796"
+        ],
+        "choices": [
+            [
+                "college",
+                "Hamline Pipers men's basketball"
+            ],
+            [
+                "activeYearsEndYear",
+                "1947"
+            ],
+            [
+                "nationality",
+                "American"
+            ],
+            [
+                "deathDate",
+                "2003-08-18"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Delanie": {
+        "qa": [
+            "Question: The debutleague of Delanie is __ . Additional information:\tA. debutteam\tB. debutyear\tC. position\tD. birthPlace",
+            "NPF"
+        ],
+        "choices": [
+            [
+                "debutteam",
+                "Texas Charge"
+            ],
+            [
+                "debutyear",
+                "2017"
+            ],
+            [
+                "position",
+                "Pitcher"
+            ],
+            [
+                "birthPlace",
+                "Lakeside, California"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Sýkora": {
+        "qa": [
+            "Question: The activeYearsStartYear of Sýkora is __ . Additional information:\tA. activeYearsEndYear\tB. weightLb\tC. position\tD. birthDate",
+            "1993"
+        ],
+        "choices": [
+            [
+                "activeYearsEndYear",
+                "2005"
+            ],
+            [
+                "weightLb",
+                "233"
+            ],
+            [
+                "position",
+                "Defenceman (ice hockey)"
+            ],
+            [
+                "birthDate",
+                "1973-07-05"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Gianni": {
+        "qa": [
+            "Question: The termPeriod of Gianni is __ . Additional information:\tA. birthDate\tB. termStart\tC. almaMater\tD. predecessor",
+            "Gianni Infantino  Tenure  1"
+        ],
+        "choices": [
+            [
+                "birthDate",
+                "1970-03-23"
+            ],
+            [
+                "termStart",
+                "2016-02-26"
+            ],
+            [
+                "almaMater",
+                "University of Fribourg"
+            ],
+            [
+                "predecessor",
+                "Issa Hayatou"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Chozen": {
+        "qa": [
+            "Question: The deathDate of Chozen is __ . Additional information:\tA. finalyear\tB. debutyear\tC. deathPlace\tD. statleague",
+            "1994-09-16"
+        ],
+        "choices": [
+            [
+                "finalyear",
+                "1937"
+            ],
+            [
+                "debutyear",
+                "1937"
+            ],
+            [
+                "deathPlace",
+                "Houston, Texas"
+            ],
+            [
+                "statleague",
+                "MLB"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/William_Backhouse_Astor": {
+        "qa": [
+            "Question: The birthPlace of William Backhouse Astor is __ . Additional information:\tA. birthYear\tB. parent\tC. deathYear\tD. deathDate",
+            "New York City, New York, U.S."
+        ],
+        "choices": [
+            [
+                "birthYear",
+                "1829"
+            ],
+            [
+                "parent",
+                "William Backhouse Astor Sr."
+            ],
+            [
+                "deathYear",
+                "1892"
+            ],
+            [
+                "deathDate",
+                "1892-04-25"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Thutmose": {
+        "qa": [
+            "Question: The mother of Thutmose is __ . Additional information:\tA. father\tB. predecessor\tC. successor\tD. deathDate",
+            "Mutnofret"
+        ],
+        "choices": [
+            [
+                "father",
+                "Thutmose I"
+            ],
+            [
+                "predecessor",
+                "Thutmose I"
+            ],
+            [
+                "successor",
+                "Hatshepsut"
+            ],
+            [
+                "deathDate",
+                "1479"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Rowdon": {
+        "qa": [
+            "Question: The finalyear of Rowdon is __ . Additional information:\tA. birthDate\tB. statleague\tC. birthPlace\tD. finaldate",
+            "1988"
+        ],
+        "choices": [
+            [
+                "birthDate",
+                "1960-09-07"
+            ],
+            [
+                "statleague",
+                "MLB"
+            ],
+            [
+                "birthPlace",
+                "Riverhead, New York"
+            ],
+            [
+                "finaldate",
+                "--06-19"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Wasti": {
+        "qa": [
+            "Question: The activeYearsEndYear of Wasti is __ . Additional information:\tA. deathDate\tB. birthDate\tC. child\tD. nationality",
+            "2011"
+        ],
+        "choices": [
+            [
+                "deathDate",
+                "2011-01-24"
+            ],
+            [
+                "birthDate",
+                "1937"
+            ],
+            [
+                "child",
+                "Laila Wasti"
+            ],
+            [
+                "nationality",
+                "Pakistani"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Philbin": {
+        "qa": [
+            "Question: The birthYear of Philbin is __ . Additional information:\tA. deathYear\tB. activeYearsEndYear\tC. birthDate\tD. deathDate",
+            "1902"
+        ],
+        "choices": [
+            [
+                "deathYear",
+                "1993"
+            ],
+            [
+                "activeYearsEndYear",
+                "1930"
+            ],
+            [
+                "birthDate",
+                "1902-07-16"
+            ],
+            [
+                "deathDate",
+                "1993-05-07"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Thomas_Holland": {
+        "qa": [
+            "Question: The birthDate of Thomas Holland is __ . Additional information:\tA. spouse\tB. deathDate\tC. father\tD. mother",
+            "1350"
+        ],
+        "choices": [
+            [
+                "spouse",
+                "Alice FitzAlan (1350–1416)"
+            ],
+            [
+                "deathDate",
+                "1397-04-25"
+            ],
+            [
+                "father",
+                "Thomas Holland, 1st Earl of Kent"
+            ],
+            [
+                "mother",
+                "Joan of Kent"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Emperor_Jianwen": {
+        "qa": [
+            "Question: The mother of Emperor Jianwen is __ . Additional information:\tA. spouse\tB. activeYearsEndYear\tC. deathDate\tD. successor",
+            "Empress Dowager Mu"
+        ],
+        "choices": [
+            [
+                "spouse",
+                "Empress Jianwenjian"
+            ],
+            [
+                "activeYearsEndYear",
+                "0551"
+            ],
+            [
+                "deathDate",
+                "551"
+            ],
+            [
+                "successor",
+                "Xiao Dong"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Parmley": {
+        "qa": [
+            "Question: The position of Parmley is __ . Additional information:\tA. finalyear\tB. birthPlace\tC. finaldate\tD. debutyear",
+            "Outfielder"
+        ],
+        "choices": [
+            [
+                "finalyear",
+                "2017"
+            ],
+            [
+                "birthPlace",
+                "Snohomish, Washington"
+            ],
+            [
+                "finaldate",
+                "--06-25"
+            ],
+            [
+                "debutyear",
+                "2017"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Gonzalo_Fernández": {
+        "qa": [
+            "Question: The predecessor of Gonzalo Fernández is __ . Additional information:\tA. termStart\tB. termEnd\tC. successor\tD. birthDate",
+            "Gómez Suárez de Figueroa, 3rd Duke of Feria"
+        ],
+        "choices": [
+            [
+                "termStart",
+                "1625"
+            ],
+            [
+                "termEnd",
+                "1629"
+            ],
+            [
+                "successor",
+                "Ambrogio Spinola, 1st Marquis of the Balbases"
+            ],
+            [
+                "birthDate",
+                "1585-12-31"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Safran": {
+        "qa": [
+            "Question: The birthYear of Safran is __ . Additional information:\tA. employer\tB. birthDate\tC. activeYearsStartYear\tD. spouse",
+            "1965"
+        ],
+        "choices": [
+            [
+                "employer",
+                "Warner Bros."
+            ],
+            [
+                "birthDate",
+                "1965-11-22"
+            ],
+            [
+                "activeYearsStartYear",
+                "1997"
+            ],
+            [
+                "spouse",
+                "Natalia Safran"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Tixier": {
+        "qa": [
+            "Question: The mother of Tixier is __ . Additional information:\tA. nationality\tB. father\tC. party\tD. deathDate",
+            "Andrée Vignancour"
+        ],
+        "choices": [
+            [
+                "nationality",
+                "French people"
+            ],
+            [
+                "father",
+                "Léon Tixier"
+            ],
+            [
+                "party",
+                "Party of New Forces"
+            ],
+            [
+                "deathDate",
+                "1989-09-29"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Géza": {
+        "qa": [
+            "Question: The religion of Géza is __ . Additional information:\tA. mother\tB. deathDate\tC. birthDate\tD. deathPlace",
+            "Catholic Church"
+        ],
+        "choices": [
+            [
+                "mother",
+                "Helena of Serbia, Queen of Hungary"
+            ],
+            [
+                "deathDate",
+                "--05-31"
+            ],
+            [
+                "birthDate",
+                "1130"
+            ],
+            [
+                "deathPlace",
+                "Székesfehérvár, Kingdom of Hungary"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Teixeira": {
+        "qa": [
+            "Question: The birthDate of Teixeira is __ . Additional information:\tA. deathYear\tB. deathPlace\tC. birthYear\tD. deathDate",
+            "1919-09-19"
+        ],
+        "choices": [
+            [
+                "deathYear",
+                "2006"
+            ],
+            [
+                "deathPlace",
+                "Oeiras, Portugal"
+            ],
+            [
+                "birthYear",
+                "1919"
+            ],
+            [
+                "deathDate",
+                "2006-03-03"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Jyrki": {
+        "qa": [
+            "Question: The height of Jyrki is __ . Additional information:\tA. activeYearsStartYear\tB. weightLb\tC. position\tD. birthDate",
+            "1.8542"
+        ],
+        "choices": [
+            [
+                "activeYearsStartYear",
+                "1985"
+            ],
+            [
+                "weightLb",
+                "205"
+            ],
+            [
+                "position",
+                "Defenceman (ice hockey)"
+            ],
+            [
+                "birthDate",
+                "1966-07-16"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Mikkelson": {
+        "qa": [
+            "Question: The weightLb of Mikkelson is __ . Additional information:\tA. birthDate\tB. position\tC. height\tD. activeYearsStartYear",
+            "139"
+        ],
+        "choices": [
+            [
+                "birthDate",
+                "1985-01-04"
+            ],
+            [
+                "position",
+                "Defenceman"
+            ],
+            [
+                "height",
+                "1.7526"
+            ],
+            [
+                "activeYearsStartYear",
+                "2003"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ranjan": {
+        "qa": [
+            "Question: The nationality of Ranjan is __ . Additional information:\tA. occupation\tB. successor\tC. parliament\tD. birthDate",
+            "Sri Lanka"
+        ],
+        "choices": [
+            [
+                "occupation",
+                "Politician"
+            ],
+            [
+                "successor",
+                "Ajith Mannapperuma"
+            ],
+            [
+                "parliament",
+                "Sri Lanka"
+            ],
+            [
+                "birthDate",
+                "1963-03-11"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Pawlik": {
+        "qa": [
+            "Question: The deathYear of Pawlik is __ . Additional information:\tA. activeYearsStartYear\tB. birthDate\tC. deathDate\tD. birthYear",
+            "2002"
+        ],
+        "choices": [
+            [
+                "activeYearsStartYear",
+                "1951"
+            ],
+            [
+                "birthDate",
+                "1926-01-08"
+            ],
+            [
+                "deathDate",
+                "2002-05-06"
+            ],
+            [
+                "birthYear",
+                "1926"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Edward_Law": {
+        "qa": [
+            "Question: The parent of Edward Law is __ . Additional information:\tA. birthDate\tB. nationality\tC. deathDate\tD. almaMater",
+            "Edward Law, 1st Baron Ellenborough"
+        ],
+        "choices": [
+            [
+                "birthDate",
+                "1790-09-08"
+            ],
+            [
+                "nationality",
+                "British"
+            ],
+            [
+                "deathDate",
+                "1871-12-22"
+            ],
+            [
+                "almaMater",
+                "St John's College, Cambridge"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ceccherini": {
+        "qa": [
+            "Question: The deathYear of Ceccherini is __ . Additional information:\tA. birthYear\tB. nationality\tC. activeYearsEndYear\tD. activeYearsStartYear",
+            "1974"
+        ],
+        "choices": [
+            [
+                "birthYear",
+                "1915"
+            ],
+            [
+                "nationality",
+                "Italian"
+            ],
+            [
+                "activeYearsEndYear",
+                "1974"
+            ],
+            [
+                "activeYearsStartYear",
+                "1963"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Pretty": {
+        "qa": [
+            "Question: The birthDate of Pretty is __ . Additional information:\tA. country\tB. debutfor\tC. debutyear\tD. deathDate",
+            "1875-10-23"
+        ],
+        "choices": [
+            [
+                "country",
+                "England"
+            ],
+            [
+                "debutfor",
+                "Surrey"
+            ],
+            [
+                "debutyear",
+                "1899"
+            ],
+            [
+                "deathDate",
+                "1952-05-30"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Johl": {
+        "qa": [
+            "Question: The birthYear of Johl is __ . Additional information:\tA. birthDate\tB. nationality\tC. deathDate\tD. deathYear",
+            "1900"
+        ],
+        "choices": [
+            [
+                "birthDate",
+                "1900-10-26"
+            ],
+            [
+                "nationality",
+                "American"
+            ],
+            [
+                "deathDate",
+                "1957-03-31"
+            ],
+            [
+                "deathYear",
+                "1957"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Māris": {
+        "qa": [
+            "Question: The activeYearsEndYear of Māris is __ . Additional information:\tA. position\tB. weightLb\tC. activeYearsStartYear\tD. birthDate",
+            "2013"
+        ],
+        "choices": [
+            [
+                "position",
+                "Forward (ice hockey)"
+            ],
+            [
+                "weightLb",
+                "174"
+            ],
+            [
+                "activeYearsStartYear",
+                "1992"
+            ],
+            [
+                "birthDate",
+                "1978-07-03"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Mary_Craig": {
+        "qa": [
+            "Question: The birthDate of Mary Craig is __ . Additional information:\tA. nationality\tB. deathDate\tC. activeYearsEndYear\tD. activeYearsStartYear",
+            "1923-02-23"
+        ],
+        "choices": [
+            [
+                "nationality",
+                "American"
+            ],
+            [
+                "deathDate",
+                "1991-01-12"
+            ],
+            [
+                "activeYearsEndYear",
+                "1990"
+            ],
+            [
+                "activeYearsStartYear",
+                "1960"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Cohoon": {
+        "qa": [
+            "Question: The birthPlace of Cohoon is __ . Additional information:\tA. termPeriod\tB. birthDate\tC. residence\tD. almaMater",
+            "Des Moines County, Iowa"
+        ],
+        "choices": [
+            [
+                "termPeriod",
+                "Dennis Cohoon  Tenure  1"
+            ],
+            [
+                "birthDate",
+                "1953-03-29"
+            ],
+            [
+                "residence",
+                "Burlington, Iowa"
+            ],
+            [
+                "almaMater",
+                "Iowa Wesleyan College"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bolstad": {
+        "qa": [
+            "Question: The birthDate of Bolstad is __ . Additional information:\tA. residence\tB. party\tC. spouse\tD. birthPlace",
+            "1966-02-13"
+        ],
+        "choices": [
+            [
+                "residence",
+                "Great Falls, Montana"
+            ],
+            [
+                "party",
+                "Democratic Party (United States)"
+            ],
+            [
+                "spouse",
+                "Laura"
+            ],
+            [
+                "birthPlace",
+                "Great Falls, Montana"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Arkadiy": {
+        "qa": [
+            "Question: The activeYearsEndYear of Arkadiy is __ . Additional information:\tA. country\tB. birthDate\tC. birthPlace\tD. hometown",
+            "2009"
+        ],
+        "choices": [
+            [
+                "country",
+                "Russia"
+            ],
+            [
+                "birthDate",
+                "1986-02-06"
+            ],
+            [
+                "birthPlace",
+                "Omsk, Russian SFSR, Soviet Union"
+            ],
+            [
+                "hometown",
+                "Moscow"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Van_Tassel": {
+        "qa": [
+            "Question: The nationality of Van Tassel is __ . Additional information:\tA. deathYear\tB. deathDate\tC. birthYear\tD. birthPlace",
+            "American"
+        ],
+        "choices": [
+            [
+                "deathYear",
+                "1945"
+            ],
+            [
+                "deathDate",
+                "1945"
+            ],
+            [
+                "birthYear",
+                "1861"
+            ],
+            [
+                "birthPlace",
+                "Philadelphia"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Silvestrini": {
+        "qa": [
+            "Question: The birthDate of Silvestrini is __ . Additional information:\tA. instrument\tB. occupation\tC. birthPlace\tD. genre",
+            "1961-06-04"
+        ],
+        "choices": [
+            [
+                "instrument",
+                "Oboe"
+            ],
+            [
+                "occupation",
+                "Composer"
+            ],
+            [
+                "birthPlace",
+                "Givet, France"
+            ],
+            [
+                "genre",
+                "Contemporary"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Enyart": {
+        "qa": [
+            "Question: The deathYear of Enyart is __ . Additional information:\tA. birthYear\tB. deathDate\tC. birthDate\tD. almaMater",
+            "2021"
+        ],
+        "choices": [
+            [
+                "birthYear",
+                "1959"
+            ],
+            [
+                "deathDate",
+                "2021-09-12"
+            ],
+            [
+                "birthDate",
+                "1959-01-10"
+            ],
+            [
+                "almaMater",
+                "Arizona State University"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Salmela": {
+        "qa": [
+            "Question: The height of Salmela is __ . Additional information:\tA. position\tB. activeYearsStartYear\tC. birthDate\tD. weightLb",
+            "1.8542"
+        ],
+        "choices": [
+            [
+                "position",
+                "Defenceman"
+            ],
+            [
+                "activeYearsStartYear",
+                "2003"
+            ],
+            [
+                "birthDate",
+                "1984-08-13"
+            ],
+            [
+                "weightLb",
+                "201"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Semin": {
+        "qa": [
+            "Question: The height of Semin is __ . Additional information:\tA. activeYearsEndYear\tB. weightLb\tC. birthDate\tD. activeYearsStartYear",
+            "1.8796"
+        ],
+        "choices": [
+            [
+                "activeYearsEndYear",
+                "2022"
+            ],
+            [
+                "weightLb",
+                "212"
+            ],
+            [
+                "birthDate",
+                "1984-03-03"
+            ],
+            [
+                "activeYearsStartYear",
+                "2001"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Simcha": {
+        "qa": [
+            "Question: The birthDate of Simcha is __ . Additional information:\tA. party\tB. termPeriod\tC. termStart\tD. predecessor",
+            "1983-08-06"
+        ],
+        "choices": [
+            [
+                "party",
+                "Democratic Party (United States)"
+            ],
+            [
+                "termPeriod",
+                "Simcha Eichenstein  Tenure  1"
+            ],
+            [
+                "termStart",
+                "2019-01-02"
+            ],
+            [
+                "predecessor",
+                "Dov Hikind"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Adam_Alexander": {
+        "qa": [
+            "Question: The spouse of Adam Alexander is __ . Additional information:\tA. deathYear\tB. birthDate\tC. birthYear\tD. deathDate",
+            "Nora Francisca Blackburne"
+        ],
+        "choices": [
+            [
+                "deathYear",
+                "2010"
+            ],
+            [
+                "birthDate",
+                "1913-03-20"
+            ],
+            [
+                "birthYear",
+                "1913"
+            ],
+            [
+                "deathDate",
+                "2010-01-29"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Shaw_Lefevre": {
+        "qa": [
+            "Question: The party of Shaw Lefevre is __ . Additional information:\tA. nationality\tB. birthDate\tC. spouse\tD. deathDate",
+            "Liberal Party (UK)"
+        ],
+        "choices": [
+            [
+                "nationality",
+                "British people"
+            ],
+            [
+                "birthDate",
+                "1831-06-12"
+            ],
+            [
+                "spouse",
+                "Lady Constance Reynolds-Moreton"
+            ],
+            [
+                "deathDate",
+                "1928-04-19"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Anil_Kumar": {
+        "qa": [
+            "Question: The stateOfOrigin of Anil Kumar is __ . Additional information:\tA. birthDate\tB. club\tC. country\tD. sport",
+            "India"
+        ],
+        "choices": [
+            [
+                "birthDate",
+                "1978-08-28"
+            ],
+            [
+                "club",
+                "Services"
+            ],
+            [
+                "country",
+                "India"
+            ],
+            [
+                "sport",
+                "Track and field"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Koivu": {
+        "qa": [
+            "Question: The activeYearsEndYear of Koivu is __ . Additional information:\tA. position\tB. birthDate\tC. weightLb\tD. activeYearsStartYear",
+            "2014"
+        ],
+        "choices": [
+            [
+                "position",
+                "Center (ice hockey)"
+            ],
+            [
+                "birthDate",
+                "1974-11-23"
+            ],
+            [
+                "weightLb",
+                "181"
+            ],
+            [
+                "activeYearsStartYear",
+                "1992"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Hagner": {
+        "qa": [
+            "Question: The deathDate of Hagner is __ . Additional information:\tA. termEnd\tB. mother\tC. predecessor\tD. termStart",
+            "1915-06-30"
+        ],
+        "choices": [
+            [
+                "termEnd",
+                "1903-06-01"
+            ],
+            [
+                "mother",
+                "Frances Randall Hagner"
+            ],
+            [
+                "predecessor",
+                "Abram B. Olin"
+            ],
+            [
+                "termStart",
+                "1879-01-21"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Desnoyers": {
+        "qa": [
+            "Question: The deathYear of Desnoyers is __ . Additional information:\tA. birthPlace\tB. birthDate\tC. birthYear\tD. deathDate",
+            "1846"
+        ],
+        "choices": [
+            [
+                "birthPlace",
+                "Paris, France"
+            ],
+            [
+                "birthDate",
+                "1772-08-01"
+            ],
+            [
+                "birthYear",
+                "1772"
+            ],
+            [
+                "deathDate",
+                "1846-06-03"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Elizabeth_Grey": {
+        "qa": [
+            "Question: The parent of Elizabeth Grey is __ . Additional information:\tA. deathDate\tB. birthDate\tC. father\tD. mother",
+            "Edward Grey, 1st Viscount Lisle"
+        ],
+        "choices": [
+            [
+                "deathDate",
+                "1525"
+            ],
+            [
+                "birthDate",
+                "1482"
+            ],
+            [
+                "father",
+                "Edward Grey, 1st Viscount Lisle"
+            ],
+            [
+                "mother",
+                "Elizabeth Talbot"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Laddie": {
+        "qa": [
+            "Question: The birthDate of Laddie is __ . Additional information:\tA. birthPlace\tB. nationality\tC. height\tD. college",
+            "1917-04-22"
+        ],
+        "choices": [
+            [
+                "birthPlace",
+                "Grants Pass, Oregon"
+            ],
+            [
+                "nationality",
+                "American"
+            ],
+            [
+                "height",
+                "1.9304"
+            ],
+            [
+                "college",
+                "Oregon Ducks men's basketball"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Donald": {
+        "qa": [
+            "Question: The debutteam of Donald is __ . Additional information:\tA. finaldate\tB. position\tC. birthDate\tD. statleague",
+            "San Diego Padres"
+        ],
+        "choices": [
+            [
+                "finaldate",
+                "--07-06"
+            ],
+            [
+                "position",
+                "Shortstop"
+            ],
+            [
+                "birthDate",
+                "1978-06-07"
+            ],
+            [
+                "statleague",
+                "MLB"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/McCoubrey": {
+        "qa": [
+            "Question: The nationality of McCoubrey is __ . Additional information:\tA. birthPlace\tB. deathDate\tC. birthDate\tD. deathYear",
+            "Irish"
+        ],
+        "choices": [
+            [
+                "birthPlace",
+                "Elderslie, Scotland"
+            ],
+            [
+                "deathDate",
+                "1956-04-11"
+            ],
+            [
+                "birthDate",
+                "1880-01-05"
+            ],
+            [
+                "deathYear",
+                "1956"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kamat": {
+        "qa": [
+            "Question: The nationality of Kamat is __ . Additional information:\tA. activeYearsEndYear\tB. birthDate\tC. birthYear\tD. deathDate",
+            "Indian"
+        ],
+        "choices": [
+            [
+                "activeYearsEndYear",
+                "2014"
+            ],
+            [
+                "birthDate",
+                "1921-09-07"
+            ],
+            [
+                "birthYear",
+                "1921"
+            ],
+            [
+                "deathDate",
+                "2014-10-09"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Mitsuda": {
+        "qa": [
+            "Question: The nationality of Mitsuda is __ . Additional information:\tA. birthYear\tB. deathDate\tC. birthDate\tD. deathYear",
+            "Japanese"
+        ],
+        "choices": [
+            [
+                "birthYear",
+                "1876"
+            ],
+            [
+                "deathDate",
+                "1964-05-14"
+            ],
+            [
+                "birthDate",
+                "1876-01-12"
+            ],
+            [
+                "deathYear",
+                "1964"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Trae": {
+        "qa": [
+            "Question: The college of Trae is __ . Additional information:\tA. hometown\tB. activeYearsStartYear\tC. height\tD. weightLb",
+            "Oklahoma Sooners men's basketball"
+        ],
+        "choices": [
+            [
+                "hometown",
+                "Norman, Oklahoma"
+            ],
+            [
+                "activeYearsStartYear",
+                "2018"
+            ],
+            [
+                "height",
+                "1.8542"
+            ],
+            [
+                "weightLb",
+                "164"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Honoré": {
+        "qa": [
+            "Question: The genre of Honoré is __ . Additional information:\tA. activeYearsStartYear\tB. deathDate\tC. birthDate\tD. occupation",
+            "Pastoral"
+        ],
+        "choices": [
+            [
+                "activeYearsStartYear",
+                "0016"
+            ],
+            [
+                "deathDate",
+                "1625-06-01"
+            ],
+            [
+                "birthDate",
+                "1568-02-11"
+            ],
+            [
+                "occupation",
+                "Writer"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ali_Mardan": {
+        "qa": [
+            "Question: The deathPlace of Ali Mardan is __ . Additional information:\tA. activeYearsEndYear\tB. successor\tC. deathDate\tD. activeYearsStartYear",
+            "Near Kermanshah"
+        ],
+        "choices": [
+            [
+                "activeYearsEndYear",
+                "1751"
+            ],
+            [
+                "successor",
+                "Karim Khan Zand"
+            ],
+            [
+                "deathDate",
+                "Spring 1754"
+            ],
+            [
+                "activeYearsStartYear",
+                "1750"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kiær": {
+        "qa": [
+            "Question: The party of Kiær is __ . Additional information:\tA. nationality\tB. termPeriod\tC. deathDate\tD. termStart",
+            "Liberal Party (Norway)"
+        ],
+        "choices": [
+            [
+                "nationality",
+                "Norway"
+            ],
+            [
+                "termPeriod",
+                "Dakky Kiær  Tenure  1"
+            ],
+            [
+                "deathDate",
+                "1980-07-21"
+            ],
+            [
+                "termStart",
+                "1946"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/McEniff": {
+        "qa": [
+            "Question: The sport of McEniff is __ . Additional information:\tA. occupation\tB. activeYearsStartYear\tC. activeYearsEndYear\tD. birthDate",
+            "Gaelic football"
+        ],
+        "choices": [
+            [
+                "occupation",
+                "Hotelier"
+            ],
+            [
+                "activeYearsStartYear",
+                "0196"
+            ],
+            [
+                "activeYearsEndYear",
+                "0197"
+            ],
+            [
+                "birthDate",
+                "1942-12-01"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Pedro_I": {
+        "qa": [
+            "Question: The deathDate of Pedro I is __ . Additional information:\tA. mother\tB. deathPlace\tC. religion\tD. father",
+            "1367-01-18"
+        ],
+        "choices": [
+            [
+                "mother",
+                "Beatrice of Castile (1293–1359)"
+            ],
+            [
+                "deathPlace",
+                "Estremoz, Portugal"
+            ],
+            [
+                "religion",
+                "Roman Catholicism"
+            ],
+            [
+                "father",
+                "Afonso IV of Portugal"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Pope_Marcellus": {
+        "qa": [
+            "Question: The predecessor of Pope Marcellus is __ . Additional information:\tA. termEnd\tB. deathDate\tC. successor\tD. termStart",
+            "Pope Marcellinus"
+        ],
+        "choices": [
+            [
+                "termEnd",
+                "0309-01-16"
+            ],
+            [
+                "deathDate",
+                "0309-01-16"
+            ],
+            [
+                "successor",
+                "Pope Eusebius"
+            ],
+            [
+                "termStart",
+                "0308-05-27"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ueland": {
+        "qa": [
+            "Question: The deathPlace of Ueland is __ . Additional information:\tA. deathYear\tB. birthYear\tC. deathDate\tD. birthPlace",
+            "Minnesota"
+        ],
+        "choices": [
+            [
+                "deathYear",
+                "1927"
+            ],
+            [
+                "birthYear",
+                "1860"
+            ],
+            [
+                "deathDate",
+                "1927-03-01"
+            ],
+            [
+                "birthPlace",
+                "Akron, Ohio"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,1801 @@
+{
+    "http://dbpedia.org/resource/Rogue_Squadron": {
+        "chosen_entity": "http://dbpedia.org/resource/Star_Wars_Rogue_Squadron_III:_Rebel_Strike",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Star_Wars:_Rogue_Squadron",
+            "http://dbpedia.org/resource/Star_Wars_Rogue_Squadron_II:_Rogue_Leader",
+            "http://dbpedia.org/resource/Star_Wars_Rogue_Squadron_III:_Rebel_Strike"
+        ],
+        "questions": [
+            [
+                "The genre of Rogue Squadron is Action game, and artist is Paul Topolos. Is the Rogue Squadron referring to Star Wars Rogue Squadron III: Rebel Strike?",
+                "Yes"
+            ],
+            [
+                "The genre of Rogue Squadron is Action game, and artist is Paul Topolos. Is the Rogue Squadron referring to Star Wars: Rogue Squadron?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Amour_fou": {
+        "chosen_entity": "http://dbpedia.org/resource/L'Amour_fou_(album)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Amour_Fou_(2014_film)",
+            "http://dbpedia.org/resource/Amour_Fou_(The_Sopranos)",
+            "http://dbpedia.org/resource/L'Amour_fou_(album)",
+            "http://dbpedia.org/resource/L'Amour_fou_(film)"
+        ],
+        "questions": [
+            [
+                "The certyear of Amour fou is 2012, and genre is French pop music. Is the Amour fou referring to L'Amour fou (album)?",
+                "Yes"
+            ],
+            [
+                "The certyear of Amour fou is 2012, and genre is French pop music. Is the Amour fou referring to L'Amour fou (film)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Good_as_Gold": {
+        "chosen_entity": "http://dbpedia.org/resource/Good_as_Gold!",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Good_as_Gold!",
+            "http://dbpedia.org/resource/Miaow_(album)"
+        ],
+        "questions": [
+            [
+                "The released of Good as Gold is 1983, and artist is The Country Gentlemen. Is the Good as Gold referring to Good as Gold!?",
+                "Yes"
+            ],
+            [
+                "The released of Good as Gold is 1983, and artist is The Country Gentlemen. Is the Good as Gold referring to Miaow (album)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Over_the_Rainbow": {
+        "chosen_entity": "http://dbpedia.org/resource/Somewhere_Over_the_Rainbow_(Willie_Nelson_album)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Over_the_Rainbow_–_The_Songbird_Collection",
+            "http://dbpedia.org/resource/Somewhere_Over_the_Rainbow/What_a_Wonderful_World",
+            "http://dbpedia.org/resource/Somewhere_Over_the_Rainbow_(Harold_Mabern_album)",
+            "http://dbpedia.org/resource/Somewhere_Over_the_Rainbow_(Willie_Nelson_album)"
+        ],
+        "questions": [
+            [
+                "The artist of Over the Rainbow is Willie Nelson, and released is February 1981. Is the Over the Rainbow referring to Somewhere Over the Rainbow (Willie Nelson album)?",
+                "Yes"
+            ],
+            [
+                "The artist of Over the Rainbow is Willie Nelson, and released is February 1981. Is the Over the Rainbow referring to Somewhere Over the Rainbow (Harold Mabern album)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Hell_Hath_No_Fury": {
+        "chosen_entity": "http://dbpedia.org/resource/Hell_Hath_No_Fury_Like_a_Woman_Scorned",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Charmed_(season_4)",
+            "http://dbpedia.org/resource/Hell_Hath_No_Fury_Like_a_Woman_Scorned"
+        ],
+        "questions": [
+            [
+                "The writer of Hell Hath No Fury is Tyler Perry, and author is Tyler Perry. Is the Hell Hath No Fury referring to Hell Hath No Fury Like a Woman Scorned?",
+                "Yes"
+            ],
+            [
+                "The writer of Hell Hath No Fury is Tyler Perry, and author is Tyler Perry. Is the Hell Hath No Fury referring to Charmed (season 4)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Broken": {
+        "chosen_entity": "http://dbpedia.org/resource/Broken_Bridges",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Broken_Bridges",
+            "http://dbpedia.org/resource/CSI:_Miami_(season_1)"
+        ],
+        "questions": [
+            [
+                "The language of Broken is English, and distributor is Paramount Vantage. Is the Broken referring to Broken Bridges?",
+                "Yes"
+            ],
+            [
+                "The language of Broken is English, and distributor is Paramount Vantage. Is the Broken referring to CSI: Miami (season 1)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bleed_for_Me": {
+        "chosen_entity": "http://dbpedia.org/resource/Shotgun_Reality",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/1919_Eternal",
+            "http://dbpedia.org/resource/Shotgun_Reality"
+        ],
+        "questions": [
+            [
+                "The genre of Bleed for Me is Industrial Metal, and released is October 2007. Is the Bleed for Me referring to Shotgun Reality?",
+                "Yes"
+            ],
+            [
+                "The genre of Bleed for Me is Industrial Metal, and released is October 2007. Is the Bleed for Me referring to 1919 Eternal?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/One_million": {
+        "chosen_entity": "http://dbpedia.org/resource/One_Million_Years_B.C.",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/One_Million_B.C.",
+            "http://dbpedia.org/resource/One_Million_Years_B.C."
+        ],
+        "questions": [
+            [
+                "The writer of One million is Michael Carreras, and editing is Tom Simpson. Is the One million referring to One Million Years B.C.?",
+                "Yes"
+            ],
+            [
+                "The writer of One million is Michael Carreras, and editing is Tom Simpson. Is the One million referring to One Million B.C.?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Cold_War": {
+        "chosen_entity": "http://dbpedia.org/resource/Toy_Soldiers:_Cold_War",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Call_of_Duty:_Black_Ops_Cold_War",
+            "http://dbpedia.org/resource/Star_Trek:_Enterprise",
+            "http://dbpedia.org/resource/Star_Wars:_The_Old_Republic",
+            "http://dbpedia.org/resource/Toy_Soldiers:_Cold_War"
+        ],
+        "questions": [
+            [
+                "The developer of Cold War is Signal Studios, and publisher is Microsoft Studios (game studio). Is the Cold War referring to Toy Soldiers: Cold War?",
+                "Yes"
+            ],
+            [
+                "The developer of Cold War is Signal Studios, and publisher is Microsoft Studios (game studio). Is the Cold War referring to Star Trek: Enterprise?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/No_Hope": {
+        "chosen_entity": "http://dbpedia.org/resource/No_Hope,_No_Future",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/No_Hope,_No_Fear",
+            "http://dbpedia.org/resource/No_Hope,_No_Future"
+        ],
+        "questions": [
+            [
+                "The released of No Hope is 2010-01-25, and artist is Good Shoes. Is the No Hope referring to No Hope, No Future?",
+                "Yes"
+            ],
+            [
+                "The released of No Hope is 2010-01-25, and artist is Good Shoes. Is the No Hope referring to No Hope, No Fear?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Consenting_adults": {
+        "chosen_entity": "http://dbpedia.org/resource/Consenting_Adults_(1992_film)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Consenting_Adults_(1992_film)",
+            "http://dbpedia.org/resource/Consenting_Adults_(2007_film)",
+            "http://dbpedia.org/resource/Consenting_Adults_(album)"
+        ],
+        "questions": [
+            [
+                "The language of Consenting adults is English, and music is Michael Small. Is the Consenting adults referring to Consenting Adults (1992 film)?",
+                "Yes"
+            ],
+            [
+                "The language of Consenting adults is English, and music is Michael Small. Is the Consenting adults referring to Consenting Adults (album)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Boston_Tea_Party": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Boston_Tea_Party_(1915_film)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Boston_Tea_Party_(1908_film)",
+            "http://dbpedia.org/resource/The_Boston_Tea_Party_(1915_film)"
+        ],
+        "questions": [
+            [
+                "The distributor of Boston Tea Party is General Film Company, and country is United States. Is the Boston Tea Party referring to The Boston Tea Party (1915 film)?",
+                "Yes"
+            ],
+            [
+                "The distributor of Boston Tea Party is General Film Company, and country is United States. Is the Boston Tea Party referring to The Boston Tea Party (1908 film)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Social_animal": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Social_Animal_(Aronson_book)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Social_Animals_(2018_comedy_film)",
+            "http://dbpedia.org/resource/Social_Animals_(2018_documentary_film)",
+            "http://dbpedia.org/resource/The_Social_Animal_(Aronson_book)",
+            "http://dbpedia.org/resource/The_Social_Animal_(Brooks_book)"
+        ],
+        "questions": [
+            [
+                "The author of Social animal is Elliot Aronson, and releaseDate is 1972. Is the Social animal referring to The Social Animal (Aronson book)?",
+                "Yes"
+            ],
+            [
+                "The author of Social animal is Elliot Aronson, and releaseDate is 1972. Is the Social animal referring to The Social Animal (Brooks book)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Book_of_Dreams": {
+        "chosen_entity": "http://dbpedia.org/resource/Yume_No_Hon:_The_Book_of_Dreams",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/My_Education:_A_Book_of_Dreams",
+            "http://dbpedia.org/resource/Yume_No_Hon:_The_Book_of_Dreams"
+        ],
+        "questions": [
+            [
+                "The mediaType of Book of Dreams is Print, and author is Catherynne M. Valente. Is the Book of Dreams referring to Yume No Hon: The Book of Dreams?",
+                "Yes"
+            ],
+            [
+                "The mediaType of Book of Dreams is Print, and author is Catherynne M. Valente. Is the Book of Dreams referring to My Education: A Book of Dreams?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Big_Beach": {
+        "chosen_entity": "http://dbpedia.org/resource/Big_Beach_Sports",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Big_Beach_Boutique_II",
+            "http://dbpedia.org/resource/Big_Beach_Sports"
+        ],
+        "questions": [
+            [
+                "The platforms of Big Beach is Wii, and releaseDate is 2008-06-24. Is the Big Beach referring to Big Beach Sports?",
+                "Yes"
+            ],
+            [
+                "The platforms of Big Beach is Wii, and releaseDate is 2008-06-24. Is the Big Beach referring to Big Beach Boutique II?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Number_of_the_Beast": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Number_of_the_Beast_(novel)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Number_of_the_Beast_(album)",
+            "http://dbpedia.org/resource/The_Number_of_the_Beast_(novel)",
+            "http://dbpedia.org/resource/The_Number_of_the_Beast_(song)"
+        ],
+        "questions": [
+            [
+                "The mediaType of Number of the Beast is Print, and country is United States. Is the Number of the Beast referring to The Number of the Beast (novel)?",
+                "Yes"
+            ],
+            [
+                "The mediaType of Number of the Beast is Print, and country is United States. Is the Number of the Beast referring to The Number of the Beast (song)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Chinese_food": {
+        "chosen_entity": "http://dbpedia.org/resource/Chinese_Food_Made_Easy",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Chinese_Food_(song)",
+            "http://dbpedia.org/resource/Chinese_Food_Made_Easy",
+            "http://dbpedia.org/resource/Chinese_Food_in_Minutes"
+        ],
+        "questions": [
+            [
+                "The lastAired of Chinese food is present, and starring is Ching He Huang. Is the Chinese food referring to Chinese Food Made Easy?",
+                "Yes"
+            ],
+            [
+                "The lastAired of Chinese food is present, and starring is Ching He Huang. Is the Chinese food referring to Chinese Food (song)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Good_vs._Evil": {
+        "chosen_entity": "http://dbpedia.org/resource/Good_vs._Evil_II:_The_Red_Empire",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/G_vs_E",
+            "http://dbpedia.org/resource/Good_vs._Evil_II:_The_Red_Empire"
+        ],
+        "questions": [
+            [
+                "The artist of Good vs. Evil is Crooked I, and released is 2017-12-08. Is the Good vs. Evil referring to Good vs. Evil II: The Red Empire?",
+                "Yes"
+            ],
+            [
+                "The artist of Good vs. Evil is Crooked I, and released is 2017-12-08. Is the Good vs. Evil referring to G vs E?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Acolyte": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Acolyte_(novel)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Acolytes_(film)",
+            "http://dbpedia.org/resource/The_Acolyte_(novel)"
+        ],
+        "questions": [
+            [
+                "The country of Acolyte is Australia, and language is English. Is the Acolyte referring to The Acolyte (novel)?",
+                "Yes"
+            ],
+            [
+                "The country of Acolyte is Australia, and language is English. Is the Acolyte referring to Acolytes (film)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/King_of_the_Monsters": {
+        "chosen_entity": "http://dbpedia.org/resource/Godzilla,_King_of_the_Monsters!",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Godzilla,_King_of_the_Monsters!",
+            "http://dbpedia.org/resource/Godzilla:_King_of_the_Monsters_(2019_film)",
+            "http://dbpedia.org/resource/King_of_the_Monsters_2"
+        ],
+        "questions": [
+            [
+                "The starring of King of the Monsters is Raymond Burr, and music is Akira Ifukube. Is the King of the Monsters referring to Godzilla, King of the Monsters!?",
+                "Yes"
+            ],
+            [
+                "The starring of King of the Monsters is Raymond Burr, and music is Akira Ifukube. Is the King of the Monsters referring to Godzilla: King of the Monsters (2019 film)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Learning_to_fly": {
+        "chosen_entity": "http://dbpedia.org/resource/Learning_to_Fly_(video)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Learning_to_Fly_(Pink_Floyd_song)",
+            "http://dbpedia.org/resource/Learning_to_Fly_(Tom_Petty_and_the_Heartbreakers_song)",
+            "http://dbpedia.org/resource/Learning_to_Fly_(video)"
+        ],
+        "questions": [
+            [
+                "The released of Learning to fly is 2004-11-16, and certyear is 2005. Is the Learning to fly referring to Learning to Fly (video)?",
+                "Yes"
+            ],
+            [
+                "The released of Learning to fly is 2004-11-16, and certyear is 2005. Is the Learning to fly referring to Learning to Fly (Tom Petty and the Heartbreakers song)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Punisher": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Punisher_(TV_series)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Punisher:_War_Zone",
+            "http://dbpedia.org/resource/The_Punisher:_The_Album",
+            "http://dbpedia.org/resource/The_Punisher_(1989_film)",
+            "http://dbpedia.org/resource/The_Punisher_(1989_score)",
+            "http://dbpedia.org/resource/The_Punisher_(1990_NES_video_game)",
+            "http://dbpedia.org/resource/The_Punisher_(1990_computer_game)",
+            "http://dbpedia.org/resource/The_Punisher_(1993_video_game)",
+            "http://dbpedia.org/resource/The_Punisher_(2004_film)",
+            "http://dbpedia.org/resource/The_Punisher_(2004_score)",
+            "http://dbpedia.org/resource/The_Punisher_(TV_series)"
+        ],
+        "questions": [
+            [
+                "The lastAired of Punisher is 2019-01-18, and distributor is Netflix Streaming Services. Is the Punisher referring to The Punisher (TV series)?",
+                "Yes"
+            ],
+            [
+                "The lastAired of Punisher is 2019-01-18, and distributor is Netflix Streaming Services. Is the Punisher referring to The Punisher (2004 film)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Time_of_Our_Lives": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Time_of_Our_Lives_(TV_series)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Silver_Lining_(album)",
+            "http://dbpedia.org/resource/The_Time_of_Our_Lives_(EP)",
+            "http://dbpedia.org/resource/The_Time_of_Our_Lives_(Il_Divo_and_Toni_Braxton_song)",
+            "http://dbpedia.org/resource/The_Time_of_Our_Lives_(TV_series)",
+            "http://dbpedia.org/resource/Time_of_Our_Lives/Connected"
+        ],
+        "questions": [
+            [
+                "The numberOfEpisodes of Time of Our Lives is 21, and country is Australia. Is the Time of Our Lives referring to The Time of Our Lives (TV series)?",
+                "Yes"
+            ],
+            [
+                "The numberOfEpisodes of Time of Our Lives is 21, and country is Australia. Is the Time of Our Lives referring to Silver Lining (album)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Tetsuo": {
+        "chosen_entity": "http://dbpedia.org/resource/Tetsuo:_The_Bullet_Man",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Tetsuo:_The_Bullet_Man",
+            "http://dbpedia.org/resource/Tetsuo:_The_Iron_Man",
+            "http://dbpedia.org/resource/Tetsuo_II:_Body_Hammer"
+        ],
+        "questions": [
+            [
+                "The musicComposer of Tetsuo is Chu Ishikawa, and country is Japan. Is the Tetsuo referring to Tetsuo: The Bullet Man?",
+                "Yes"
+            ],
+            [
+                "The musicComposer of Tetsuo is Chu Ishikawa, and country is Japan. Is the Tetsuo referring to Tetsuo II: Body Hammer?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Better_Half": {
+        "chosen_entity": "http://dbpedia.org/resource/Sons_of_Anarchy_(season_1)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/My_Better_Half",
+            "http://dbpedia.org/resource/Sons_of_Anarchy_(season_1)",
+            "http://dbpedia.org/resource/The_Better_Half_(TV_series)",
+            "http://dbpedia.org/resource/You're_My_Better_Half"
+        ],
+        "questions": [
+            [
+                "The firstAired of Better Half is 2008-09-03, and totalWidth is 300. Is the Better Half referring to Sons of Anarchy (season 1)?",
+                "Yes"
+            ],
+            [
+                "The firstAired of Better Half is 2008-09-03, and totalWidth is 300. Is the Better Half referring to The Better Half (TV series)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Northern_soul": {
+        "chosen_entity": "http://dbpedia.org/resource/Northern_Soul_(film)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/A_Northern_Soul",
+            "http://dbpedia.org/resource/Northern_Soul_(54-40_album)",
+            "http://dbpedia.org/resource/Northern_Soul_(M_People_album)",
+            "http://dbpedia.org/resource/Northern_Soul_(film)"
+        ],
+        "questions": [
+            [
+                "The cinematography of Northern soul is Simon Tindall, and distributor is Universal Pictures. Is the Northern soul referring to Northern Soul (film)?",
+                "Yes"
+            ],
+            [
+                "The cinematography of Northern soul is Simon Tindall, and distributor is Universal Pictures. Is the Northern soul referring to Northern Soul (M People album)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Hellstrom": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Hellstrom_Chronicle",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Hellstrom's_Hive",
+            "http://dbpedia.org/resource/The_Hellstrom_Chronicle"
+        ],
+        "questions": [
+            [
+                "The country of Hellstrom is United States, and starring is Lawrence Pressman. Is the Hellstrom referring to The Hellstrom Chronicle?",
+                "Yes"
+            ],
+            [
+                "The country of Hellstrom is United States, and starring is Lawrence Pressman. Is the Hellstrom referring to Hellstrom's Hive?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Book_of_Shadows": {
+        "chosen_entity": "http://dbpedia.org/resource/Book_of_Shadows:_Blair_Witch_2",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Book_of_Shadows:_Blair_Witch_2",
+            "http://dbpedia.org/resource/Corpse_Party_Book_of_Shadows"
+        ],
+        "questions": [
+            [
+                "The director of Book of Shadows is Joe Berlinger, and musicComposer is Carter Burwell. Is the Book of Shadows referring to Book of Shadows: Blair Witch 2?",
+                "Yes"
+            ],
+            [
+                "The director of Book of Shadows is Joe Berlinger, and musicComposer is Carter Burwell. Is the Book of Shadows referring to Corpse Party Book of Shadows?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bad_Moon_Rising": {
+        "chosen_entity": "http://dbpedia.org/resource/Bad_Moon_Rising:_An_Anthology_of_Political_Forebodings",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bad_Moon_Rising:_An_Anthology_of_Political_Forebodings",
+            "http://dbpedia.org/resource/Bad_Moon_Rising:_The_Best_of_Creedence_Clearwater_Revival"
+        ],
+        "questions": [
+            [
+                "The mediaType of Bad Moon Rising is Print, and publisher is Harper & Row. Is the Bad Moon Rising referring to Bad Moon Rising: An Anthology of Political Forebodings?",
+                "Yes"
+            ],
+            [
+                "The mediaType of Bad Moon Rising is Print, and publisher is Harper & Row. Is the Bad Moon Rising referring to Bad Moon Rising: The Best of Creedence Clearwater Revival?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Foursome": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Foursome",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Foursome",
+            "http://dbpedia.org/resource/Wild_Things:_Foursome"
+        ],
+        "questions": [
+            [
+                "The director of Foursome is William Dear, and starring is Kevin Dillon. Is the Foursome referring to The Foursome?",
+                "Yes"
+            ],
+            [
+                "The director of Foursome is William Dear, and starring is Kevin Dillon. Is the Foursome referring to Wild Things: Foursome?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Invisible_touch": {
+        "chosen_entity": "http://dbpedia.org/resource/Invisible_Touch",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Invisible_Touch",
+            "http://dbpedia.org/resource/Invisible_Touch_(song)"
+        ],
+        "questions": [
+            [
+                "The accessDate of Invisible touch is 2021-04-05, and released is 1986-06-06. Is the Invisible touch referring to Invisible Touch?",
+                "Yes"
+            ],
+            [
+                "The accessDate of Invisible touch is 2021-04-05, and released is 1986-06-06. Is the Invisible touch referring to Invisible Touch (song)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Dancing_in_the_Street": {
+        "chosen_entity": "http://dbpedia.org/resource/Dancing_in_the_Street:_The_Songs_of_Motown_II",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Dancing_in_the_Street:_The_Songs_of_Motown_II",
+            "http://dbpedia.org/resource/Dancing_in_the_Streets",
+            "http://dbpedia.org/resource/Rock_&_Roll_(TV_series)"
+        ],
+        "questions": [
+            [
+                "The genre of Dancing in the Street is Pop music, and released is 2006-10-14. Is the Dancing in the Street referring to Dancing in the Street: The Songs of Motown II?",
+                "Yes"
+            ],
+            [
+                "The genre of Dancing in the Street is Pop music, and released is 2006-10-14. Is the Dancing in the Street referring to Rock & Roll (TV series)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Southern_hospitality": {
+        "chosen_entity": "http://dbpedia.org/resource/Southern_Hospitality_(album)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Southern_Hospitality_(album)",
+            "http://dbpedia.org/resource/Southern_Hospitality_(song)"
+        ],
+        "questions": [
+            [
+                "The released of Southern hospitality is 2008-10-21, and producer is Travis Wyrick. Is the Southern hospitality referring to Southern Hospitality (album)?",
+                "Yes"
+            ],
+            [
+                "The released of Southern hospitality is 2008-10-21, and producer is Travis Wyrick. Is the Southern hospitality referring to Southern Hospitality (song)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Jury_duty": {
+        "chosen_entity": "http://dbpedia.org/resource/Jury_Duty_(The_Office)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Jury_Duty_(TV_series)",
+            "http://dbpedia.org/resource/Jury_Duty_(The_Office)",
+            "http://dbpedia.org/resource/Jury_Duty_(film)"
+        ],
+        "questions": [
+            [
+                "The airdate of Jury duty is 2012-02-02, and episode is 13. Is the Jury duty referring to Jury Duty (The Office)?",
+                "Yes"
+            ],
+            [
+                "The airdate of Jury duty is 2012-02-02, and episode is 13. Is the Jury duty referring to Jury Duty (film)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Weeping_Woman": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Weeping_Woman",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Mask_of_a_Weeping_Woman",
+            "http://dbpedia.org/resource/The_Weeping_Woman"
+        ],
+        "questions": [
+            [
+                "The author of Weeping Woman is Pablo Picasso, and artist is Pablo Picasso. Is the Weeping Woman referring to The Weeping Woman?",
+                "Yes"
+            ],
+            [
+                "The author of Weeping Woman is Pablo Picasso, and artist is Pablo Picasso. Is the Weeping Woman referring to Mask of a Weeping Woman?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Dungeon_Master": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Dungeon_Master_(video_game)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Dungeon_Master",
+            "http://dbpedia.org/resource/The_Dungeon_Master_(video_game)",
+            "http://dbpedia.org/resource/The_Dungeon_Masters"
+        ],
+        "questions": [
+            [
+                "The computingPlatform of Dungeon Master is ZX Spectrum, and publisher is Crystal Computing. Is the Dungeon Master referring to The Dungeon Master (video game)?",
+                "Yes"
+            ],
+            [
+                "The computingPlatform of Dungeon Master is ZX Spectrum, and publisher is Crystal Computing. Is the Dungeon Master referring to The Dungeon Masters?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Dead_space": {
+        "chosen_entity": "http://dbpedia.org/resource/Dead_Space_(comics)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Dead_Space_(album)",
+            "http://dbpedia.org/resource/Dead_Space_(comics)",
+            "http://dbpedia.org/resource/Dead_Space_(film)",
+            "http://dbpedia.org/resource/Dead_Space_(mobile_game)"
+        ],
+        "questions": [
+            [
+                "The publisher of Dead space is Image Comics, and date is March–September 2008. Is the Dead space referring to Dead Space (comics)?",
+                "Yes"
+            ],
+            [
+                "The publisher of Dead space is Image Comics, and date is March–September 2008. Is the Dead space referring to Dead Space (film)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Mysteries": {
+        "chosen_entity": "http://dbpedia.org/resource/Mysteries_at_the_Museum",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Mysteries_at_the_Museum",
+            "http://dbpedia.org/resource/The_Mysteries_(album)"
+        ],
+        "questions": [
+            [
+                "The lastAired of Mysteries is 2019-01-27, and channel is Travel Channel. Is the Mysteries referring to Mysteries at the Museum?",
+                "Yes"
+            ],
+            [
+                "The lastAired of Mysteries is 2019-01-27, and channel is Travel Channel. Is the Mysteries referring to The Mysteries (album)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Truth_to_Power": {
+        "chosen_entity": "http://dbpedia.org/resource/An_Inconvenient_Sequel:_Truth_to_Power",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/An_Inconvenient_Sequel:_Truth_to_Power",
+            "http://dbpedia.org/resource/OneRepublic_discography"
+        ],
+        "questions": [
+            [
+                "The cinematography of Truth to Power is Jon Shenk, and country is United States. Is the Truth to Power referring to An Inconvenient Sequel: Truth to Power?",
+                "Yes"
+            ],
+            [
+                "The cinematography of Truth to Power is Jon Shenk, and country is United States. Is the Truth to Power referring to OneRepublic discography?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Goku": {
+        "chosen_entity": "http://dbpedia.org/resource/Goku_Midnight_Eye",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Goku_Midnight_Eye",
+            "http://dbpedia.org/resource/Monkey_Typhoon",
+            "http://dbpedia.org/resource/Yūyūki"
+        ],
+        "questions": [
+            [
+                "The studio of Goku is Madhouse (company), and director is Yoshiaki Kawajiri. Is the Goku referring to Goku Midnight Eye?",
+                "Yes"
+            ],
+            [
+                "The studio of Goku is Madhouse (company), and director is Yoshiaki Kawajiri. Is the Goku referring to Yūyūki?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Maybe_Tomorrow": {
+        "chosen_entity": "http://dbpedia.org/resource/Wake_Up_Little_Susie",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/True_Detective_(season_2)",
+            "http://dbpedia.org/resource/Wake_Up_Little_Susie"
+        ],
+        "questions": [
+            [
+                "The previousWork of Maybe Tomorrow is Bye Bye Love (Everly Brothers song), and releaseDate is 1957-09-02. Is the Maybe Tomorrow referring to Wake Up Little Susie?",
+                "Yes"
+            ],
+            [
+                "The previousWork of Maybe Tomorrow is Bye Bye Love (Everly Brothers song), and releaseDate is 1957-09-02. Is the Maybe Tomorrow referring to True Detective (season 2)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/In_Exile": {
+        "chosen_entity": "http://dbpedia.org/resource/In_Exile_Deo",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/(In)_Exile",
+            "http://dbpedia.org/resource/In_Exile_Deo"
+        ],
+        "questions": [
+            [
+                "The released of In Exile is 2004-05-18, and genre is Alternative rock. Is the In Exile referring to In Exile Deo?",
+                "Yes"
+            ],
+            [
+                "The released of In Exile is 2004-05-18, and genre is Alternative rock. Is the In Exile referring to (In) Exile?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Love_Affair": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Love_Affair_(film)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Love_Affair,_or_the_Case_of_the_Missing_Switchboard_Operator",
+            "http://dbpedia.org/resource/The_Love_Affair_(film)"
+        ],
+        "questions": [
+            [
+                "The productionCompany of Love Affair is ABS-CBN Film Productions, Inc., and director is Nuel C. Naval. Is the Love Affair referring to The Love Affair (film)?",
+                "Yes"
+            ],
+            [
+                "The productionCompany of Love Affair is ABS-CBN Film Productions, Inc., and director is Nuel C. Naval. Is the Love Affair referring to Love Affair, or the Case of the Missing Switchboard Operator?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Moment_of_silence": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Moment_of_Silence",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Moment_of_Silence_(song)",
+            "http://dbpedia.org/resource/The_Moment_of_Silence"
+        ],
+        "questions": [
+            [
+                "The released of Moment of silence is --10-01, and modes is Single-player. Is the Moment of silence referring to The Moment of Silence?",
+                "Yes"
+            ],
+            [
+                "The released of Moment of silence is --10-01, and modes is Single-player. Is the Moment of silence referring to Moment of Silence (song)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Pasko": {
+        "chosen_entity": "http://dbpedia.org/resource/Puso_ng_Pasko",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kapuso_sa_Pasko",
+            "http://dbpedia.org/resource/Pasko_Naming_Hangad",
+            "http://dbpedia.org/resource/Puso_ng_Pasko:_Artista_Challenge",
+            "http://dbpedia.org/resource/Puso_ng_Pasko",
+            "http://dbpedia.org/resource/Sana_Ngayong_Pasko"
+        ],
+        "questions": [
+            [
+                "The released of Pasko is 1998, and cinematography is Richard Padernal. Is the Pasko referring to Puso ng Pasko?",
+                "Yes"
+            ],
+            [
+                "The released of Pasko is 1998, and cinematography is Richard Padernal. Is the Pasko referring to Sana Ngayong Pasko?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Tennessee_Christmas": {
+        "chosen_entity": "http://dbpedia.org/resource/Tennessee_Christmas:_A_Holiday_Collection",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/East_Tennessee_Christmas",
+            "http://dbpedia.org/resource/Tennessee_Christmas:_A_Holiday_Collection"
+        ],
+        "questions": [
+            [
+                "The artist of Tennessee Christmas is Point of Grace, and producer is Brown Bannister. Is the Tennessee Christmas referring to Tennessee Christmas: A Holiday Collection?",
+                "Yes"
+            ],
+            [
+                "The artist of Tennessee Christmas is Point of Grace, and producer is Brown Bannister. Is the Tennessee Christmas referring to East Tennessee Christmas?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/White_death": {
+        "chosen_entity": "http://dbpedia.org/resource/White_Death_(novel)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_White_Death_(film)",
+            "http://dbpedia.org/resource/White_Death_(film)",
+            "http://dbpedia.org/resource/White_Death_(novel)"
+        ],
+        "questions": [
+            [
+                "The mediaType of White death is Print, and genre is Thriller (genre). Is the White death referring to White Death (novel)?",
+                "Yes"
+            ],
+            [
+                "The mediaType of White death is Print, and genre is Thriller (genre). Is the White death referring to White Death (film)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/From_Now_On": {
+        "chosen_entity": "http://dbpedia.org/resource/From_Now_On...",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Even_in_the_Quietest_Moments...",
+            "http://dbpedia.org/resource/From_Now_On..."
+        ],
+        "questions": [
+            [
+                "The genre of From Now On is Hard rock, and released is 1994-01-29. Is the From Now On referring to From Now On...?",
+                "Yes"
+            ],
+            [
+                "The genre of From Now On is Hard rock, and released is 1994-01-29. Is the From Now On referring to Even in the Quietest Moments...?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Breaking_Dawn": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Twilight_Saga:_Breaking_Dawn_–_Part_1",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Twilight_Saga:_Breaking_Dawn_–_Part_1",
+            "http://dbpedia.org/resource/The_Twilight_Saga:_Breaking_Dawn_–_Part_1_(soundtrack)",
+            "http://dbpedia.org/resource/The_Twilight_Saga:_Breaking_Dawn_–_Part_2"
+        ],
+        "questions": [
+            [
+                "The editing of Breaking Dawn is Virginia Katz, and musicComposer is Carter Burwell. Is the Breaking Dawn referring to The Twilight Saga: Breaking Dawn – Part 1?",
+                "Yes"
+            ],
+            [
+                "The editing of Breaking Dawn is Virginia Katz, and musicComposer is Carter Burwell. Is the Breaking Dawn referring to The Twilight Saga: Breaking Dawn – Part 1 (soundtrack)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bésame": {
+        "chosen_entity": "http://dbpedia.org/resource/Bésame_sin_miedo",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bésame_Mucho",
+            "http://dbpedia.org/resource/Bésame_sin_miedo"
+        ],
+        "questions": [
+            [
+                "The releaseDate of Bésame is 2007-06-08, and subsequentWork is Dame (RBD song). Is the Bésame referring to Bésame sin miedo?",
+                "Yes"
+            ],
+            [
+                "The releaseDate of Bésame is 2007-06-08, and subsequentWork is Dame (RBD song). Is the Bésame referring to Bésame Mucho?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Rude_Awakening": {
+        "chosen_entity": "http://dbpedia.org/resource/Rude_Awakenings",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Forbidden_Broadway:_Rude_Awakening",
+            "http://dbpedia.org/resource/Rude_Awakenings",
+            "http://dbpedia.org/resource/The_Rude_Awakening"
+        ],
+        "questions": [
+            [
+                "The lastAired of Rude Awakening is 2007-04-20, and numberOfEpisodes is 11. Is the Rude Awakening referring to Rude Awakenings?",
+                "Yes"
+            ],
+            [
+                "The lastAired of Rude Awakening is 2007-04-20, and numberOfEpisodes is 11. Is the Rude Awakening referring to Forbidden Broadway: Rude Awakening?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Out_of_Control": {
+        "chosen_entity": "http://dbpedia.org/resource/Out_of_Control:_Live_from_the_O2_2009",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bridges_to_Babylon",
+            "http://dbpedia.org/resource/Law_&_Order_(season_2)",
+            "http://dbpedia.org/resource/Out_of_Control:_Live_from_the_O2_2009",
+            "http://dbpedia.org/resource/That's_So_Raven_(season_2)"
+        ],
+        "questions": [
+            [
+                "The genre of Out of Control is Pop music, and artist is Girls Aloud. Is the Out of Control referring to Out of Control: Live from the O2 2009?",
+                "Yes"
+            ],
+            [
+                "The genre of Out of Control is Pop music, and artist is Girls Aloud. Is the Out of Control referring to That's So Raven (season 2)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Golden_Child": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Golden_Child",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Life_Is_Just_a_Game",
+            "http://dbpedia.org/resource/The_Golden_Child"
+        ],
+        "questions": [
+            [
+                "The director of Golden Child is Michael Ritchie (film director), and writer is Dennis Feldman. Is the Golden Child referring to The Golden Child?",
+                "Yes"
+            ],
+            [
+                "The director of Golden Child is Michael Ritchie (film director), and writer is Dennis Feldman. Is the Golden Child referring to Life Is Just a Game?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Night_Club": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Night_Club_(novel)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Night_Club",
+            "http://dbpedia.org/resource/The_Night_Club_(novel)"
+        ],
+        "questions": [
+            [
+                "The genre of Night Club is Psychological novel, and author is Georges Simenon. Is the Night Club referring to The Night Club (novel)?",
+                "Yes"
+            ],
+            [
+                "The genre of Night Club is Psychological novel, and author is Georges Simenon. Is the Night Club referring to The Night Club?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Tekken": {
+        "chosen_entity": "http://dbpedia.org/resource/Tekken_Mobile",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Tekken:_Blood_Vengeance",
+            "http://dbpedia.org/resource/Tekken_Mobile"
+        ],
+        "questions": [
+            [
+                "The genre of Tekken is Fighting game, and producer is Landon Nguyen. Is the Tekken referring to Tekken Mobile?",
+                "Yes"
+            ],
+            [
+                "The genre of Tekken is Fighting game, and producer is Landon Nguyen. Is the Tekken referring to Tekken: Blood Vengeance?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Touched": {
+        "chosen_entity": "http://dbpedia.org/resource/Touched:_The_Jerry_Sandusky_Story",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Touched:_The_Jerry_Sandusky_Story",
+            "http://dbpedia.org/resource/WarioWare:_Touched!"
+        ],
+        "questions": [
+            [
+                "The publisher of Touched is Sports Publishing LLC, and language is English. Is the Touched referring to Touched: The Jerry Sandusky Story?",
+                "Yes"
+            ],
+            [
+                "The publisher of Touched is Sports Publishing LLC, and language is English. Is the Touched referring to WarioWare: Touched!?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Blue_Peter": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Blue_Peter_(1928_film)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Blue_Peter_(1928_film)",
+            "http://dbpedia.org/resource/The_Blue_Peter_(1955_film)"
+        ],
+        "questions": [
+            [
+                "The director of Blue Peter is Arthur Rooke, and studio is British Filmcraft. Is the Blue Peter referring to The Blue Peter (1928 film)?",
+                "Yes"
+            ],
+            [
+                "The director of Blue Peter is Arthur Rooke, and studio is British Filmcraft. Is the Blue Peter referring to The Blue Peter (1955 film)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Cintura": {
+        "chosen_entity": "http://dbpedia.org/resource/La_Cintura_(song)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/La_Cintura_(song)",
+            "http://dbpedia.org/resource/The_Belt"
+        ],
+        "questions": [
+            [
+                "The accessDate of Cintura is 2021-08-11, and releaseDate is 2018-03-29. Is the Cintura referring to La Cintura (song)?",
+                "Yes"
+            ],
+            [
+                "The accessDate of Cintura is 2021-08-11, and releaseDate is 2018-03-29. Is the Cintura referring to The Belt?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Only_the_Lonely": {
+        "chosen_entity": "http://dbpedia.org/resource/Forever_Knight",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Forever_Knight",
+            "http://dbpedia.org/resource/Frank_Sinatra_Sings_for_Only_the_Lonely"
+        ],
+        "questions": [
+            [
+                "The numSeasons of Only the Lonely is 3, and firstAired is 1992-05-05. Is the Only the Lonely referring to Forever Knight?",
+                "Yes"
+            ],
+            [
+                "The numSeasons of Only the Lonely is 3, and firstAired is 1992-05-05. Is the Only the Lonely referring to Frank Sinatra Sings for Only the Lonely?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Inspector_Gadget": {
+        "chosen_entity": "http://dbpedia.org/resource/Inspector_Gadget:_Mission_1_–_Global_Terror!",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Inspector_Gadget:_Advance_Mission",
+            "http://dbpedia.org/resource/Inspector_Gadget:_Gadget's_Crazy_Maze",
+            "http://dbpedia.org/resource/Inspector_Gadget:_Mad_Robots_Invasion",
+            "http://dbpedia.org/resource/Inspector_Gadget:_Mission_1_–_Global_Terror!",
+            "http://dbpedia.org/resource/Inspector_Gadget:_Operation_Madkactus",
+            "http://dbpedia.org/resource/Inspector_Gadget_2"
+        ],
+        "questions": [
+            [
+                "The developer of Inspector Gadget is Azeroth, and publisher is Azeroth. Is the Inspector Gadget referring to Inspector Gadget: Mission 1 – Global Terror!?",
+                "Yes"
+            ],
+            [
+                "The developer of Inspector Gadget is Azeroth, and publisher is Azeroth. Is the Inspector Gadget referring to Inspector Gadget: Gadget's Crazy Maze?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Two_of_Us": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Two_of_Us_(1967_film)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Tayong_Dalawa",
+            "http://dbpedia.org/resource/The_Two_of_Us_(1967_film)",
+            "http://dbpedia.org/resource/The_Two_of_Us_(1981_TV_series)",
+            "http://dbpedia.org/resource/The_Two_of_Us_(1986_TV_series)",
+            "http://dbpedia.org/resource/The_Two_of_Us_(2014_film)",
+            "http://dbpedia.org/resource/The_Two_of_Us_(Sonny_&_Cher_album)",
+            "http://dbpedia.org/resource/The_Two_of_Us_(Yarbrough_&_Peoples_album)",
+            "http://dbpedia.org/resource/The_Two_of_Us_(mixtape)"
+        ],
+        "questions": [
+            [
+                "The cinematography of Two of Us is Jean Penzer, and director is Claude Berri. Is the Two of Us referring to The Two of Us (1967 film)?",
+                "Yes"
+            ],
+            [
+                "The cinematography of Two of Us is Jean Penzer, and director is Claude Berri. Is the Two of Us referring to The Two of Us (2014 film)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Night_Song": {
+        "chosen_entity": "http://dbpedia.org/resource/Night_Songs_(Cinderella_album)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Night_Songs_(Barry_Manilow_album)",
+            "http://dbpedia.org/resource/Night_Songs_(Cinderella_album)"
+        ],
+        "questions": [
+            [
+                "The genre of Night Song is Glam metal, and released is 1986-06-09. Is the Night Song referring to Night Songs (Cinderella album)?",
+                "Yes"
+            ],
+            [
+                "The genre of Night Song is Glam metal, and released is 1986-06-09. Is the Night Song referring to Night Songs (Barry Manilow album)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Star_map": {
+        "chosen_entity": "http://dbpedia.org/resource/Star_Maps_(film)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Star_Maps_(album)",
+            "http://dbpedia.org/resource/Star_Maps_(film)"
+        ],
+        "questions": [
+            [
+                "The cinematography of Star map is Chuy Chavez, and country is United States. Is the Star map referring to Star Maps (film)?",
+                "Yes"
+            ],
+            [
+                "The cinematography of Star map is Chuy Chavez, and country is United States. Is the Star map referring to Star Maps (album)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Arkansas_Traveler": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Arkansas_Traveler_(song)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Arkansas_Traveler_(film)",
+            "http://dbpedia.org/resource/The_Arkansas_Traveler_(song)"
+        ],
+        "questions": [
+            [
+                "The genre of Arkansas Traveler is Folk music, and artist is Mose Case. Is the Arkansas Traveler referring to The Arkansas Traveler (song)?",
+                "Yes"
+            ],
+            [
+                "The genre of Arkansas Traveler is Folk music, and artist is Mose Case. Is the Arkansas Traveler referring to The Arkansas Traveler (film)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Wake_Up": {
+        "chosen_entity": "http://dbpedia.org/resource/Wake_Up!_Wake_Up!_Wake_Up!",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Agents_of_S.H.I.E.L.D._(season_4)",
+            "http://dbpedia.org/resource/Supergirl_(season_3)",
+            "http://dbpedia.org/resource/Wake_Up!_(Pope_Francis_album)",
+            "http://dbpedia.org/resource/Wake_Up!_(The_Boo_Radleys_album)",
+            "http://dbpedia.org/resource/Wake_Up!_(Tokyo_Ska_Paradise_Orchestra_song)",
+            "http://dbpedia.org/resource/Wake_Up!_Wake_Up!_Wake_Up!",
+            "http://dbpedia.org/resource/Wake_Up,_America!",
+            "http://dbpedia.org/resource/Wake_Up,_O_Sleeper"
+        ],
+        "questions": [
+            [
+                "The artist of Wake Up is The Pillows, and released is 2007-05-02. Is the Wake Up referring to Wake Up! Wake Up! Wake Up!?",
+                "Yes"
+            ],
+            [
+                "The artist of Wake Up is The Pillows, and released is 2007-05-02. Is the Wake Up referring to Wake Up, America!?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Go_Bang": {
+        "chosen_entity": "http://dbpedia.org/resource/Let's_Go_Bang",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Go_Bang!",
+            "http://dbpedia.org/resource/Let's_Go_Bang"
+        ],
+        "questions": [
+            [
+                "The producer of Go Bang is Angelo Montrone, and artist is Jennifer Love Hewitt. Is the Go Bang referring to Let's Go Bang?",
+                "Yes"
+            ],
+            [
+                "The producer of Go Bang is Angelo Montrone, and artist is Jennifer Love Hewitt. Is the Go Bang referring to Go Bang!?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Goose_step": {
+        "chosen_entity": "http://dbpedia.org/resource/Hitler_–_Beast_of_Berlin",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Hitler_–_Beast_of_Berlin",
+            "http://dbpedia.org/resource/The_Goose_Steps_Out"
+        ],
+        "questions": [
+            [
+                "The director of Goose step is Sam Newfield, and country is United States. Is the Goose step referring to Hitler – Beast of Berlin?",
+                "Yes"
+            ],
+            [
+                "The director of Goose step is Sam Newfield, and country is United States. Is the Goose step referring to The Goose Steps Out?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/25th_Anniversary": {
+        "chosen_entity": "http://dbpedia.org/resource/The_25th_Anniversary_Album_(Lee_Kernaghan_album)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/25th_Anniversary_Ultimate_Best_-The_One-",
+            "http://dbpedia.org/resource/Interpretations:_A_25th_Anniversary_Celebration",
+            "http://dbpedia.org/resource/The_25th_Anniversary_Album_(Lee_Kernaghan_album)",
+            "http://dbpedia.org/resource/The_Monkees_discography",
+            "http://dbpedia.org/resource/Unarmed_–_Best_of_25th_Anniversary"
+        ],
+        "questions": [
+            [
+                "The genre of 25th Anniversary is Country music, and released is 2017-03-24. Is the 25th Anniversary referring to The 25th Anniversary Album (Lee Kernaghan album)?",
+                "Yes"
+            ],
+            [
+                "The genre of 25th Anniversary is Country music, and released is 2017-03-24. Is the 25th Anniversary referring to Interpretations: A 25th Anniversary Celebration?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Undertow": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Undertow_(1915_film)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_O.C._(season_3)",
+            "http://dbpedia.org/resource/The_Undertow",
+            "http://dbpedia.org/resource/The_Undertow_(1915_film)"
+        ],
+        "questions": [
+            [
+                "The director of Undertow is Jack Harvey (actor and director), and language is Silent. Is the Undertow referring to The Undertow (1915 film)?",
+                "Yes"
+            ],
+            [
+                "The director of Undertow is Jack Harvey (actor and director), and language is Silent. Is the Undertow referring to The O.C. (season 3)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Mating_call": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Mating_Call",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Mating_Call",
+            "http://dbpedia.org/resource/Mating_Call_(Roberto_Magris_album)",
+            "http://dbpedia.org/resource/Tainted_Love:_Mating_Calls_and_Fight_Songs",
+            "http://dbpedia.org/resource/The_Mating_Call"
+        ],
+        "questions": [
+            [
+                "The studio of Mating call is The Caddo Company, and country is United States. Is the Mating call referring to The Mating Call?",
+                "Yes"
+            ],
+            [
+                "The studio of Mating call is The Caddo Company, and country is United States. Is the Mating call referring to Mating Call?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Harvey_Girls": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Harvey_Girls",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Harvey_Girls",
+            "http://dbpedia.org/resource/The_Harvey_Girls_(novel)"
+        ],
+        "questions": [
+            [
+                "The editing of Harvey Girls is Albert Akst, and distributor is Loews Cineplex Entertainment. Is the Harvey Girls referring to The Harvey Girls?",
+                "Yes"
+            ],
+            [
+                "The editing of Harvey Girls is Albert Akst, and distributor is Loews Cineplex Entertainment. Is the Harvey Girls referring to The Harvey Girls (novel)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/At_Basin_Street_East": {
+        "chosen_entity": "http://dbpedia.org/resource/Live_at_Basin_Street_East",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Live_at_Basin_Street_East",
+            "http://dbpedia.org/resource/Recorded_%22Live%22_at_Basin_Street_East"
+        ],
+        "questions": [
+            [
+                "The released of At Basin Street East is 1964, and producer is Juggy Murray. Is the At Basin Street East referring to Live at Basin Street East?",
+                "Yes"
+            ],
+            [
+                "The released of At Basin Street East is 1964, and producer is Juggy Murray. Is the At Basin Street East referring to Recorded %22Live%22 at Basin Street East?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Human_zoo": {
+        "chosen_entity": "http://dbpedia.org/resource/Human_Zoo_(Electric_Six_album)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Human_Zoo_(Electric_Six_album)",
+            "http://dbpedia.org/resource/Human_Zoo_(Gotthard_album)",
+            "http://dbpedia.org/resource/Human_Zoo_(film)"
+        ],
+        "questions": [
+            [
+                "The producer of Human zoo is John Nash, and released is 2014-10-14. Is the Human zoo referring to Human Zoo (Electric Six album)?",
+                "Yes"
+            ],
+            [
+                "The producer of Human zoo is John Nash, and released is 2014-10-14. Is the Human zoo referring to Human Zoo (Gotthard album)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/90210": {
+        "chosen_entity": "http://dbpedia.org/resource/Dr._90210",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/BH90210",
+            "http://dbpedia.org/resource/Beverly_Hills,_90210",
+            "http://dbpedia.org/resource/Dr._90210",
+            "http://dbpedia.org/resource/High_Maintenance_90210",
+            "http://dbpedia.org/resource/Soundtrack_90210",
+            "http://dbpedia.org/resource/Transylvania_90210:_Songs_of_Death,_Dying,_and_the_Dead"
+        ],
+        "questions": [
+            [
+                "The lastAired of 90210 is present, and numSeasons is 7. Is the 90210 referring to Dr. 90210?",
+                "Yes"
+            ],
+            [
+                "The lastAired of 90210 is present, and numSeasons is 7. Is the 90210 referring to BH90210?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/XF": {
+        "chosen_entity": "http://dbpedia.org/resource/XenForo",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_X-Files",
+            "http://dbpedia.org/resource/XenForo"
+        ],
+        "questions": [
+            [
+                "The genre of XF is Internet forum, and developer is XenForo Limited, Kier Darby, Mike Sullivan, Chris Deeming. Is the XF referring to XenForo?",
+                "Yes"
+            ],
+            [
+                "The genre of XF is Internet forum, and developer is XenForo Limited, Kier Darby, Mike Sullivan, Chris Deeming. Is the XF referring to The X-Files?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Idz": {
+        "chosen_entity": "http://dbpedia.org/resource/Live:_Legend_I,_D,_Z_Apocalypse",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ijime,_Dame,_Zettai",
+            "http://dbpedia.org/resource/Live:_Legend_I,_D,_Z_Apocalypse"
+        ],
+        "questions": [
+            [
+                "The producer of Idz is Kobametal, and director is Inni Vision. Is the Idz referring to Live: Legend I, D, Z Apocalypse?",
+                "Yes"
+            ],
+            [
+                "The producer of Idz is Kobametal, and director is Inni Vision. Is the Idz referring to Ijime, Dame, Zettai?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Hot_tub": {
+        "chosen_entity": "http://dbpedia.org/resource/Hot_Tub_Time_Machine",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Hot_Tub_Time_Machine",
+            "http://dbpedia.org/resource/The_Hot_Tub"
+        ],
+        "questions": [
+            [
+                "The budget of Hot tub is 3.6E7, and artist is Various Artists. Is the Hot tub referring to Hot Tub Time Machine?",
+                "Yes"
+            ],
+            [
+                "The budget of Hot tub is 3.6E7, and artist is Various Artists. Is the Hot tub referring to The Hot Tub?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Convicted": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Convicted",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Return_to_Sender_(2004_film)",
+            "http://dbpedia.org/resource/The_Convicted"
+        ],
+        "questions": [
+            [
+                "The released of Convicted is 1927, and cinematography is A.O. Weitzenberg. Is the Convicted referring to The Convicted?",
+                "Yes"
+            ],
+            [
+                "The released of Convicted is 1927, and cinematography is A.O. Weitzenberg. Is the Convicted referring to Return to Sender (2004 film)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/My_Number": {
+        "chosen_entity": "http://dbpedia.org/resource/Music_Is_the_Weapon",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Music_Is_the_Weapon",
+            "http://dbpedia.org/resource/My_Number:_The_Anthology"
+        ],
+        "questions": [
+            [
+                "The artist of My Number is Major Lazer, and released is 2020-10-23. Is the My Number referring to Music Is the Weapon?",
+                "Yes"
+            ],
+            [
+                "The artist of My Number is Major Lazer, and released is 2020-10-23. Is the My Number referring to My Number: The Anthology?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Live_in_Stockholm": {
+        "chosen_entity": "http://dbpedia.org/resource/Live_in_Stockholm_1963",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Live_in_Stockholm_1963",
+            "http://dbpedia.org/resource/Live_in_Stockholm_1994",
+            "http://dbpedia.org/resource/Scandinavian_Nights"
+        ],
+        "questions": [
+            [
+                "The artist of Live in Stockholm is John Coltrane, and released is 1963. Is the Live in Stockholm referring to Live in Stockholm 1963?",
+                "Yes"
+            ],
+            [
+                "The artist of Live in Stockholm is John Coltrane, and released is 1963. Is the Live in Stockholm referring to Scandinavian Nights?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Maryada": {
+        "chosen_entity": "http://dbpedia.org/resource/Maryada..._of_an_Indian_family",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Maryada..._of_an_Indian_family",
+            "http://dbpedia.org/resource/Maryada:_Lekin_Kab_Tak%3F"
+        ],
+        "questions": [
+            [
+                "The language of Maryada is Hindi, and numSeasons is 1. Is the Maryada referring to Maryada... of an Indian family?",
+                "Yes"
+            ],
+            [
+                "The language of Maryada is Hindi, and numSeasons is 1. Is the Maryada referring to Maryada: Lekin Kab Tak%3F?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Gone,_Gone,_Gone": {
+        "chosen_entity": "http://dbpedia.org/resource/She's_Gone,_Gone,_Gone",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/She's_Gone,_Gone,_Gone",
+            "http://dbpedia.org/resource/True_Blood_(season_5)"
+        ],
+        "questions": [
+            [
+                "The genre of Gone, Gone, Gone is Country music, and releaseDate is 1965-05-01. Is the Gone, Gone, Gone referring to She's Gone, Gone, Gone?",
+                "Yes"
+            ],
+            [
+                "The genre of Gone, Gone, Gone is Country music, and releaseDate is 1965-05-01. Is the Gone, Gone, Gone referring to True Blood (season 5)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/American_Epic": {
+        "chosen_entity": "http://dbpedia.org/resource/American_Epic:_The_Collection",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/American_Epic:_The_Best_of_Blind_Willie_Johnson",
+            "http://dbpedia.org/resource/American_Epic:_The_Best_of_Blues",
+            "http://dbpedia.org/resource/American_Epic:_The_Best_of_Country",
+            "http://dbpedia.org/resource/American_Epic:_The_Best_of_Lead_Belly",
+            "http://dbpedia.org/resource/American_Epic:_The_Best_of_Mississippi_John_Hurt",
+            "http://dbpedia.org/resource/American_Epic:_The_Best_of_The_Carter_Family",
+            "http://dbpedia.org/resource/American_Epic:_The_Best_of_the_Memphis_Jug_Band",
+            "http://dbpedia.org/resource/American_Epic:_The_Collection",
+            "http://dbpedia.org/resource/American_Epic:_The_First_Time_America_Heard_Itself",
+            "http://dbpedia.org/resource/American_Epic:_The_Soundtrack",
+            "http://dbpedia.org/resource/Music_from_The_American_Epic_Sessions:_Original_Motion_Picture_Soundtrack",
+            "http://dbpedia.org/resource/The_American_Epic_Sessions"
+        ],
+        "questions": [
+            [
+                "The artist of American Epic is Various artists, and released is 2017-05-12. Is the American Epic referring to American Epic: The Collection?",
+                "Yes"
+            ],
+            [
+                "The artist of American Epic is Various artists, and released is 2017-05-12. Is the American Epic referring to The American Epic Sessions?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Angel_Eyes": {
+        "chosen_entity": "http://dbpedia.org/resource/I'll_Never_Let_You_Go",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Angel_Eyes:_Ballads_&_Slow_Jams",
+            "http://dbpedia.org/resource/I'll_Never_Let_You_Go"
+        ],
+        "questions": [
+            [
+                "The genre of Angel Eyes is Glam metal, and writer is Miljenko Matijevic. Is the Angel Eyes referring to I'll Never Let You Go?",
+                "Yes"
+            ],
+            [
+                "The genre of Angel Eyes is Glam metal, and writer is Miljenko Matijevic. Is the Angel Eyes referring to Angel Eyes: Ballads & Slow Jams?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Someday": {
+        "chosen_entity": "http://dbpedia.org/resource/Someday/Boys_&_Girls",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Someday,_Someday",
+            "http://dbpedia.org/resource/Someday/Boys_&_Girls",
+            "http://dbpedia.org/resource/The_Marvelous_Mrs._Maisel"
+        ],
+        "questions": [
+            [
+                "The previousWork of Someday is Wind (song), and headline is CD. Is the Someday referring to Boys & Girls?",
+                "Yes"
+            ],
+            [
+                "The previousWork of Someday is Wind (song), and headline is CD. Is the Someday referring to Someday, Someday?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/321": {
+        "chosen_entity": "http://dbpedia.org/resource/5-4-3-2-1",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/3-2-1",
+            "http://dbpedia.org/resource/3-2-1_(Brett_Kissel_song)",
+            "http://dbpedia.org/resource/3-2-1_Contact",
+            "http://dbpedia.org/resource/3-2-1_Penguins!",
+            "http://dbpedia.org/resource/3.2.1.",
+            "http://dbpedia.org/resource/3_2_1_(Shinee_song)",
+            "http://dbpedia.org/resource/5-4-3-2-1"
+        ],
+        "questions": [
+            [
+                "The artist of 321 is Manfred Mann, and studio is Abbey Road Studios, London. Is the 321 referring to 5-4-3-2-1?",
+                "Yes"
+            ],
+            [
+                "The artist of 321 is Manfred Mann, and studio is Abbey Road Studios, London. Is the 321 referring to 3-2-1 Penguins!?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Never_Say_Never": {
+        "chosen_entity": "http://dbpedia.org/resource/Never_Say_Never:_The_Remixes",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Justin_Bieber:_Never_Say_Never",
+            "http://dbpedia.org/resource/Never_Say_Never:_The_Remixes",
+            "http://dbpedia.org/resource/Never_Say_Never_Again"
+        ],
+        "questions": [
+            [
+                "The artist of Never Say Never is Justin Bieber, and released is 2011-02-14. Is the Never Say Never referring to Never Say Never: The Remixes?",
+                "Yes"
+            ],
+            [
+                "The artist of Never Say Never is Justin Bieber, and released is 2011-02-14. Is the Never Say Never referring to Justin Bieber: Never Say Never?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Samizdat": {
+        "chosen_entity": "http://dbpedia.org/resource/Generation_Warriors",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Generation_Warriors",
+            "http://dbpedia.org/resource/Interesting_Times"
+        ],
+        "questions": [
+            [
+                "The publisher of Samizdat is Baen Books, and pages is 345. Is the Samizdat referring to Generation Warriors?",
+                "Yes"
+            ],
+            [
+                "The publisher of Samizdat is Baen Books, and pages is 345. Is the Samizdat referring to Interesting Times?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Invasion_of_privacy": {
+        "chosen_entity": "http://dbpedia.org/resource/Invasion_of_Privacy_(film)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Invasion_of_Privacy_(album)",
+            "http://dbpedia.org/resource/Invasion_of_Privacy_(film)"
+        ],
+        "questions": [
+            [
+                "The music of Invasion of privacy is Anthony Marinelli, and writer is Larry Cohen. Is the Invasion of privacy referring to Invasion of Privacy (film)?",
+                "Yes"
+            ],
+            [
+                "The music of Invasion of privacy is Anthony Marinelli, and writer is Larry Cohen. Is the Invasion of privacy referring to Invasion of Privacy (album)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Suzie_Wong": {
+        "chosen_entity": "http://dbpedia.org/resource/The_World_of_Suzie_Wong_(film)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_World_of_Suzie_Wong",
+            "http://dbpedia.org/resource/The_World_of_Suzie_Wong_(film)"
+        ],
+        "questions": [
+            [
+                "The producer of Suzie Wong is Ray Stark, and editing is Bert Bates. Is the Suzie Wong referring to The World of Suzie Wong (film)?",
+                "Yes"
+            ],
+            [
+                "The producer of Suzie Wong is Ray Stark, and editing is Bert Bates. Is the Suzie Wong referring to The World of Suzie Wong?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Archive_Series": {
+        "chosen_entity": "http://dbpedia.org/resource/Archive_Series_No._2:_Live_in_Chicago_Q101",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Archive_Series_No._1:_Live_in_Iceland",
+            "http://dbpedia.org/resource/Archive_Series_No._2:_Live_in_Chicago_Q101",
+            "http://dbpedia.org/resource/Archive_Series_Volume_No._1"
+        ],
+        "questions": [
+            [
+                "The producer of Archive Series is Chicago Recording Company, and genre is Rock music. Is the Archive Series referring to Archive Series No. 2: Live in Chicago Q101?",
+                "Yes"
+            ],
+            [
+                "The producer of Archive Series is Chicago Recording Company, and genre is Rock music. Is the Archive Series referring to Archive Series Volume No. 1?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/See_You_Later": {
+        "chosen_entity": "http://dbpedia.org/resource/See_You_Later,_Alligator",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/See_You_Later,_Alligator",
+            "http://dbpedia.org/resource/See_You_Later,_Alligator_(novel)"
+        ],
+        "questions": [
+            [
+                "The genre of See You Later is Rock and roll, and releaseDate is 1956-02-01. Is the See You Later referring to See You Later, Alligator?",
+                "Yes"
+            ],
+            [
+                "The genre of See You Later is Rock and roll, and releaseDate is 1956-02-01. Is the See You Later referring to See You Later, Alligator (novel)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Social_studies": {
+        "chosen_entity": "http://dbpedia.org/resource/Social_Studies_(book)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Social_Studies_(Carla_Bley_album)",
+            "http://dbpedia.org/resource/Social_Studies_(Loudon_Wainwright_III_album)",
+            "http://dbpedia.org/resource/Social_Studies_(TV_series)",
+            "http://dbpedia.org/resource/Social_Studies_(book)"
+        ],
+        "questions": [
+            [
+                "The language of Social studies is English, and mediaType is Printing. Is the Social studies referring to Social Studies (book)?",
+                "Yes"
+            ],
+            [
+                "The language of Social studies is English, and mediaType is Printing. Is the Social studies referring to Social Studies (Carla Bley album)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Battlestar_Galactica": {
+        "chosen_entity": "http://dbpedia.org/resource/Battlestar_Galactica:_Razor",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Battlestar_Galactica:_Blood_&_Chrome",
+            "http://dbpedia.org/resource/Battlestar_Galactica:_Razor",
+            "http://dbpedia.org/resource/Battlestar_Galactica:_Razor_Flashbacks",
+            "http://dbpedia.org/resource/Battlestar_Galactica:_The_Face_of_the_Enemy",
+            "http://dbpedia.org/resource/Battlestar_Galactica:_The_Plan",
+            "http://dbpedia.org/resource/Battlestar_Galactica:_The_Resistance"
+        ],
+        "questions": [
+            [
+                "The director of Battlestar Galactica is Félix Enríquez Alcalá, and distributor is Universal Studios Home Entertainment. Is the Battlestar Galactica referring to Battlestar Galactica: Razor?",
+                "Yes"
+            ],
+            [
+                "The director of Battlestar Galactica is Félix Enríquez Alcalá, and distributor is Universal Studios Home Entertainment. Is the Battlestar Galactica referring to Battlestar Galactica: The Plan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Mindstorm": {
+        "chosen_entity": "http://dbpedia.org/resource/Mindstorms_(book)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Cricket_Revolution",
+            "http://dbpedia.org/resource/MinDStorm",
+            "http://dbpedia.org/resource/Mindstorms_(book)"
+        ],
+        "questions": [
+            [
+                "The mediaType of Mindstorm is Print, and author is Seymour Papert. Is the Mindstorm referring to Mindstorms (book)?",
+                "Yes"
+            ],
+            [
+                "The mediaType of Mindstorm is Print, and author is Seymour Papert. Is the Mindstorm referring to MinDStorm?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Money_for_Nothing": {
+        "chosen_entity": "http://dbpedia.org/resource/Money_for_Nothing:_Inside_the_Federal_Reserve",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/CSI:_Miami_(season_2)",
+            "http://dbpedia.org/resource/Money_for_Nothing/Beverly_Hillbillies*",
+            "http://dbpedia.org/resource/Money_for_Nothing:_Inside_the_Federal_Reserve"
+        ],
+        "questions": [
+            [
+                "The music of Money for Nothing is Nora Kroll-Rosenbaum, and director is Jim Bruce. Is the Money for Nothing referring to Money for Nothing: Inside the Federal Reserve?",
+                "Yes"
+            ],
+            [
+                "The music of Money for Nothing is Nora Kroll-Rosenbaum, and director is Jim Bruce. Is the Money for Nothing referring to Beverly Hillbillies*?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Sex_and_Violence": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Muppet_Show:_Sex_and_Violence",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Supernatural_(season_4)",
+            "http://dbpedia.org/resource/The_Muppet_Show:_Sex_and_Violence"
+        ],
+        "questions": [
+            [
+                "The country of Sex and Violence is United States, and director is Dave Wilson. Is the Sex and Violence referring to The Muppet Show: Sex and Violence?",
+                "Yes"
+            ],
+            [
+                "The country of Sex and Violence is United States, and director is Dave Wilson. Is the Sex and Violence referring to Supernatural (season 4)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ersatz": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Ersatz_Elevator",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Dangerous_Visions",
+            "http://dbpedia.org/resource/The_Ersatz_Elevator"
+        ],
+        "questions": [
+            [
+                "The mediaType of Ersatz is Print, and author is Lemony Snicket. Is the Ersatz referring to The Ersatz Elevator?",
+                "Yes"
+            ],
+            [
+                "The mediaType of Ersatz is Print, and author is Lemony Snicket. Is the Ersatz referring to Dangerous Visions?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Hallo": {
+        "chosen_entity": "http://dbpedia.org/resource/Hallo_Spaceboy",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Hallo_Spaceboy",
+            "http://dbpedia.org/resource/Hallo_Spencer",
+            "http://dbpedia.org/resource/The_Hallo-Wiener"
+        ],
+        "questions": [
+            [
+                "The studio of Hallo is Mountain, and releaseDate is 1995-09-25. Is the Hallo referring to Hallo Spaceboy?",
+                "Yes"
+            ],
+            [
+                "The studio of Hallo is Mountain, and releaseDate is 1995-09-25. Is the Hallo referring to Hallo Spencer?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/UO": {
+        "chosen_entity": "http://dbpedia.org/resource/Ultima_Online",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Call_of_Duty:_United_Offensive",
+            "http://dbpedia.org/resource/Ultima_Online"
+        ],
+        "questions": [
+            [
+                "The producer of UO is Richard Garriott, and modes is Multiplayer. Is the UO referring to Ultima Online?",
+                "Yes"
+            ],
+            [
+                "The producer of UO is Richard Garriott, and modes is Multiplayer. Is the UO referring to Call of Duty: United Offensive?",
+                "No"
+            ]
+        ]
+    }
+}

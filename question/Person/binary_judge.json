@@ -1,0 +1,1926 @@
+{
+    "http://dbpedia.org/resource/Maha_Dewi": {
+        "chosen_entity": "http://dbpedia.org/resource/Maha_Dewi_of_Hanthawaddy",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Maha_Dewi_of_Hanthawaddy",
+            "http://dbpedia.org/resource/Maha_Dewi_of_Toungoo"
+        ],
+        "questions": [
+            [
+                "The father of Maha Dewi is Saw Zein, and activeYearsEndYear is 1384. Is the Maha Dewi referring to Maha Dewi of Hanthawaddy?",
+                "Yes"
+            ],
+            [
+                "The father of Maha Dewi is Saw Zein, and activeYearsEndYear is 1384. Is the Maha Dewi referring to Maha Dewi of Toungoo?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Fred_Abraham": {
+        "chosen_entity": "http://dbpedia.org/resource/Fred_Abraham_Sr.",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Fred_Abraham_Jr.",
+            "http://dbpedia.org/resource/Fred_Abraham_Sr."
+        ],
+        "questions": [
+            [
+                "The birthDate of Fred Abraham is 1859-01-09, and club is Guyana national cricket team. Is the Fred Abraham referring to Fred Abraham Sr.?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Fred Abraham is 1859-01-09, and club is Guyana national cricket team. Is the Fred Abraham referring to Fred Abraham Jr.?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kumashiro": {
+        "chosen_entity": "http://dbpedia.org/resource/Akihiko_Kumashiro",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Akihiko_Kumashiro",
+            "http://dbpedia.org/resource/Masato_Kumashiro",
+            "http://dbpedia.org/resource/Tatsumi_Kumashiro"
+        ],
+        "questions": [
+            [
+                "The termPeriod of Kumashiro is Akihiko Kumashiro  Tenure  1, and party is Independent(Japan). Is the Kumashiro referring to Akihiko Kumashiro?",
+                "Yes"
+            ],
+            [
+                "The termPeriod of Kumashiro is Akihiko Kumashiro  Tenure  1, and party is Independent(Japan). Is the Kumashiro referring to Masato Kumashiro?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Jae-suk": {
+        "chosen_entity": "http://dbpedia.org/resource/Yoo_Jae-suk",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Han_Jae-suk",
+            "http://dbpedia.org/resource/Oh_Jae-suk",
+            "http://dbpedia.org/resource/Yoo_Jae-suk"
+        ],
+        "questions": [
+            [
+                "The spouse of Jae-suk is 2008, and activeYearsStartYear is 1991. Is the Jae-suk referring to Yoo Jae-suk?",
+                "Yes"
+            ],
+            [
+                "The spouse of Jae-suk is 2008, and activeYearsStartYear is 1991. Is the Jae-suk referring to Han Jae-suk?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Agreiter": {
+        "chosen_entity": "http://dbpedia.org/resource/Anton_Agreiter",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Anton_Agreiter",
+            "http://dbpedia.org/resource/Debora_Agreiter"
+        ],
+        "questions": [
+            [
+                "The nationality of Agreiter is Italy, and deathDate is 2003-10-15. Is the Agreiter referring to Anton Agreiter?",
+                "Yes"
+            ],
+            [
+                "The nationality of Agreiter is Italy, and deathDate is 2003-10-15. Is the Agreiter referring to Debora Agreiter?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Finck": {
+        "chosen_entity": "http://dbpedia.org/resource/August_von_Finck_Jr.",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/August_von_Finck_Jr.",
+            "http://dbpedia.org/resource/Ethel_Finck",
+            "http://dbpedia.org/resource/Hermann_Finck",
+            "http://dbpedia.org/resource/Nick_Finck",
+            "http://dbpedia.org/resource/Pierre_Joseph_Étienne_Finck",
+            "http://dbpedia.org/resource/Robin_Finck",
+            "http://dbpedia.org/resource/Wilhelm_von_Finck",
+            "http://dbpedia.org/resource/William_E._Finck"
+        ],
+        "questions": [
+            [
+                "The deathPlace of Finck is London, England, and spouse is Francine von Finck. Is the Finck referring to August von Finck Jr.?",
+                "Yes"
+            ],
+            [
+                "The deathPlace of Finck is London, England, and spouse is Francine von Finck. Is the Finck referring to Ethel Finck?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kewney": {
+        "chosen_entity": "http://dbpedia.org/resource/Alf_Kewney",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Alf_Kewney",
+            "http://dbpedia.org/resource/Guy_Kewney"
+        ],
+        "questions": [
+            [
+                "The birthDate of Kewney is 1882-09-13, and deathDate is 1959-12-16. Is the Kewney referring to Alf Kewney?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Kewney is 1882-09-13, and deathDate is 1959-12-16. Is the Kewney referring to Guy Kewney?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ellis_Marsalis": {
+        "chosen_entity": "http://dbpedia.org/resource/Ellis_Marsalis_Jr.",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ellis_Marsalis_Jr.",
+            "http://dbpedia.org/resource/Ellis_Marsalis_Sr."
+        ],
+        "questions": [
+            [
+                "The deathDate of Ellis Marsalis is 2020-04-01, and activeYearsEndYear is 2020. Is the Ellis Marsalis referring to Ellis Marsalis Jr.?",
+                "Yes"
+            ],
+            [
+                "The deathDate of Ellis Marsalis is 2020-04-01, and activeYearsEndYear is 2020. Is the Ellis Marsalis referring to Ellis Marsalis Sr.?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Danhauser": {
+        "chosen_entity": "http://dbpedia.org/resource/Margaret_Danhauser",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Margaret_Danhauser",
+            "http://dbpedia.org/resource/Paul_Danhauser"
+        ],
+        "questions": [
+            [
+                "The position of Danhauser is First base, and birthDate is 1921-06-09. Is the Danhauser referring to Margaret Danhauser?",
+                "Yes"
+            ],
+            [
+                "The position of Danhauser is First base, and birthDate is 1921-06-09. Is the Danhauser referring to Paul Danhauser?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Dąbrowski": {
+        "chosen_entity": "http://dbpedia.org/resource/Jan_Henryk_Dąbrowski",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Franciszek_Dąbrowski",
+            "http://dbpedia.org/resource/Jan_Henryk_Dąbrowski",
+            "http://dbpedia.org/resource/Jarosław_Dąbrowski",
+            "http://dbpedia.org/resource/Kazimierz_Dąbrowski",
+            "http://dbpedia.org/resource/Maciej_Dąbrowski",
+            "http://dbpedia.org/resource/Marek_Dąbrowski"
+        ],
+        "questions": [
+            [
+                "The occupation of Dąbrowski is Congress Poland, and birthDate is 1755-08-02. Is the Dąbrowski referring to Jan Henryk Dąbrowski?",
+                "Yes"
+            ],
+            [
+                "The occupation of Dąbrowski is Congress Poland, and birthDate is 1755-08-02. Is the Dąbrowski referring to Maciej Dąbrowski?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kosanović": {
+        "chosen_entity": "http://dbpedia.org/resource/Zoran_Kosanović",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Milorad_Kosanović",
+            "http://dbpedia.org/resource/Miloš_Kosanović",
+            "http://dbpedia.org/resource/Zoran_Kosanović"
+        ],
+        "questions": [
+            [
+                "The deathDate of Kosanović is 1998-02-04, and birthDate is 1956-01-16. Is the Kosanović referring to Zoran Kosanović?",
+                "Yes"
+            ],
+            [
+                "The deathDate of Kosanović is 1998-02-04, and birthDate is 1956-01-16. Is the Kosanović referring to Miloš Kosanović?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Medalen": {
+        "chosen_entity": "http://dbpedia.org/resource/Linda_Medalen",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Linda_Medalen",
+            "http://dbpedia.org/resource/Rune_Medalen"
+        ],
+        "questions": [
+            [
+                "The birthDate of Medalen is 1965-06-17, and youthclubs is IL Brodd. Is the Medalen referring to Linda Medalen?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Medalen is 1965-06-17, and youthclubs is IL Brodd. Is the Medalen referring to Rune Medalen?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/McSheffrey": {
+        "chosen_entity": "http://dbpedia.org/resource/Gary_McSheffrey",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bryan_McSheffrey",
+            "http://dbpedia.org/resource/Gary_McSheffrey"
+        ],
+        "questions": [
+            [
+                "The birthDate of McSheffrey is 1982-08-13, and position is Midfielder. Is the McSheffrey referring to Gary McSheffrey?",
+                "Yes"
+            ],
+            [
+                "The birthDate of McSheffrey is 1982-08-13, and position is Midfielder. Is the McSheffrey referring to Bryan McSheffrey?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Amad": {
+        "chosen_entity": "http://dbpedia.org/resource/Amad_Diallo",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Amad_Al-Hosni",
+            "http://dbpedia.org/resource/Amad_Diallo"
+        ],
+        "questions": [
+            [
+                "The position of Amad is Winger (association football), and birthDate is 2002-07-11. Is the Amad referring to Amad Diallo?",
+                "Yes"
+            ],
+            [
+                "The position of Amad is Winger (association football), and birthDate is 2002-07-11. Is the Amad referring to Amad Al-Hosni?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kathleen_Brown": {
+        "chosen_entity": "http://dbpedia.org/resource/Kathleen_Browne",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kathleen_Browne",
+            "http://dbpedia.org/resource/Kathleen_Browne_(artist)"
+        ],
+        "questions": [
+            [
+                "The termEnd of Kathleen Brown is May 1936, and deathDate is 1943-10-09. Is the Kathleen Brown referring to Kathleen Browne?",
+                "Yes"
+            ],
+            [
+                "The termEnd of Kathleen Brown is May 1936, and deathDate is 1943-10-09. Is the Kathleen Brown referring to Kathleen Browne (artist)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Vasilić": {
+        "chosen_entity": "http://dbpedia.org/resource/Jovica_Vasilić",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Jovica_Vasilić",
+            "http://dbpedia.org/resource/Velibor_Vasilić"
+        ],
+        "questions": [
+            [
+                "The birthDate of Vasilić is 1990-07-08, and position is Right-back. Is the Vasilić referring to Jovica Vasilić?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Vasilić is 1990-07-08, and position is Right-back. Is the Vasilić referring to Velibor Vasilić?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Gil-Robles": {
+        "chosen_entity": "http://dbpedia.org/resource/José_María_Gil-Robles_y_Quiñones",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/José_María_Gil-Robles",
+            "http://dbpedia.org/resource/José_María_Gil-Robles_y_Quiñones"
+        ],
+        "questions": [
+            [
+                "The birthDate of Gil-Robles is 1898-11-27, and deathDate is 1980-09-13. Is the Gil-Robles referring to José María Gil-Robles y Quiñones?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Gil-Robles is 1898-11-27, and deathDate is 1980-09-13. Is the Gil-Robles referring to José María Gil-Robles?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/McWhirter": {
+        "chosen_entity": "http://dbpedia.org/resource/George_McWhirter",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Alastair_McWhirter",
+            "http://dbpedia.org/resource/Anthony_McWhirter",
+            "http://dbpedia.org/resource/George_McWhirter",
+            "http://dbpedia.org/resource/Julie_McWhirter",
+            "http://dbpedia.org/resource/Norris_McWhirter",
+            "http://dbpedia.org/resource/Ross_McWhirter",
+            "http://dbpedia.org/resource/Steven_McWhirter"
+        ],
+        "questions": [
+            [
+                "The birthDate of McWhirter is 1939-09-26, and occupation is poet. Is the McWhirter referring to George McWhirter?",
+                "Yes"
+            ],
+            [
+                "The birthDate of McWhirter is 1939-09-26, and occupation is poet. Is the McWhirter referring to Julie McWhirter?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Shimazaki": {
+        "chosen_entity": "http://dbpedia.org/resource/Shigekazu_Shimazaki",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kyoko_Shimazaki",
+            "http://dbpedia.org/resource/Miyuki_Shimazaki",
+            "http://dbpedia.org/resource/Nobunaga_Shimazaki",
+            "http://dbpedia.org/resource/Ryo_Shimazaki",
+            "http://dbpedia.org/resource/Shigekazu_Shimazaki",
+            "http://dbpedia.org/resource/Tōson_Shimazaki"
+        ],
+        "questions": [
+            [
+                "The deathPlace of Shimazaki is near Taiwan, and deathDate is 1945-01-09. Is the Shimazaki referring to Shigekazu Shimazaki?",
+                "Yes"
+            ],
+            [
+                "The deathPlace of Shimazaki is near Taiwan, and deathDate is 1945-01-09. Is the Shimazaki referring to Nobunaga Shimazaki?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Fitting": {
+        "chosen_entity": "http://dbpedia.org/resource/Emma_Fitting",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Emma_Fitting",
+            "http://dbpedia.org/resource/Frédéric_Fitting",
+            "http://dbpedia.org/resource/Willy_Fitting",
+            "http://dbpedia.org/resource/Édouard_Fitting"
+        ],
+        "questions": [
+            [
+                "The deathDate of Fitting is 1986-11-13, and sport is Fencing. Is the Fitting referring to Emma Fitting?",
+                "Yes"
+            ],
+            [
+                "The deathDate of Fitting is 1986-11-13, and sport is Fencing. Is the Fitting referring to Édouard Fitting?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Pianalto": {
+        "chosen_entity": "http://dbpedia.org/resource/Zack_Pianalto",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Sandra_Pianalto",
+            "http://dbpedia.org/resource/Zack_Pianalto"
+        ],
+        "questions": [
+            [
+                "The highschool of Pianalto is Springdale High School, and birthPlace is Springdale, Arkansas. Is the Pianalto referring to Zack Pianalto?",
+                "Yes"
+            ],
+            [
+                "The highschool of Pianalto is Springdale High School, and birthPlace is Springdale, Arkansas. Is the Pianalto referring to Sandra Pianalto?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Topčagić": {
+        "chosen_entity": "http://dbpedia.org/resource/Nada_Topčagić",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Mihret_Topčagić",
+            "http://dbpedia.org/resource/Nada_Topčagić"
+        ],
+        "questions": [
+            [
+                "The occupation of Topčagić is Singer, and activeYearsStartYear is 1975. Is the Topčagić referring to Nada Topčagić?",
+                "Yes"
+            ],
+            [
+                "The occupation of Topčagić is Singer, and activeYearsStartYear is 1975. Is the Topčagić referring to Mihret Topčagić?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Balzani": {
+        "chosen_entity": "http://dbpedia.org/resource/Vincenzo_Balzani",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Annarita_Balzani",
+            "http://dbpedia.org/resource/Roberto_Balzani",
+            "http://dbpedia.org/resource/Vincenzo_Balzani"
+        ],
+        "questions": [
+            [
+                "The almaMater of Balzani is University of Bologna, and birthDate is 1936-11-15. Is the Balzani referring to Vincenzo Balzani?",
+                "Yes"
+            ],
+            [
+                "The almaMater of Balzani is University of Bologna, and birthDate is 1936-11-15. Is the Balzani referring to Roberto Balzani?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Seiler": {
+        "chosen_entity": "http://dbpedia.org/resource/Sonny_Seiler",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Jack_Seiler",
+            "http://dbpedia.org/resource/Kerim_Seiler",
+            "http://dbpedia.org/resource/Lewis_Seiler",
+            "http://dbpedia.org/resource/Paul_Seiler",
+            "http://dbpedia.org/resource/Reinhard_Seiler",
+            "http://dbpedia.org/resource/Robert_Eldridge_Seiler",
+            "http://dbpedia.org/resource/Sonny_Seiler"
+        ],
+        "questions": [
+            [
+                "The birthDate of Seiler is 1933-02-20, and birthPlace is Savannah, Georgia. Is the Seiler referring to Sonny Seiler?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Seiler is 1933-02-20, and birthPlace is Savannah, Georgia. Is the Seiler referring to Robert Eldridge Seiler?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bestayev": {
+        "chosen_entity": "http://dbpedia.org/resource/Valerian_Bestayev",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Alimbeg_Bestayev",
+            "http://dbpedia.org/resource/Anri_Bestayev",
+            "http://dbpedia.org/resource/Valerian_Bestayev"
+        ],
+        "questions": [
+            [
+                "The youthclubs of Bestayev is FC Avtodor Vladikavkaz, and position is Defender (football). Is the Bestayev referring to Valerian Bestayev?",
+                "Yes"
+            ],
+            [
+                "The youthclubs of Bestayev is FC Avtodor Vladikavkaz, and position is Defender (football). Is the Bestayev referring to Anri Bestayev?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Carthel": {
+        "chosen_entity": "http://dbpedia.org/resource/Colby_Carthel",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Colby_Carthel",
+            "http://dbpedia.org/resource/Don_Carthel"
+        ],
+        "questions": [
+            [
+                "The birthPlace of Carthel is Floydada, Texas, and birthDate is 1976-08-29. Is the Carthel referring to Colby Carthel?",
+                "Yes"
+            ],
+            [
+                "The birthPlace of Carthel is Floydada, Texas, and birthDate is 1976-08-29. Is the Carthel referring to Don Carthel?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Partee": {
+        "chosen_entity": "http://dbpedia.org/resource/Barbara_Partee",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Barbara_Partee",
+            "http://dbpedia.org/resource/Cecil_A._Partee",
+            "http://dbpedia.org/resource/Dennis_Partee",
+            "http://dbpedia.org/resource/Roy_Partee"
+        ],
+        "questions": [
+            [
+                "The birthDate of Partee is 1940-06-23, and nationality is United States. Is the Partee referring to Barbara Partee?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Partee is 1940-06-23, and nationality is United States. Is the Partee referring to Roy Partee?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/DiCosmo": {
+        "chosen_entity": "http://dbpedia.org/resource/Anthony_DiCosmo",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Anthony_DiCosmo",
+            "http://dbpedia.org/resource/Francesco_DiCosmo"
+        ],
+        "questions": [
+            [
+                "The highschool of DiCosmo is Paramus Catholic High School, and birthPlace is Hackensack, New Jersey. Is the DiCosmo referring to Anthony DiCosmo?",
+                "Yes"
+            ],
+            [
+                "The highschool of DiCosmo is Paramus Catholic High School, and birthPlace is Hackensack, New Jersey. Is the DiCosmo referring to Francesco DiCosmo?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Sanguinetti": {
+        "chosen_entity": "http://dbpedia.org/resource/Bobby_Sanguinetti",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bobby_Sanguinetti",
+            "http://dbpedia.org/resource/Davide_Sanguinetti",
+            "http://dbpedia.org/resource/Evelyn_Sanguinetti",
+            "http://dbpedia.org/resource/Guillermo_Sanguinetti",
+            "http://dbpedia.org/resource/Javier_Sanguinetti",
+            "http://dbpedia.org/resource/Julio_María_Sanguinetti",
+            "http://dbpedia.org/resource/Raúl_Sanguineti"
+        ],
+        "questions": [
+            [
+                "The birthDate of Sanguinetti is 1988-02-29, and position is Defenceman. Is the Sanguinetti referring to Bobby Sanguinetti?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Sanguinetti is 1988-02-29, and position is Defenceman. Is the Sanguinetti referring to Evelyn Sanguinetti?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Astori": {
+        "chosen_entity": "http://dbpedia.org/resource/Danilo_Astori",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Danilo_Astori",
+            "http://dbpedia.org/resource/Davide_Astori",
+            "http://dbpedia.org/resource/Vicky_Astori"
+        ],
+        "questions": [
+            [
+                "The birthDate of Astori is 1940-04-23, and almaMater is University of the Republic (Uruguay). Is the Astori referring to Danilo Astori?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Astori is 1940-04-23, and almaMater is University of the Republic (Uruguay). Is the Astori referring to Vicky Astori?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Terzian": {
+        "chosen_entity": "http://dbpedia.org/resource/Grace_Paine_Terzian",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Alain_Terzian",
+            "http://dbpedia.org/resource/Alexandros_Terzian",
+            "http://dbpedia.org/resource/Grace_Paine_Terzian",
+            "http://dbpedia.org/resource/Philip_Terzian",
+            "http://dbpedia.org/resource/Tovmas_Terzian"
+        ],
+        "questions": [
+            [
+                "The birthYear of Terzian is 1952, and birthDate is 1952-10-19. Is the Terzian referring to Grace Paine Terzian?",
+                "Yes"
+            ],
+            [
+                "The birthYear of Terzian is 1952, and birthDate is 1952-10-19. Is the Terzian referring to Tovmas Terzian?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Hidekazu": {
+        "chosen_entity": "http://dbpedia.org/resource/Hidekazu_Yoshida",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Hidekazu_Hayashi",
+            "http://dbpedia.org/resource/Hidekazu_Ichinose",
+            "http://dbpedia.org/resource/Hidekazu_Yoshida"
+        ],
+        "questions": [
+            [
+                "The deathPlace of Hidekazu is Kamakura, Kanagawa, and deathDate is 2012-05-22. Is the Hidekazu referring to Hidekazu Yoshida?",
+                "Yes"
+            ],
+            [
+                "The deathPlace of Hidekazu is Kamakura, Kanagawa, and deathDate is 2012-05-22. Is the Hidekazu referring to Hidekazu Ichinose?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Barrault": {
+        "chosen_entity": "http://dbpedia.org/resource/François_Barrault",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Doug_Barrault",
+            "http://dbpedia.org/resource/François_Barrault",
+            "http://dbpedia.org/resource/Jean-Louis_Barrault",
+            "http://dbpedia.org/resource/Marie-Christine_Barrault"
+        ],
+        "questions": [
+            [
+                "The birthDate of Barrault is 1960-09-27, and birthYear is 1960. Is the Barrault referring to François Barrault?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Barrault is 1960-09-27, and birthYear is 1960. Is the Barrault referring to Jean-Louis Barrault?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Pogrebin": {
+        "chosen_entity": "http://dbpedia.org/resource/Letty_Cottin_Pogrebin",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Abigail_Pogrebin",
+            "http://dbpedia.org/resource/Letty_Cottin_Pogrebin",
+            "http://dbpedia.org/resource/Robin_Pogrebin"
+        ],
+        "questions": [
+            [
+                "The birthDate of Pogrebin is 1939-06-09, and spouse is Bert Pogrebin. Is the Pogrebin referring to Letty Cottin Pogrebin?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Pogrebin is 1939-06-09, and spouse is Bert Pogrebin. Is the Pogrebin referring to Abigail Pogrebin?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Surridge": {
+        "chosen_entity": "http://dbpedia.org/resource/Stuart_Surridge",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Arthur_Surridge",
+            "http://dbpedia.org/resource/Steve_Surridge",
+            "http://dbpedia.org/resource/Stuart_Surridge",
+            "http://dbpedia.org/resource/Victor_Surridge"
+        ],
+        "questions": [
+            [
+                "The country of Surridge is England, and birthDate is 1917-09-03. Is the Surridge referring to Stuart Surridge?",
+                "Yes"
+            ],
+            [
+                "The country of Surridge is England, and birthDate is 1917-09-03. Is the Surridge referring to Victor Surridge?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kathryn": {
+        "chosen_entity": "http://dbpedia.org/resource/Kathryn_P._Hire",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Catherine_Howard",
+            "http://dbpedia.org/resource/Kat_Teasdale",
+            "http://dbpedia.org/resource/Kathryn_Beaumont",
+            "http://dbpedia.org/resource/Kathryn_Bernardo",
+            "http://dbpedia.org/resource/Kathryn_Bigelow",
+            "http://dbpedia.org/resource/Kathryn_Busby",
+            "http://dbpedia.org/resource/Kathryn_C._Thornton",
+            "http://dbpedia.org/resource/Kathryn_Calder",
+            "http://dbpedia.org/resource/Kathryn_Crosby",
+            "http://dbpedia.org/resource/Kathryn_Deans",
+            "http://dbpedia.org/resource/Kathryn_Drysdale",
+            "http://dbpedia.org/resource/Kathryn_E._Granahan",
+            "http://dbpedia.org/resource/Kathryn_Erbe",
+            "http://dbpedia.org/resource/Kathryn_Grayson",
+            "http://dbpedia.org/resource/Kathryn_Hahn",
+            "http://dbpedia.org/resource/Kathryn_Hay",
+            "http://dbpedia.org/resource/Kathryn_Hulme",
+            "http://dbpedia.org/resource/Kathryn_Joosten",
+            "http://dbpedia.org/resource/Kathryn_Leigh_Scott",
+            "http://dbpedia.org/resource/Kathryn_McGuire",
+            "http://dbpedia.org/resource/Kathryn_O'Loughlin_McCarthy",
+            "http://dbpedia.org/resource/Kathryn_P._Hire",
+            "http://dbpedia.org/resource/Kathryn_Parsons",
+            "http://dbpedia.org/resource/Kathryn_S._McKinley",
+            "http://dbpedia.org/resource/Kathryn_Sarah_Scott",
+            "http://dbpedia.org/resource/Kathryn_Schulz",
+            "http://dbpedia.org/resource/Kathryn_Stockett",
+            "http://dbpedia.org/resource/Kathryn_Tickell",
+            "http://dbpedia.org/resource/Kathryn_Tucker_Windham"
+        ],
+        "questions": [
+            [
+                "The birthDate of Kathryn is 1959-08-26, and occupation is Engineer. Is the Kathryn referring to Kathryn P. Hire?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Kathryn is 1959-08-26, and occupation is Engineer. Is the Kathryn referring to Kathryn O'Loughlin McCarthy?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Sokołowski": {
+        "chosen_entity": "http://dbpedia.org/resource/Kazimierz_Sokołowski_(ice_hockey)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kazimierz_Sokołowski_(ice_hockey)",
+            "http://dbpedia.org/resource/Marek_Sokołowski",
+            "http://dbpedia.org/resource/Michał_Sokołowski",
+            "http://dbpedia.org/resource/Patryk_Sokołowski",
+            "http://dbpedia.org/resource/Stefan_Lech_Sokołowski",
+            "http://dbpedia.org/resource/Włodzimierz_Sokołowski"
+        ],
+        "questions": [
+            [
+                "The activeYearsEndYear of Sokołowski is 1947, and position is Defence (ice hockey). Is the Sokołowski referring to Kazimierz Sokołowski (ice hockey)?",
+                "Yes"
+            ],
+            [
+                "The activeYearsEndYear of Sokołowski is 1947, and position is Defence (ice hockey). Is the Sokołowski referring to Włodzimierz Sokołowski?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Toshimi": {
+        "chosen_entity": "http://dbpedia.org/resource/Toshimi_Kitazawa",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Nanbu_Toshimi",
+            "http://dbpedia.org/resource/Toshimi_Kikuchi",
+            "http://dbpedia.org/resource/Toshimi_Kitazawa"
+        ],
+        "questions": [
+            [
+                "The birthDate of Toshimi is 1938-03-06, and predecessor is Yasukazu Hamada. Is the Toshimi referring to Toshimi Kitazawa?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Toshimi is 1938-03-06, and predecessor is Yasukazu Hamada. Is the Toshimi referring to Nanbu Toshimi?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/McKeough": {
+        "chosen_entity": "http://dbpedia.org/resource/Tom_MacKeough",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Darcy_McKeough",
+            "http://dbpedia.org/resource/Dave_McKeough",
+            "http://dbpedia.org/resource/Raymond_S._McKeough",
+            "http://dbpedia.org/resource/Stefanie_McKeough",
+            "http://dbpedia.org/resource/Tom_MacKeough"
+        ],
+        "questions": [
+            [
+                "The predecessor of McKeough is John Michael Macdonald, and termEnd is 1978. Is the McKeough referring to Tom MacKeough?",
+                "Yes"
+            ],
+            [
+                "The predecessor of McKeough is John Michael Macdonald, and termEnd is 1978. Is the McKeough referring to Dave McKeough?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/De_Alvear": {
+        "chosen_entity": "http://dbpedia.org/resource/Carlos_María_de_Alvear",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Carlos_María_de_Alvear",
+            "http://dbpedia.org/resource/Marcelo_Torcuato_de_Alvear"
+        ],
+        "questions": [
+            [
+                "The termStart of De Alvear is 1815-01-09, and nationality is Argentina. Is the De Alvear referring to Carlos María de Alvear?",
+                "Yes"
+            ],
+            [
+                "The termStart of De Alvear is 1815-01-09, and nationality is Argentina. Is the De Alvear referring to Marcelo Torcuato de Alvear?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Benstead": {
+        "chosen_entity": "http://dbpedia.org/resource/Graham_Benstead",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Christopher_Benstead",
+            "http://dbpedia.org/resource/Graham_Benstead",
+            "http://dbpedia.org/resource/Lulu_Benstead"
+        ],
+        "questions": [
+            [
+                "The birthDate of Benstead is 1963-08-20, and position is Goalkeeper (association football). Is the Benstead referring to Graham Benstead?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Benstead is 1963-08-20, and position is Goalkeeper (association football). Is the Benstead referring to Lulu Benstead?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Francisco_Barnés": {
+        "chosen_entity": "http://dbpedia.org/resource/Francisco_Barnés_Salinas",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Francisco_Barnés_Salinas",
+            "http://dbpedia.org/resource/Francisco_Barnés_de_Castro"
+        ],
+        "questions": [
+            [
+                "The deathDate of Francisco Barnés is 1947, and nationality is Spanish. Is the Francisco Barnés referring to Francisco Barnés Salinas?",
+                "Yes"
+            ],
+            [
+                "The deathDate of Francisco Barnés is 1947, and nationality is Spanish. Is the Francisco Barnés referring to Francisco Barnés de Castro?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Aikman": {
+        "chosen_entity": "http://dbpedia.org/resource/Alexander_Aikman",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Alexander_Aikman",
+            "http://dbpedia.org/resource/Christopher_Aikman",
+            "http://dbpedia.org/resource/George_Aikman",
+            "http://dbpedia.org/resource/Gordon_Aikman",
+            "http://dbpedia.org/resource/Granville_Pearl_Aikman",
+            "http://dbpedia.org/resource/Laura_Aikman",
+            "http://dbpedia.org/resource/Troy_Aikman",
+            "http://dbpedia.org/resource/William_Aikman_(writer)"
+        ],
+        "questions": [
+            [
+                "The activeYearsStartYear of Aikman is 1791, and birthYear is 1755. Is the Aikman referring to Alexander Aikman?",
+                "Yes"
+            ],
+            [
+                "The activeYearsStartYear of Aikman is 1791, and birthYear is 1755. Is the Aikman referring to George Aikman?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Hertl": {
+        "chosen_entity": "http://dbpedia.org/resource/Björn_Hertl",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Björn_Hertl",
+            "http://dbpedia.org/resource/Jan_Hertl",
+            "http://dbpedia.org/resource/Jaroslav_Hertl"
+        ],
+        "questions": [
+            [
+                "The position of Hertl is Midfielder, and birthDate is 1976-08-10. Is the Hertl referring to Björn Hertl?",
+                "Yes"
+            ],
+            [
+                "The position of Hertl is Midfielder, and birthDate is 1976-08-10. Is the Hertl referring to Jaroslav Hertl?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Steve_Adubato": {
+        "chosen_entity": "http://dbpedia.org/resource/Steve_Adubato_Sr.",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Steve_Adubato_Jr.",
+            "http://dbpedia.org/resource/Steve_Adubato_Sr."
+        ],
+        "questions": [
+            [
+                "The nationality of Steve Adubato is Americans, and birthYear is 1932. Is the Steve Adubato referring to Steve Adubato Sr.?",
+                "Yes"
+            ],
+            [
+                "The nationality of Steve Adubato is Americans, and birthYear is 1932. Is the Steve Adubato referring to Steve Adubato Jr.?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Nahum": {
+        "chosen_entity": "http://dbpedia.org/resource/Ana_Nahum",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ana_Nahum",
+            "http://dbpedia.org/resource/Baby_K_(artist)",
+            "http://dbpedia.org/resource/Benjamín_Nahum",
+            "http://dbpedia.org/resource/Bertin_Nahum",
+            "http://dbpedia.org/resource/Nahum_Rabinovitch",
+            "http://dbpedia.org/resource/Nahum_Stelmach",
+            "http://dbpedia.org/resource/Nahum_Tate"
+        ],
+        "questions": [
+            [
+                "The birthYear of Nahum is 1969, and nationality is Uruguayan. Is the Nahum referring to Ana Nahum?",
+                "Yes"
+            ],
+            [
+                "The birthYear of Nahum is 1969, and nationality is Uruguayan. Is the Nahum referring to Benjamín Nahum?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Pery": {
+        "chosen_entity": "http://dbpedia.org/resource/William_Pery,_3rd_Earl_of_Limerick",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Pery_Igel",
+            "http://dbpedia.org/resource/Pery_Ribeiro",
+            "http://dbpedia.org/resource/William_Pery,_3rd_Earl_of_Limerick"
+        ],
+        "questions": [
+            [
+                "The deathDate of Pery is --08-08, and birthDate is 1840-01-17. Is the Pery referring to William Pery, 3rd Earl of Limerick?",
+                "Yes"
+            ],
+            [
+                "The deathDate of Pery is --08-08, and birthDate is 1840-01-17. Is the Pery referring to Pery Ribeiro?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Abdul_Qayyum": {
+        "chosen_entity": "http://dbpedia.org/resource/Abdul_Qayyum_Khan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Abdul_Qayyum_Khan",
+            "http://dbpedia.org/resource/Abdul_Qayyum_Sajjadi",
+            "http://dbpedia.org/resource/Muhammad_Abdul_Qayyum_Khan"
+        ],
+        "questions": [
+            [
+                "The birthDate of Abdul Qayyum is 1901-06-16, and deathDate is 1981-10-23. Is the Abdul Qayyum referring to Abdul Qayyum Khan?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Abdul Qayyum is 1901-06-16, and deathDate is 1981-10-23. Is the Abdul Qayyum referring to Muhammad Abdul Qayyum Khan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Gilb": {
+        "chosen_entity": "http://dbpedia.org/resource/Tom_Gilb",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Mike_Gilb",
+            "http://dbpedia.org/resource/Tom_Gilb"
+        ],
+        "questions": [
+            [
+                "The birthDate of Gilb is 1940, and residence is Kolbotn, Norway. Is the Gilb referring to Tom Gilb?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Gilb is 1940, and residence is Kolbotn, Norway. Is the Gilb referring to Mike Gilb?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Labib": {
+        "chosen_entity": "http://dbpedia.org/resource/Labib_Habachi",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Adel_Labib",
+            "http://dbpedia.org/resource/Labib_Habachi",
+            "http://dbpedia.org/resource/Labib_Hussein_Abu_Rokan",
+            "http://dbpedia.org/resource/Pahor_Labib"
+        ],
+        "questions": [
+            [
+                "The deathYear of Labib is 1984, and stateOfOrigin is Egyptians. Is the Labib referring to Labib Habachi?",
+                "Yes"
+            ],
+            [
+                "The deathYear of Labib is 1984, and stateOfOrigin is Egyptians. Is the Labib referring to Labib Hussein Abu Rokan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ivan_III": {
+        "chosen_entity": "http://dbpedia.org/resource/Ivan_III_Drašković",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ivan_III_Drašković",
+            "http://dbpedia.org/resource/Ivan_III_of_Russia",
+            "http://dbpedia.org/resource/Ivaniš_Nelipić"
+        ],
+        "questions": [
+            [
+                "The deathDate of Ivan III is 1648-08-05, and birthDate is 1603-03-13. Is the Ivan III referring to Ivan III Drašković?",
+                "Yes"
+            ],
+            [
+                "The deathDate of Ivan III is 1648-08-05, and birthDate is 1603-03-13. Is the Ivan III referring to Ivan III of Russia?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/DiMarco": {
+        "chosen_entity": "http://dbpedia.org/resource/Nyle_DiMarco",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Chris_DiMarco",
+            "http://dbpedia.org/resource/Melissa_DiMarco",
+            "http://dbpedia.org/resource/Nyle_DiMarco"
+        ],
+        "questions": [
+            [
+                "The nationality of DiMarco is United States, and birthDate is 1989-05-08. Is the DiMarco referring to Nyle DiMarco?",
+                "Yes"
+            ],
+            [
+                "The nationality of DiMarco is United States, and birthDate is 1989-05-08. Is the DiMarco referring to Melissa DiMarco?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Laffey": {
+        "chosen_entity": "http://dbpedia.org/resource/Tony_Laffey",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Aaron_Laffey",
+            "http://dbpedia.org/resource/Bartlett_Laffey",
+            "http://dbpedia.org/resource/Merv_Laffey",
+            "http://dbpedia.org/resource/Steve_Laffey",
+            "http://dbpedia.org/resource/Tony_Laffey"
+        ],
+        "questions": [
+            [
+                "The birthDate of Laffey is 1925-05-28, and position is Defender (association football). Is the Laffey referring to Tony Laffey?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Laffey is 1925-05-28, and position is Defender (association football). Is the Laffey referring to Steve Laffey?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Boesch": {
+        "chosen_entity": "http://dbpedia.org/resource/Ruthilde_Boesch",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Brennan_Boesch",
+            "http://dbpedia.org/resource/Paul_Boesch",
+            "http://dbpedia.org/resource/Rudy_Boesch",
+            "http://dbpedia.org/resource/Ruthilde_Boesch"
+        ],
+        "questions": [
+            [
+                "The deathYear of Boesch is 2012, and deathDate is 2012-01-20. Is the Boesch referring to Ruthilde Boesch?",
+                "Yes"
+            ],
+            [
+                "The deathYear of Boesch is 2012, and deathDate is 2012-01-20. Is the Boesch referring to Paul Boesch?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Tommila": {
+        "chosen_entity": "http://dbpedia.org/resource/Juho_Tommila",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Juho_Tommila",
+            "http://dbpedia.org/resource/Kielo_Tommila",
+            "http://dbpedia.org/resource/Onni_Tommila"
+        ],
+        "questions": [
+            [
+                "The weightLb of Tommila is 181, and position is Defenceman. Is the Tommila referring to Juho Tommila?",
+                "Yes"
+            ],
+            [
+                "The weightLb of Tommila is 181, and position is Defenceman. Is the Tommila referring to Kielo Tommila?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Sršeň": {
+        "chosen_entity": "http://dbpedia.org/resource/Václav_Sršeň",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Tomáš_Sršeň",
+            "http://dbpedia.org/resource/Václav_Sršeň"
+        ],
+        "questions": [
+            [
+                "The birthDate of Sršeň is 1925-06-07, and deathDate is 1996-11-30. Is the Sršeň referring to Václav Sršeň?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Sršeň is 1925-06-07, and deathDate is 1996-11-30. Is the Sršeň referring to Tomáš Sršeň?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kozłowski": {
+        "chosen_entity": "http://dbpedia.org/resource/Artur_Kozłowski_(runner)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Artur_Kozłowski_(runner)",
+            "http://dbpedia.org/resource/Artur_Kozłowski_(speleologist)",
+            "http://dbpedia.org/resource/Edward_Kozłowski",
+            "http://dbpedia.org/resource/Leon_Kozłowski"
+        ],
+        "questions": [
+            [
+                "The birthDate of Kozłowski is 1985-01-19, and club is MULKS MOS Sieradz. Is the Kozłowski referring to Artur Kozłowski (runner)?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Kozłowski is 1985-01-19, and club is MULKS MOS Sieradz. Is the Kozłowski referring to Artur Kozłowski (speleologist)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Battisti": {
+        "chosen_entity": "http://dbpedia.org/resource/Frank_J._Battisti",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Cesare_Battisti_(politician)",
+            "http://dbpedia.org/resource/Frank_J._Battisti",
+            "http://dbpedia.org/resource/Leda_Battisti",
+            "http://dbpedia.org/resource/Lucio_Battisti"
+        ],
+        "questions": [
+            [
+                "The deathDate of Battisti is 1994-10-19, and birthDate is 1922-10-04. Is the Battisti referring to Frank J. Battisti?",
+                "Yes"
+            ],
+            [
+                "The deathDate of Battisti is 1994-10-19, and birthDate is 1922-10-04. Is the Battisti referring to Lucio Battisti?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Burghart": {
+        "chosen_entity": "http://dbpedia.org/resource/Alex_Burghart",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Alex_Burghart",
+            "http://dbpedia.org/resource/Ralph_Burghart"
+        ],
+        "questions": [
+            [
+                "The parliament of Burghart is 4613, and nationality is British. Is the Burghart referring to Alex Burghart?",
+                "Yes"
+            ],
+            [
+                "The parliament of Burghart is 4613, and nationality is British. Is the Burghart referring to Ralph Burghart?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Fazlul_Haq": {
+        "chosen_entity": "http://dbpedia.org/resource/Fazlul_Haque_Amini",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/A._K._M._Fazlul_Haque",
+            "http://dbpedia.org/resource/A._K._M._Fazlul_Haque_(surgeon)",
+            "http://dbpedia.org/resource/AKM_Fazlul_Haque_Milon",
+            "http://dbpedia.org/resource/Fazlul_Haque_(judge)",
+            "http://dbpedia.org/resource/Fazlul_Haque_Amini",
+            "http://dbpedia.org/resource/Sheikh_Fazlul_Haque_Mani"
+        ],
+        "questions": [
+            [
+                "The termEnd of Fazlul Haq is 2006-10-29, and deathDate is 2012-12-12. Is the Fazlul Haq referring to Fazlul Haque Amini?",
+                "Yes"
+            ],
+            [
+                "The termEnd of Fazlul Haq is 2006-10-29, and deathDate is 2012-12-12. Is the Fazlul Haq referring to A. K. M. Fazlul Haque?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Sapozhnikov": {
+        "chosen_entity": "http://dbpedia.org/resource/Nadezhda_Sapozhnikova",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Andrei_Sapozhnikov",
+            "http://dbpedia.org/resource/Nadezhda_Sapozhnikova"
+        ],
+        "questions": [
+            [
+                "The almaMater of Sapozhnikov is Kazan Art School, and birthDate is 1877-03-26. Is the Sapozhnikov referring to Nadezhda Sapozhnikova?",
+                "Yes"
+            ],
+            [
+                "The almaMater of Sapozhnikov is Kazan Art School, and birthDate is 1877-03-26. Is the Sapozhnikov referring to Andrei Sapozhnikov?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Jarolím": {
+        "chosen_entity": "http://dbpedia.org/resource/Marek_Jarolím",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/David_Jarolím",
+            "http://dbpedia.org/resource/Karel_Jarolím",
+            "http://dbpedia.org/resource/Lukáš_Jarolím",
+            "http://dbpedia.org/resource/Marek_Jarolím"
+        ],
+        "questions": [
+            [
+                "The youthclubs of Jarolím is AC Sparta Prague, and birthDate is 1984-05-21. Is the Jarolím referring to Marek Jarolím?",
+                "Yes"
+            ],
+            [
+                "The youthclubs of Jarolím is AC Sparta Prague, and birthDate is 1984-05-21. Is the Jarolím referring to Lukáš Jarolím?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Maniatis": {
+        "chosen_entity": "http://dbpedia.org/resource/Peter_Maniatis",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kostas_Maniatis",
+            "http://dbpedia.org/resource/Peter_Maniatis",
+            "http://dbpedia.org/resource/Tom_Maniatis"
+        ],
+        "questions": [
+            [
+                "The birthYear of Maniatis is 1973, and birthDate is February. Is the Maniatis referring to Peter Maniatis?",
+                "Yes"
+            ],
+            [
+                "The birthYear of Maniatis is 1973, and birthDate is February. Is the Maniatis referring to Kostas Maniatis?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Peter_Lee": {
+        "chosen_entity": "http://dbpedia.org/resource/Peter_Lee_Jung-sum",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Peter_Lee_Jung-sum",
+            "http://dbpedia.org/resource/Peter_Lee_Ka-kit"
+        ],
+        "questions": [
+            [
+                "The mother of Peter Lee is Grace Ho, and birthDate is 1939-10-23. Is the Peter Lee referring to Peter Lee Jung-sum?",
+                "Yes"
+            ],
+            [
+                "The mother of Peter Lee is Grace Ho, and birthDate is 1939-10-23. Is the Peter Lee referring to Peter Lee Ka-kit?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Garling": {
+        "chosen_entity": "http://dbpedia.org/resource/Henry_Garling",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Caleb_Garling",
+            "http://dbpedia.org/resource/Frederick_Garling_Jr.",
+            "http://dbpedia.org/resource/Henry_Garling",
+            "http://dbpedia.org/resource/Peter_Garling"
+        ],
+        "questions": [
+            [
+                "The party of Garling is Nationalist Party of Australia, and birthPlace is Camden, New South Wales. Is the Garling referring to Henry Garling?",
+                "Yes"
+            ],
+            [
+                "The party of Garling is Nationalist Party of Australia, and birthPlace is Camden, New South Wales. Is the Garling referring to Caleb Garling?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Hammerschlag": {
+        "chosen_entity": "http://dbpedia.org/resource/Frank_Hammerschlag",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Alice_Berger_Hammerschlag",
+            "http://dbpedia.org/resource/Frank_Hammerschlag"
+        ],
+        "questions": [
+            [
+                "The birthPlace of Hammerschlag is West Germany, and youthclubs is KFC Uerdingen 05. Is the Hammerschlag referring to Frank Hammerschlag?",
+                "Yes"
+            ],
+            [
+                "The birthPlace of Hammerschlag is West Germany, and youthclubs is KFC Uerdingen 05. Is the Hammerschlag referring to Alice Berger Hammerschlag?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Pelageya": {
+        "chosen_entity": "http://dbpedia.org/resource/Pelageya_Danilova",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Pelageya_Danilova",
+            "http://dbpedia.org/resource/Pelageya_Polubarinova-Kochina"
+        ],
+        "questions": [
+            [
+                "The birthDate of Pelageya is 1918-05-04, and deathDate is 2001-07-31. Is the Pelageya referring to Pelageya Danilova?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Pelageya is 1918-05-04, and deathDate is 2001-07-31. Is the Pelageya referring to Pelageya Polubarinova-Kochina?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Dawkins": {
+        "chosen_entity": "http://dbpedia.org/resource/Aubrey_Dawkins",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Aubrey_Dawkins",
+            "http://dbpedia.org/resource/Benjamin_C._Dawkins_Jr.",
+            "http://dbpedia.org/resource/Benjamin_C._Dawkins_Sr.",
+            "http://dbpedia.org/resource/Boyd_Dawkins",
+            "http://dbpedia.org/resource/Brian_Dawkins",
+            "http://dbpedia.org/resource/Dalyn_Dawkins",
+            "http://dbpedia.org/resource/Darryl_Dawkins",
+            "http://dbpedia.org/resource/Derek_Dawkins",
+            "http://dbpedia.org/resource/Dion_Dawkins",
+            "http://dbpedia.org/resource/James_Dawkins_(antiquarian)",
+            "http://dbpedia.org/resource/Jimmy_Dawkins",
+            "http://dbpedia.org/resource/John_Dawkins",
+            "http://dbpedia.org/resource/John_Dawkins_(South_Australian_politician)",
+            "http://dbpedia.org/resource/Johnny_Dawkins",
+            "http://dbpedia.org/resource/Marian_Dawkins",
+            "http://dbpedia.org/resource/Noah_Dawkins",
+            "http://dbpedia.org/resource/Paul_Dawkins",
+            "http://dbpedia.org/resource/Pete_Dawkins",
+            "http://dbpedia.org/resource/Richard_Dawkins",
+            "http://dbpedia.org/resource/Sean_Dawkins",
+            "http://dbpedia.org/resource/Travis_Dawkins",
+            "http://dbpedia.org/resource/William_Boyd_Dawkins"
+        ],
+        "questions": [
+            [
+                "The weightLb of Dawkins is 205, and activeYearsStartYear is 2019. Is the Dawkins referring to Aubrey Dawkins?",
+                "Yes"
+            ],
+            [
+                "The weightLb of Dawkins is 205, and activeYearsStartYear is 2019. Is the Dawkins referring to James Dawkins (antiquarian)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Lipke": {
+        "chosen_entity": "http://dbpedia.org/resource/Jānis_Lipke",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Jānis_Lipke",
+            "http://dbpedia.org/resource/Lipke_Holthuis"
+        ],
+        "questions": [
+            [
+                "The deathYear of Lipke is 1987, and deathDate is 1987-05-14. Is the Lipke referring to Jānis Lipke?",
+                "Yes"
+            ],
+            [
+                "The deathYear of Lipke is 1987, and deathDate is 1987-05-14. Is the Lipke referring to Lipke Holthuis?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Schelfhout": {
+        "chosen_entity": "http://dbpedia.org/resource/Els_Schelfhout",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Andreas_Schelfhout",
+            "http://dbpedia.org/resource/Els_Schelfhout"
+        ],
+        "questions": [
+            [
+                "The birthPlace of Schelfhout is Sint-Gillis-Waas, and birthDate is 1967-05-19. Is the Schelfhout referring to Els Schelfhout?",
+                "Yes"
+            ],
+            [
+                "The birthPlace of Schelfhout is Sint-Gillis-Waas, and birthDate is 1967-05-19. Is the Schelfhout referring to Andreas Schelfhout?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Sumlin": {
+        "chosen_entity": "http://dbpedia.org/resource/Hubert_Sumlin",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Hubert_Sumlin",
+            "http://dbpedia.org/resource/Kevin_Sumlin"
+        ],
+        "questions": [
+            [
+                "The birthDate of Sumlin is 1931-11-16, and deathDate is 2011-12-04. Is the Sumlin referring to Hubert Sumlin?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Sumlin is 1931-11-16, and deathDate is 2011-12-04. Is the Sumlin referring to Kevin Sumlin?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Guerini": {
+        "chosen_entity": "http://dbpedia.org/resource/Lorenzo_Guerini",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Lorenzo_Guerini",
+            "http://dbpedia.org/resource/Vincenzo_Guerini_(athlete)",
+            "http://dbpedia.org/resource/Vincenzo_Guerini_(footballer)"
+        ],
+        "questions": [
+            [
+                "The almaMater of Guerini is Università Cattolica del Sacro Cuore, and birthDate is 1966-11-21. Is the Guerini referring to Lorenzo Guerini?",
+                "Yes"
+            ],
+            [
+                "The almaMater of Guerini is Università Cattolica del Sacro Cuore, and birthDate is 1966-11-21. Is the Guerini referring to Vincenzo Guerini (athlete)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Golubović": {
+        "chosen_entity": "http://dbpedia.org/resource/Srdan_Golubović",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Petar_Golubović",
+            "http://dbpedia.org/resource/Srdan_Golubović"
+        ],
+        "questions": [
+            [
+                "The activeYearsStartYear of Golubović is 1993, and nationality is Serbian. Is the Golubović referring to Srdan Golubović?",
+                "Yes"
+            ],
+            [
+                "The activeYearsStartYear of Golubović is 1993, and nationality is Serbian. Is the Golubović referring to Petar Golubović?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Masumi": {
+        "chosen_entity": "http://dbpedia.org/resource/Masumi_Fuchise",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Masumi_Fuchise",
+            "http://dbpedia.org/resource/Masumi_Itō",
+            "http://dbpedia.org/resource/Masumi_Kuwata",
+            "http://dbpedia.org/resource/Masumi_Mitsui",
+            "http://dbpedia.org/resource/Masumi_Miyazaki",
+            "http://dbpedia.org/resource/Masumi_Okada",
+            "http://dbpedia.org/resource/Masumi_Oshima",
+            "http://dbpedia.org/resource/Masumi_Uno",
+            "http://dbpedia.org/resource/Sachiko_Masumi"
+        ],
+        "questions": [
+            [
+                "The sport of Masumi is Athletics, and birthDate is 1986-09-02. Is the Masumi referring to Masumi Fuchise?",
+                "Yes"
+            ],
+            [
+                "The sport of Masumi is Athletics, and birthDate is 1986-09-02. Is the Masumi referring to Masumi Kuwata?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Nimlot": {
+        "chosen_entity": "http://dbpedia.org/resource/Nimlot_C",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Nimlot_A",
+            "http://dbpedia.org/resource/Nimlot_B",
+            "http://dbpedia.org/resource/Nimlot_C",
+            "http://dbpedia.org/resource/Nimlot_of_Hermopolis"
+        ],
+        "questions": [
+            [
+                "The successor of Nimlot is Takelot II, and mother is Djedmutesankh. Is the Nimlot referring to Nimlot C?",
+                "Yes"
+            ],
+            [
+                "The successor of Nimlot is Takelot II, and mother is Djedmutesankh. Is the Nimlot referring to Nimlot B?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kathrin": {
+        "chosen_entity": "http://dbpedia.org/resource/Kathrin_Hölzl",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ann-Kathrin_Kramer",
+            "http://dbpedia.org/resource/Caterina_Valente",
+            "http://dbpedia.org/resource/Kathrin_Beck",
+            "http://dbpedia.org/resource/Kathrin_Boron",
+            "http://dbpedia.org/resource/Kathrin_Bringmann",
+            "http://dbpedia.org/resource/Kathrin_Entner",
+            "http://dbpedia.org/resource/Kathrin_Freudelsperger",
+            "http://dbpedia.org/resource/Kathrin_Hölzl",
+            "http://dbpedia.org/resource/Kathrin_Klaas",
+            "http://dbpedia.org/resource/Kathrin_Lang",
+            "http://dbpedia.org/resource/Kathrin_Längert",
+            "http://dbpedia.org/resource/Kathrin_Menzinger",
+            "http://dbpedia.org/resource/Kathrin_Neimke",
+            "http://dbpedia.org/resource/Kathrin_Passig",
+            "http://dbpedia.org/resource/Kathrin_Piotrowski",
+            "http://dbpedia.org/resource/Kathrin_Ress",
+            "http://dbpedia.org/resource/Kathrin_Wörle-Scheller",
+            "http://dbpedia.org/resource/Kathrine_Maaseide",
+            "http://dbpedia.org/resource/Kathrine_Narducci"
+        ],
+        "questions": [
+            [
+                "The club of Kathrin is WSV Bischofswiesen, and birthDate is 1984-07-18. Is the Kathrin referring to Kathrin Hölzl?",
+                "Yes"
+            ],
+            [
+                "The club of Kathrin is WSV Bischofswiesen, and birthDate is 1984-07-18. Is the Kathrin referring to Caterina Valente?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Lorenzini": {
+        "chosen_entity": "http://dbpedia.org/resource/John_Lorenzini",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Carlo_Collodi",
+            "http://dbpedia.org/resource/Edmondo_Lorenzini",
+            "http://dbpedia.org/resource/Eldora_Lorenzini",
+            "http://dbpedia.org/resource/John_Lorenzini",
+            "http://dbpedia.org/resource/Julio_César_Lorenzini",
+            "http://dbpedia.org/resource/Kena_Lorenzini",
+            "http://dbpedia.org/resource/Orlando_Lorenzini",
+            "http://dbpedia.org/resource/Pietro_Lorenzini",
+            "http://dbpedia.org/resource/Roberto_Lorenzini"
+        ],
+        "questions": [
+            [
+                "The club of Lorenzini is Fitzroy Football Club, and birthDate is 1956-08-05. Is the Lorenzini referring to John Lorenzini?",
+                "Yes"
+            ],
+            [
+                "The club of Lorenzini is Fitzroy Football Club, and birthDate is 1956-08-05. Is the Lorenzini referring to Edmondo Lorenzini?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kelechi": {
+        "chosen_entity": "http://dbpedia.org/resource/Kelechi_Francis_Ibekwe",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kelechi_Francis_Ibekwe",
+            "http://dbpedia.org/resource/Kelechi_Iheanacho",
+            "http://dbpedia.org/resource/Kelechi_Iheanacho_(footballer,_born_1981)",
+            "http://dbpedia.org/resource/Kelechi_Okoye",
+            "http://dbpedia.org/resource/Kelechi_Osemele",
+            "http://dbpedia.org/resource/Kelechi_Osunwa",
+            "http://dbpedia.org/resource/Susan_Kelechi_Watson"
+        ],
+        "questions": [
+            [
+                "The birthDate of Kelechi is 1984-04-05, and position is Forward (association football). Is the Kelechi referring to Kelechi Francis Ibekwe?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Kelechi is 1984-04-05, and position is Forward (association football). Is the Kelechi referring to Susan Kelechi Watson?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Inori": {
+        "chosen_entity": "http://dbpedia.org/resource/Inori_Minase",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Hitomi_Shimatani",
+            "http://dbpedia.org/resource/Inori_Minase"
+        ],
+        "questions": [
+            [
+                "The birthYear of Inori is 1995, and activeYearsEndYear is 2010. Is the Inori referring to Inori Minase?",
+                "Yes"
+            ],
+            [
+                "The birthYear of Inori is 1995, and activeYearsEndYear is 2010. Is the Inori referring to Hitomi Shimatani?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Verducci": {
+        "chosen_entity": "http://dbpedia.org/resource/Joe_Verducci",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Joe_Verducci",
+            "http://dbpedia.org/resource/Tom_Verducci"
+        ],
+        "questions": [
+            [
+                "The deathPlace of Verducci is San Francisco, and birthPlace is California. Is the Verducci referring to Joe Verducci?",
+                "Yes"
+            ],
+            [
+                "The deathPlace of Verducci is San Francisco, and birthPlace is California. Is the Verducci referring to Tom Verducci?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Njoya": {
+        "chosen_entity": "http://dbpedia.org/resource/Seidou_Njimoluh_Njoya",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Adamou_Ndam_Njoya",
+            "http://dbpedia.org/resource/Ibrahim_Njoya",
+            "http://dbpedia.org/resource/Seidou_Njimoluh_Njoya"
+        ],
+        "questions": [
+            [
+                "The termEnd of Njoya is 1992, and termPeriod is Seidou Njimoluh Njoya  Tenure  1. Is the Njoya referring to Seidou Njimoluh Njoya?",
+                "Yes"
+            ],
+            [
+                "The termEnd of Njoya is 1992, and termPeriod is Seidou Njimoluh Njoya  Tenure  1. Is the Njoya referring to Ibrahim Njoya?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Shulgin": {
+        "chosen_entity": "http://dbpedia.org/resource/Maxim_Shulgin",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Alexander_Shulgin",
+            "http://dbpedia.org/resource/Alexander_Shulgin_(musician)",
+            "http://dbpedia.org/resource/Ann_Shulgin",
+            "http://dbpedia.org/resource/Arina_Shulgina",
+            "http://dbpedia.org/resource/Maxim_Shulgin",
+            "http://dbpedia.org/resource/Sergei_Shulgin"
+        ],
+        "questions": [
+            [
+                "The birthDate of Shulgin is 1983-05-17, and position is Setter. Is the Shulgin referring to Maxim Shulgin?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Shulgin is 1983-05-17, and position is Setter. Is the Shulgin referring to Alexander Shulgin (musician)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Zedda": {
+        "chosen_entity": "http://dbpedia.org/resource/Massimo_Zedda",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Alberto_Zedda",
+            "http://dbpedia.org/resource/Massimo_Zedda"
+        ],
+        "questions": [
+            [
+                "The predecessor of Zedda is Emilio Floris, and termPeriod is Massimo Zedda  Tenure  1. Is the Zedda referring to Massimo Zedda?",
+                "Yes"
+            ],
+            [
+                "The predecessor of Zedda is Emilio Floris, and termPeriod is Massimo Zedda  Tenure  1. Is the Zedda referring to Alberto Zedda?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Senecký": {
+        "chosen_entity": "http://dbpedia.org/resource/Karel_Senecký",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Karel_Senecký",
+            "http://dbpedia.org/resource/Štefan_Senecký"
+        ],
+        "questions": [
+            [
+                "The birthDate of Senecký is 1919-03-17, and position is Forward (association football). Is the Senecký referring to Karel Senecký?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Senecký is 1919-03-17, and position is Forward (association football). Is the Senecký referring to Štefan Senecký?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Shopov": {
+        "chosen_entity": "http://dbpedia.org/resource/Naum_Shopov",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Hristo_Shopov",
+            "http://dbpedia.org/resource/Khristo_Shopov",
+            "http://dbpedia.org/resource/Naum_Shopov",
+            "http://dbpedia.org/resource/Petar_Shopov",
+            "http://dbpedia.org/resource/Yanko_Shopov"
+        ],
+        "questions": [
+            [
+                "The stateOfOrigin of Shopov is Bulgaria, and birthDate is 1930-07-27. Is the Shopov referring to Naum Shopov?",
+                "Yes"
+            ],
+            [
+                "The stateOfOrigin of Shopov is Bulgaria, and birthDate is 1930-07-27. Is the Shopov referring to Yanko Shopov?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Behan": {
+        "chosen_entity": "http://dbpedia.org/resource/Paudge_Behan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Billy_Behan",
+            "http://dbpedia.org/resource/Brendan_Behan",
+            "http://dbpedia.org/resource/Brian_Behan",
+            "http://dbpedia.org/resource/Denis_Behan",
+            "http://dbpedia.org/resource/Dominic_Behan",
+            "http://dbpedia.org/resource/Janet_Behan",
+            "http://dbpedia.org/resource/Joe_Behan",
+            "http://dbpedia.org/resource/John_Behan_(educationist)",
+            "http://dbpedia.org/resource/Johnny_Behan",
+            "http://dbpedia.org/resource/Margaret_Behan",
+            "http://dbpedia.org/resource/Paudge_Behan",
+            "http://dbpedia.org/resource/Petie_Behan",
+            "http://dbpedia.org/resource/Simon_Behan",
+            "http://dbpedia.org/resource/William_J._Behan"
+        ],
+        "questions": [
+            [
+                "The birthDate of Behan is 1965-01-18, and activeYearsStartYear is 1991. Is the Behan referring to Paudge Behan?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Behan is 1965-01-18, and activeYearsStartYear is 1991. Is the Behan referring to Petie Behan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Dockrell": {
+        "chosen_entity": "http://dbpedia.org/resource/Marguerite_Dockrell",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Henry_Morgan_Dockrell",
+            "http://dbpedia.org/resource/Marguerite_Dockrell",
+            "http://dbpedia.org/resource/Maurice_E._Dockrell"
+        ],
+        "questions": [
+            [
+                "The deathPlace of Dockrell is Weymouth, Dorset, England, and deathDate is 1983-09-09. Is the Dockrell referring to Marguerite Dockrell?",
+                "Yes"
+            ],
+            [
+                "The deathPlace of Dockrell is Weymouth, Dorset, England, and deathDate is 1983-09-09. Is the Dockrell referring to Maurice E. Dockrell?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Wolzogen": {
+        "chosen_entity": "http://dbpedia.org/resource/Ludwig_von_Wolzogen",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Caroline_von_Wolzogen",
+            "http://dbpedia.org/resource/Ludwig_von_Wolzogen"
+        ],
+        "questions": [
+            [
+                "The birthDate of Wolzogen is 1773-02-04, and deathDate is 1845-07-04. Is the Wolzogen referring to Ludwig von Wolzogen?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Wolzogen is 1773-02-04, and deathDate is 1845-07-04. Is the Wolzogen referring to Caroline von Wolzogen?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Paskaleva": {
+        "chosen_entity": "http://dbpedia.org/resource/Katya_Paskaleva",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Katya_Paskaleva",
+            "http://dbpedia.org/resource/Tsvetana_Paskaleva"
+        ],
+        "questions": [
+            [
+                "The birthYear of Paskaleva is 1945, and activeYearsStartYear is 1967. Is the Paskaleva referring to Katya Paskaleva?",
+                "Yes"
+            ],
+            [
+                "The birthYear of Paskaleva is 1945, and activeYearsStartYear is 1967. Is the Paskaleva referring to Tsvetana Paskaleva?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Yitzhak": {
+        "chosen_entity": "http://dbpedia.org/resource/Yitzhak_Arad",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Yitzhak_Aharonovich",
+            "http://dbpedia.org/resource/Yitzhak_Apeloig",
+            "http://dbpedia.org/resource/Yitzhak_Arad",
+            "http://dbpedia.org/resource/Yitzhak_Ben-Aharon",
+            "http://dbpedia.org/resource/Yitzhak_Ben-Zvi",
+            "http://dbpedia.org/resource/Yitzhak_Danziger",
+            "http://dbpedia.org/resource/Yitzhak_Hatuel",
+            "http://dbpedia.org/resource/Yitzhak_Hofi",
+            "http://dbpedia.org/resource/Yitzhak_Melamed",
+            "http://dbpedia.org/resource/Yitzhak_Mordechai",
+            "http://dbpedia.org/resource/Yitzhak_Navon",
+            "http://dbpedia.org/resource/Yitzhak_Rabin",
+            "http://dbpedia.org/resource/Yitzhak_Sadeh",
+            "http://dbpedia.org/resource/Yitzhak_Shamir",
+            "http://dbpedia.org/resource/Yitzhak_Tshuva",
+            "http://dbpedia.org/resource/Yitzhak_Yosef"
+        ],
+        "questions": [
+            [
+                "The deathDate of Yitzhak is 2021-05-06, and deathYear is 2021. Is the Yitzhak referring to Yitzhak Arad?",
+                "Yes"
+            ],
+            [
+                "The deathDate of Yitzhak is 2021-05-06, and deathYear is 2021. Is the Yitzhak referring to Yitzhak Hatuel?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Glowacz": {
+        "chosen_entity": "http://dbpedia.org/resource/Jürgen_Glowacz",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Jürgen_Glowacz",
+            "http://dbpedia.org/resource/Stefan_Glowacz"
+        ],
+        "questions": [
+            [
+                "The birthDate of Glowacz is 1952-09-30, and position is Midfielder. Is the Glowacz referring to Jürgen Glowacz?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Glowacz is 1952-09-30, and position is Midfielder. Is the Glowacz referring to Stefan Glowacz?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Karoui": {
+        "chosen_entity": "http://dbpedia.org/resource/Slah_Karoui",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Hamed_Karoui",
+            "http://dbpedia.org/resource/Nabil_Karoui",
+            "http://dbpedia.org/resource/Slah_Karoui"
+        ],
+        "questions": [
+            [
+                "The birthPlace of Karoui is Tunisia, and position is Forward (association football). Is the Karoui referring to Slah Karoui?",
+                "Yes"
+            ],
+            [
+                "The birthPlace of Karoui is Tunisia, and position is Forward (association football). Is the Karoui referring to Hamed Karoui?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Krech": {
+        "chosen_entity": "http://dbpedia.org/resource/David_Krech",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/David_Krech",
+            "http://dbpedia.org/resource/Roman_Krech",
+            "http://dbpedia.org/resource/Rüdiger_Krech",
+            "http://dbpedia.org/resource/Warren_William"
+        ],
+        "questions": [
+            [
+                "The deathDate of Krech is 1977-07-14, and spouse is Hilda Sidonie Gruenberg. Is the Krech referring to David Krech?",
+                "Yes"
+            ],
+            [
+                "The deathDate of Krech is 1977-07-14, and spouse is Hilda Sidonie Gruenberg. Is the Krech referring to Roman Krech?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Andreasi": {
+        "chosen_entity": "http://dbpedia.org/resource/Felice_Andreasi",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Felice_Andreasi",
+            "http://dbpedia.org/resource/Giorgio_Andreasi"
+        ],
+        "questions": [
+            [
+                "The birthYear of Andreasi is 1928, and deathDate is 2005-12-25. Is the Andreasi referring to Felice Andreasi?",
+                "Yes"
+            ],
+            [
+                "The birthYear of Andreasi is 1928, and deathDate is 2005-12-25. Is the Andreasi referring to Giorgio Andreasi?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Erion": {
+        "chosen_entity": "http://dbpedia.org/resource/Erion_Hoxhallari",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Erion_Hoxhallari",
+            "http://dbpedia.org/resource/Erion_Sula",
+            "http://dbpedia.org/resource/Erion_Veliaj",
+            "http://dbpedia.org/resource/Erion_Xhafa"
+        ],
+        "questions": [
+            [
+                "The position of Erion is Defender (association football), and birthDate is 1995-10-15. Is the Erion referring to Erion Hoxhallari?",
+                "Yes"
+            ],
+            [
+                "The position of Erion is Defender (association football), and birthDate is 1995-10-15. Is the Erion referring to Erion Sula?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ananda_Rao": {
+        "chosen_entity": "http://dbpedia.org/resource/B._Radhabai_Ananda_Rao",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ananda_Rao_Samuel",
+            "http://dbpedia.org/resource/B._Radhabai_Ananda_Rao",
+            "http://dbpedia.org/resource/T._Ananda_Rao"
+        ],
+        "questions": [
+            [
+                "The birthDate of Ananda Rao is 1930-02-02, and successor is Sode Ramaiah. Is the Ananda Rao referring to B. Radhabai Ananda Rao?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Ananda Rao is 1930-02-02, and successor is Sode Ramaiah. Is the Ananda Rao referring to Ananda Rao Samuel?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Claribel": {
+        "chosen_entity": "http://dbpedia.org/resource/Claribel_Medina",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Claribel_Alegría",
+            "http://dbpedia.org/resource/Claribel_Kendall",
+            "http://dbpedia.org/resource/Claribel_Medina"
+        ],
+        "questions": [
+            [
+                "The birthDate of Claribel is 1961-12-16, and activeYearsEndYear is 1984. Is the Claribel referring to Claribel Medina?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Claribel is 1961-12-16, and activeYearsEndYear is 1984. Is the Claribel referring to Claribel Alegría?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Alsing": {
+        "chosen_entity": "http://dbpedia.org/resource/Alsing_Andersen",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Adam_Alsing",
+            "http://dbpedia.org/resource/Alsing_Andersen",
+            "http://dbpedia.org/resource/Olle_Alsing"
+        ],
+        "questions": [
+            [
+                "The birthDate of Alsing is 1893-02-05, and party is Social Democrats (Denmark). Is the Alsing referring to Alsing Andersen?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Alsing is 1893-02-05, and party is Social Democrats (Denmark). Is the Alsing referring to Olle Alsing?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/McAloon": {
+        "chosen_entity": "http://dbpedia.org/resource/Gerry_McAloon",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Gerry_McAloon",
+            "http://dbpedia.org/resource/Karen_McAloon",
+            "http://dbpedia.org/resource/Paddy_McAloon"
+        ],
+        "questions": [
+            [
+                "The youthclubs of McAloon is St Francis, and deathDate is 1987-04-13. Is the McAloon referring to Gerry McAloon?",
+                "Yes"
+            ],
+            [
+                "The youthclubs of McAloon is St Francis, and deathDate is 1987-04-13. Is the McAloon referring to Karen McAloon?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Symmachus": {
+        "chosen_entity": "http://dbpedia.org/resource/Quintus_Aurelius_Memmius_Symmachus",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Pope_Symmachus",
+            "http://dbpedia.org/resource/Quintus_Aurelius_Memmius_Symmachus"
+        ],
+        "questions": [
+            [
+                "The successor of Symmachus is Caecina Mavortius Basilius Decius, and termStart is 485. Is the Symmachus referring to Quintus Aurelius Memmius Symmachus?",
+                "Yes"
+            ],
+            [
+                "The successor of Symmachus is Caecina Mavortius Basilius Decius, and termStart is 485. Is the Symmachus referring to Pope Symmachus?",
+                "No"
+            ]
+        ]
+    }
+}

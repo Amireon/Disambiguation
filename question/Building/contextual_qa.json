@@ -1,0 +1,772 @@
+{
+    "http://dbpedia.org/resource/McLean_House": {
+        "qa": [
+            "The added of McLean House is 1982-04-13, and nrhpReferenceNumber is 82001960. The architecture of McLean House is __ .",
+            "Colonial Revival"
+        ],
+        "additionals": [
+            "The locmapin of McLean House is Massachusetts#USA.",
+            "The yearOfConstruction of McLean House is 1894."
+        ]
+    },
+    "http://dbpedia.org/resource/Weeks_House": {
+        "qa": [
+            "The yearOfConstruction of Weeks House is 1860, and nrhpReferenceNumber is 85002547. The architecture of Weeks House is __ .",
+            "Second Empire"
+        ],
+        "additionals": [
+            "The added of Weeks House is 1985-09-26.",
+            "The locmapin of Weeks House is New York#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/Convocation_Center": {
+        "qa": [
+            "The buildingStartDate of Convocation Center is June 17, 2000, and surface is Multi-surface. The openingDate of Convocation Center is __ .",
+            "2002-10-25"
+        ],
+        "additionals": [
+            "The stadiumName of Convocation Center is Chartway Arena at the Ted Constant Convocation Center.",
+            "The owner of Convocation Center is Old Dominion University."
+        ]
+    },
+    "http://dbpedia.org/resource/John_Clark_House": {
+        "qa": [
+            "The added of John Clark House is 1970-10-06, and nrhpReferenceNumber is 70000699. The architect of John Clark House is __ .",
+            "Dyer"
+        ],
+        "additionals": [
+            "The locmapin of John Clark House is Connecticut#USA.",
+            "The yearOfConstruction of John Clark House is 1790."
+        ]
+    },
+    "http://dbpedia.org/resource/German_Bank": {
+        "qa": [
+            "The nrhpReferenceNumber of German Bank is 91000536, and added is 1991-05-01. The yearOfConstruction of German Bank is __ .",
+            "1884"
+        ],
+        "additionals": [
+            "The locmapin of German Bank is Iowa#USA.",
+            "The architect of German Bank is St. Louis Bank Equipment Co.."
+        ]
+    },
+    "http://dbpedia.org/resource/Grant_House": {
+        "qa": [
+            "The added of Grant House is 1977-09-19, and architecture is Jacobean. The yearOfConstruction of Grant House is __ .",
+            "1695"
+        ],
+        "additionals": [
+            "The locmapin of Grant House is Connecticut#USA.",
+            "The nrhpReferenceNumber of Grant House is 77001408."
+        ]
+    },
+    "http://dbpedia.org/resource/Dinglewood": {
+        "qa": [
+            "The architecture of Dinglewood is Colonial Revival, Tudor Revival, multiple, and added is 2001-11-21. The architect of Dinglewood is __ .",
+            "Barringer and Morton; Duncan, F. Roy, et al."
+        ],
+        "additionals": [
+            "The locmapin of Dinglewood is USA Georgia#USA.",
+            "The nrhpReferenceNumber of Dinglewood is 01001248."
+        ]
+    },
+    "http://dbpedia.org/resource/Perry_House": {
+        "qa": [
+            "The nrhpReferenceNumber of Perry House is 83000393, and architect is Dunham & Jordan. The yearOfConstruction of Perry House is __ .",
+            "1877"
+        ],
+        "additionals": [
+            "The locmapin of Perry House is Iowa#USA.",
+            "The architecture of Perry House is Victorian architecture."
+        ]
+    },
+    "http://dbpedia.org/resource/Terwilliger": {
+        "qa": [
+            "The added of Terwilliger is 1983-09-26, and nrhpReferenceNumber is 83001821. The yearOfConstruction of Terwilliger is __ .",
+            "1766"
+        ],
+        "additionals": [
+            "The locmapin of Terwilliger is New York#USA.",
+            "The architecture of Terwilliger is Federal architecture."
+        ]
+    },
+    "http://dbpedia.org/resource/Frost_House": {
+        "qa": [
+            "The locmapin of Frost House is North Carolina#USA, and yearOfConstruction is 1860. The nrhpReferenceNumber of Frost House is __ .",
+            "84001920"
+        ],
+        "additionals": [
+            "The architecture of Frost House is Queen Anne.",
+            "The added of Frost House is 1984-05-31."
+        ]
+    },
+    "http://dbpedia.org/resource/Clark_House": {
+        "qa": [
+            "The yearOfConstruction of Clark House is 1880, and added is 1989-10-30. The locmapin of Clark House is __ .",
+            "Oregon#USA"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Clark House is 89001857.",
+            "The architecture of Clark House is Italianate."
+        ]
+    },
+    "http://dbpedia.org/resource/Leavitt": {
+        "qa": [
+            "The nrhpReferenceNumber of Leavitt is 91001653, and yearOfConstruction is 1895. The architect of Leavitt is __ .",
+            "Leavitt, Thomas Dudley"
+        ],
+        "additionals": [
+            "The locmapin of Leavitt is Nevada#USA.",
+            "The added of Leavitt is 1991-11-14."
+        ]
+    },
+    "http://dbpedia.org/resource/Deacon_John": {
+        "qa": [
+            "The locmapin of Deacon John is Massachusetts#USA, and architecture is Federal. Deacon John is added at __ .",
+            "1989-07-05"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Deacon John is 89000606.",
+            "The yearOfConstruction of Deacon John is 1807."
+        ]
+    },
+    "http://dbpedia.org/resource/St._Joseph's_Roman_Catholic_Church": {
+        "qa": [
+            "The locmapin of St. Joseph's Roman Catholic Church is Massachusetts#USA, and nrhpReferenceNumber is 89002169. St. Joseph's Roman Catholic Church is added at __ .",
+            "1989-12-28"
+        ],
+        "additionals": [
+            "The architecture of St. Joseph's Roman Catholic Church is Second Empire, Romanesque.",
+            "The architect of St. Joseph's Roman Catholic Church is Patrick C. Keeley."
+        ]
+    },
+    "http://dbpedia.org/resource/Hilton": {
+        "qa": [
+            "The added of Hilton is 1969-06-23, and architecture is Jacobethan, Dutch colonial and Colonial revival. The yearOfConstruction of Hilton is __ .",
+            "1917"
+        ],
+        "additionals": [
+            "The locmapin of Hilton is Virginia.",
+            "The nrhpReferenceNumber of Hilton is 69000341."
+        ]
+    },
+    "http://dbpedia.org/resource/Park_Inn": {
+        "qa": [
+            "The nrhpReferenceNumber of Park Inn is 82004637, and locmapin is North Carolina#USA. The yearOfConstruction of Park Inn is __ .",
+            "1882"
+        ],
+        "additionals": [
+            "The added of Park Inn is 1982-06-03.",
+            "The architecture of Park Inn is Colonial Revival, Queen Anne."
+        ]
+    },
+    "http://dbpedia.org/resource/Waverly": {
+        "qa": [
+            "The nrhpReferenceNumber of Waverly is 89002326, and architect is Samuel C. Hunt. Waverly is added at __ .",
+            "1990-01-26"
+        ],
+        "additionals": [
+            "The locmapin of Waverly is Massachusetts#USA.",
+            "The architecture of Waverly is Queen Anne."
+        ]
+    },
+    "http://dbpedia.org/resource/Blanchard": {
+        "qa": [
+            "The yearOfConstruction of Blanchard is 1891, and architect is Blanchard, Newton Crain. The nrhpReferenceNumber of Blanchard is __ .",
+            "82002793"
+        ],
+        "additionals": [
+            "The added of Blanchard is 1982-07-22.",
+            "The locmapin of Blanchard is Louisiana#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/St._Mary's_Church": {
+        "qa": [
+            "The added of St. Mary's Church is 1992-08-18, and architect is Oliver Kelley. The yearOfConstruction of St. Mary's Church is __ .",
+            "1882"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of St. Mary's Church is 92001018.",
+            "The architecture of St. Mary's Church is Stick Style."
+        ]
+    },
+    "http://dbpedia.org/resource/Day_House": {
+        "qa": [
+            "The architect of Day House is Day Isham, and nrhpReferenceNumber is 00001558. The yearOfConstruction of Day House is __ .",
+            "1839"
+        ],
+        "additionals": [
+            "The added of Day House is 2000-12-28.",
+            "The locmapin of Day House is Wisconsin#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/Church_of_the_Redeemer": {
+        "qa": [
+            "The religiousAffiliation of Church of the Redeemer is Anglican, and established is 1927. Church of the Redeemer is yearCompleted at __ .",
+            "1949"
+        ],
+        "additionals": [
+            "The district of Church of the Redeemer is Diocese of Jerusalem.",
+            "The province of Church of the Redeemer is Episcopal Church in Jerusalem and the Middle East."
+        ]
+    },
+    "http://dbpedia.org/resource/Rose_Hill": {
+        "qa": [
+            "The added of Rose Hill is 2003-04-11, and nrhpReferenceNumber is 03000201. The yearOfConstruction of Rose Hill is __ .",
+            "1897"
+        ],
+        "additionals": [
+            "The architecture of Rose Hill is Gothic Revival.",
+            "The locmapin of Rose Hill is Iowa#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/Bishop": {
+        "qa": [
+            "The architecture of Bishop is Richardsonian Romanesque, and nrhpReferenceNumber is 82002500. Bishop is added at __ .",
+            "1982-07-26"
+        ],
+        "additionals": [
+            "The locmapin of Bishop is Hawaii.",
+            "The yearOfConstruction of Bishop is 1889."
+        ]
+    },
+    "http://dbpedia.org/resource/United_Presbyterian_Church": {
+        "qa": [
+            "The architecture of United Presbyterian Church is Gothic Revival, and added is 1976-11-07. The nrhpReferenceNumber of United Presbyterian Church is __ .",
+            "76000811"
+        ],
+        "additionals": [
+            "The yearOfConstruction of United Presbyterian Church is 1885.",
+            "The locmapin of United Presbyterian Church is Iowa#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/Darling_House": {
+        "qa": [
+            "The added of Darling House is 1991-01-03, and yearOfConstruction is 1927. The architecture of Darling House is __ .",
+            "Colonial Revival"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Darling House is 90002117.",
+            "The locmapin of Darling House is Connecticut#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/Jenkins_House": {
+        "qa": [
+            "The locmapin of Jenkins House is Massachusetts#USA, and yearOfConstruction is 1895. Jenkins House is added at __ .",
+            "1984-04-13"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Jenkins House is 84002702.",
+            "The architecture of Jenkins House is Queen Anne."
+        ]
+    },
+    "http://dbpedia.org/resource/CEC": {
+        "qa": [
+            "The added of CEC is 1973-03-07, and architecture is 20. The yearOfConstruction of CEC is __ .",
+            "1926"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of CEC is 73000954.",
+            "The architect of CEC is Eliel Saarinen."
+        ]
+    },
+    "http://dbpedia.org/resource/Wyman_House": {
+        "qa": [
+            "The added of Wyman House is 1989-09-18, and architecture is Queen Anne. The locmapin of Wyman House is __ .",
+            "Massachusetts#USA"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Wyman House is 89001289.",
+            "The yearOfConstruction of Wyman House is 1883."
+        ]
+    },
+    "http://dbpedia.org/resource/Johnson_Farm": {
+        "qa": [
+            "The yearOfConstruction of Johnson Farm is 1840, and architecture is Georgian. Johnson Farm is added at __ .",
+            "2000-11-08"
+        ],
+        "additionals": [
+            "The locmapin of Johnson Farm is Pennsylvania#USA.",
+            "The nrhpReferenceNumber of Johnson Farm is 00001346."
+        ]
+    },
+    "http://dbpedia.org/resource/Bryan_House": {
+        "qa": [
+            "The yearOfConstruction of Bryan House is 1917, and locmapin is North Carolina#USA. The architecture of Bryan House is __ .",
+            "Colonial Revival architecture"
+        ],
+        "additionals": [
+            "The added of Bryan House is 1983-06-23.",
+            "The nrhpReferenceNumber of Bryan House is 83001836."
+        ]
+    },
+    "http://dbpedia.org/resource/Steyer": {
+        "qa": [
+            "The yearOfConstruction of Steyer is 1870, and added is 1980-01-24. The nrhpReferenceNumber of Steyer is __ .",
+            "80001462"
+        ],
+        "additionals": [
+            "The architect of Steyer is F.G. Brant.",
+            "The locmapin of Steyer is Iowa#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/Church_of_the_Immaculate_Conception": {
+        "qa": [
+            "The locmapin of Church of the Immaculate Conception is New York City#New York#USA, and architect is Barney and Chapman. Church of the Immaculate Conception is added at __ .",
+            "1980-03-28"
+        ],
+        "additionals": [
+            "The architecture of Church of the Immaculate Conception is Gothic Revival architecture.",
+            "The yearOfConstruction of Church of the Immaculate Conception is 1894."
+        ]
+    },
+    "http://dbpedia.org/resource/Graham_House": {
+        "qa": [
+            "The yearOfConstruction of Graham House is 1822, and nrhpReferenceNumber is 91001594. Graham House is added at __ .",
+            "1991-10-29"
+        ],
+        "additionals": [
+            "The architecture of Graham House is Federal influence.",
+            "The locmapin of Graham House is Tennessee."
+        ]
+    },
+    "http://dbpedia.org/resource/Kirby_House": {
+        "qa": [
+            "The added of Kirby House is 1984-08-30, and yearOfConstruction is 1888. The architect of Kirby House is __ .",
+            "Moser, John"
+        ],
+        "additionals": [
+            "The architecture of Kirby House is Queen Anne architecture in the United States.",
+            "The locmapin of Kirby House is Alabama."
+        ]
+    },
+    "http://dbpedia.org/resource/Davidson_House": {
+        "qa": [
+            "The architecture of Davidson House is Georgian, Federal, and added is 1976-04-26. The locmapin of Davidson House is __ .",
+            "North Carolina#USA"
+        ],
+        "additionals": [
+            "The yearOfConstruction of Davidson House is 1820.",
+            "The nrhpReferenceNumber of Davidson House is 76001331."
+        ]
+    },
+    "http://dbpedia.org/resource/St._Peter's_Cathedral": {
+        "qa": [
+            "The groundbreaking of St. Peter's Cathedral is 11, and yearCompleted is 18. The province of St. Peter's Cathedral is __ .",
+            "Bishop of Vannes"
+        ],
+        "additionals": [
+            "The religiousAffiliation of St. Peter's Cathedral is Roman Catholic Church.",
+            "The architecture of St. Peter's Cathedral is yes."
+        ]
+    },
+    "http://dbpedia.org/resource/White_House": {
+        "qa": [
+            "The yearOfConstruction of White House is 1792, and added is 2012-09-04. The architect of White House is __ .",
+            "Edgarton and Edgarton"
+        ],
+        "additionals": [
+            "The architecture of White House is Federal, Colonial Revival.",
+            "The locmapin of White House is New York#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/St_Michael_and_All_Angels_Church": {
+        "qa": [
+            "The completedDate of St Michael and All Angels Church is 1879, and groundbreaking is 1878. The country of St Michael and All Angels Church is __ .",
+            "England"
+        ],
+        "additionals": [
+            "The province of St Michael and All Angels Church is Province of York.",
+            "The architect of St Michael and All Angels Church is John Douglas (English architect)."
+        ]
+    },
+    "http://dbpedia.org/resource/Estadio_Municipal": {
+        "qa": [
+            "The renovated of Estadio Municipal is 2013, and architect is Mario Recordón. The owner of Estadio Municipal is __ .",
+            "15"
+        ],
+        "additionals": [
+            "The openingDate of Estadio Municipal is 1962-09-16.",
+            "The surface of Estadio Municipal is grass."
+        ]
+    },
+    "http://dbpedia.org/resource/Christ_the_King_Church": {
+        "qa": [
+            "The district of Christ the King Church is Diocese of Riga, and architect is Indriķis Blankenburgs. The architectureStyle of Christ the King Church is __ .",
+            "Functionalism (architecture)"
+        ],
+        "additionals": [
+            "The yearCompleted of Christ the King Church is 1942.",
+            "The religiousAffiliation of Christ the King Church is Roman Catholicism."
+        ]
+    },
+    "http://dbpedia.org/resource/Perkins_House": {
+        "qa": [
+            "The yearOfConstruction of Perkins House is 1850, and locmapin is Alabama#USA. The architecture of Perkins House is __ .",
+            "Greek Revival"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Perkins House is 82002026.",
+            "The added of Perkins House is 1982-04-02."
+        ]
+    },
+    "http://dbpedia.org/resource/Engine_House": {
+        "qa": [
+            "The nrhpReferenceNumber of Engine House is 01000554, and added is 2001-05-25. The yearOfConstruction of Engine House is __ .",
+            "1897"
+        ],
+        "additionals": [
+            "The architect of Engine House is Mohr, Frederick; Watson and McGuinness.",
+            "The architecture of Engine House is Queen Anne."
+        ]
+    },
+    "http://dbpedia.org/resource/Cooke_House": {
+        "qa": [
+            "The yearOfConstruction of Cooke House is 1812, and architecture is Federal. Cooke House is added at __ .",
+            "1979-10-30"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Cooke House is 79000054.",
+            "The locmapin of Cooke House is Rhode Island#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/Blatchley": {
+        "qa": [
+            "The added of Blatchley is 2008-08-15, and locmapin is New York#USA. The nrhpReferenceNumber of Blatchley is __ .",
+            "08000770"
+        ],
+        "additionals": [
+            "The architecture of Blatchley is Italianate.",
+            "The yearOfConstruction of Blatchley is 1855."
+        ]
+    },
+    "http://dbpedia.org/resource/Atwood_House": {
+        "qa": [
+            "The added of Atwood House is 1984-07-05, and yearOfConstruction is 1850. The locmapin of Atwood House is __ .",
+            "Massachusetts#USA"
+        ],
+        "additionals": [
+            "The architecture of Atwood House is Italianate.",
+            "The nrhpReferenceNumber of Atwood House is 84002087."
+        ]
+    },
+    "http://dbpedia.org/resource/Booth_House": {
+        "qa": [
+            "The architecture of Booth House is Late Victorian architecture, and nrhpReferenceNumber is 98000660. Booth House is added at __ .",
+            "1998-06-11"
+        ],
+        "additionals": [
+            "The locmapin of Booth House is Utah#USA.",
+            "The yearOfConstruction of Booth House is 1894."
+        ]
+    },
+    "http://dbpedia.org/resource/Mott_House": {
+        "qa": [
+            "The added of Mott House is 1980-11-24, and locmapin is North Carolina#USA. The nrhpReferenceNumber of Mott House is __ .",
+            "80002876"
+        ],
+        "additionals": [
+            "The yearOfConstruction of Mott House is 1904.",
+            "The architecture of Mott House is Classical Revival."
+        ]
+    },
+    "http://dbpedia.org/resource/Marriott_Marquis": {
+        "qa": [
+            "The developer of Marriott Marquis is Emirates Group, and height is 298.1. The floorCount of Marriott Marquis is __ .",
+            "82"
+        ],
+        "additionals": [
+            "The buildingStartDate of Marriott Marquis is November 14, 2006.",
+            "The architect of Marriott Marquis is Arch Group Consultants."
+        ]
+    },
+    "http://dbpedia.org/resource/Houck": {
+        "qa": [
+            "The added of Houck is 1982-11-10, and architecture is Greek Revival. The nrhpReferenceNumber of Houck is __ .",
+            "82001072"
+        ],
+        "additionals": [
+            "The yearOfConstruction of Houck is 1850.",
+            "The locmapin of Houck is New York#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/Buckman": {
+        "qa": [
+            "The yearOfConstruction of Buckman is 1905, and architecture is Collegiate Gothic. Buckman is added at __ .",
+            "1974-01-11"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Buckman is 74000609.",
+            "The locmapin of Buckman is Florida#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/Sudbrook": {
+        "qa": [
+            "The nrhpReferenceNumber of Sudbrook is 73000904, and locmapin is Maryland#USA. Sudbrook is added at __ .",
+            "1973-06-19"
+        ],
+        "additionals": [
+            "The yearOfConstruction of Sudbrook is 1890.",
+            "The architecture of Sudbrook is Colonial Revival, Queen Anne, Shingle Style."
+        ]
+    },
+    "http://dbpedia.org/resource/Cordner": {
+        "qa": [
+            "The architecture of Cordner is Late Victorian architecture, and locmapin is Utah#USA. Cordner is added at __ .",
+            "1998-06-11"
+        ],
+        "additionals": [
+            "The yearOfConstruction of Cordner is 1898.",
+            "The nrhpReferenceNumber of Cordner is 98000647."
+        ]
+    },
+    "http://dbpedia.org/resource/St_John_the_Evangelist's_Church": {
+        "qa": [
+            "The style of St John the Evangelist's Church is Gothic Revival architecture, and completedDate is 1874. The country of St John the Evangelist's Church is __ .",
+            "England"
+        ],
+        "additionals": [
+            "The province of St John the Evangelist's Church is Province of York.",
+            "The groundbreaking of St John the Evangelist's Church is 1873."
+        ]
+    },
+    "http://dbpedia.org/resource/Selimiye_Mosque": {
+        "qa": [
+            "The religiousAffiliation of Selimiye Mosque is Sunni Islam, and architect is Mimar Sinan. Selimiye Mosque is yearCompleted at __ .",
+            "1574"
+        ],
+        "additionals": [
+            "The architectureStyle of Selimiye Mosque is Ottoman architecture.",
+            "The architecture of Selimiye Mosque is yes."
+        ]
+    },
+    "http://dbpedia.org/resource/Kingsley_House": {
+        "qa": [
+            "The nrhpReferenceNumber of Kingsley House is 82001954, and architecture is Second Empire, Queen Anne. Kingsley House is added at __ .",
+            "1982-04-13"
+        ],
+        "additionals": [
+            "The locmapin of Kingsley House is Massachusetts#USA.",
+            "The yearOfConstruction of Kingsley House is 1866."
+        ]
+    },
+    "http://dbpedia.org/resource/Marston_House": {
+        "qa": [
+            "The architecture of Marston House is Gulf Coast Cottage, and locmapin is USA Alabama Mobile#Alabama#USA. The yearOfConstruction of Marston House is __ .",
+            "1832"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Marston House is 84000083.",
+            "The added of Marston House is 1984-10-18."
+        ]
+    },
+    "http://dbpedia.org/resource/Deaconess_Hospital": {
+        "qa": [
+            "The added of Deaconess Hospital is 1995-04-27, and architecture is craftsman. The yearOfConstruction of Deaconess Hospital is __ .",
+            "1926"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Deaconess Hospital is 95000507.",
+            "The locmapin of Deaconess Hospital is Idaho."
+        ]
+    },
+    "http://dbpedia.org/resource/Cummins_House": {
+        "qa": [
+            "The added of Cummins House is 1983-10-06, and nrhpReferenceNumber is 83003504. The architecture of Cummins House is __ .",
+            "Colonial Revival"
+        ],
+        "additionals": [
+            "The yearOfConstruction of Cummins House is 1750.",
+            "The locmapin of Cummins House is Delaware#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/Church_of_Our_Lady": {
+        "qa": [
+            "The country of Church of Our Lady is Denmark, and consecratedDate is 1829-06-07. Church of Our Lady is groundbreaking __ .",
+            "1817-11-01"
+        ],
+        "additionals": [
+            "The architect of Church of Our Lady is Christian Frederik Hansen.",
+            "The style of Church of Our Lady is Neo-Classicism."
+        ]
+    },
+    "http://dbpedia.org/resource/San_Barnaba": {
+        "qa": [
+            "The religiousAffiliation of San Barnaba is Roman Catholic, and yearCompleted is 17. The province of San Barnaba is __ .",
+            "Province of Milan"
+        ],
+        "additionals": [
+            "The architecture of San Barnaba is yes.",
+            "The groundbreaking of San Barnaba is 16."
+        ]
+    },
+    "http://dbpedia.org/resource/Waldo": {
+        "qa": [
+            "The openingDate of Waldo is 1939-10-07, and buildingStartDate is 1938. The stadiumName of Waldo is __ .",
+            "Waldo Stadium"
+        ],
+        "additionals": [
+            "The owner of Waldo is Western Michigan University.",
+            "The renovated of Waldo is 9223372036854775807."
+        ]
+    },
+    "http://dbpedia.org/resource/Ross_House": {
+        "qa": [
+            "The architecture of Ross House is Greek revival, with Italianate elements, and added is 1996-11-07. The nrhpReferenceNumber of Ross House is __ .",
+            "96001295"
+        ],
+        "additionals": [
+            "The locmapin of Ross House is Illinois#USA.",
+            "The yearOfConstruction of Ross House is 1858."
+        ]
+    },
+    "http://dbpedia.org/resource/Davenport_House": {
+        "qa": [
+            "The locmapin of Davenport House is #New York City#New York#USA, and yearOfConstruction is 1700. The architecture of Davenport House is __ .",
+            "Late Victorian, Picturesque"
+        ],
+        "additionals": [
+            "The added of Davenport House is 1986-09-22.",
+            "The nrhpReferenceNumber of Davenport House is 86002637."
+        ]
+    },
+    "http://dbpedia.org/resource/City_Stadium": {
+        "qa": [
+            "The openingDate of City Stadium is 2009-07-22, and stadiumName is Cardiff City Stadium. The surface of City Stadium is __ .",
+            "Desso GrassMaster"
+        ],
+        "additionals": [
+            "The owner of City Stadium is Cardiff City F.C..",
+            "The buildingStartDate of City Stadium is September 2007."
+        ]
+    },
+    "http://dbpedia.org/resource/Tower_House": {
+        "qa": [
+            "The added of Tower House is 1982-08-30, and architecture is Federal architecture. The yearOfConstruction of Tower House is __ .",
+            "1825"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Tower House is 82000010.",
+            "The locmapin of Tower House is Rhode Island#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/Walker_House": {
+        "qa": [
+            "The architect of Walker House is George D. Mason, and added is 1985-10-09. The yearOfConstruction of Walker House is __ .",
+            "1896"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Walker House is 85002948.",
+            "The architecture of Walker House is Jacobean architecture."
+        ]
+    },
+    "http://dbpedia.org/resource/South_End": {
+        "qa": [
+            "The buildingStartDate of South End is 1871, and stadiumName is South End Grounds. The owner of South End is __ .",
+            "Boston Braves (baseball)"
+        ],
+        "additionals": [
+            "The surface of South End is Grass.",
+            "The openingDate of South End is 1871-05-16."
+        ]
+    },
+    "http://dbpedia.org/resource/Notre_Dame": {
+        "qa": [
+            "The architectureStyle of Notre Dame is Modern architecture, and yearCompleted is 1955. The consecrationYear of Notre Dame is __ .",
+            "1955-06-25"
+        ],
+        "additionals": [
+            "The religiousAffiliation of Notre Dame is Roman Catholic Church.",
+            "The architect of Notre Dame is Le Corbusier."
+        ]
+    },
+    "http://dbpedia.org/resource/Codman": {
+        "qa": [
+            "The nrhpReferenceNumber of Codman is 83004097, and architecture is Renaissance, Gothic. The yearOfConstruction of Codman is __ .",
+            "1873"
+        ],
+        "additionals": [
+            "The locmapin of Codman is Boston#Massachusetts#USA.",
+            "The added of Codman is 1983-10-19."
+        ]
+    },
+    "http://dbpedia.org/resource/Wilkinson_House": {
+        "qa": [
+            "The nrhpReferenceNumber of Wilkinson House is 84001592, and yearOfConstruction is 1860. Wilkinson House is added at __ .",
+            "1984-07-27"
+        ],
+        "additionals": [
+            "The architecture of Wilkinson House is Italianate architecture.",
+            "The locmapin of Wilkinson House is Iowa#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/Chambers_House": {
+        "qa": [
+            "The nrhpReferenceNumber of Chambers House is 04000573, and yearOfConstruction is 1845. The locmapin of Chambers House is __ .",
+            "North Carolina#USA"
+        ],
+        "additionals": [
+            "The added of Chambers House is 2004-06-02.",
+            "The architecture of Chambers House is I-house."
+        ]
+    },
+    "http://dbpedia.org/resource/Cajun": {
+        "qa": [
+            "The openingDate of Cajun is 1971-09-25, and buildingStartDate is 1970. The stadiumName of Cajun is __ .",
+            "Cajun Field"
+        ],
+        "additionals": [
+            "The owner of Cajun is University of Louisiana at Lafayette.",
+            "The renovated of Cajun is 199220082014."
+        ]
+    },
+    "http://dbpedia.org/resource/Trimble_House": {
+        "qa": [
+            "The yearOfConstruction of Trimble House is 1812, and architecture is Federal. Trimble House is added at __ .",
+            "1992-07-24"
+        ],
+        "additionals": [
+            "The locmapin of Trimble House is Pennsylvania#USA.",
+            "The nrhpReferenceNumber of Trimble House is 92000945."
+        ]
+    },
+    "http://dbpedia.org/resource/Harriman": {
+        "qa": [
+            "The yearOfConstruction of Harriman is 1907, and locmapin is Pennsylvania#USA. Harriman is added at __ .",
+            "1987-04-30"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Harriman is 87000673.",
+            "The architect of Harriman is Fred T. Ley Company, Inc.."
+        ]
+    },
+    "http://dbpedia.org/resource/Administration_Building": {
+        "qa": [
+            "The architect of Administration Building is Joseph Don Carlos Young, and yearCompleted is 1917. Administration Building is groundbreaking __ .",
+            "1914"
+        ],
+        "additionals": [
+            "The religiousAffiliation of Administration Building is The Church of Jesus Christ of Latter-day Saints.",
+            "The architectureStyle of Administration Building is Neoclassical architecture."
+        ]
+    },
+    "http://dbpedia.org/resource/Cathedral_of_Saint_Mary_of_the_Assumption": {
+        "qa": [
+            "The yearCompleted of Cathedral of Saint Mary of the Assumption is 12, and architectureStyle is Romanesque architecture. Cathedral of Saint Mary of the Assumption is groundbreaking __ .",
+            "11"
+        ],
+        "additionals": [
+            "The religiousAffiliation of Cathedral of Saint Mary of the Assumption is Roman Catholic Church.",
+            "The province of Cathedral of Saint Mary of the Assumption is Roman Catholic Diocese of Ajaccio."
+        ]
+    },
+    "http://dbpedia.org/resource/Roper_House": {
+        "qa": [
+            "The yearOfConstruction of Roper House is 1912, and locmapin is Oregon#USA. Roper House is added at __ .",
+            "1981-12-09"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Roper House is 81000500.",
+            "The architecture of Roper House is Castellated Gothic Revival."
+        ]
+    }
+}

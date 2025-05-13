@@ -1,0 +1,402 @@
+{
+    "http://dbpedia.org/resource/Rogue_Squadron": [
+        "The genre of \"Rogue Squadron\" is Action game, and artist is Paul Topolos. Which one is the \"Rogue Squadron\" referring to? A. Star Wars: Rogue Squadron B. Star Wars Rogue Squadron II: Rogue Leader C. Star Wars Rogue Squadron III: Rebel Strike",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Amour_fou": [
+        "The certyear of \"Amour fou\" is 2012, and genre is French pop music. Which one is the \"Amour fou\" referring to? A. Amour Fou (2014 film) B. Amour Fou (The Sopranos) C. L'Amour fou (album) D. L'Amour fou (film)",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Good_as_Gold": [
+        "The released of \"Good as Gold\" is 1983, and artist is The Country Gentlemen. Which one is the \"Good as Gold\" referring to? A. Good as Gold! B. Miaow (album)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Over_the_Rainbow": [
+        "The artist of \"Over the Rainbow\" is Willie Nelson, and released is February 1981. Which one is the \"Over the Rainbow\" referring to? A. Over the Rainbow – The Songbird Collection B. What a Wonderful World C. Somewhere Over the Rainbow (Harold Mabern album) D. Somewhere Over the Rainbow (Willie Nelson album)",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Hell_Hath_No_Fury": [
+        "The writer of \"Hell Hath No Fury\" is Tyler Perry, and author is Tyler Perry. Which one is the \"Hell Hath No Fury\" referring to? A. Charmed (season 4) B. Hell Hath No Fury Like a Woman Scorned",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Broken": [
+        "The language of \"Broken\" is English, and distributor is Paramount Vantage. Which one is the \"Broken\" referring to? A. Broken Bridges B. CSI: Miami (season 1)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Bleed_for_Me": [
+        "The genre of \"Bleed for Me\" is Industrial Metal, and released is October 2007. Which one is the \"Bleed for Me\" referring to? A. 1919 Eternal B. Shotgun Reality",
+        "B"
+    ],
+    "http://dbpedia.org/resource/One_million": [
+        "The writer of \"One million\" is Michael Carreras, and editing is Tom Simpson. Which one is the \"One million\" referring to? A. One Million B.C. B. One Million Years B.C.",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Cold_War": [
+        "The developer of \"Cold War\" is Signal Studios, and publisher is Microsoft Studios (game studio). Which one is the \"Cold War\" referring to? A. Call of Duty: Black Ops Cold War B. Star Trek: Enterprise C. Star Wars: The Old Republic D. Toy Soldiers: Cold War",
+        "D"
+    ],
+    "http://dbpedia.org/resource/No_Hope": [
+        "The released of \"No Hope\" is 2010-01-25, and artist is Good Shoes. Which one is the \"No Hope\" referring to? A. No Hope, No Fear B. No Hope, No Future",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Consenting_adults": [
+        "The language of \"Consenting adults\" is English, and music is Michael Small. Which one is the \"Consenting adults\" referring to? A. Consenting Adults (1992 film) B. Consenting Adults (2007 film) C. Consenting Adults (album)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Boston_Tea_Party": [
+        "The distributor of \"Boston Tea Party\" is General Film Company, and country is United States. Which one is the \"Boston Tea Party\" referring to? A. The Boston Tea Party (1908 film) B. The Boston Tea Party (1915 film)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Social_animal": [
+        "The author of \"Social animal\" is Elliot Aronson, and releaseDate is 1972. Which one is the \"Social animal\" referring to? A. Social Animals (2018 comedy film) B. Social Animals (2018 documentary film) C. The Social Animal (Aronson book) D. The Social Animal (Brooks book)",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Book_of_Dreams": [
+        "The mediaType of \"Book of Dreams\" is Print, and author is Catherynne M. Valente. Which one is the \"Book of Dreams\" referring to? A. My Education: A Book of Dreams B. Yume No Hon: The Book of Dreams",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Big_Beach": [
+        "The platforms of \"Big Beach\" is Wii, and releaseDate is 2008-06-24. Which one is the \"Big Beach\" referring to? A. Big Beach Boutique II B. Big Beach Sports",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Number_of_the_Beast": [
+        "The mediaType of \"Number of the Beast\" is Print, and country is United States. Which one is the \"Number of the Beast\" referring to? A. The Number of the Beast (album) B. The Number of the Beast (novel) C. The Number of the Beast (song)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Chinese_food": [
+        "The lastAired of \"Chinese food\" is present, and starring is Ching He Huang. Which one is the \"Chinese food\" referring to? A. Chinese Food (song) B. Chinese Food Made Easy C. Chinese Food in Minutes",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Good_vs._Evil": [
+        "The artist of \"Good vs. Evil\" is Crooked I, and released is 2017-12-08. Which one is the \"Good vs. Evil\" referring to? A. G vs E B. Good vs. Evil II: The Red Empire",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Acolyte": [
+        "The country of \"Acolyte\" is Australia, and language is English. Which one is the \"Acolyte\" referring to? A. Acolytes (film) B. The Acolyte (novel)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/King_of_the_Monsters": [
+        "The starring of \"King of the Monsters\" is Raymond Burr, and music is Akira Ifukube. Which one is the \"King of the Monsters\" referring to? A. Godzilla, King of the Monsters! B. Godzilla: King of the Monsters (2019 film) C. King of the Monsters 2",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Learning_to_fly": [
+        "The released of \"Learning to fly\" is 2004-11-16, and certyear is 2005. Which one is the \"Learning to fly\" referring to? A. Learning to Fly (Pink Floyd song) B. Learning to Fly (Tom Petty and the Heartbreakers song) C. Learning to Fly (video)",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Punisher": [
+        "The lastAired of \"Punisher\" is 2019-01-18, and distributor is Netflix Streaming Services. Which one is the \"Punisher\" referring to? A. Punisher: War Zone B. The Punisher: The Album C. The Punisher (1989 film) D. The Punisher (1989 score) E. The Punisher (1990 NES video game) F. The Punisher (1990 computer game) G. The Punisher (1993 video game) H. The Punisher (2004 film) I. The Punisher (2004 score) J. The Punisher (TV series)",
+        "J"
+    ],
+    "http://dbpedia.org/resource/Time_of_Our_Lives": [
+        "The numberOfEpisodes of \"Time of Our Lives\" is 21, and country is Australia. Which one is the \"Time of Our Lives\" referring to? A. Silver Lining (album) B. The Time of Our Lives (EP) C. The Time of Our Lives (Il Divo and Toni Braxton song) D. The Time of Our Lives (TV series) E. Connected",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Tetsuo": [
+        "The musicComposer of \"Tetsuo\" is Chu Ishikawa, and country is Japan. Which one is the \"Tetsuo\" referring to? A. Tetsuo: The Bullet Man B. Tetsuo: The Iron Man C. Tetsuo II: Body Hammer",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Better_Half": [
+        "The firstAired of \"Better Half\" is 2008-09-03, and totalWidth is 300. Which one is the \"Better Half\" referring to? A. My Better Half B. Sons of Anarchy (season 1) C. The Better Half (TV series) D. You're My Better Half",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Northern_soul": [
+        "The cinematography of \"Northern soul\" is Simon Tindall, and distributor is Universal Pictures. Which one is the \"Northern soul\" referring to? A. A Northern Soul B. Northern Soul (54-40 album) C. Northern Soul (M People album) D. Northern Soul (film)",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Hellstrom": [
+        "The country of \"Hellstrom\" is United States, and starring is Lawrence Pressman. Which one is the \"Hellstrom\" referring to? A. Hellstrom's Hive B. The Hellstrom Chronicle",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Book_of_Shadows": [
+        "The director of \"Book of Shadows\" is Joe Berlinger, and musicComposer is Carter Burwell. Which one is the \"Book of Shadows\" referring to? A. Book of Shadows: Blair Witch 2 B. Corpse Party Book of Shadows",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Bad_Moon_Rising": [
+        "The mediaType of \"Bad Moon Rising\" is Print, and publisher is Harper & Row. Which one is the \"Bad Moon Rising\" referring to? A. Bad Moon Rising: An Anthology of Political Forebodings B. Bad Moon Rising: The Best of Creedence Clearwater Revival",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Foursome": [
+        "The director of \"Foursome\" is William Dear, and starring is Kevin Dillon. Which one is the \"Foursome\" referring to? A. The Foursome B. Wild Things: Foursome",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Invisible_touch": [
+        "The accessDate of \"Invisible touch\" is 2021-04-05, and released is 1986-06-06. Which one is the \"Invisible touch\" referring to? A. Invisible Touch B. Invisible Touch (song)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Dancing_in_the_Street": [
+        "The genre of \"Dancing in the Street\" is Pop music, and released is 2006-10-14. Which one is the \"Dancing in the Street\" referring to? A. Dancing in the Street: The Songs of Motown II B. Dancing in the Streets C. Rock & Roll (TV series)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Southern_hospitality": [
+        "The released of \"Southern hospitality\" is 2008-10-21, and producer is Travis Wyrick. Which one is the \"Southern hospitality\" referring to? A. Southern Hospitality (album) B. Southern Hospitality (song)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Jury_duty": [
+        "The airdate of \"Jury duty\" is 2012-02-02, and episode is 13. Which one is the \"Jury duty\" referring to? A. Jury Duty (TV series) B. Jury Duty (The Office) C. Jury Duty (film)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Weeping_Woman": [
+        "The author of \"Weeping Woman\" is Pablo Picasso, and artist is Pablo Picasso. Which one is the \"Weeping Woman\" referring to? A. Mask of a Weeping Woman B. The Weeping Woman",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Dungeon_Master": [
+        "The computingPlatform of \"Dungeon Master\" is ZX Spectrum, and publisher is Crystal Computing. Which one is the \"Dungeon Master\" referring to? A. The Dungeon Master B. The Dungeon Master (video game) C. The Dungeon Masters",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Dead_space": [
+        "The publisher of \"Dead space\" is Image Comics, and date is March–September 2008. Which one is the \"Dead space\" referring to? A. Dead Space (album) B. Dead Space (comics) C. Dead Space (film) D. Dead Space (mobile game)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Mysteries": [
+        "The lastAired of \"Mysteries\" is 2019-01-27, and channel is Travel Channel. Which one is the \"Mysteries\" referring to? A. Mysteries at the Museum B. The Mysteries (album)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Truth_to_Power": [
+        "The cinematography of \"Truth to Power\" is Jon Shenk, and country is United States. Which one is the \"Truth to Power\" referring to? A. An Inconvenient Sequel: Truth to Power B. OneRepublic discography",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Goku": [
+        "The studio of \"Goku\" is Madhouse (company), and director is Yoshiaki Kawajiri. Which one is the \"Goku\" referring to? A. Goku Midnight Eye B. Monkey Typhoon C. Yūyūki",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Maybe_Tomorrow": [
+        "The previousWork of \"Maybe Tomorrow\" is Bye Bye Love (Everly Brothers song), and releaseDate is 1957-09-02. Which one is the \"Maybe Tomorrow\" referring to? A. True Detective (season 2) B. Wake Up Little Susie",
+        "B"
+    ],
+    "http://dbpedia.org/resource/In_Exile": [
+        "The released of \"In Exile\" is 2004-05-18, and genre is Alternative rock. Which one is the \"In Exile\" referring to? A. (In) Exile B. In Exile Deo",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Love_Affair": [
+        "The productionCompany of \"Love Affair\" is ABS-CBN Film Productions, Inc., and director is Nuel C. Naval. Which one is the \"Love Affair\" referring to? A. Love Affair, or the Case of the Missing Switchboard Operator B. The Love Affair (film)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Moment_of_silence": [
+        "The released of \"Moment of silence\" is --10-01, and modes is Single-player. Which one is the \"Moment of silence\" referring to? A. Moment of Silence (song) B. The Moment of Silence",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Pasko": [
+        "The released of \"Pasko\" is 1998, and cinematography is Richard Padernal. Which one is the \"Pasko\" referring to? A. Kapuso sa Pasko B. Pasko Naming Hangad C. Puso ng Pasko: Artista Challenge D. Puso ng Pasko E. Sana Ngayong Pasko",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Tennessee_Christmas": [
+        "The artist of \"Tennessee Christmas\" is Point of Grace, and producer is Brown Bannister. Which one is the \"Tennessee Christmas\" referring to? A. East Tennessee Christmas B. Tennessee Christmas: A Holiday Collection",
+        "B"
+    ],
+    "http://dbpedia.org/resource/White_death": [
+        "The mediaType of \"White death\" is Print, and genre is Thriller (genre). Which one is the \"White death\" referring to? A. The White Death (film) B. White Death (film) C. White Death (novel)",
+        "C"
+    ],
+    "http://dbpedia.org/resource/From_Now_On": [
+        "The genre of \"From Now On\" is Hard rock, and released is 1994-01-29. Which one is the \"From Now On\" referring to? A. Even in the Quietest Moments... B. From Now On...",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Breaking_Dawn": [
+        "The editing of \"Breaking Dawn\" is Virginia Katz, and musicComposer is Carter Burwell. Which one is the \"Breaking Dawn\" referring to? A. The Twilight Saga: Breaking Dawn – Part 1 B. The Twilight Saga: Breaking Dawn – Part 1 (soundtrack) C. The Twilight Saga: Breaking Dawn – Part 2",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Bésame": [
+        "The releaseDate of \"Bésame\" is 2007-06-08, and subsequentWork is Dame (RBD song). Which one is the \"Bésame\" referring to? A. Bésame Mucho B. Bésame sin miedo",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Rude_Awakening": [
+        "The lastAired of \"Rude Awakening\" is 2007-04-20, and numberOfEpisodes is 11. Which one is the \"Rude Awakening\" referring to? A. Forbidden Broadway: Rude Awakening B. Rude Awakenings C. The Rude Awakening",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Out_of_Control": [
+        "The genre of \"Out of Control\" is Pop music, and artist is Girls Aloud. Which one is the \"Out of Control\" referring to? A. Bridges to Babylon B. Law & Order (season 2) C. Out of Control: Live from the O2 2009 D. That's So Raven (season 2)",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Golden_Child": [
+        "The director of \"Golden Child\" is Michael Ritchie (film director), and writer is Dennis Feldman. Which one is the \"Golden Child\" referring to? A. Life Is Just a Game B. The Golden Child",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Night_Club": [
+        "The genre of \"Night Club\" is Psychological novel, and author is Georges Simenon. Which one is the \"Night Club\" referring to? A. The Night Club B. The Night Club (novel)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Tekken": [
+        "The genre of \"Tekken\" is Fighting game, and producer is Landon Nguyen. Which one is the \"Tekken\" referring to? A. Tekken: Blood Vengeance B. Tekken Mobile",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Touched": [
+        "The publisher of \"Touched\" is Sports Publishing LLC, and language is English. Which one is the \"Touched\" referring to? A. Touched: The Jerry Sandusky Story B. WarioWare: Touched!",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Blue_Peter": [
+        "The director of \"Blue Peter\" is Arthur Rooke, and studio is British Filmcraft. Which one is the \"Blue Peter\" referring to? A. The Blue Peter (1928 film) B. The Blue Peter (1955 film)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Cintura": [
+        "The accessDate of \"Cintura\" is 2021-08-11, and releaseDate is 2018-03-29. Which one is the \"Cintura\" referring to? A. La Cintura (song) B. The Belt",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Only_the_Lonely": [
+        "The numSeasons of \"Only the Lonely\" is 3, and firstAired is 1992-05-05. Which one is the \"Only the Lonely\" referring to? A. Forever Knight B. Frank Sinatra Sings for Only the Lonely",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Inspector_Gadget": [
+        "The developer of \"Inspector Gadget\" is Azeroth, and publisher is Azeroth. Which one is the \"Inspector Gadget\" referring to? A. Inspector Gadget: Advance Mission B. Inspector Gadget: Gadget's Crazy Maze C. Inspector Gadget: Mad Robots Invasion D. Inspector Gadget: Mission 1 – Global Terror! E. Inspector Gadget: Operation Madkactus F. Inspector Gadget 2",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Two_of_Us": [
+        "The cinematography of \"Two of Us\" is Jean Penzer, and director is Claude Berri. Which one is the \"Two of Us\" referring to? A. Tayong Dalawa B. The Two of Us (1967 film) C. The Two of Us (1981 TV series) D. The Two of Us (1986 TV series) E. The Two of Us (2014 film) F. The Two of Us (Sonny & Cher album) G. The Two of Us (Yarbrough & Peoples album) H. The Two of Us (mixtape)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Night_Song": [
+        "The genre of \"Night Song\" is Glam metal, and released is 1986-06-09. Which one is the \"Night Song\" referring to? A. Night Songs (Barry Manilow album) B. Night Songs (Cinderella album)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Star_map": [
+        "The cinematography of \"Star map\" is Chuy Chavez, and country is United States. Which one is the \"Star map\" referring to? A. Star Maps (album) B. Star Maps (film)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Arkansas_Traveler": [
+        "The genre of \"Arkansas Traveler\" is Folk music, and artist is Mose Case. Which one is the \"Arkansas Traveler\" referring to? A. The Arkansas Traveler (film) B. The Arkansas Traveler (song)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Wake_Up": [
+        "The artist of \"Wake Up\" is The Pillows, and released is 2007-05-02. Which one is the \"Wake Up\" referring to? A. Agents of S.H.I.E.L.D. (season 4) B. Supergirl (season 3) C. Wake Up! (Pope Francis album) D. Wake Up! (The Boo Radleys album) E. Wake Up! (Tokyo Ska Paradise Orchestra song) F. Wake Up! Wake Up! Wake Up! G. Wake Up, America! H. Wake Up, O Sleeper",
+        "F"
+    ],
+    "http://dbpedia.org/resource/Go_Bang": [
+        "The producer of \"Go Bang\" is Angelo Montrone, and artist is Jennifer Love Hewitt. Which one is the \"Go Bang\" referring to? A. Go Bang! B. Let's Go Bang",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Goose_step": [
+        "The director of \"Goose step\" is Sam Newfield, and country is United States. Which one is the \"Goose step\" referring to? A. Hitler – Beast of Berlin B. The Goose Steps Out",
+        "A"
+    ],
+    "http://dbpedia.org/resource/25th_Anniversary": [
+        "The genre of \"25th Anniversary\" is Country music, and released is 2017-03-24. Which one is the \"25th Anniversary\" referring to? A. 25th Anniversary Ultimate Best -The One- B. Interpretations: A 25th Anniversary Celebration C. The 25th Anniversary Album (Lee Kernaghan album) D. The Monkees discography E. Unarmed – Best of 25th Anniversary",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Undertow": [
+        "The director of \"Undertow\" is Jack Harvey (actor and director), and language is Silent. Which one is the \"Undertow\" referring to? A. The O.C. (season 3) B. The Undertow C. The Undertow (1915 film)",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Mating_call": [
+        "The studio of \"Mating call\" is The Caddo Company, and country is United States. Which one is the \"Mating call\" referring to? A. Mating Call B. Mating Call (Roberto Magris album) C. Tainted Love: Mating Calls and Fight Songs D. The Mating Call",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Harvey_Girls": [
+        "The editing of \"Harvey Girls\" is Albert Akst, and distributor is Loews Cineplex Entertainment. Which one is the \"Harvey Girls\" referring to? A. The Harvey Girls B. The Harvey Girls (novel)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/At_Basin_Street_East": [
+        "The released of \"At Basin Street East\" is 1964, and producer is Juggy Murray. Which one is the \"At Basin Street East\" referring to? A. Live at Basin Street East B. Recorded %22Live%22 at Basin Street East",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Human_zoo": [
+        "The producer of \"Human zoo\" is John Nash, and released is 2014-10-14. Which one is the \"Human zoo\" referring to? A. Human Zoo (Electric Six album) B. Human Zoo (Gotthard album) C. Human Zoo (film)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/90210": [
+        "The lastAired of \"90210\" is present, and numSeasons is 7. Which one is the \"90210\" referring to? A. BH90210 B. Beverly Hills, 90210 C. Dr. 90210 D. High Maintenance 90210 E. Soundtrack 90210 F. Transylvania 90210: Songs of Death, Dying, and the Dead",
+        "C"
+    ],
+    "http://dbpedia.org/resource/XF": [
+        "The genre of \"XF\" is Internet forum, and developer is XenForo Limited, Kier Darby, Mike Sullivan, Chris Deeming. Which one is the \"XF\" referring to? A. The X-Files B. XenForo",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Idz": [
+        "The producer of \"Idz\" is Kobametal, and director is Inni Vision. Which one is the \"Idz\" referring to? A. Ijime, Dame, Zettai B. Live: Legend I, D, Z Apocalypse",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Hot_tub": [
+        "The budget of \"Hot tub\" is 3.6E7, and artist is Various Artists. Which one is the \"Hot tub\" referring to? A. Hot Tub Time Machine B. The Hot Tub",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Convicted": [
+        "The released of \"Convicted\" is 1927, and cinematography is A.O. Weitzenberg. Which one is the \"Convicted\" referring to? A. Return to Sender (2004 film) B. The Convicted",
+        "B"
+    ],
+    "http://dbpedia.org/resource/My_Number": [
+        "The artist of \"My Number\" is Major Lazer, and released is 2020-10-23. Which one is the \"My Number\" referring to? A. Music Is the Weapon B. My Number: The Anthology",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Live_in_Stockholm": [
+        "The artist of \"Live in Stockholm\" is John Coltrane, and released is 1963. Which one is the \"Live in Stockholm\" referring to? A. Live in Stockholm 1963 B. Live in Stockholm 1994 C. Scandinavian Nights",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Maryada": [
+        "The language of \"Maryada\" is Hindi, and numSeasons is 1. Which one is the \"Maryada\" referring to? A. Maryada... of an Indian family B. Maryada: Lekin Kab Tak%3F",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Gone,_Gone,_Gone": [
+        "The genre of \"Gone, Gone, Gone\" is Country music, and releaseDate is 1965-05-01. Which one is the \"Gone, Gone, Gone\" referring to? A. She's Gone, Gone, Gone B. True Blood (season 5)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/American_Epic": [
+        "The artist of \"American Epic\" is Various artists, and released is 2017-05-12. Which one is the \"American Epic\" referring to? A. American Epic: The Best of Blind Willie Johnson B. American Epic: The Best of Blues C. American Epic: The Best of Country D. American Epic: The Best of Lead Belly E. American Epic: The Best of Mississippi John Hurt F. American Epic: The Best of The Carter Family G. American Epic: The Best of the Memphis Jug Band H. American Epic: The Collection I. American Epic: The First Time America Heard Itself J. American Epic: The Soundtrack K. Music from The American Epic Sessions: Original Motion Picture Soundtrack L. The American Epic Sessions",
+        "H"
+    ],
+    "http://dbpedia.org/resource/Angel_Eyes": [
+        "The genre of \"Angel Eyes\" is Glam metal, and writer is Miljenko Matijevic. Which one is the \"Angel Eyes\" referring to? A. Angel Eyes: Ballads & Slow Jams B. I'll Never Let You Go",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Someday": [
+        "The previousWork of \"Someday\" is Wind (song), and headline is CD. Which one is the \"Someday\" referring to? A. Someday, Someday B. Boys & Girls C. The Marvelous Mrs. Maisel",
+        "B"
+    ],
+    "http://dbpedia.org/resource/321": [
+        "The artist of \"321\" is Manfred Mann, and studio is Abbey Road Studios, London. Which one is the \"321\" referring to? A. 3-2-1 B. 3-2-1 (Brett Kissel song) C. 3-2-1 Contact D. 3-2-1 Penguins! E. 3.2.1. F. 3 2 1 (Shinee song) G. 5-4-3-2-1",
+        "G"
+    ],
+    "http://dbpedia.org/resource/Never_Say_Never": [
+        "The artist of \"Never Say Never\" is Justin Bieber, and released is 2011-02-14. Which one is the \"Never Say Never\" referring to? A. Justin Bieber: Never Say Never B. Never Say Never: The Remixes C. Never Say Never Again",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Samizdat": [
+        "The publisher of \"Samizdat\" is Baen Books, and pages is 345. Which one is the \"Samizdat\" referring to? A. Generation Warriors B. Interesting Times",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Invasion_of_privacy": [
+        "The music of \"Invasion of privacy\" is Anthony Marinelli, and writer is Larry Cohen. Which one is the \"Invasion of privacy\" referring to? A. Invasion of Privacy (album) B. Invasion of Privacy (film)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Suzie_Wong": [
+        "The producer of \"Suzie Wong\" is Ray Stark, and editing is Bert Bates. Which one is the \"Suzie Wong\" referring to? A. The World of Suzie Wong B. The World of Suzie Wong (film)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Archive_Series": [
+        "The producer of \"Archive Series\" is Chicago Recording Company, and genre is Rock music. Which one is the \"Archive Series\" referring to? A. Archive Series No. 1: Live in Iceland B. Archive Series No. 2: Live in Chicago Q101 C. Archive Series Volume No. 1",
+        "B"
+    ],
+    "http://dbpedia.org/resource/See_You_Later": [
+        "The genre of \"See You Later\" is Rock and roll, and releaseDate is 1956-02-01. Which one is the \"See You Later\" referring to? A. See You Later, Alligator B. See You Later, Alligator (novel)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Social_studies": [
+        "The language of \"Social studies\" is English, and mediaType is Printing. Which one is the \"Social studies\" referring to? A. Social Studies (Carla Bley album) B. Social Studies (Loudon Wainwright III album) C. Social Studies (TV series) D. Social Studies (book)",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Battlestar_Galactica": [
+        "The director of \"Battlestar Galactica\" is Félix Enríquez Alcalá, and distributor is Universal Studios Home Entertainment. Which one is the \"Battlestar Galactica\" referring to? A. Battlestar Galactica: Blood & Chrome B. Battlestar Galactica: Razor C. Battlestar Galactica: Razor Flashbacks D. Battlestar Galactica: The Face of the Enemy E. Battlestar Galactica: The Plan F. Battlestar Galactica: The Resistance",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Mindstorm": [
+        "The mediaType of \"Mindstorm\" is Print, and author is Seymour Papert. Which one is the \"Mindstorm\" referring to? A. Cricket Revolution B. MinDStorm C. Mindstorms (book)",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Money_for_Nothing": [
+        "The music of \"Money for Nothing\" is Nora Kroll-Rosenbaum, and director is Jim Bruce. Which one is the \"Money for Nothing\" referring to? A. CSI: Miami (season 2) B. Beverly Hillbillies* C. Money for Nothing: Inside the Federal Reserve",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Sex_and_Violence": [
+        "The country of \"Sex and Violence\" is United States, and director is Dave Wilson. Which one is the \"Sex and Violence\" referring to? A. Supernatural (season 4) B. The Muppet Show: Sex and Violence",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Ersatz": [
+        "The mediaType of \"Ersatz\" is Print, and author is Lemony Snicket. Which one is the \"Ersatz\" referring to? A. Dangerous Visions B. The Ersatz Elevator",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Hallo": [
+        "The studio of \"Hallo\" is Mountain, and releaseDate is 1995-09-25. Which one is the \"Hallo\" referring to? A. Hallo Spaceboy B. Hallo Spencer C. The Hallo-Wiener",
+        "A"
+    ],
+    "http://dbpedia.org/resource/UO": [
+        "The producer of \"UO\" is Richard Garriott, and modes is Multiplayer. Which one is the \"UO\" referring to? A. Call of Duty: United Offensive B. Ultima Online",
+        "B"
+    ]
+}

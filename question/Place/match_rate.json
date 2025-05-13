@@ -1,0 +1,402 @@
+{
+    "http://dbpedia.org/resource/Rocky_Cape": [
+        "The country of \"Rocky Cape\" is Australia, and established is 1967. Which one is the \"Rocky Cape\" referring to? A. Rocky Cape, Tasmania B. Rocky Cape National Park",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Ellendale": [
+        "The postalCode of \"Ellendale\" is 56026, and timeZone is North American Central Time Zone. Which one is the \"Ellendale\" referring to? A. Ellendale, Delaware B. Ellendale, Minnesota C. Ellendale, North Dakota D. Ellendale, Tasmania E. Ellendale, Tennessee",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Abrizaki": [
+        "The country of \"Abrizaki\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Abrizaki\" referring to? A. Abrizaki, Andika B. Abrizaki, Izeh",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Avançon": [
+        "The mayor of \"Avançon\" is Laurent Nicolas, and canton is Tallard. Which one is the \"Avançon\" referring to? A. Avançon, Ardennes B. Avançon, Hautes-Alpes",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Rockford_Township": [
+        "The timeZone of \"Rockford Township\" is North American Central Time Zone, and postalCode is 55373. Which one is the \"Rockford Township\" referring to? A. Rockford Township, Floyd County, Iowa B. Rockford Township, Sedgwick County, Kansas C. Rockford Township, Winnebago County, Illinois D. Rockford Township, Wright County, Minnesota",
+        "D"
+    ],
+    "http://dbpedia.org/resource/San_Marino": [
+        "The timezoneDst of \"San Marino\" is Central European Summer Time, and utcOffsetDst is +2. Which one is the \"San Marino\" referring to? A. City of San Marino B. San Marino, California C. San Marino, Croatia",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Valashid": [
+        "The country of \"Valashid\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Valashid\" referring to? A. Valashid, Nur B. Valashid, Sari",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Donji_Lukavac": [
+        "The timezoneDst of \"Donji Lukavac\" is Central European Summer Time, and country is Bosnia and Herzegovina. Which one is the \"Donji Lukavac\" referring to? A. Donji Lukavac, Gradačac B. Donji Lukavac, Nevesinje",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Tudar": [
+        "The country of \"Tudar\" is Azerbaijan, and utcOffsetDst is +5. Which one is the \"Tudar\" referring to? A. Tudar, Azerbaijan B. Tudar, Iran C. Tudar-e Molla D. Tudar-e Ruteh E. Tudar-e Samadi",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Hochstadt": [
+        "The country of \"Hochstadt\" is Germany, and mayor is Timo Reuther. Which one is the \"Hochstadt\" referring to? A. Hochstadt, Rhineland-Palatinate B. Hochstadt am Main",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Markid": [
+        "The country of \"Markid\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Markid\" referring to? A. Markid, Heris B. Markid, Marand C. Markid Kharabehsi",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Golkan": [
+        "The country of \"Golkan\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Golkan\" referring to? A. Gelkuyeh B. Golkan-e Shahid Medani",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Bagheshlu": [
+        "The country of \"Bagheshlu\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Bagheshlu\" referring to? A. Bagheshlu, Ardabil B. Bagheshlu, East Azerbaijan",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Akseh": [
+        "The country of \"Akseh\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Akseh\" referring to? A. Akseh-ye Olya B. Akseh-ye Sofla",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Bucey": [
+        "The mayor of \"Bucey\" is Pascal Desrousseaux, and canton is Aix-Villemaur-Pâlis. Which one is the \"Bucey\" referring to? A. Bucey-en-Othe B. Bucey-lès-Gy C. Bucey-lès-Traves",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Lehqorbani": [
+        "The country of \"Lehqorbani\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Lehqorbani\" referring to? A. Lehqorbani-ye Olya B. Lehqorbani-ye Sofla",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Kani_Kabud": [
+        "The country of \"Kani Kabud\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Kani Kabud\" referring to? A. Cheshmeh Kabud, Gilan-e Gharb B. Kani Kabud, Divandarreh C. Kani Kabud, Kermanshah D. Kani Kabud-e Maran",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Perrine": [
+        "The timezoneDst of \"Perrine\" is EDT, and country is United States. Which one is the \"Perrine\" referring to? A. East Perrine, Florida B. West Perrine, Florida",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Novate": [
+        "The country of \"Novate\" is Italy, and mayor is Daniela Maldini. Which one is the \"Novate\" referring to? A. Novate Mezzola B. Novate Milanese",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Chianeh": [
+        "The country of \"Chianeh\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Chianeh\" referring to? A. Chianeh, Naqadeh B. Chianeh, Piranshahr",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Lewis_Township": [
+        "The timezoneDst of \"Lewis Township\" is CDT, and timezone is North American Central Time Zone. Which one is the \"Lewis Township\" referring to? A. Lewis Township, Bottineau County, North Dakota B. Lewis Township, Brown County, Ohio C. Lewis Township, Lycoming County, Pennsylvania D. Lewis Township, Mille Lacs County, Minnesota E. Lewis Township, Northumberland County, Pennsylvania F. Lewis Township, Union County, Pennsylvania",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Sarkhun": [
+        "The country of \"Sarkhun\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Sarkhun\" referring to? A. Sarkhun, Hormozgan B. Soreykhan-e Sofla",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Yenikışla": [
+        "The country of \"Yenikışla\" is Turkey, and timezoneDst is Eastern European Summer Time. Which one is the \"Yenikışla\" referring to? A. Yenikışla, Kumluca B. Yenikışla, Ulus",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Inwood": [
+        "The postalCode of \"Inwood\" is 38778, and timezoneDst is CDT. Which one is the \"Inwood\" referring to? A. Brooke-Alvinston B. Inwood, Florida C. Inwood, Iowa D. Inwood, Manhattan E. Inwood, Mississippi F. Inwood, New York G. Inwood, San Antonio H. Inwood, West Virginia I. Inwood Township, Michigan J. Rural Municipality of Armstrong",
+        "E"
+    ],
+    "http://dbpedia.org/resource/Thurlaston": [
+        "The areaCode of \"Thurlaston\" is 01788, and postalCode is CV23. Which one is the \"Thurlaston\" referring to? A. Thurlaston, Leicestershire B. Thurlaston, Warwickshire",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Waldegg": [
+        "The postalCode of \"Waldegg\" is 2754, and timezoneDst is Central European Summer Time. Which one is the \"Waldegg\" referring to? A. Uitikon B. Waldegg, Lower Austria",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Andrée": [
+        "The location of \"Andrée\" is Antarctica, and country is None. Which one is the \"Andrée\" referring to? A. Andrée Island B. Andrée Land (Greenland)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Aspach": [
+        "The inseeCode of \"Aspach\" is 68010, and country is France. Which one is the \"Aspach\" referring to? A. Aspach, Baden-Württemberg B. Aspach, Haut-Rhin C. Aspach, Moselle D. Aspach, Thuringia E. Aspach, Upper Austria F. Aspach-le-Bas G. Aspach-le-Haut",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Cabbage_Tree_Point": [
+        "The country of \"Cabbage Tree Point\" is Australia, and location is Brisbane GPO. Which one is the \"Cabbage Tree Point\" referring to? A. Shorncliffe, Queensland B. Steiglitz, Queensland",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Vankal": [
+        "The timezone of \"Vankal\" is Indian Standard Time, and country is India. Which one is the \"Vankal\" referring to? A. Vankal, Champhai B. Vankal, Surat",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Remigny": [
+        "The canton of \"Remigny\" is Chagny, and inseeCode is 71369. Which one is the \"Remigny\" referring to? A. Remigny, Aisne B. Remigny, Saône-et-Loire",
+        "B"
+    ],
+    "http://dbpedia.org/resource/El_Marsa": [
+        "The country of \"El Marsa\" is Algeria, and postalCode is 16111. Which one is the \"El Marsa\" referring to? A. El Marsa, Algiers B. El Marsa, Chlef C. El Marsa, Skikda",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Quchaq": [
+        "The country of \"Quchaq\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Quchaq\" referring to? A. Quchaq, Divandarreh B. Quchaq, Saqqez C. Qujaq",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Esençay": [
+        "The country of \"Esençay\" is Turkey, and timezoneDst is Eastern European Summer Time. Which one is the \"Esençay\" referring to? A. Esençay, Karacasu B. Esençay, Mut",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Nance": [
+        "The country of \"Nance\" is United States, and timeZone is Central. Which one is the \"Nance\" referring to? A. Nance, Jura B. Nance County, Nebraska",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Park_Township": [
+        "The timezoneDst of \"Park Township\" is CDT, and timezone is North American Central Time Zone. Which one is the \"Park Township\" referring to? A. Park Township, Ottawa County, Michigan B. Park Township, Pine County, Minnesota C. Park Township, Sedgwick County, Kansas D. Park Township, St. Joseph County, Michigan",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Zardab": [
+        "The country of \"Zardab\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Zardab\" referring to? A. Zardab-e Mohebb B. Zardab District C. Zardan, Zirkuh",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Carmel_Valley": [
+        "The country of \"Carmel Valley\" is United States, and location is United States. Which one is the \"Carmel Valley\" referring to? A. Carmel Valley AVA B. Carmel Valley Village, California",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Karim_Haseleh": [
+        "The country of \"Karim Haseleh\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Karim Haseleh\" referring to? A. Karim Haseleh-ye Olya B. Karim Haseleh-ye Sofla",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Ali_Qeshlaqi": [
+        "The country of \"Ali Qeshlaqi\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Ali Qeshlaqi\" referring to? A. Ali Qeshlaqi, Ardabil B. Ali Qeshlaqi, East Azerbaijan",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Mörel": [
+        "The mayor of \"Mörel\" is Klaus-Peter Lucht, and country is Germany. Which one is the \"Mörel\" referring to? A. Mörel, Germany B. Mörel, Switzerland",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Campbell_Hill": [
+        "The areaCode of \"Campbell Hill\" is 709, and country is Canada. Which one is the \"Campbell Hill\" referring to? A. Campbell Hill, Illinois B. Little Bay Islands",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Mehtar": [
+        "The country of \"Mehtar\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Mehtar\" referring to? A. Mehtar, Lorestan B. Mehtar, Zanjan",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Allenville": [
+        "The timezoneDst of \"Allenville\" is CDT, and country is United States. Which one is the \"Allenville\" referring to? A. Allenville, Illinois B. Allenville, Missouri C. Allenville, Wisconsin D. Brevort Township, Michigan",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Kordeh_Deh": [
+        "The country of \"Kordeh Deh\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Kordeh Deh\" referring to? A. Kordeh Deh, Ardabil B. Kordeh Deh, East Azerbaijan",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Les_Essards": [
+        "The canton of \"Les Essards\" is Saint-Porchaire, and country is France. Which one is the \"Les Essards\" referring to? A. Les Essards, Charente-Maritime B. Les Essards, Charente C. Les Essards, Indre-et-Loire D. Les Essards-Taignevaux",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Shahneh_Kola": [
+        "The country of \"Shahneh Kola\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Shahneh Kola\" referring to? A. Shahneh Kola, Amol B. Shahneh Kola, Juybar",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Town_Creek": [
+        "The postalCodeType of \"Town Creek\" is ZIP code, and postalCode is 75243. Which one is the \"Town Creek\" referring to? A. Town Creek, Alabama B. Town Creek, Dallas C. Town Creek, Maryland D. Town Creek Indian Mound",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Osceola_Township": [
+        "The timeZone of \"Osceola Township\" is North American Central Time Zone, and timezoneDst is North American Central Time Zone. Which one is the \"Osceola Township\" referring to? A. Osceola Township, Camden County, Missouri B. Osceola Township, Franklin County, Iowa C. Osceola Township, Houghton County, Michigan D. Osceola Township, Osceola County, Michigan E. Osceola Township, Renville County, Minnesota F. Osceola Township, Stark County, Illinois G. Osceola Township, Tioga County, Pennsylvania",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Minneiska": [
+        "The timezoneDst of \"Minneiska\" is CDT, and timezone is North American Central Time Zone. Which one is the \"Minneiska\" referring to? A. Minneiska, Minnesota B. Minneiska Township, Wabasha County, Minnesota",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Pozm": [
+        "The country of \"Pozm\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Pozm\" referring to? A. Pozm-e Machchan B. Pozm-e Tiab",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Vauchamps": [
+        "The country of \"Vauchamps\" is France, and postalCode is 51210. Which one is the \"Vauchamps\" referring to? A. Vauchamps, Doubs B. Vauchamps, Marne",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Talkh": [
+        "The country of \"Talkh\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Talkh\" referring to? A. Estakhr, Razavi Khorasan B. Talkh-e Ataher",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Kashkak": [
+        "The country of \"Kashkak\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Kashkak\" referring to? A. Kashkak, Lorestan B. Kashkak, Mazandaran C. Kashkak, Razavi Khorasan",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Burnaby": [
+        "The location of \"Burnaby\" is British Columbia Coast, and country is Canada. Which one is the \"Burnaby\" referring to? A. Burnaby Island B. Burnaby Range",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Rembercourt": [
+        "The country of \"Rembercourt\" is France, and inseeCode is 55423. Which one is the \"Rembercourt\" referring to? A. Rembercourt-Sommaisne B. Rembercourt-sur-Mad",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Said_Kandi": [
+        "The country of \"Said Kandi\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Said Kandi\" referring to? A. Said Kandi, Mahneshan B. Said Kandi, Zanjan",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Lowick": [
+        "The postalCode of \"Lowick\" is TD15, and areaCode is 01289. Which one is the \"Lowick\" referring to? A. Lowick, Cumbria B. Lowick, Northamptonshire C. Lowick, Northumberland",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Daqiao": [
+        "The postalCodeType of \"Daqiao\" is List of postal codes in China, and timezone is China Standard Time. Which one is the \"Daqiao\" referring to? A. Daqiao, Binyang County B. Daqiao, Dingyuan County C. Daqiao, Dong'e County D. Daqiao, Fujian E. Daqiao, Gansu F. Daqiao, Ganzhou G. Daqiao, Hejiang County H. Daqiao, Jiangshan I. Daqiao, Jiaxing J. Daqiao, Luchuan County K. Daqiao, Maoming L. Daqiao, Mianning County M. Daqiao, Nanbu County N. Daqiao, Pingwu County O. Daqiao, Renhua County P. Daqiao, Ruyuan County Q. Daqiao, Xiushui County R. Daqiao, Yancheng S. Daqiao, Yangzhou T. Daqiao Subdistrict, Anqing U. Daqiao Subdistrict, Jinan V. Daqiao Subdistrict, Shanghai W. Daqiao Subdistrict, Zhangshu X. Daqiao Township, Huize County Y. Daqiao Township, Jilin Z. Daqiao Township, Neixiang County [. Daqiao Township, Shiping County \\. Daqiao Township, Weishi County ]. Daqiao Township, Xinjiang ^. Daqiao Yao Ethnic Township",
+        "G"
+    ],
+    "http://dbpedia.org/resource/Manoora": [
+        "The country of \"Manoora\" is Australia, and postcode is 5414. Which one is the \"Manoora\" referring to? A. Manoora, Queensland B. Manoora, South Australia",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Beckville": [
+        "The postalCode of \"Beckville\" is 55355, and areaCode is 320. Which one is the \"Beckville\" referring to? A. Beckville, Indiana B. Beckville, Minnesota C. Beckville, Texas",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Naqiabad": [
+        "The country of \"Naqiabad\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Naqiabad\" referring to? A. Naqiabad, Golestan B. Naqiabad, North Khorasan C. Naqiabad-e Nadar",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Aisey": [
+        "The inseeCode of \"Aisey\" is 21006, and country is France. Which one is the \"Aisey\" referring to? A. Aisey-et-Richecourt B. Aisey-sur-Seine",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Kur": [
+        "The country of \"Kur\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Kur\" referring to? A. Kor, East Azerbaijan B. Kor-e Sofla C. Kur, Iran D. Kur, Rajasthan E. Kur Island",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Hot_Springs,_California": [
+        "The areaCode of \"Hot Springs, California\" is 707, and country is United States. Which one is the \"Hot Springs, California\" referring to? A. Boyes Hot Springs, California B. Desert Hot Springs, California",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Lindenhurst": [
+        "The timeZone of \"Lindenhurst\" is North American Central Time Zone, and postalCode is 60046. Which one is the \"Lindenhurst\" referring to? A. Lindenhurst, Illinois B. Lindenhurst, New York",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Boat_Harbour": [
+        "The postcode of \"Boat Harbour\" is 7321, and country is Australia. Which one is the \"Boat Harbour\" referring to? A. Boat Harbour, New South Wales B. Boat Harbour Beach",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Tangra": [
+        "The timezone of \"Tangra\" is IST, and postalCodeType is PIN. Which one is the \"Tangra\" referring to? A. Tangra, Kolkata B. Tangra Mountains",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Michiana": [
+        "The timezoneDst of \"Michiana\" is EDT, and postalCode is 49117. Which one is the \"Michiana\" referring to? A. Michiana, Michigan B. Michiana Shores, Indiana",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Las_Mercedes": [
+        "The timezone of \"Las Mercedes\" is Venezuelan Standard Time Zone, and timeZone is Venezuelan Standard Time Zone. Which one is the \"Las Mercedes\" referring to? A. Las Mercedes, Caracas B. Las Mercedes Municipality",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Harby": [
+        "The areaCode of \"Harby\" is 01522, and postalCode is NG23. Which one is the \"Harby\" referring to? A. Harby, Leicestershire B. Harby, Nottinghamshire",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Jahangirabad": [
+        "The country of \"Jahangirabad\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Jahangirabad\" referring to? A. Goruk Kandi B. Jahangirabad, Ilam C. Jahangirabad, Lorestan D. Jahangirabad Raj",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Rashk-e_Sofla": [
+        "The country of \"Rashk-e Sofla\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Rashk-e Sofla\" referring to? A. Rashk-e Sofla, Fars B. Rashk-e Sofla, Kerman",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Bolleville": [
+        "The postalCode of \"Bolleville\" is 76210, and canton is Port-Jérôme-sur-Seine. Which one is the \"Bolleville\" referring to? A. Bolleville, Manche B. Bolleville, Seine-Maritime",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Shiawassee": [
+        "The timezoneDst of \"Shiawassee\" is EDT, and postalCodeType is ZIP Code. Which one is the \"Shiawassee\" referring to? A. Shiawassee County, Michigan B. Shiawassee National Wildlife Refuge C. Shiawassee Township, Michigan",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Kamangar_Kola": [
+        "The country of \"Kamangar Kola\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Kamangar Kola\" referring to? A. Kamangar Kola, Amol B. Kamangar Kola, Dabudasht C. Kamangar Kola, Qaem Shahr",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Greetwell": [
+        "The region of \"Greetwell\" is Yorkshire and the Humber, and postalCode is DN20. Which one is the \"Greetwell\" referring to? A. Greetwell, West Lindsey B. Scawby",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Agency_Township": [
+        "The timezoneDst of \"Agency Township\" is CDT, and timezone is North American Central Time Zone. Which one is the \"Agency Township\" referring to? A. Agency Township, Osage County, Kansas B. Agency Township, Roberts County, South Dakota",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Valgu": [
+        "The country of \"Valgu\" is Estonia, and timezoneDst is Eastern European Summer Time. Which one is the \"Valgu\" referring to? A. Valgu, Hiiu County B. Valgu, Rapla County",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Neufchâtel": [
+        "The timezone of \"Neufchâtel\" is Eastern Time Zone, and timezoneDst is EDT. Which one is the \"Neufchâtel\" referring to? A. Neufchâtel-Hardelot B. Neufchâtel-en-Bray C. Neufchâtel-sur-Aisne D. Quebec City",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Abrak": [
+        "The country of \"Abrak\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Abrak\" referring to? A. Abrak-e Azhgil B. Abrak-e Do C. Abrak-e Yek",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Larbaa": [
+        "The timezone of \"Larbaa\" is West Africa Time, and timeZone is West Africa Time. Which one is the \"Larbaa\" referring to? A. Larbaa, Tissemsilt B. Larbaâ, Batna C. Larbaâ, Blida",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Badarpur": [
+        "The postalCode of \"Badarpur\" is 8601, and country is Bangladesh. Which one is the \"Badarpur\" referring to? A. Badalpur, Gautam Buddh Nagar B. Badarpur, Assam C. Badarpur, Bangladesh D. Badarpur, Delhi E. Badarpur, Gujarat F. Badarpur Railway Town",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Littleworth": [
+        "The postalCode of \"Littleworth\" is DN11, and region is Yorkshire and the Humber. Which one is the \"Littleworth\" referring to? A. Littleworth, South Bucks B. Littleworth, South Oxfordshire C. Littleworth, Vale of White Horse D. Littleworth, Worcestershire E. Milton Lilbourne F. Rossington",
+        "F"
+    ],
+    "http://dbpedia.org/resource/Kishoreganj": [
+        "The country of \"Kishoreganj\" is Bangladesh, and timezone is Bangladesh Standard Time. Which one is the \"Kishoreganj\" referring to? A. Kishoreganj District B. Kishoreganj Sadar Upazila C. Kishoreganj Upazila",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Rompicherla": [
+        "The areaCode of \"Rompicherla\" is +91–, and timezone is Indian Standard Time. Which one is the \"Rompicherla\" referring to? A. Rompicherla, Chittoor district B. Rompicherla, Guntur district",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Khanjarabad": [
+        "The country of \"Khanjarabad\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Khanjarabad\" referring to? A. Khanjarabad, Hamadan B. Khanjarabad, Kermanshah",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Hancock_Township": [
+        "The timeZone of \"Hancock Township\" is North American Central Time Zone, and timezoneDst is North American Central Time Zone. Which one is the \"Hancock Township\" referring to? A. Hancock Township, Carver County, Minnesota B. Hancock Township, Hancock County, Illinois C. Hancock Township, Michigan",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Kuheh": [
+        "The country of \"Kuheh\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Kuheh\" referring to? A. Kohuiyeh B. Kuheh-ye Do C. Kuheh-ye Yek D. Qaheh",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Bhagawatipur": [
+        "The timezone of \"Bhagawatipur\" is Nepal Time, and timeZone is Nepal Time. Which one is the \"Bhagawatipur\" referring to? A. Bhagawatipur, Sarlahi B. Bhagawatipur, Siraha",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Doluca": [
+        "The country of \"Doluca\" is Turkey, and timezoneDst is Eastern European Summer Time. Which one is the \"Doluca\" referring to? A. Doluca, Batman B. Doluca, Gümüşhacıköy C. Doluca, Kahta",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Abrahámovce": [
+        "The areaCode of \"Abrahámovce\" is +421 52, and postalCodeType is Postal code. Which one is the \"Abrahámovce\" referring to? A. Abrahámovce, Bardejov District B. Abrahámovce, Kežmarok District",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Warren_Township": [
+        "The timezone of \"Warren Township\" is Eastern Time Zone, and timezoneDst is EDT. Which one is the \"Warren Township\" referring to? A. Warren Township, Belmont County, Ohio B. Warren Township, Bremer County, Iowa C. Warren Township, Franklin County, Pennsylvania D. Warren Township, Jefferson County, Ohio E. Warren Township, Jo Daviess County, Illinois F. Warren Township, Lake County, Illinois G. Warren Township, Michigan H. Warren Township, New Jersey I. Warren Township, Putnam County, Indiana J. Warren Township, St. Joseph County, Indiana K. Warren Township, Story County, Iowa L. Warren Township, Trumbull County, Ohio M. Warren Township, Tuscarawas County, Ohio N. Warren Township, Warren County, Indiana O. Warren Township, Washington County, Ohio P. Warren Township, Winona County, Minnesota",
+        "I"
+    ],
+    "http://dbpedia.org/resource/Qəzli": [
+        "The country of \"Qəzli\" is Azerbaijan, and utcOffsetDst is +5. Which one is the \"Qəzli\" referring to? A. Qəzli, Ismailli B. Qəzli, Sabirabad",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Kamachal": [
+        "The country of \"Kamachal\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Kamachal\" referring to? A. Kamachal-e Bala Mahalleh B. Kamachal-e Pain Mahalleh",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Bradford_Village_Historic_District": [
+        "The timezoneDst of \"Bradford Village Historic District\" is EDT, and postalCodeType is ZIP code. Which one is the \"Bradford Village Historic District\" referring to? A. Bradford, Rhode Island B. Bradford (CDP), Vermont",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Mahmudlu": [
+        "The country of \"Mahmudlu\" is Azerbaijan, and timeZone is Azerbaijan Time. Which one is the \"Mahmudlu\" referring to? A. Birinci Mahmudlu B. Mahmudlu, Jabrayil C. Mahmudlu, Qubadli D. Mahmudlu, Shamkir E. Üçüncü Mahmudlu F. İkinci Mahmudlu",
+        "E"
+    ],
+    "http://dbpedia.org/resource/Deh-e_Miran": [
+        "The country of \"Deh-e Miran\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Deh-e Miran\" referring to? A. Deh-e Miran, Khuzestan B. Deh-e Miran, Sistan and Baluchestan",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Henderson_Township": [
+        "The timeZone of \"Henderson Township\" is North American Central Time Zone, and areaCode is 507. Which one is the \"Henderson Township\" referring to? A. Henderson Township, Huntingdon County, Pennsylvania B. Henderson Township, Jefferson County, Pennsylvania C. Henderson Township, Knox County, Illinois D. Henderson Township, Michigan E. Henderson Township, Sibley County, Minnesota",
+        "E"
+    ],
+    "http://dbpedia.org/resource/Qara_Deh": [
+        "The country of \"Qara Deh\" is Iran, and timezoneDst is Iran Daylight Time. Which one is the \"Qara Deh\" referring to? A. Qarah Day B. Qarah Din",
+        "B"
+    ]
+}

@@ -1,0 +1,1002 @@
+{
+    "http://dbpedia.org/resource/Maha_Dewi": {
+        "qa": [
+            "The father of Maha Dewi is Saw Zein, and activeYearsEndYear is 1384. The birthDate of Maha Dewi is __ .",
+            "(in or before) 1322"
+        ],
+        "additionals": [
+            "The mother of Maha Dewi is Sanda Min Hla.",
+            "The child of Maha Dewi is Razadarit."
+        ]
+    },
+    "http://dbpedia.org/resource/Kumashiro": {
+        "qa": [
+            "The termEnd of Kumashiro is 2005, and termStart is 1993. The termPeriod of Kumashiro is __ .",
+            "Akihiko Kumashiro  Tenure  1"
+        ],
+        "additionals": [
+            "The successor of Kumashiro is Seiji Hagiwara.",
+            "The birthDate of Kumashiro is 1940-02-21."
+        ]
+    },
+    "http://dbpedia.org/resource/Finck": {
+        "qa": [
+            "The stateOfOrigin of Finck is Germans, and birthYear is 1527. The deathYear of Finck is __ .",
+            "1558"
+        ],
+        "additionals": [
+            "The deathDate of Finck is 1558-12-28.",
+            "The nationality of Finck is Germans."
+        ]
+    },
+    "http://dbpedia.org/resource/Ellis_Marsalis": {
+        "qa": [
+            "The occupation of Ellis Marsalis is Musician, educator, and activeYearsEndYear is 2020. The birthDate of Ellis Marsalis is __ .",
+            "1934-11-14"
+        ],
+        "additionals": [
+            "The instrument of Ellis Marsalis is Piano.",
+            "The deathDate of Ellis Marsalis is 2020-04-01."
+        ]
+    },
+    "http://dbpedia.org/resource/McWhirter": {
+        "qa": [
+            "The birthYear of McWhirter is 1953, and activeYearsStartYear is 1977. The birthDate of McWhirter is __ .",
+            "1953"
+        ],
+        "additionals": [
+            "The activeYearsEndYear of McWhirter is 2007.",
+            "The birthPlace of McWhirter is Lanarkshire."
+        ]
+    },
+    "http://dbpedia.org/resource/Shimazaki": {
+        "qa": [
+            "The birthPlace of Shimazaki is Kawasaki, Japan, and college is VCU Rams men's soccer. The birthDate of Shimazaki is __ .",
+            "1997-04-19"
+        ],
+        "additionals": [
+            "The youthclubs of Shimazaki is Kawasaki Frontale.",
+            "The position of Shimazaki is Defender (association football)."
+        ]
+    },
+    "http://dbpedia.org/resource/Pianalto": {
+        "qa": [
+            "The termPeriod of Pianalto is Sandra Pianalto  Tenure  1, and birthDate is 1954-08-02. The successor of Pianalto is __ .",
+            "Loretta J. Mester"
+        ],
+        "additionals": [
+            "The termEnd of Pianalto is 2014-05-31.",
+            "The predecessor of Pianalto is Jerry Jordan."
+        ]
+    },
+    "http://dbpedia.org/resource/Balzani": {
+        "qa": [
+            "The stateOfOrigin of Balzani is Italy, and sport is Athletics (sport). The country of Balzani is __ .",
+            "Italy"
+        ],
+        "additionals": [
+            "The birthDate of Balzani is 1967-04-15.",
+            "The club of Balzani is Edera Atletica."
+        ]
+    },
+    "http://dbpedia.org/resource/Seiler": {
+        "qa": [
+            "The deathDate of Seiler is 1998-04-13, and predecessor is Robert True Donnelly. The successor of Seiler is __ .",
+            "June P. (J. P.) Morgan"
+        ],
+        "additionals": [
+            "The birthDate of Seiler is 1912-12-05.",
+            "The spouse of Seiler is Faye Poore."
+        ]
+    },
+    "http://dbpedia.org/resource/Partee": {
+        "qa": [
+            "The deathDate of Partee is 1994-08-17, and residence is Chicago, Illinois. The birthPlace of Partee is __ .",
+            "Blytheville, Arkansas"
+        ],
+        "additionals": [
+            "The spouse of Partee is Paris.",
+            "The deathPlace of Partee is Chicago, Illinois."
+        ]
+    },
+    "http://dbpedia.org/resource/Sanguinetti": {
+        "qa": [
+            "The activeYearsEndYear of Sanguinetti is 2020, and activeYearsStartYear is 2007. The birthDate of Sanguinetti is __ .",
+            "1988-02-29"
+        ],
+        "additionals": [
+            "The position of Sanguinetti is Defenceman.",
+            "The weightLb of Sanguinetti is 190."
+        ]
+    },
+    "http://dbpedia.org/resource/Terzian": {
+        "qa": [
+            "The birthDate of Terzian is 1952-10-19, and almaMater is Williams College. The child of Terzian is __ .",
+            "Gracie Terzian"
+        ],
+        "additionals": [
+            "The employer of Terzian is Institute for Humane Studies.",
+            "The birthPlace of Terzian is Boston, Massachusetts."
+        ]
+    },
+    "http://dbpedia.org/resource/Barrault": {
+        "qa": [
+            "The height of Barrault is 1.8796, and activeYearsEndYear is 1998. The position of Barrault is __ .",
+            "Winger (ice hockey)"
+        ],
+        "additionals": [
+            "The activeYearsStartYear of Barrault is 1991.",
+            "The birthDate of Barrault is 1970-04-21."
+        ]
+    },
+    "http://dbpedia.org/resource/Kathryn": {
+        "qa": [
+            "The deathDate of Kathryn is 1979-07-10, and birthDate is 1894-12-07. The almaMater of Kathryn is __ .",
+            "Chestnut Hill College"
+        ],
+        "additionals": [
+            "The spouse of Kathryn is William T. Granahan.",
+            "The party of Kathryn is Democratic Party (United States)."
+        ]
+    },
+    "http://dbpedia.org/resource/Toshimi": {
+        "qa": [
+            "The birthYear of Toshimi is 1708, and stateOfOrigin is Japanese people. The deathDate of Toshimi is __ .",
+            "1752-05-11"
+        ],
+        "additionals": [
+            "The predecessor of Toshimi is Nanbu Toshimoto.",
+            "The birthDate of Toshimi is 1708-06-14."
+        ]
+    },
+    "http://dbpedia.org/resource/McKeough": {
+        "qa": [
+            "The deathDate of McKeough is 1979-12-16, and successor is William A. Rowan. The predecessor of McKeough is __ .",
+            "P. H. Moynihan"
+        ],
+        "additionals": [
+            "The termEnd of McKeough is 1943-01-03.",
+            "The termStart of McKeough is 1935-01-03."
+        ]
+    },
+    "http://dbpedia.org/resource/De_Alvear": {
+        "qa": [
+            "The party of De Alvear is Radical Civic Union, and deathDate is 1942-04-23. The spouse of De Alvear is __ .",
+            "Regina Pacini"
+        ],
+        "additionals": [
+            "The almaMater of De Alvear is University of Buenos Aires.",
+            "The birthDate of De Alvear is 1868-10-04."
+        ]
+    },
+    "http://dbpedia.org/resource/Aikman": {
+        "qa": [
+            "The activeYearsStartYear of Aikman is 1791, and birthDate is 1755-06-23. The deathDate of Aikman is __ .",
+            "1838-07-06"
+        ],
+        "additionals": [
+            "The birthYear of Aikman is 1755.",
+            "The nationality of Aikman is British."
+        ]
+    },
+    "http://dbpedia.org/resource/Steve_Adubato": {
+        "qa": [
+            "The almaMater of Steve Adubato is Seton Hall University, and deathDate is 2020-10-13. The nationality of Steve Adubato is __ .",
+            "Americans"
+        ],
+        "additionals": [
+            "The birthDate of Steve Adubato is 1932-12-24.",
+            "The birthYear of Steve Adubato is 1932."
+        ]
+    },
+    "http://dbpedia.org/resource/Nahum": {
+        "qa": [
+            "The birthYear of Nahum is 1937, and birthDate is 1937-02-02. The child of Nahum is __ .",
+            "Ana Nahum"
+        ],
+        "additionals": [
+            "The nationality of Nahum is Uruguayan.",
+            "The almaMater of Nahum is Instituto de Profesores Artigas."
+        ]
+    },
+    "http://dbpedia.org/resource/Pery": {
+        "qa": [
+            "The nationality of Pery is Brazilian, and birthYear is 1921. The father of Pery is __ .",
+            "Ernesto Igel"
+        ],
+        "additionals": [
+            "The birthDate of Pery is 1921-11-27.",
+            "The deathDate of Pery is --09-24."
+        ]
+    },
+    "http://dbpedia.org/resource/Ivan_III": {
+        "qa": [
+            "The activeYearsStartYear of Ivan III is 1462, and birthDate is 1440-01-22. The deathDate of Ivan III is __ .",
+            "1505-10-27"
+        ],
+        "additionals": [
+            "The mother of Ivan III is Maria of Borovsk.",
+            "The activeYearsEndYear of Ivan III is 1505."
+        ]
+    },
+    "http://dbpedia.org/resource/DiMarco": {
+        "qa": [
+            "The activeYearsEndYear of DiMarco is 1995, and birthDate is 1976-01-01. The activeYearsStartYear of DiMarco is __ .",
+            "1995"
+        ],
+        "additionals": [
+            "The birthYear of DiMarco is 1976.",
+            "The almaMater of DiMarco is York University."
+        ]
+    },
+    "http://dbpedia.org/resource/Laffey": {
+        "qa": [
+            "The termStart of Laffey is 2003-01-06, and successor is Michael Napolitano. The predecessor of Laffey is __ .",
+            "John O'Leary (Rhode Island)"
+        ],
+        "additionals": [
+            "The spouse of Laffey is Kelly Laffey.",
+            "The party of Laffey is Republican Party (United States)."
+        ]
+    },
+    "http://dbpedia.org/resource/Boesch": {
+        "qa": [
+            "The deathDate of Boesch is 2012-01-20, and birthDate is 1918-01-09. The deathYear of Boesch is __ .",
+            "2012"
+        ],
+        "additionals": [
+            "The birthYear of Boesch is 1918.",
+            "The deathPlace of Boesch is Vienna, Austria."
+        ]
+    },
+    "http://dbpedia.org/resource/Kozłowski": {
+        "qa": [
+            "The religion of Kozłowski is Catholic Church, and birthDate is 1860-11-21. The almaMater of Kozłowski is __ .",
+            "St. Francis Seminary (Wisconsin)"
+        ],
+        "additionals": [
+            "The deathDate of Kozłowski is 1915-08-07.",
+            "The deathPlace of Kozłowski is Milwaukee, Wisconsin."
+        ]
+    },
+    "http://dbpedia.org/resource/Battisti": {
+        "qa": [
+            "The birthDate of Battisti is 1875-02-04, and deathYear is 1916. The birthYear of Battisti is __ .",
+            "1875"
+        ],
+        "additionals": [
+            "The deathDate of Battisti is 1916-07-12.",
+            "The spouse of Battisti is Ernesta Bittanti Battisti."
+        ]
+    },
+    "http://dbpedia.org/resource/Fazlul_Haq": {
+        "qa": [
+            "The predecessor of Fazlul Haq is Iajuddin Ahmed, and termStart is 2007-01-11. The birthDate of Fazlul Haq is __ .",
+            "1938-06-30"
+        ],
+        "additionals": [
+            "The successor of Fazlul Haq is Dr Fakhruddin Ahmed.",
+            "The party of Fazlul Haq is Independent (politician)."
+        ]
+    },
+    "http://dbpedia.org/resource/Garling": {
+        "qa": [
+            "The birthDate of Garling is 1806-02-23, and activeYearsEndYear is 1873. The activeYearsStartYear of Garling is __ .",
+            "1829"
+        ],
+        "additionals": [
+            "The nationality of Garling is Australian.",
+            "The birthPlace of Garling is London, England."
+        ]
+    },
+    "http://dbpedia.org/resource/Dawkins": {
+        "qa": [
+            "The termEnd of Dawkins is November 1982, and birthPlace is Stirling, South Australia. The termPeriod of Dawkins is __ .",
+            "Boyd Dawkins  Tenure  1"
+        ],
+        "additionals": [
+            "The child of Dawkins is John Dawkins (South Australian politician).",
+            "The birthDate of Dawkins is 1917-01-02."
+        ]
+    },
+    "http://dbpedia.org/resource/Lipke": {
+        "qa": [
+            "The birthPlace of Lipke is Probolinggo, and deathDate is 2008-03-07. The deathPlace of Lipke is __ .",
+            "Leiden"
+        ],
+        "additionals": [
+            "The birthDate of Lipke is 1921-04-21.",
+            "The almaMater of Lipke is Leiden University."
+        ]
+    },
+    "http://dbpedia.org/resource/Schelfhout": {
+        "qa": [
+            "The nationality of Schelfhout is Netherlands, and birthPlace is The Hague. The birthDate of Schelfhout is __ .",
+            "1787-02-16"
+        ],
+        "additionals": [
+            "The deathPlace of Schelfhout is The Hague.",
+            "The deathDate of Schelfhout is 1870-04-19."
+        ]
+    },
+    "http://dbpedia.org/resource/Masumi": {
+        "qa": [
+            "The deathPlace of Masumi is Canada, and birthDate is 1887-10-07. The stateOfOrigin of Masumi is __ .",
+            "Canadians"
+        ],
+        "additionals": [
+            "The deathDate of Masumi is 1987-04-22.",
+            "The nationality of Masumi is Canadians."
+        ]
+    },
+    "http://dbpedia.org/resource/Kathrin": {
+        "qa": [
+            "The height of Kathrin is 1.9304, and birthDate is 1985-06-26. The college of Kathrin is __ .",
+            "Boston College Eagles women's basketball"
+        ],
+        "additionals": [
+            "The position of Kathrin is Forward (basketball).",
+            "The nationality of Kathrin is Italian."
+        ]
+    },
+    "http://dbpedia.org/resource/Njoya": {
+        "qa": [
+            "The predecessor of Njoya is Ibrahim Njoya, and termPeriod is Seidou Njimoluh Njoya  Tenure  1. The termStart of Njoya is __ .",
+            "1933"
+        ],
+        "additionals": [
+            "The successor of Njoya is Ibrahim Mbombo Njoya.",
+            "The termEnd of Njoya is 1992."
+        ]
+    },
+    "http://dbpedia.org/resource/Shulgin": {
+        "qa": [
+            "The deathPlace of Shulgin is Lafayette, California, and nationality is American. The deathDate of Shulgin is __ .",
+            "2022-07-09"
+        ],
+        "additionals": [
+            "The occupation of Shulgin is Author.",
+            "The birthDate of Shulgin is 1931-03-22."
+        ]
+    },
+    "http://dbpedia.org/resource/Shopov": {
+        "qa": [
+            "The birthYear of Shopov is 1930, and birthDate is 1930-07-27. The deathYear of Shopov is __ .",
+            "2012"
+        ],
+        "additionals": [
+            "The activeYearsEndYear of Shopov is 2012.",
+            "The activeYearsStartYear of Shopov is 1957."
+        ]
+    },
+    "http://dbpedia.org/resource/Behan": {
+        "qa": [
+            "The deathDate of Behan is 1957-01-22, and debutteam is Philadelphia Phillies. The deathPlace of Behan is __ .",
+            "Bradford, Pennsylvania"
+        ],
+        "additionals": [
+            "The debutleague of Behan is MLB.",
+            "The birthDate of Behan is 1887-12-11."
+        ]
+    },
+    "http://dbpedia.org/resource/Dockrell": {
+        "qa": [
+            "The birthDate of Dockrell is 1880-04-17, and deathPlace is Dublin, Ireland. The nationality of Dockrell is __ .",
+            "Irish people"
+        ],
+        "additionals": [
+            "The almaMater of Dockrell is Trinity College Dublin.",
+            "The mother of Dockrell is Margaret Dockrell."
+        ]
+    },
+    "http://dbpedia.org/resource/Yitzhak": {
+        "qa": [
+            "The predecessor of Yitzhak is Ephraim Katzir, and party is Alignment (political party). The deathDate of Yitzhak is __ .",
+            "2015-11-06"
+        ],
+        "additionals": [
+            "The birthDate of Yitzhak is 1921-04-09.",
+            "The successor of Yitzhak is Chaim Herzog."
+        ]
+    },
+    "http://dbpedia.org/resource/Ananda_Rao": {
+        "qa": [
+            "The successor of Ananda Rao is Sode Ramaiah, and termPeriod is B. Radhabai Ananda Rao  Tenure  1. The birthDate of Ananda Rao is __ .",
+            "1930-02-02"
+        ],
+        "additionals": [
+            "The spouse of Ananda Rao is B. K. Ananda Rao.",
+            "The party of Ananda Rao is Indian National Congress."
+        ]
+    },
+    "http://dbpedia.org/resource/Claribel": {
+        "qa": [
+            "The birthDate of Claribel is 1961-12-16, and activeYearsStartYear is 1984. The birthPlace of Claribel is __ .",
+            "San Juan, Puerto Rico"
+        ],
+        "additionals": [
+            "The activeYearsEndYear of Claribel is 1984.",
+            "The birthYear of Claribel is 1961."
+        ]
+    },
+    "http://dbpedia.org/resource/Alsing": {
+        "qa": [
+            "The height of Alsing is 1.8034, and weightLb is 170. The activeYearsStartYear of Alsing is __ .",
+            "2014"
+        ],
+        "additionals": [
+            "The position of Alsing is Defenceman.",
+            "The birthDate of Alsing is 1996-05-01."
+        ]
+    },
+    "http://dbpedia.org/resource/Symmachus": {
+        "qa": [
+            "The predecessor of Symmachus is Pope Anastasius II, and termStart is 0498-11-22. The termPeriod of Symmachus is __ .",
+            "Pope Symmachus  Tenure  1"
+        ],
+        "additionals": [
+            "The deathDate of Symmachus is 0514-07-19.",
+            "The termEnd of Symmachus is 0514-07-19."
+        ]
+    },
+    "http://dbpedia.org/resource/Koroma": {
+        "qa": [
+            "The position of Koroma is Center (gridiron football), and birthDate is 1996-04-27. The currentTeam of Koroma is __ .",
+            "Michigan Panthers"
+        ],
+        "additionals": [
+            "The college of Koroma is BYU Cougars football.",
+            "The birthPlace of Koroma is Dallas."
+        ]
+    },
+    "http://dbpedia.org/resource/Eliason": {
+        "qa": [
+            "The college of Eliason is Hamline Pipers men's basketball, and height is 1.8796. The activeYearsEndYear of Eliason is __ .",
+            "1947"
+        ],
+        "additionals": [
+            "The birthDate of Eliason is 1918-07-24.",
+            "The position of Eliason is Forward (basketball)."
+        ]
+    },
+    "http://dbpedia.org/resource/Delanie": {
+        "qa": [
+            "The debutyear of Delanie is 2017, and debutleague is NPF. The debutteam of Delanie is __ .",
+            "Texas Charge"
+        ],
+        "additionals": [
+            "The position of Delanie is Pitcher.",
+            "The birthPlace of Delanie is Lakeside, California."
+        ]
+    },
+    "http://dbpedia.org/resource/Sýkora": {
+        "qa": [
+            "The height of Sýkora is 1.9558, and birthDate is 1973-07-05. The activeYearsEndYear of Sýkora is __ .",
+            "2005"
+        ],
+        "additionals": [
+            "The weightLb of Sýkora is 233.",
+            "The position of Sýkora is Defenceman (ice hockey)."
+        ]
+    },
+    "http://dbpedia.org/resource/Gianni": {
+        "qa": [
+            "The predecessor of Gianni is Issa Hayatou, and termPeriod is Gianni Infantino  Tenure  1. The spouse of Gianni is __ .",
+            "Leena Al Ashqar"
+        ],
+        "additionals": [
+            "The almaMater of Gianni is University of Fribourg.",
+            "The termStart of Gianni is 2016-02-26."
+        ]
+    },
+    "http://dbpedia.org/resource/Chozen": {
+        "qa": [
+            "The finalyear of Chozen is 1937, and position is Catcher. The debutyear of Chozen is __ .",
+            "1937"
+        ],
+        "additionals": [
+            "The debutteam of Chozen is Cincinnati Reds.",
+            "The deathDate of Chozen is 1994-09-16."
+        ]
+    },
+    "http://dbpedia.org/resource/William_Backhouse_Astor": {
+        "qa": [
+            "The deathPlace of William Backhouse Astor is Paris, France, and birthYear is 1829. The deathYear of William Backhouse Astor is __ .",
+            "1892"
+        ],
+        "additionals": [
+            "The birthDate of William Backhouse Astor is 1829-07-12.",
+            "The parent of William Backhouse Astor is William Backhouse Astor Sr.."
+        ]
+    },
+    "http://dbpedia.org/resource/Thutmose": {
+        "qa": [
+            "The predecessor of Thutmose is Thutmose I, and successor is Hatshepsut. The father of Thutmose is __ .",
+            "Thutmose I"
+        ],
+        "additionals": [
+            "The mother of Thutmose is Mutnofret.",
+            "The birthDate of Thutmose is C.1510 BC."
+        ]
+    },
+    "http://dbpedia.org/resource/Rowdon": {
+        "qa": [
+            "The debutteam of Rowdon is Cincinnati Reds, and finaldate is --06-19. The birthPlace of Rowdon is __ .",
+            "Riverhead, New York"
+        ],
+        "additionals": [
+            "The debutyear of Rowdon is 1984.",
+            "The debutleague of Rowdon is MLB."
+        ]
+    },
+    "http://dbpedia.org/resource/Wasti": {
+        "qa": [
+            "The birthYear of Wasti is 1937, and birthDate is 1937. The nationality of Wasti is __ .",
+            "Pakistani"
+        ],
+        "additionals": [
+            "The spouse of Wasti is Tahira Wasti.",
+            "The child of Wasti is Laila Wasti."
+        ]
+    },
+    "http://dbpedia.org/resource/Philbin": {
+        "qa": [
+            "The birthYear of Philbin is 1902, and activeYearsStartYear is 1918. The deathDate of Philbin is __ .",
+            "1993-05-07"
+        ],
+        "additionals": [
+            "The deathYear of Philbin is 1993.",
+            "The birthDate of Philbin is 1902-07-16."
+        ]
+    },
+    "http://dbpedia.org/resource/Thomas_Holland": {
+        "qa": [
+            "The father of Thomas Holland is Thomas Holland, 1st Earl of Kent, and birthDate is 1350. The mother of Thomas Holland is __ .",
+            "Joan of Kent"
+        ],
+        "additionals": [
+            "The deathDate of Thomas Holland is 1397-04-25.",
+            "The spouse of Thomas Holland is Alice FitzAlan (1350–1416)."
+        ]
+    },
+    "http://dbpedia.org/resource/Emperor_Jianwen": {
+        "qa": [
+            "The activeYearsStartYear of Emperor Jianwen is 0549, and successor is Xiao Dong. The activeYearsEndYear of Emperor Jianwen is __ .",
+            "0551"
+        ],
+        "additionals": [
+            "The father of Emperor Jianwen is Emperor Wu of Liang.",
+            "The spouse of Emperor Jianwen is Empress Jianwenjian."
+        ]
+    },
+    "http://dbpedia.org/resource/Parmley": {
+        "qa": [
+            "The debutteam of Parmley is Toronto Blue Jays, and finaldate is --06-25. The birthPlace of Parmley is __ .",
+            "Snohomish, Washington"
+        ],
+        "additionals": [
+            "The finalyear of Parmley is 2017.",
+            "The debutleague of Parmley is MLB."
+        ]
+    },
+    "http://dbpedia.org/resource/Gonzalo_Fernández": {
+        "qa": [
+            "The termStart of Gonzalo Fernández is 1625, and deathDate is 1635-02-16. The termEnd of Gonzalo Fernández is __ .",
+            "1629"
+        ],
+        "additionals": [
+            "The birthDate of Gonzalo Fernández is 1585-12-31.",
+            "The successor of Gonzalo Fernández is Ambrogio Spinola, 1st Marquis of the Balbases."
+        ]
+    },
+    "http://dbpedia.org/resource/Safran": {
+        "qa": [
+            "The activeYearsStartYear of Safran is 1997, and birthDate is 1965-11-22. The employer of Safran is __ .",
+            "Warner Bros."
+        ],
+        "additionals": [
+            "The spouse of Safran is Natalia Safran.",
+            "The birthYear of Safran is 1965."
+        ]
+    },
+    "http://dbpedia.org/resource/Tixier": {
+        "qa": [
+            "The father of Tixier is Léon Tixier, and party is Party of New Forces. The mother of Tixier is __ .",
+            "Andrée Vignancour"
+        ],
+        "additionals": [
+            "The birthDate of Tixier is 1907-10-12.",
+            "The deathDate of Tixier is 1989-09-29."
+        ]
+    },
+    "http://dbpedia.org/resource/Géza": {
+        "qa": [
+            "The deathDate of Géza is --05-31, and successor is Stephen III of Hungary. The religion of Géza is __ .",
+            "Catholic Church"
+        ],
+        "additionals": [
+            "The activeYearsEndYear of Géza is 1162.",
+            "The birthDate of Géza is 1130."
+        ]
+    },
+    "http://dbpedia.org/resource/Teixeira": {
+        "qa": [
+            "The deathPlace of Teixeira is Oeiras, Portugal, and deathYear is 2006. The birthDate of Teixeira is __ .",
+            "1919-09-19"
+        ],
+        "additionals": [
+            "The birthYear of Teixeira is 1919.",
+            "The deathDate of Teixeira is 2006-03-03."
+        ]
+    },
+    "http://dbpedia.org/resource/Jyrki": {
+        "qa": [
+            "The weightLb of Jyrki is 205, and activeYearsEndYear is 2007. The activeYearsStartYear of Jyrki is __ .",
+            "1985"
+        ],
+        "additionals": [
+            "The position of Jyrki is Defenceman (ice hockey).",
+            "The height of Jyrki is 1.8542."
+        ]
+    },
+    "http://dbpedia.org/resource/Mikkelson": {
+        "qa": [
+            "The activeYearsStartYear of Mikkelson is 2003, and position is Defenceman. The weightLb of Mikkelson is __ .",
+            "139"
+        ],
+        "additionals": [
+            "The height of Mikkelson is 1.7526.",
+            "The birthDate of Mikkelson is 1985-01-04."
+        ]
+    },
+    "http://dbpedia.org/resource/Ranjan": {
+        "qa": [
+            "The residence of Ranjan is No D 4, MPP Housing Scheme, Madiwela, Sri Jayewardenepura, Kotte., and almaMater is Maris Stella College. The birthDate of Ranjan is __ .",
+            "1963-03-11"
+        ],
+        "additionals": [
+            "The nationality of Ranjan is Sri Lanka.",
+            "The parliament of Ranjan is Sri Lanka."
+        ]
+    },
+    "http://dbpedia.org/resource/Pawlik": {
+        "qa": [
+            "The birthYear of Pawlik is 1926, and activeYearsStartYear is 1951. The deathDate of Pawlik is __ .",
+            "2002-05-06"
+        ],
+        "additionals": [
+            "The activeYearsEndYear of Pawlik is 1951.",
+            "The deathYear of Pawlik is 2002."
+        ]
+    },
+    "http://dbpedia.org/resource/Edward_Law": {
+        "qa": [
+            "The parent of Edward Law is Edward Law, 1st Baron Ellenborough, and almaMater is St John's College, Cambridge. The birthDate of Edward Law is __ .",
+            "1790-09-08"
+        ],
+        "additionals": [
+            "The deathDate of Edward Law is 1871-12-22.",
+            "The nationality of Edward Law is British."
+        ]
+    },
+    "http://dbpedia.org/resource/Ceccherini": {
+        "qa": [
+            "The birthYear of Ceccherini is 1915, and activeYearsEndYear is 1974. The deathYear of Ceccherini is __ .",
+            "1974"
+        ],
+        "additionals": [
+            "The nationality of Ceccherini is Italian.",
+            "The activeYearsStartYear of Ceccherini is 1963."
+        ]
+    },
+    "http://dbpedia.org/resource/Pretty": {
+        "qa": [
+            "The country of Pretty is England, and debutfor is Surrey. The deathDate of Pretty is __ .",
+            "1952-05-30"
+        ],
+        "additionals": [
+            "The debutyear of Pretty is 1899.",
+            "The birthDate of Pretty is 1875-10-23."
+        ]
+    },
+    "http://dbpedia.org/resource/Johl": {
+        "qa": [
+            "The deathYear of Johl is 1957, and deathDate is 1957-03-31. The birthDate of Johl is __ .",
+            "1900-10-26"
+        ],
+        "additionals": [
+            "The nationality of Johl is American.",
+            "The birthYear of Johl is 1900."
+        ]
+    },
+    "http://dbpedia.org/resource/Māris": {
+        "qa": [
+            "The activeYearsStartYear of Māris is 1992, and height is 1.778. The position of Māris is __ .",
+            "Forward (ice hockey)"
+        ],
+        "additionals": [
+            "The activeYearsEndYear of Māris is 2013.",
+            "The birthDate of Māris is 1978-07-03."
+        ]
+    },
+    "http://dbpedia.org/resource/Mary_Craig": {
+        "qa": [
+            "The nationality of Mary Craig is American, and activeYearsStartYear is 1960. The activeYearsEndYear of Mary Craig is __ .",
+            "1990"
+        ],
+        "additionals": [
+            "The birthDate of Mary Craig is 1923-02-23.",
+            "The occupation of Mary Craig is Novelist."
+        ]
+    },
+    "http://dbpedia.org/resource/Cohoon": {
+        "qa": [
+            "The termStart of Cohoon is 1987, and birthPlace is Des Moines County, Iowa. The birthDate of Cohoon is __ .",
+            "1953-03-29"
+        ],
+        "additionals": [
+            "The termPeriod of Cohoon is Dennis Cohoon  Tenure  1.",
+            "The party of Cohoon is Iowa Democratic Party."
+        ]
+    },
+    "http://dbpedia.org/resource/Bolstad": {
+        "qa": [
+            "The birthDate of Bolstad is 1966-02-13, and residence is Great Falls, Montana. The spouse of Bolstad is __ .",
+            "Laura"
+        ],
+        "additionals": [
+            "The party of Bolstad is Democratic Party (United States).",
+            "The birthPlace of Bolstad is Great Falls, Montana."
+        ]
+    },
+    "http://dbpedia.org/resource/Arkadiy": {
+        "qa": [
+            "The birthDate of Arkadiy is 1986-02-06, and hometown is Moscow. The birthPlace of Arkadiy is __ .",
+            "Omsk, Russian SFSR, Soviet Union"
+        ],
+        "additionals": [
+            "The activeYearsEndYear of Arkadiy is 2009.",
+            "The residence of Arkadiy is United States of America."
+        ]
+    },
+    "http://dbpedia.org/resource/Van_Tassel": {
+        "qa": [
+            "The nationality of Van Tassel is American, and deathYear is 1945. The birthPlace of Van Tassel is __ .",
+            "Philadelphia"
+        ],
+        "additionals": [
+            "The deathDate of Van Tassel is 1945.",
+            "The birthYear of Van Tassel is 1861."
+        ]
+    },
+    "http://dbpedia.org/resource/Silvestrini": {
+        "qa": [
+            "The instrument of Silvestrini is Oboe, and occupation is Composer. The genre of Silvestrini is __ .",
+            "Contemporary"
+        ],
+        "additionals": [
+            "The birthPlace of Silvestrini is Givet, France.",
+            "The birthDate of Silvestrini is 1961-06-04."
+        ]
+    },
+    "http://dbpedia.org/resource/Enyart": {
+        "qa": [
+            "The almaMater of Enyart is Arizona State University, and deathDate is 2021-09-12. The birthDate of Enyart is __ .",
+            "1959-01-10"
+        ],
+        "additionals": [
+            "The birthYear of Enyart is 1959.",
+            "The deathYear of Enyart is 2021."
+        ]
+    },
+    "http://dbpedia.org/resource/Salmela": {
+        "qa": [
+            "The position of Salmela is Defenceman, and weightLb is 201. The activeYearsStartYear of Salmela is __ .",
+            "2003"
+        ],
+        "additionals": [
+            "The birthDate of Salmela is 1984-08-13.",
+            "The height of Salmela is 1.8542."
+        ]
+    },
+    "http://dbpedia.org/resource/Semin": {
+        "qa": [
+            "The weightLb of Semin is 212, and height is 1.8796. The position of Semin is __ .",
+            "Winger (ice hockey)"
+        ],
+        "additionals": [
+            "The activeYearsEndYear of Semin is 2022.",
+            "The birthDate of Semin is 1984-03-03."
+        ]
+    },
+    "http://dbpedia.org/resource/Simcha": {
+        "qa": [
+            "The termStart of Simcha is 2019-01-02, and termPeriod is Simcha Eichenstein  Tenure  1. The occupation of Simcha is __ .",
+            "Assemblyman"
+        ],
+        "additionals": [
+            "The birthDate of Simcha is 1983-08-06.",
+            "The predecessor of Simcha is Dov Hikind."
+        ]
+    },
+    "http://dbpedia.org/resource/Adam_Alexander": {
+        "qa": [
+            "The spouse of Adam Alexander is Nora Francisca Blackburne, and deathDate is 2010-01-29. The deathYear of Adam Alexander is __ .",
+            "2010"
+        ],
+        "additionals": [
+            "The birthDate of Adam Alexander is 1913-03-20.",
+            "The birthYear of Adam Alexander is 1913."
+        ]
+    },
+    "http://dbpedia.org/resource/Shaw_Lefevre": {
+        "qa": [
+            "The deathDate of Shaw Lefevre is 1928-04-19, and nationality is British people. The birthPlace of Shaw Lefevre is __ .",
+            "Battersea"
+        ],
+        "additionals": [
+            "The birthDate of Shaw Lefevre is 1831-06-12.",
+            "The spouse of Shaw Lefevre is Lady Constance Reynolds-Moreton."
+        ]
+    },
+    "http://dbpedia.org/resource/Anil_Kumar": {
+        "qa": [
+            "The club of Anil Kumar is Services, and birthDate is 1978-08-28. The nationality of Anil Kumar is __ .",
+            "India"
+        ],
+        "additionals": [
+            "The country of Anil Kumar is India.",
+            "The sport of Anil Kumar is Track and field."
+        ]
+    },
+    "http://dbpedia.org/resource/Koivu": {
+        "qa": [
+            "The weightLb of Koivu is 181, and birthDate is 1974-11-23. The activeYearsEndYear of Koivu is __ .",
+            "2014"
+        ],
+        "additionals": [
+            "The position of Koivu is Center (ice hockey).",
+            "The activeYearsStartYear of Koivu is 1992."
+        ]
+    },
+    "http://dbpedia.org/resource/Hagner": {
+        "qa": [
+            "The deathDate of Hagner is 1915-06-30, and deathPlace is Washington, D.C., U.S.. The termEnd of Hagner is __ .",
+            "1903-06-01"
+        ],
+        "additionals": [
+            "The predecessor of Hagner is Abram B. Olin.",
+            "The mother of Hagner is Frances Randall Hagner."
+        ]
+    },
+    "http://dbpedia.org/resource/Desnoyers": {
+        "qa": [
+            "The deathYear of Desnoyers is 1846, and birthYear is 1772. The birthPlace of Desnoyers is __ .",
+            "Paris, France"
+        ],
+        "additionals": [
+            "The birthDate of Desnoyers is 1772-08-01.",
+            "The deathDate of Desnoyers is 1846-06-03."
+        ]
+    },
+    "http://dbpedia.org/resource/Elizabeth_Grey": {
+        "qa": [
+            "The parent of Elizabeth Grey is Edward Grey, 1st Viscount Lisle, and deathDate is 1525. The father of Elizabeth Grey is __ .",
+            "Edward Grey, 1st Viscount Lisle"
+        ],
+        "additionals": [
+            "The mother of Elizabeth Grey is Elizabeth Talbot.",
+            "The birthDate of Elizabeth Grey is 1482."
+        ]
+    },
+    "http://dbpedia.org/resource/Laddie": {
+        "qa": [
+            "The height of Laddie is 1.9304, and position is Forward (basketball). The deathDate of Laddie is __ .",
+            "1996-07-29"
+        ],
+        "additionals": [
+            "The deathPlace of Laddie is Gold Beach, Oregon.",
+            "The college of Laddie is Oregon Ducks men's basketball."
+        ]
+    },
+    "http://dbpedia.org/resource/Donald": {
+        "qa": [
+            "The debutteam of Donald is San Diego Padres, and debutleague is MLB. The birthDate of Donald is __ .",
+            "1978-06-07"
+        ],
+        "additionals": [
+            "The finalyear of Donald is 2003.",
+            "The position of Donald is Shortstop."
+        ]
+    },
+    "http://dbpedia.org/resource/McCoubrey": {
+        "qa": [
+            "The deathYear of McCoubrey is 1956, and birthPlace is Elderslie, Scotland. The nationality of McCoubrey is __ .",
+            "Irish"
+        ],
+        "additionals": [
+            "The birthYear of McCoubrey is 1880.",
+            "The birthDate of McCoubrey is 1880-01-05."
+        ]
+    },
+    "http://dbpedia.org/resource/Kamat": {
+        "qa": [
+            "The birthDate of Kamat is 1921-09-07, and activeYearsStartYear is 1940. The activeYearsEndYear of Kamat is __ .",
+            "2014"
+        ],
+        "additionals": [
+            "The nationality of Kamat is Indian.",
+            "The deathDate of Kamat is 2014-10-09."
+        ]
+    },
+    "http://dbpedia.org/resource/Mitsuda": {
+        "qa": [
+            "The deathDate of Mitsuda is 1964-05-14, and deathYear is 1964. The nationality of Mitsuda is __ .",
+            "Japanese"
+        ],
+        "additionals": [
+            "The birthDate of Mitsuda is 1876-01-12.",
+            "The birthYear of Mitsuda is 1876."
+        ]
+    },
+    "http://dbpedia.org/resource/Trae": {
+        "qa": [
+            "The highschool of Trae is Norman North High School, and activeYearsStartYear is 2018. The birthDate of Trae is __ .",
+            "1998-09-19"
+        ],
+        "additionals": [
+            "The college of Trae is Oklahoma Sooners men's basketball.",
+            "The position of Trae is Point guard."
+        ]
+    },
+    "http://dbpedia.org/resource/Honoré": {
+        "qa": [
+            "The nationality of Honoré is French, and occupation is Writer. The deathPlace of Honoré is __ .",
+            "Villefranche-sur-mer, France"
+        ],
+        "additionals": [
+            "The activeYearsEndYear of Honoré is 0016.",
+            "The activeYearsStartYear of Honoré is 0016."
+        ]
+    },
+    "http://dbpedia.org/resource/Ali_Mardan": {
+        "qa": [
+            "The deathPlace of Ali Mardan is Near Kermanshah, and deathDate is Spring 1754. The activeYearsEndYear of Ali Mardan is __ .",
+            "1751"
+        ],
+        "additionals": [
+            "The religion of Ali Mardan is Shia Islam.",
+            "The successor of Ali Mardan is Karim Khan Zand."
+        ]
+    },
+    "http://dbpedia.org/resource/Kiær": {
+        "qa": [
+            "The termStart of Kiær is 1946, and termPeriod is Dakky Kiær  Tenure  1. The deathDate of Kiær is __ .",
+            "1980-07-21"
+        ],
+        "additionals": [
+            "The nationality of Kiær is Norway.",
+            "The birthDate of Kiær is 1892-08-19."
+        ]
+    },
+    "http://dbpedia.org/resource/McEniff": {
+        "qa": [
+            "The birthDate of McEniff is 1942-12-01, and birthPlace is Bundoran, County Donegal, Ireland. The activeYearsStartYear of McEniff is __ .",
+            "0196"
+        ],
+        "additionals": [
+            "The sport of McEniff is Gaelic football.",
+            "The occupation of McEniff is Hotelier."
+        ]
+    },
+    "http://dbpedia.org/resource/Pedro_I": {
+        "qa": [
+            "The predecessor of Pedro I is Afonso IV of Portugal, and deathDate is 1367-01-18. The successor of Pedro I is __ .",
+            "Ferdinand I of Portugal"
+        ],
+        "additionals": [
+            "The birthDate of Pedro I is 1320-04-08.",
+            "The deathPlace of Pedro I is Estremoz, Portugal."
+        ]
+    }
+}

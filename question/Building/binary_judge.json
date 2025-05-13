@@ -1,0 +1,1868 @@
+{
+    "http://dbpedia.org/resource/McLean_House": {
+        "chosen_entity": "http://dbpedia.org/resource/Isaac_McLean_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Dr._Joseph_A._McLean_House",
+            "http://dbpedia.org/resource/Henry_McLean_House",
+            "http://dbpedia.org/resource/Isaac_McLean_House",
+            "http://dbpedia.org/resource/Thomas_McLean_House"
+        ],
+        "questions": [
+            [
+                "The locmapin of McLean House is Massachusetts#USA, and nrhpReferenceNumber is 82001960. Is the McLean House referring to Isaac McLean House?",
+                "Yes"
+            ],
+            [
+                "The locmapin of McLean House is Massachusetts#USA, and nrhpReferenceNumber is 82001960. Is the McLean House referring to Thomas McLean House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Transfiguration_Cathedral": {
+        "chosen_entity": "http://dbpedia.org/resource/Transfiguration_Cathedral,_Vinnytsia",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Transfiguration_Cathedral,_Chernihiv",
+            "http://dbpedia.org/resource/Transfiguration_Cathedral,_Cluj-Napoca",
+            "http://dbpedia.org/resource/Transfiguration_Cathedral,_Novosibirsk",
+            "http://dbpedia.org/resource/Transfiguration_Cathedral,_Vinnytsia"
+        ],
+        "questions": [
+            [
+                "The country of Transfiguration Cathedral is Ukraine, and groundbreaking is 1758. Is the Transfiguration Cathedral referring to Transfiguration Cathedral, Vinnytsia?",
+                "Yes"
+            ],
+            [
+                "The country of Transfiguration Cathedral is Ukraine, and groundbreaking is 1758. Is the Transfiguration Cathedral referring to Transfiguration Cathedral, Cluj-Napoca?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Weeks_House": {
+        "chosen_entity": "http://dbpedia.org/resource/Perkins_Addition",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Barzillai_Weeks_House",
+            "http://dbpedia.org/resource/Charles_M._Weeks_House",
+            "http://dbpedia.org/resource/Perkins_Addition"
+        ],
+        "questions": [
+            [
+                "The nrhpReferenceNumber of Weeks House is 83003955, and locmapin is Utah#USA. Is the Weeks House referring to Perkins Addition?",
+                "Yes"
+            ],
+            [
+                "The nrhpReferenceNumber of Weeks House is 83003955, and locmapin is Utah#USA. Is the Weeks House referring to Barzillai Weeks House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Convocation_Center": {
+        "chosen_entity": "http://dbpedia.org/resource/Chartway_Arena",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Chartway_Arena",
+            "http://dbpedia.org/resource/First_National_Bank_Arena",
+            "http://dbpedia.org/resource/Memorial_Athletic_and_Convocation_Center"
+        ],
+        "questions": [
+            [
+                "The openingDate of Convocation Center is 2002-10-25, and buildingStartDate is June 17, 2000. Is the Convocation Center referring to Chartway Arena?",
+                "Yes"
+            ],
+            [
+                "The openingDate of Convocation Center is 2002-10-25, and buildingStartDate is June 17, 2000. Is the Convocation Center referring to First National Bank Arena?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Gokoku_Shrine": {
+        "chosen_entity": "http://dbpedia.org/resource/Gifu_Gokoku_Shrine",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Gifu_Gokoku_Shrine",
+            "http://dbpedia.org/resource/Hida_Gokoku_Shrine",
+            "http://dbpedia.org/resource/Kyoto_Ryozen_Gokoku_Shrine",
+            "http://dbpedia.org/resource/Nōhi_Gokoku_Shrine"
+        ],
+        "questions": [
+            [
+                "The religiousAffiliation of Gokoku Shrine is Shinto, and established is 1940. Is the Gokoku Shrine referring to Gifu Gokoku Shrine?",
+                "Yes"
+            ],
+            [
+                "The religiousAffiliation of Gokoku Shrine is Shinto, and established is 1940. Is the Gokoku Shrine referring to Nōhi Gokoku Shrine?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/John_Clark_House": {
+        "chosen_entity": "http://dbpedia.org/resource/Clark_and_McCormack_Quarry_and_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Capt._John_Clark_House",
+            "http://dbpedia.org/resource/Clark_and_McCormack_Quarry_and_House"
+        ],
+        "questions": [
+            [
+                "The architecture of John Clark House is Colonial Revival architecture, and locmapin is Minnesota#USA. Is the John Clark House referring to Clark and McCormack Quarry and House?",
+                "Yes"
+            ],
+            [
+                "The architecture of John Clark House is Colonial Revival architecture, and locmapin is Minnesota#USA. Is the John Clark House referring to Capt. John Clark House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/American_Legion_Hall": {
+        "chosen_entity": "http://dbpedia.org/resource/John_Regan_American_Legion_Hall",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Faulkton_American_Legion_Hall",
+            "http://dbpedia.org/resource/Fillmore_American_Legion_Hall",
+            "http://dbpedia.org/resource/John_Regan_American_Legion_Hall"
+        ],
+        "questions": [
+            [
+                "The yearOfConstruction of American Legion Hall is 1939, and locmapin is Idaho#USA. Is the American Legion Hall referring to John Regan American Legion Hall?",
+                "Yes"
+            ],
+            [
+                "The yearOfConstruction of American Legion Hall is 1939, and locmapin is Idaho#USA. Is the American Legion Hall referring to Faulkton American Legion Hall?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Walton_Stadium": {
+        "chosen_entity": "http://dbpedia.org/resource/Joe_Walton_Stadium",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Audrey_J._Walton_Stadium_(Central_Missouri)",
+            "http://dbpedia.org/resource/Joe_Walton_Stadium"
+        ],
+        "questions": [
+            [
+                "The surface of Walton Stadium is FieldTurf, and architect is JDBA Architects. Is the Walton Stadium referring to Joe Walton Stadium?",
+                "Yes"
+            ],
+            [
+                "The surface of Walton Stadium is FieldTurf, and architect is JDBA Architects. Is the Walton Stadium referring to Audrey J. Walton Stadium (Central Missouri)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/German_Bank": {
+        "chosen_entity": "http://dbpedia.org/resource/German_Bank_Building_of_Walnut,_Iowa",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/German_Bank_Building",
+            "http://dbpedia.org/resource/German_Bank_Building_of_Walnut,_Iowa"
+        ],
+        "questions": [
+            [
+                "The nrhpReferenceNumber of German Bank is 91000536, and yearOfConstruction is 1884. Is the German Bank referring to German Bank Building of Walnut, Iowa?",
+                "Yes"
+            ],
+            [
+                "The nrhpReferenceNumber of German Bank is 91000536, and yearOfConstruction is 1884. Is the German Bank referring to German Bank Building?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Union_Building": {
+        "chosen_entity": "http://dbpedia.org/resource/Union_Buildings",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Union_Building,_Shanghai",
+            "http://dbpedia.org/resource/Union_Building,_Toronto",
+            "http://dbpedia.org/resource/Union_Buildings"
+        ],
+        "questions": [
+            [
+                "The size of Union Building is 3600.0, and architect is Sir Herbert Baker. Is the Union Building referring to Union Buildings?",
+                "Yes"
+            ],
+            [
+                "The size of Union Building is 3600.0, and architect is Sir Herbert Baker. Is the Union Building referring to Union Building, Toronto?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Cathedral_of_San_Salvador": {
+        "chosen_entity": "http://dbpedia.org/resource/Cathedral_of_the_Savior_of_Zaragoza",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Cathedral_of_the_Savior_of_Zaragoza",
+            "http://dbpedia.org/resource/Oviedo_Cathedral"
+        ],
+        "questions": [
+            [
+                "The province of Cathedral of San Salvador is Roman Catholic Archdiocese of Zaragoza, and consecrationYear is 1318. Is the Cathedral of San Salvador referring to Cathedral of the Savior of Zaragoza?",
+                "Yes"
+            ],
+            [
+                "The province of Cathedral of San Salvador is Roman Catholic Archdiocese of Zaragoza, and consecrationYear is 1318. Is the Cathedral of San Salvador referring to Oviedo Cathedral?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Stade_Municipal": {
+        "chosen_entity": "http://dbpedia.org/resource/Stade_du_Ray",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Stade_Canac",
+            "http://dbpedia.org/resource/Stade_Général_Aboubacar_Sangoulé_Lamizana",
+            "http://dbpedia.org/resource/Stade_Municipal,_Pétange",
+            "http://dbpedia.org/resource/Stade_Municipal,_Rumelange",
+            "http://dbpedia.org/resource/Stade_Municipal,_Schifflange",
+            "http://dbpedia.org/resource/Stade_Municipal_La_Reole",
+            "http://dbpedia.org/resource/Stade_Saint-Symphorien",
+            "http://dbpedia.org/resource/Stade_du_Ray",
+            "http://dbpedia.org/resource/Stadium_Municipal_d'Albi"
+        ],
+        "questions": [
+            [
+                "The renovated of Stade Municipal is 1948197919921997, and openingDate is 1927-01-30. Is the Stade Municipal referring to Stade du Ray?",
+                "Yes"
+            ],
+            [
+                "The renovated of Stade Municipal is 1948197919921997, and openingDate is 1927-01-30. Is the Stade Municipal referring to Stade Général Aboubacar Sangoulé Lamizana?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Eaton": {
+        "chosen_entity": "http://dbpedia.org/resource/Eaton_Center_(Cleveland)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Eaton's_/_John_Maryon_Tower",
+            "http://dbpedia.org/resource/Eaton_Center_(Cleveland)",
+            "http://dbpedia.org/resource/Timothy_Eaton_Memorial_Church"
+        ],
+        "questions": [
+            [
+                "The owner of Eaton is American Landmark Properties, and floorCount is 28. Is the Eaton referring to Eaton Center (Cleveland)?",
+                "Yes"
+            ],
+            [
+                "The owner of Eaton is American Landmark Properties, and floorCount is 28. Is the Eaton referring to Timothy Eaton Memorial Church?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Goodyear": {
+        "chosen_entity": "http://dbpedia.org/resource/Goodyear_Ballpark",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Goodyear_Airdock",
+            "http://dbpedia.org/resource/Goodyear_Ballpark"
+        ],
+        "questions": [
+            [
+                "The buildingStartDate of Goodyear is March 2008, and owner is Goodyear, AZ. Is the Goodyear referring to Goodyear Ballpark?",
+                "Yes"
+            ],
+            [
+                "The buildingStartDate of Goodyear is March 2008, and owner is Goodyear, AZ. Is the Goodyear referring to Goodyear Airdock?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Oratory": {
+        "chosen_entity": "http://dbpedia.org/resource/Saint_Joseph's_Oratory",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Oxford_Oratory",
+            "http://dbpedia.org/resource/Saint_Joseph's_Oratory"
+        ],
+        "questions": [
+            [
+                "The architectureStyle of Oratory is Cathedral architecture of Western Europe, and architect is Dalbé Viau, Alphonse Venne, Lucien Parent and Dom Paul Bellot. Is the Oratory referring to Saint Joseph's Oratory?",
+                "Yes"
+            ],
+            [
+                "The architectureStyle of Oratory is Cathedral architecture of Western Europe, and architect is Dalbé Viau, Alphonse Venne, Lucien Parent and Dom Paul Bellot. Is the Oratory referring to Oxford Oratory?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Grant_House": {
+        "chosen_entity": "http://dbpedia.org/resource/William_H._Grant_House_(Middleport,_Ohio)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Benjamin_Grant_House",
+            "http://dbpedia.org/resource/Douglas_and_Charlotte_Grant_House",
+            "http://dbpedia.org/resource/Ebenezer_Grant_House",
+            "http://dbpedia.org/resource/Henry_M._Grant_House",
+            "http://dbpedia.org/resource/O.B._Grant_House",
+            "http://dbpedia.org/resource/William_H._Grant_House_(Middleport,_Ohio)",
+            "http://dbpedia.org/resource/William_H._Grant_House_(Richmond,_Virginia)"
+        ],
+        "questions": [
+            [
+                "The yearOfConstruction of Grant House is 1852, and nrhpReferenceNumber is 78002136. Is the Grant House referring to William H. Grant House (Middleport, Ohio)?",
+                "Yes"
+            ],
+            [
+                "The yearOfConstruction of Grant House is 1852, and nrhpReferenceNumber is 78002136. Is the Grant House referring to O.B. Grant House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Cabot": {
+        "chosen_entity": "http://dbpedia.org/resource/Cabot_Tower_(St._John's)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Cabot_Tower,_Bristol",
+            "http://dbpedia.org/resource/Cabot_Tower_(St._John's)"
+        ],
+        "questions": [
+            [
+                "The buildingStartDate of Cabot is 1898, and architect is William Howe Greene. Is the Cabot referring to Cabot Tower (St. John's)?",
+                "Yes"
+            ],
+            [
+                "The buildingStartDate of Cabot is 1898, and architect is William Howe Greene. Is the Cabot referring to Cabot Tower, Bristol?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Dinglewood": {
+        "chosen_entity": "http://dbpedia.org/resource/Dinglewood_House_(Columbus,_Georgia)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Dinglewood,_Columbus,_Georgia",
+            "http://dbpedia.org/resource/Dinglewood_House_(Columbus,_Georgia)"
+        ],
+        "questions": [
+            [
+                "The added of Dinglewood is 1972-02-01, and yearOfConstruction is 1858. Is the Dinglewood referring to Dinglewood House (Columbus, Georgia)?",
+                "Yes"
+            ],
+            [
+                "The added of Dinglewood is 1972-02-01, and yearOfConstruction is 1858. Is the Dinglewood referring to Dinglewood, Columbus, Georgia?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Isstadion": {
+        "chosen_entity": "http://dbpedia.org/resource/Skien_Isstadion",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Malmö_Isstadion",
+            "http://dbpedia.org/resource/Skien_Isstadion"
+        ],
+        "questions": [
+            [
+                "The owner of Isstadion is Skien, and stadiumName is Skien Isstadion. Is the Isstadion referring to Skien Isstadion?",
+                "Yes"
+            ],
+            [
+                "The owner of Isstadion is Skien, and stadiumName is Skien Isstadion. Is the Isstadion referring to Malmö Isstadion?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Vinje": {
+        "chosen_entity": "http://dbpedia.org/resource/Vinje_Church_(Trøndelag)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Vinje_Church_(Trøndelag)",
+            "http://dbpedia.org/resource/Vinje_Church_(Vestland)"
+        ],
+        "questions": [
+            [
+                "The country of Vinje is Norway, and consecratedDate is 1821. Is the Vinje referring to Vinje Church (Trøndelag)?",
+                "Yes"
+            ],
+            [
+                "The country of Vinje is Norway, and consecratedDate is 1821. Is the Vinje referring to Vinje Church (Vestland)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Perry_House": {
+        "chosen_entity": "http://dbpedia.org/resource/James_Perry_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ezikial_Perry_House",
+            "http://dbpedia.org/resource/Jacob_P._Perry_House",
+            "http://dbpedia.org/resource/James_Perry_House",
+            "http://dbpedia.org/resource/Lewis–Card–Perry_House",
+            "http://dbpedia.org/resource/Melvin_W._and_Mary_Perry_House",
+            "http://dbpedia.org/resource/Peter_D._Perry_House",
+            "http://dbpedia.org/resource/T.B._Perry_House"
+        ],
+        "questions": [
+            [
+                "The added of Perry House is 1983-06-06, and locmapin is Massachusetts#USA. Is the Perry House referring to James Perry House?",
+                "Yes"
+            ],
+            [
+                "The added of Perry House is 1983-06-06, and locmapin is Massachusetts#USA. Is the Perry House referring to Melvin W. and Mary Perry House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Terwilliger": {
+        "chosen_entity": "http://dbpedia.org/resource/Terwilliger_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Terwilliger_House",
+            "http://dbpedia.org/resource/Terwilliger_House_(Shawangunk,_New_York)"
+        ],
+        "questions": [
+            [
+                "The locmapin of Terwilliger is Illinois#USA, and nrhpReferenceNumber is 79003116. Is the Terwilliger referring to Terwilliger House?",
+                "Yes"
+            ],
+            [
+                "The locmapin of Terwilliger is Illinois#USA, and nrhpReferenceNumber is 79003116. Is the Terwilliger referring to Terwilliger House (Shawangunk, New York)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ravenscraig": {
+        "chosen_entity": "http://dbpedia.org/resource/Ravenscraig_Stadium",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ravenscraig_Regional_Sports_Facility",
+            "http://dbpedia.org/resource/Ravenscraig_Stadium"
+        ],
+        "questions": [
+            [
+                "The renovated of Ravenscraig is 199220092012, and stadiumName is Ravenscraig Stadium. Is the Ravenscraig referring to Ravenscraig Stadium?",
+                "Yes"
+            ],
+            [
+                "The renovated of Ravenscraig is 199220092012, and stadiumName is Ravenscraig Stadium. Is the Ravenscraig referring to Ravenscraig Regional Sports Facility?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Istana_Negara": {
+        "chosen_entity": "http://dbpedia.org/resource/Istana_Negara,_Jalan_Tuanku_Abdul_Halim",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Istana_Negara,_Jalan_Tuanku_Abdul_Halim",
+            "http://dbpedia.org/resource/The_Istana"
+        ],
+        "questions": [
+            [
+                "The buildingStartDate of Istana Negara is November 2007, and style is Malay, Islamic and Western architecture. Is the Istana Negara referring to Istana Negara, Jalan Tuanku Abdul Halim?",
+                "Yes"
+            ],
+            [
+                "The buildingStartDate of Istana Negara is November 2007, and style is Malay, Islamic and Western architecture. Is the Istana Negara referring to The Istana?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Isenhour": {
+        "chosen_entity": "http://dbpedia.org/resource/J._W._Isenhour_Tennis_Center",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Daniel_Isenhour_House_and_Farm",
+            "http://dbpedia.org/resource/J._W._Isenhour_Tennis_Center"
+        ],
+        "questions": [
+            [
+                "The owner of Isenhour is North Carolina State University, and renovated is 2011. Is the Isenhour referring to J. W. Isenhour Tennis Center?",
+                "Yes"
+            ],
+            [
+                "The owner of Isenhour is North Carolina State University, and renovated is 2011. Is the Isenhour referring to Daniel Isenhour House and Farm?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Frost_House": {
+        "chosen_entity": "http://dbpedia.org/resource/Levi_B._Frost_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/David_Frost_House",
+            "http://dbpedia.org/resource/Holt–Frost_House",
+            "http://dbpedia.org/resource/John_Frost_House",
+            "http://dbpedia.org/resource/Levi_B._Frost_House",
+            "http://dbpedia.org/resource/Robert_Frost_House",
+            "http://dbpedia.org/resource/Walter_Frost_House"
+        ],
+        "questions": [
+            [
+                "The architecture of Frost House is Greek Revival, and locmapin is Connecticut#USA. Is the Frost House referring to Levi B. Frost House?",
+                "Yes"
+            ],
+            [
+                "The architecture of Frost House is Greek Revival, and locmapin is Connecticut#USA. Is the Frost House referring to Holt–Frost House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ellis_Park": {
+        "chosen_entity": "http://dbpedia.org/resource/Ellis_Park_Stadium",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ellis_Park_Arena",
+            "http://dbpedia.org/resource/Ellis_Park_Stadium"
+        ],
+        "questions": [
+            [
+                "The stadiumName of Ellis Park is Ellis Park, and renovated is 1982. Is the Ellis Park referring to Ellis Park Stadium?",
+                "Yes"
+            ],
+            [
+                "The stadiumName of Ellis Park is Ellis Park, and renovated is 1982. Is the Ellis Park referring to Ellis Park Arena?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Swan": {
+        "chosen_entity": "http://dbpedia.org/resource/Wycombe_Swan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Swan_Theatre,_Stratford-upon-Avon",
+            "http://dbpedia.org/resource/Wycombe_Swan"
+        ],
+        "questions": [
+            [
+                "The architect of Swan is Buckinghamshire County Architects, and renovated is 2010. Is the Swan referring to Wycombe Swan?",
+                "Yes"
+            ],
+            [
+                "The architect of Swan is Buckinghamshire County Architects, and renovated is 2010. Is the Swan referring to Swan Theatre, Stratford-upon-Avon?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/St._Paul's_Lutheran_Church": {
+        "chosen_entity": "http://dbpedia.org/resource/St._Paul's_Lutheran_Church_Historic_District",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/St._Paul's_Lutheran_Church,_Parsonage_and_Cemetery",
+            "http://dbpedia.org/resource/St._Paul's_Lutheran_Church_Historic_District"
+        ],
+        "questions": [
+            [
+                "The yearOfConstruction of St. Paul's Lutheran Church is 1743, and nrhpReferenceNumber is 14000584. Is the St. Paul's Lutheran Church referring to St. Paul's Lutheran Church Historic District?",
+                "Yes"
+            ],
+            [
+                "The yearOfConstruction of St. Paul's Lutheran Church is 1743, and nrhpReferenceNumber is 14000584. Is the St. Paul's Lutheran Church referring to St. Paul's Lutheran Church, Parsonage and Cemetery?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Clark_House": {
+        "chosen_entity": "http://dbpedia.org/resource/Sen._Joseph_O._Clark_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Alexander_Clark_House",
+            "http://dbpedia.org/resource/Benjamin_Clark_House",
+            "http://dbpedia.org/resource/Buehl_House",
+            "http://dbpedia.org/resource/Burke–Clark_House",
+            "http://dbpedia.org/resource/Capt._John_Clark_House",
+            "http://dbpedia.org/resource/Clark_Houses",
+            "http://dbpedia.org/resource/Ezra_Clark_House",
+            "http://dbpedia.org/resource/Frank_Chamberlain_Clark_House",
+            "http://dbpedia.org/resource/George_Boardman_Clark_House",
+            "http://dbpedia.org/resource/Gerome_Clark_House",
+            "http://dbpedia.org/resource/John_Clark_House_(Clarksdale,_Mississippi)",
+            "http://dbpedia.org/resource/John_Hector_Clark_House",
+            "http://dbpedia.org/resource/Morrison_and_Clark_Houses",
+            "http://dbpedia.org/resource/Rev._Francis_E._Clark_House",
+            "http://dbpedia.org/resource/Robert_F._and_Elizabeth_Clark_House",
+            "http://dbpedia.org/resource/Robinson_Plantation_House",
+            "http://dbpedia.org/resource/Sen._Joseph_O._Clark_House",
+            "http://dbpedia.org/resource/Silas_M._Clark_House",
+            "http://dbpedia.org/resource/William_Clark_House_(Newark,_New_Jersey)",
+            "http://dbpedia.org/resource/William_S._Clark_House",
+            "http://dbpedia.org/resource/Willis_G._Clark_House"
+        ],
+        "questions": [
+            [
+                "The nrhpReferenceNumber of Clark House is 11000646, and locmapin is Pennsylvania#USA. Is the Clark House referring to Sen. Joseph O. Clark House?",
+                "Yes"
+            ],
+            [
+                "The nrhpReferenceNumber of Clark House is 11000646, and locmapin is Pennsylvania#USA. Is the Clark House referring to Ezra Clark House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kingston_House": {
+        "chosen_entity": "http://dbpedia.org/resource/Kingston_House,_Kingston_Park",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kingston_House,_Kingston_Park",
+            "http://dbpedia.org/resource/Kingston_House,_Kingston_upon_Hull",
+            "http://dbpedia.org/resource/Zachry-Kingston_House"
+        ],
+        "questions": [
+            [
+                "The renovationDate of Kingston House is 1851, and owner is Government of South Australia. Is the Kingston House referring to Kingston House, Kingston Park?",
+                "Yes"
+            ],
+            [
+                "The renovationDate of Kingston House is 1851, and owner is Government of South Australia. Is the Kingston House referring to Kingston House, Kingston upon Hull?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Leavitt": {
+        "chosen_entity": "http://dbpedia.org/resource/Thomas_Leavitt_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Blazo–Leavitt_House",
+            "http://dbpedia.org/resource/James_Leavitt_House",
+            "http://dbpedia.org/resource/Thomas_Leavitt_House"
+        ],
+        "questions": [
+            [
+                "The added of Leavitt is 1991-11-14, and architect is Leavitt, Thomas Dudley. Is the Leavitt referring to Thomas Leavitt House?",
+                "Yes"
+            ],
+            [
+                "The added of Leavitt is 1991-11-14, and architect is Leavitt, Thomas Dudley. Is the Leavitt referring to James Leavitt House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Minto": {
+        "chosen_entity": "http://dbpedia.org/resource/Minto_Midtown",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Minto_Metropole",
+            "http://dbpedia.org/resource/Minto_Midtown",
+            "http://dbpedia.org/resource/Minto_School"
+        ],
+        "questions": [
+            [
+                "The height of Minto is 125.8824, and developer is Minto Developments Inc.. Is the Minto referring to Minto Midtown?",
+                "Yes"
+            ],
+            [
+                "The height of Minto is 125.8824, and developer is Minto Developments Inc.. Is the Minto referring to Minto Metropole?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Cathedral_of_the_Blessed_Sacrament": {
+        "chosen_entity": "http://dbpedia.org/resource/Cathedral_of_the_Blessed_Sacrament,_Christchurch",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Blessed_Sacrament_Cathedral_(Greensburg,_Pennsylvania)",
+            "http://dbpedia.org/resource/Cathedral_of_the_Blessed_Sacrament,_Christchurch"
+        ],
+        "questions": [
+            [
+                "The consecratedDate of Cathedral of the Blessed Sacrament is 1905-02-12, and country is New Zealand. Is the Cathedral of the Blessed Sacrament referring to Cathedral of the Blessed Sacrament, Christchurch?",
+                "Yes"
+            ],
+            [
+                "The consecratedDate of Cathedral of the Blessed Sacrament is 1905-02-12, and country is New Zealand. Is the Cathedral of the Blessed Sacrament referring to Blessed Sacrament Cathedral (Greensburg, Pennsylvania)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Büro_Center": {
+        "chosen_entity": "http://dbpedia.org/resource/Frankfurter_Büro_Center",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/City_Gate_(Frankfurt)",
+            "http://dbpedia.org/resource/Frankfurter_Büro_Center",
+            "http://dbpedia.org/resource/Westend_Gate"
+        ],
+        "questions": [
+            [
+                "The height of Büro Center is 142.0, and architect is Richard Heil. Is the Büro Center referring to Frankfurter Büro Center?",
+                "Yes"
+            ],
+            [
+                "The height of Büro Center is 142.0, and architect is Richard Heil. Is the Büro Center referring to City Gate (Frankfurt)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_Rosary_Parish": {
+        "chosen_entity": "http://dbpedia.org/resource/Holy_Rosary_Parish,_Hadley",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Holy_Rosary_Parish,_Hadley",
+            "http://dbpedia.org/resource/Holy_Rosary_parish,_Warispura"
+        ],
+        "questions": [
+            [
+                "The country of Holy Rosary Parish is United States, and province is List of the Catholic dioceses of the United States. Is the Holy Rosary Parish referring to Holy Rosary Parish, Hadley?",
+                "Yes"
+            ],
+            [
+                "The country of Holy Rosary Parish is United States, and province is List of the Catholic dioceses of the United States. Is the Holy Rosary Parish referring to Holy Rosary parish, Warispura?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Richmond": {
+        "chosen_entity": "http://dbpedia.org/resource/Richmond_Park_(football_ground)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Richmond_Park_(football_ground)",
+            "http://dbpedia.org/resource/Schloss_Richmond"
+        ],
+        "questions": [
+            [
+                "The stadiumName of Richmond is Richmond Park, and owner is St Patrick's Athletic F.C.. Is the Richmond referring to Richmond Park (football ground)?",
+                "Yes"
+            ],
+            [
+                "The stadiumName of Richmond is Richmond Park, and owner is St Patrick's Athletic F.C.. Is the Richmond referring to Schloss Richmond?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Howe_House": {
+        "chosen_entity": "http://dbpedia.org/resource/Richard_Howe_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Richard_Howe_House",
+            "http://dbpedia.org/resource/Samuel_Gridley_and_Julia_Ward_Howe_House"
+        ],
+        "questions": [
+            [
+                "The yearOfConstruction of Howe House is 1866, and locmapin is Kansas#USA. Is the Howe House referring to Richard Howe House?",
+                "Yes"
+            ],
+            [
+                "The yearOfConstruction of Howe House is 1866, and locmapin is Kansas#USA. Is the Howe House referring to Samuel Gridley and Julia Ward Howe House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Jashari": {
+        "chosen_entity": "http://dbpedia.org/resource/Tofik_Jashari_Stadium",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Adem_Jashari_Olympic_Stadium",
+            "http://dbpedia.org/resource/Tofik_Jashari_Stadium"
+        ],
+        "questions": [
+            [
+                "The stadiumName of Jashari is Tofik Jashari Stadium, and renovated is 2016. Is the Jashari referring to Tofik Jashari Stadium?",
+                "Yes"
+            ],
+            [
+                "The stadiumName of Jashari is Tofik Jashari Stadium, and renovated is 2016. Is the Jashari referring to Adem Jashari Olympic Stadium?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Hollywood_Casino": {
+        "chosen_entity": "http://dbpedia.org/resource/Hollywood_Casino_Amphitheatre_(Tinley_Park,_Illinois)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Hollywood_Casino_Amphitheatre_(Maryland_Heights,_Missouri)",
+            "http://dbpedia.org/resource/Hollywood_Casino_Amphitheatre_(Tinley_Park,_Illinois)"
+        ],
+        "questions": [
+            [
+                "The openingDate of Hollywood Casino is 1990-06-02, and owner is Live Nation (events promoter). Is the Hollywood Casino referring to Hollywood Casino Amphitheatre (Tinley Park, Illinois)?",
+                "Yes"
+            ],
+            [
+                "The openingDate of Hollywood Casino is 1990-06-02, and owner is Live Nation (events promoter). Is the Hollywood Casino referring to Hollywood Casino Amphitheatre (Maryland Heights, Missouri)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/St._James_Episcopal_Church": {
+        "chosen_entity": "http://dbpedia.org/resource/St._James_Episcopal_Church_and_Rectory_(Bozeman,_Montana)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/St._James's_Episcopal_Church_(Richmond,_Virginia)",
+            "http://dbpedia.org/resource/St._James_Episcopal_Church,_Mill_Creek",
+            "http://dbpedia.org/resource/St._James_Episcopal_Church_and_Rectory_(Bozeman,_Montana)",
+            "http://dbpedia.org/resource/St._James_Episcopal_Church_and_Rectory_(Kittrell,_North_Carolina)"
+        ],
+        "questions": [
+            [
+                "The nrhpReferenceNumber of St. James Episcopal Church is 87001841, and locmapin is Montana. Is the St. James Episcopal Church referring to St. James Episcopal Church and Rectory (Bozeman, Montana)?",
+                "Yes"
+            ],
+            [
+                "The nrhpReferenceNumber of St. James Episcopal Church is 87001841, and locmapin is Montana. Is the St. James Episcopal Church referring to St. James Episcopal Church, Mill Creek?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Tech": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Tech_Interactive",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Tech_Tower",
+            "http://dbpedia.org/resource/The_Tech_Interactive"
+        ],
+        "questions": [
+            [
+                "The established of Tech is 1998-10-31, and architect is Ricardo Legorreta. Is the Tech referring to The Tech Interactive?",
+                "Yes"
+            ],
+            [
+                "The established of Tech is 1998-10-31, and architect is Ricardo Legorreta. Is the Tech referring to Tech Tower?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Quadrangle": {
+        "chosen_entity": "http://dbpedia.org/resource/Quadrangle_Dormitories_(University_of_Pennsylvania)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Quadrangle_Club",
+            "http://dbpedia.org/resource/Quadrangle_Dormitories_(University_of_Pennsylvania)",
+            "http://dbpedia.org/resource/Schenley_Quadrangle"
+        ],
+        "questions": [
+            [
+                "The locmapin of Quadrangle is Philadelphia#Pennsylvania#USA, and yearOfConstruction is 1894. Is the Quadrangle referring to Quadrangle Dormitories (University of Pennsylvania)?",
+                "Yes"
+            ],
+            [
+                "The locmapin of Quadrangle is Philadelphia#Pennsylvania#USA, and yearOfConstruction is 1894. Is the Quadrangle referring to Schenley Quadrangle?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Darul_Aman": {
+        "chosen_entity": "http://dbpedia.org/resource/Darul_Aman_Palace",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Darul_Aman_Palace",
+            "http://dbpedia.org/resource/Darul_Aman_Stadium"
+        ],
+        "questions": [
+            [
+                "The buildingStartDate of Darul Aman is 1925, and renovationDate is 2016. Is the Darul Aman referring to Darul Aman Palace?",
+                "Yes"
+            ],
+            [
+                "The buildingStartDate of Darul Aman is 1925, and renovationDate is 2016. Is the Darul Aman referring to Darul Aman Stadium?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Corinthia": {
+        "chosen_entity": "http://dbpedia.org/resource/Corinthia_Hotel_Khartoum",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Corinthia_Hotel_Budapest",
+            "http://dbpedia.org/resource/Corinthia_Hotel_Khartoum",
+            "http://dbpedia.org/resource/Corinthia_Hotel_Prague",
+            "http://dbpedia.org/resource/Corinthia_Hotel_Tripoli"
+        ],
+        "questions": [
+            [
+                "The openingDate of Corinthia is 2008, and owner is Libyan government. Is the Corinthia referring to Corinthia Hotel Khartoum?",
+                "Yes"
+            ],
+            [
+                "The openingDate of Corinthia is 2008, and owner is Libyan government. Is the Corinthia referring to Corinthia Hotel Prague?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Deacon_John": {
+        "chosen_entity": "http://dbpedia.org/resource/Deacon_John_Buffington_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Deacon_John_Buffington_House",
+            "http://dbpedia.org/resource/Deacon_John_Symmes_House"
+        ],
+        "questions": [
+            [
+                "The yearOfConstruction of Deacon John is 1790, and nrhpReferenceNumber is 90000056. Is the Deacon John referring to Deacon John Buffington House?",
+                "Yes"
+            ],
+            [
+                "The yearOfConstruction of Deacon John is 1790, and nrhpReferenceNumber is 90000056. Is the Deacon John referring to Deacon John Symmes House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Pinkham": {
+        "chosen_entity": "http://dbpedia.org/resource/Pinkham_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Pinkham_House",
+            "http://dbpedia.org/resource/Richard_Pinkham_House"
+        ],
+        "questions": [
+            [
+                "The architecture of Pinkham is Second Empire, and added is 1989-09-20. Is the Pinkham referring to Pinkham House?",
+                "Yes"
+            ],
+            [
+                "The architecture of Pinkham is Second Empire, and added is 1989-09-20. Is the Pinkham referring to Richard Pinkham House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Miller_Brothers": {
+        "chosen_entity": "http://dbpedia.org/resource/Miller_Brothers_Farm",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Miller_Brothers_101_Ranch",
+            "http://dbpedia.org/resource/Miller_Brothers_Farm"
+        ],
+        "questions": [
+            [
+                "The yearOfConstruction of Miller Brothers is 1890, and architect is Whittice & Pressley. Is the Miller Brothers referring to Miller Brothers Farm?",
+                "Yes"
+            ],
+            [
+                "The yearOfConstruction of Miller Brothers is 1890, and architect is Whittice & Pressley. Is the Miller Brothers referring to Miller Brothers 101 Ranch?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/St._Joseph's_Roman_Catholic_Church": {
+        "chosen_entity": "http://dbpedia.org/resource/St._Joseph_Catholic_Church_(Roxbury,_Massachusetts)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Cathedral_Basilica_of_St._Joseph_(San_Jose)",
+            "http://dbpedia.org/resource/Saint_Joseph_Parish_(Mountain_View,_California)",
+            "http://dbpedia.org/resource/St._Joseph's_Catholic_Church_(Bauer,_Iowa)",
+            "http://dbpedia.org/resource/St._Joseph's_Roman_Catholic_Church_Rectory_and_School",
+            "http://dbpedia.org/resource/St._Joseph_Catholic_Church_(Roxbury,_Massachusetts)"
+        ],
+        "questions": [
+            [
+                "The locmapin of St. Joseph's Roman Catholic Church is Massachusetts#USA, and yearOfConstruction is 1845. Is the St. Joseph's Roman Catholic Church referring to St. Joseph Catholic Church (Roxbury, Massachusetts)?",
+                "Yes"
+            ],
+            [
+                "The locmapin of St. Joseph's Roman Catholic Church is Massachusetts#USA, and yearOfConstruction is 1845. Is the St. Joseph's Roman Catholic Church referring to St. Joseph's Catholic Church (Bauer, Iowa)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Peery": {
+        "chosen_entity": "http://dbpedia.org/resource/Barnes–Peery_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Barnes–Peery_House",
+            "http://dbpedia.org/resource/Peery's_Egyptian_Theater"
+        ],
+        "questions": [
+            [
+                "The added of Peery is 2001-10-12, and locmapin is Colorado#USA. Is the Peery referring to Barnes–Peery House?",
+                "Yes"
+            ],
+            [
+                "The added of Peery is 2001-10-12, and locmapin is Colorado#USA. Is the Peery referring to Peery's Egyptian Theater?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Hilton": {
+        "chosen_entity": "http://dbpedia.org/resource/Hilton_Park_(stadium)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Hilton_Coliseum",
+            "http://dbpedia.org/resource/Hilton_Park_(stadium)",
+            "http://dbpedia.org/resource/Hilton_Village"
+        ],
+        "questions": [
+            [
+                "The surface of Hilton is Grass, and stadiumName is Hilton Park. Is the Hilton referring to Hilton Park (stadium)?",
+                "Yes"
+            ],
+            [
+                "The surface of Hilton is Grass, and stadiumName is Hilton Park. Is the Hilton referring to Hilton Coliseum?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Sanford_House": {
+        "chosen_entity": "http://dbpedia.org/resource/George_L._Sanford_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Esbon_Sanford_House",
+            "http://dbpedia.org/resource/George_L._Sanford_House"
+        ],
+        "questions": [
+            [
+                "The yearOfConstruction of Sanford House is 1910, and nrhpReferenceNumber is 94001472. Is the Sanford House referring to George L. Sanford House?",
+                "Yes"
+            ],
+            [
+                "The yearOfConstruction of Sanford House is 1910, and nrhpReferenceNumber is 94001472. Is the Sanford House referring to Esbon Sanford House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Park_Inn": {
+        "chosen_entity": "http://dbpedia.org/resource/Park_Inn_by_Radisson_Berlin_Alexanderplatz",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Dog_Bark_Park_Inn",
+            "http://dbpedia.org/resource/Green_Park_Inn",
+            "http://dbpedia.org/resource/Park_Inn_by_Radisson_Berlin_Alexanderplatz",
+            "http://dbpedia.org/resource/The_Omni_Grove_Park_Inn"
+        ],
+        "questions": [
+            [
+                "The floorCount of Park Inn is 41, and buildingStartDate is 1967. Is the Park Inn referring to Park Inn by Radisson Berlin Alexanderplatz?",
+                "Yes"
+            ],
+            [
+                "The floorCount of Park Inn is 41, and buildingStartDate is 1967. Is the Park Inn referring to Dog Bark Park Inn?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/St_Botolph's_Church": {
+        "chosen_entity": "http://dbpedia.org/resource/St_Botolph's_Church,_Hardham",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/St_Botolph's_Church,_Boston",
+            "http://dbpedia.org/resource/St_Botolph's_Church,_Botolphs",
+            "http://dbpedia.org/resource/St_Botolph's_Church,_Hardham",
+            "http://dbpedia.org/resource/St_Botolph's_Church,_Heene",
+            "http://dbpedia.org/resource/St_Botolph's_Church,_Quarrington",
+            "http://dbpedia.org/resource/St_Botolph's_Church,_Ratcliffe_on_the_Wreake",
+            "http://dbpedia.org/resource/St_Botolph's_Church,_Skidbrooke",
+            "http://dbpedia.org/resource/St_Botolph's_Church,_Wardley"
+        ],
+        "questions": [
+            [
+                "The foundedDate of St Botolph's Church is 11, and country is United Kingdom. Is the St Botolph's Church referring to St Botolph's Church, Hardham?",
+                "Yes"
+            ],
+            [
+                "The foundedDate of St Botolph's Church is 11, and country is United Kingdom. Is the St Botolph's Church referring to St Botolph's Church, Heene?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Powerhouse": {
+        "chosen_entity": "http://dbpedia.org/resource/Brisbane_Powerhouse",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Brisbane_Powerhouse",
+            "http://dbpedia.org/resource/Powerhouse_Museum",
+            "http://dbpedia.org/resource/Powerhouse_Theater"
+        ],
+        "questions": [
+            [
+                "The renovationDate of Powerhouse is 2000, and architect is Roy Rusden Ogg. Is the Powerhouse referring to Brisbane Powerhouse?",
+                "Yes"
+            ],
+            [
+                "The renovationDate of Powerhouse is 2000, and architect is Roy Rusden Ogg. Is the Powerhouse referring to Powerhouse Museum?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Waverly": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Waverly",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Hotel_Waverly_(New_Bedford,_Massachusetts)",
+            "http://dbpedia.org/resource/The_Waverly"
+        ],
+        "questions": [
+            [
+                "The nrhpReferenceNumber of Waverly is 89000035, and architecture is Queen Anne. Is the Waverly referring to The Waverly?",
+                "Yes"
+            ],
+            [
+                "The nrhpReferenceNumber of Waverly is 89000035, and architecture is Queen Anne. Is the Waverly referring to Hotel Waverly (New Bedford, Massachusetts)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Blanchard": {
+        "chosen_entity": "http://dbpedia.org/resource/Fourth_and_Blanchard_Building",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Blanchard_Hall",
+            "http://dbpedia.org/resource/Blanchard_House_(Boyce,_Louisiana)",
+            "http://dbpedia.org/resource/Blanchard_House_(Syracuse,_New_York)",
+            "http://dbpedia.org/resource/Fourth_and_Blanchard_Building"
+        ],
+        "questions": [
+            [
+                "The height of Blanchard is 105.0, and architect is Chester L. Lindsey Architects. Is the Blanchard referring to Fourth and Blanchard Building?",
+                "Yes"
+            ],
+            [
+                "The height of Blanchard is 105.0, and architect is Chester L. Lindsey Architects. Is the Blanchard referring to Blanchard Hall?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Cube": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Cube,_Birmingham",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Cube,_Birmingham",
+            "http://dbpedia.org/resource/The_Cube_(restaurant)"
+        ],
+        "questions": [
+            [
+                "The height of Cube is 70.40000000000001, and floorCount is 24. Is the Cube referring to The Cube, Birmingham?",
+                "Yes"
+            ],
+            [
+                "The height of Cube is 70.40000000000001, and floorCount is 24. Is the Cube referring to The Cube (restaurant)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Mount_Airy": {
+        "chosen_entity": "http://dbpedia.org/resource/Mount_Airy_Plantation",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Mount_Airy_Forest",
+            "http://dbpedia.org/resource/Mount_Airy_Plantation"
+        ],
+        "questions": [
+            [
+                "The architecture of Mount Airy is Palladian, and nrhpReferenceNumber is 66000845. Is the Mount Airy referring to Mount Airy Plantation?",
+                "Yes"
+            ],
+            [
+                "The architecture of Mount Airy is Palladian, and nrhpReferenceNumber is 66000845. Is the Mount Airy referring to Mount Airy Forest?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Finley_Stadium": {
+        "chosen_entity": "http://dbpedia.org/resource/Ron_Finley_Stadium",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Carter–Finley_Stadium",
+            "http://dbpedia.org/resource/Ron_Finley_Stadium"
+        ],
+        "questions": [
+            [
+                "The stadiumName of Finley Stadium is Finley Stadium Citizens Bank Field, and surface is FieldTurf. Is the Finley Stadium referring to Ron Finley Stadium?",
+                "Yes"
+            ],
+            [
+                "The stadiumName of Finley Stadium is Finley Stadium Citizens Bank Field, and surface is FieldTurf. Is the Finley Stadium referring to Carter–Finley Stadium?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Iris": {
+        "chosen_entity": "http://dbpedia.org/resource/IRIS_Mist",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/IRIS_Mist",
+            "http://dbpedia.org/resource/Iris_Bay_(Dubai)"
+        ],
+        "questions": [
+            [
+                "The height of Iris is 200.0, and architect is WS Atkins. Is the Iris referring to IRIS Mist?",
+                "Yes"
+            ],
+            [
+                "The height of Iris is 200.0, and architect is WS Atkins. Is the Iris referring to Iris Bay (Dubai)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Wagener": {
+        "chosen_entity": "http://dbpedia.org/resource/Wagener_Stadium",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Jacob_B._Van_Wagener_Barn",
+            "http://dbpedia.org/resource/Wagener_Stadium"
+        ],
+        "questions": [
+            [
+                "The surface of Wagener is Grass, Astroturf, and owner is Koninklijke Nederlandse Hockey Bond. Is the Wagener referring to Wagener Stadium?",
+                "Yes"
+            ],
+            [
+                "The surface of Wagener is Grass, Astroturf, and owner is Koninklijke Nederlandse Hockey Bond. Is the Wagener referring to Jacob B. Van Wagener Barn?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/St._Mary's_Church": {
+        "chosen_entity": "http://dbpedia.org/resource/St._Mary's_Church,_Gulberg",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Basilica_of_Our_Lady_of_the_Assumption,_Secunderabad",
+            "http://dbpedia.org/resource/Basilica_of_Saint_Mary_of_the_Immaculate_Conception_(Norfolk,_Virginia)",
+            "http://dbpedia.org/resource/Old_St._Mary's_Church_(Cincinnati,_Ohio)",
+            "http://dbpedia.org/resource/Old_St._Mary's_Church_(Milwaukee,_Wisconsin)",
+            "http://dbpedia.org/resource/St._Mary's_Church,_Callan",
+            "http://dbpedia.org/resource/St._Mary's_Church,_Castlemartin",
+            "http://dbpedia.org/resource/St._Mary's_Church,_Gdańsk",
+            "http://dbpedia.org/resource/St._Mary's_Church,_Gulberg",
+            "http://dbpedia.org/resource/St._Mary's_Church,_Hadlow",
+            "http://dbpedia.org/resource/St._Mary's_Church,_Helminghausen",
+            "http://dbpedia.org/resource/St._Mary's_Church,_Himmelpforten",
+            "http://dbpedia.org/resource/St._Mary's_Church,_Kilmore,_County_Wexford",
+            "http://dbpedia.org/resource/St._Mary's_Church,_Lübeck",
+            "http://dbpedia.org/resource/St._Mary's_Church,_Munich",
+            "http://dbpedia.org/resource/St._Mary's_Church,_Mühlhausen",
+            "http://dbpedia.org/resource/St._Mary's_Church,_New_Ross",
+            "http://dbpedia.org/resource/St._Mary's_Church,_Noida",
+            "http://dbpedia.org/resource/St._Mary's_Church,_Sukkur",
+            "http://dbpedia.org/resource/St._Mary's_Church,_Turku",
+            "http://dbpedia.org/resource/St._Mary's_Church,_Vijayawada",
+            "http://dbpedia.org/resource/St._Mary's_Church_Non-contiguous_Historic_District",
+            "http://dbpedia.org/resource/St._Mary's_Church_and_Cemetery_(Crompton,_Rhode_Island)",
+            "http://dbpedia.org/resource/St._Mary's_Church_and_Rectory_(Iowa_City,_Iowa)",
+            "http://dbpedia.org/resource/St._Mary's_Church_of_Gilberts",
+            "http://dbpedia.org/resource/St._Mary's_Church_of_the_Immaculate_Conception_Complex",
+            "http://dbpedia.org/resource/St._Mary_Church_(Grand_Street,_Manhattan)",
+            "http://dbpedia.org/resource/St_Mary's_Church,_Atherstone",
+            "http://dbpedia.org/resource/St_Mary's_Church,_Attenborough",
+            "http://dbpedia.org/resource/St_Mary's_Church,_Brook",
+            "http://dbpedia.org/resource/St_Mary's_Church,_Fairford",
+            "http://dbpedia.org/resource/St_Mary's_Church,_Garforth",
+            "http://dbpedia.org/resource/St_Mary's_Church,_Hanwell",
+            "http://dbpedia.org/resource/St_Mary's_Church,_Higham_Ferrers",
+            "http://dbpedia.org/resource/St_Mary's_Church,_Hitchin",
+            "http://dbpedia.org/resource/St_Mary's_Church,_Horncastle",
+            "http://dbpedia.org/resource/St_Mary's_Church,_Longnewton",
+            "http://dbpedia.org/resource/St_Mary's_Church,_Putney",
+            "http://dbpedia.org/resource/St_Mary's_Church,_Watford",
+            "http://dbpedia.org/resource/St_Mary_the_Virgin_Church,_Cowes"
+        ],
+        "questions": [
+            [
+                "The consecratedDate of St. Mary's Church is 1961, and country is Pakistan. Is the St. Mary's Church referring to St. Mary's Church, Gulberg?",
+                "Yes"
+            ],
+            [
+                "The consecratedDate of St. Mary's Church is 1961, and country is Pakistan. Is the St. Mary's Church referring to St. Mary's Church, Callan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Day_House": {
+        "chosen_entity": "http://dbpedia.org/resource/John_W._Day_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Amasa_Day_House",
+            "http://dbpedia.org/resource/Anna_Day_House",
+            "http://dbpedia.org/resource/Fred_Holland_Day_House",
+            "http://dbpedia.org/resource/Holman_Day_House",
+            "http://dbpedia.org/resource/Isham_Day_House",
+            "http://dbpedia.org/resource/Ivan_W._Day_House",
+            "http://dbpedia.org/resource/John_W._Day_House",
+            "http://dbpedia.org/resource/Josiah_Day_House"
+        ],
+        "questions": [
+            [
+                "The architecture of Day House is Greek Revival architecture, and nrhpReferenceNumber is 87002153. Is the Day House referring to John W. Day House?",
+                "Yes"
+            ],
+            [
+                "The architecture of Day House is Greek Revival architecture, and nrhpReferenceNumber is 87002153. Is the Day House referring to Holman Day House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Big_Mosque": {
+        "chosen_entity": "http://dbpedia.org/resource/Kazimar_Big_Mosque",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kazimar_Big_Mosque",
+            "http://dbpedia.org/resource/Triplicane_Big_Mosque"
+        ],
+        "questions": [
+            [
+                "The religiousAffiliation of Big Mosque is Sunni, Hanafi, Shazuli, Qadiri, and architectureStyle is Indo-Islamic architecture. Is the Big Mosque referring to Kazimar Big Mosque?",
+                "Yes"
+            ],
+            [
+                "The religiousAffiliation of Big Mosque is Sunni, Hanafi, Shazuli, Qadiri, and architectureStyle is Indo-Islamic architecture. Is the Big Mosque referring to Triplicane Big Mosque?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Church_of_the_Redeemer": {
+        "chosen_entity": "http://dbpedia.org/resource/Church_of_the_Redeemer,_Amman",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Cathedral_Church_of_the_Redeemer",
+            "http://dbpedia.org/resource/Church_of_the_Redeemer,_Amman",
+            "http://dbpedia.org/resource/Church_of_the_Redeemer,_Bad_Homburg",
+            "http://dbpedia.org/resource/Church_of_the_Redeemer,_Jamaica",
+            "http://dbpedia.org/resource/Church_of_the_Redeemer,_Sacrow"
+        ],
+        "questions": [
+            [
+                "The district of Church of the Redeemer is Diocese of Jerusalem, and yearCompleted is 1949. Is the Church of the Redeemer referring to Church of the Redeemer, Amman?",
+                "Yes"
+            ],
+            [
+                "The district of Church of the Redeemer is Diocese of Jerusalem, and yearCompleted is 1949. Is the Church of the Redeemer referring to Church of the Redeemer, Bad Homburg?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Rose_Hill": {
+        "chosen_entity": "http://dbpedia.org/resource/Rose_Hill_Plantation_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Rose_Hill_Methodist_Episcopal_Church",
+            "http://dbpedia.org/resource/Rose_Hill_Plantation_House"
+        ],
+        "questions": [
+            [
+                "The nrhpReferenceNumber of Rose Hill is 83002185, and yearOfConstruction is 1858. Is the Rose Hill referring to Rose Hill Plantation House?",
+                "Yes"
+            ],
+            [
+                "The nrhpReferenceNumber of Rose Hill is 83002185, and yearOfConstruction is 1858. Is the Rose Hill referring to Rose Hill Methodist Episcopal Church?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ålgård": {
+        "chosen_entity": "http://dbpedia.org/resource/Old_Ålgård_Church",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Old_Ålgård_Church",
+            "http://dbpedia.org/resource/Ålgård_Church"
+        ],
+        "questions": [
+            [
+                "The style of Ålgård is Art Nouveau, and consecratedDate is 1917-05-11. Is the Ålgård referring to Old Ålgård Church?",
+                "Yes"
+            ],
+            [
+                "The style of Ålgård is Art Nouveau, and consecratedDate is 1917-05-11. Is the Ålgård referring to Ålgård Church?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bishop": {
+        "chosen_entity": "http://dbpedia.org/resource/Bishop_Museum",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bishop's_Block",
+            "http://dbpedia.org/resource/Bishop_Museum"
+        ],
+        "questions": [
+            [
+                "The locmapin of Bishop is Hawaii, and nrhpReferenceNumber is 82002500. Is the Bishop referring to Bishop Museum?",
+                "Yes"
+            ],
+            [
+                "The locmapin of Bishop is Hawaii, and nrhpReferenceNumber is 82002500. Is the Bishop referring to Bishop's Block?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/United_Presbyterian_Church": {
+        "chosen_entity": "http://dbpedia.org/resource/United_Presbyterian_Church_of_Shedd",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/United_Presbyterian_Church,_Summerset",
+            "http://dbpedia.org/resource/United_Presbyterian_Church_and_Rectory_(Albany,_Oregon)",
+            "http://dbpedia.org/resource/United_Presbyterian_Church_of_Canehill",
+            "http://dbpedia.org/resource/United_Presbyterian_Church_of_Shedd"
+        ],
+        "questions": [
+            [
+                "The locmapin of United Presbyterian Church is Oregon#USA, and added is 1998-03-05. Is the United Presbyterian Church referring to United Presbyterian Church of Shedd?",
+                "Yes"
+            ],
+            [
+                "The locmapin of United Presbyterian Church is Oregon#USA, and added is 1998-03-05. Is the United Presbyterian Church referring to United Presbyterian Church and Rectory (Albany, Oregon)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ark": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Ark_(Duke_University)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Ark,_London",
+            "http://dbpedia.org/resource/The_Ark_(Duke_University)"
+        ],
+        "questions": [
+            [
+                "The owner of Ark is Duke University, and stadiumName is The Ark. Is the Ark referring to The Ark (Duke University)?",
+                "Yes"
+            ],
+            [
+                "The owner of Ark is Duke University, and stadiumName is The Ark. Is the Ark referring to The Ark, London?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Darling_House": {
+        "chosen_entity": "http://dbpedia.org/resource/Robert_and_Julia_Darling_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Frederick_L._Darling_House",
+            "http://dbpedia.org/resource/Henry_Darling_House",
+            "http://dbpedia.org/resource/Jay_Norwood_and_Genevieve_Pendleton_Darling_House",
+            "http://dbpedia.org/resource/Robert_and_Julia_Darling_House"
+        ],
+        "questions": [
+            [
+                "The nrhpReferenceNumber of Darling House is 90002117, and yearOfConstruction is 1927. Is the Darling House referring to Robert and Julia Darling House?",
+                "Yes"
+            ],
+            [
+                "The nrhpReferenceNumber of Darling House is 90002117, and yearOfConstruction is 1927. Is the Darling House referring to Henry Darling House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Iolani": {
+        "chosen_entity": "http://dbpedia.org/resource/ʻIolani_Barracks",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/ʻIolani_Barracks",
+            "http://dbpedia.org/resource/ʻIolani_Palace"
+        ],
+        "questions": [
+            [
+                "The yearOfConstruction of Iolani is 1870, and locmapin is Hawaii. Is the Iolani referring to ʻIolani Barracks?",
+                "Yes"
+            ],
+            [
+                "The yearOfConstruction of Iolani is 1870, and locmapin is Hawaii. Is the Iolani referring to ʻIolani Palace?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Prudential": {
+        "chosen_entity": "http://dbpedia.org/resource/Prudential_Center",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Prudential_Center",
+            "http://dbpedia.org/resource/Prudential_Tower"
+        ],
+        "questions": [
+            [
+                "The openingDate of Prudential is 2007-10-25, and buildingStartDate is October 3, 2005. Is the Prudential referring to Prudential Center?",
+                "Yes"
+            ],
+            [
+                "The openingDate of Prudential is 2007-10-25, and buildingStartDate is October 3, 2005. Is the Prudential referring to Prudential Tower?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Van_Camp": {
+        "chosen_entity": "http://dbpedia.org/resource/Stokely-Van_Camp_Industrial_Complex",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Potter-Van_Camp_House",
+            "http://dbpedia.org/resource/Stokely-Van_Camp_Industrial_Complex"
+        ],
+        "questions": [
+            [
+                "The nrhpReferenceNumber of Van Camp is 83001603, and added is 1983-03-11. Is the Van Camp referring to Stokely-Van Camp Industrial Complex?",
+                "Yes"
+            ],
+            [
+                "The nrhpReferenceNumber of Van Camp is 83001603, and added is 1983-03-11. Is the Van Camp referring to Potter-Van Camp House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Jenkins_House": {
+        "chosen_entity": "http://dbpedia.org/resource/Dr._George_A._Jenkins_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Benjamin_Jenkins_House",
+            "http://dbpedia.org/resource/Dr._George_A._Jenkins_House",
+            "http://dbpedia.org/resource/Franklin_B._Jenkins_House_(Chestnut_Street,_Stoneham,_Massachusetts)",
+            "http://dbpedia.org/resource/Franklin_B._Jenkins_House_(Middle_Street,_Stoneham,_Massachusetts)",
+            "http://dbpedia.org/resource/Gen._Albert_Gallatin_Jenkins_House",
+            "http://dbpedia.org/resource/Israel_Jenkins_House",
+            "http://dbpedia.org/resource/Joseph_J._Jenkins_House"
+        ],
+        "questions": [
+            [
+                "The nrhpReferenceNumber of Jenkins House is 87000027, and architecture is Tudor Revival architecture. Is the Jenkins House referring to Dr. George A. Jenkins House?",
+                "Yes"
+            ],
+            [
+                "The nrhpReferenceNumber of Jenkins House is 87000027, and architecture is Tudor Revival architecture. Is the Jenkins House referring to Franklin B. Jenkins House (Chestnut Street, Stoneham, Massachusetts)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/CEC": {
+        "chosen_entity": "http://dbpedia.org/resource/Cranbrook_Educational_Community",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Cranbrook_Educational_Community",
+            "http://dbpedia.org/resource/PPG_Paints_Arena"
+        ],
+        "questions": [
+            [
+                "The architect of CEC is Eliel Saarinen, and architecture is 20. Is the CEC referring to Cranbrook Educational Community?",
+                "Yes"
+            ],
+            [
+                "The architect of CEC is Eliel Saarinen, and architecture is 20. Is the CEC referring to PPG Paints Arena?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Middlebush": {
+        "chosen_entity": "http://dbpedia.org/resource/Middlebush_Reformed_Church",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Middlebush_Reformed_Church",
+            "http://dbpedia.org/resource/Middlebush_Village_Historic_District"
+        ],
+        "questions": [
+            [
+                "The foundedDate of Middlebush is 1834-03-19, and country is United States. Is the Middlebush referring to Middlebush Reformed Church?",
+                "Yes"
+            ],
+            [
+                "The foundedDate of Middlebush is 1834-03-19, and country is United States. Is the Middlebush referring to Middlebush Village Historic District?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Wyman_House": {
+        "chosen_entity": "http://dbpedia.org/resource/Otis-Wyman_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Fowle-Reed-Wyman_House",
+            "http://dbpedia.org/resource/Francis_Wyman_House",
+            "http://dbpedia.org/resource/George_Wyman_House",
+            "http://dbpedia.org/resource/Otis-Wyman_House"
+        ],
+        "questions": [
+            [
+                "The added of Wyman House is 1989-09-18, and locmapin is Massachusetts#USA. Is the Wyman House referring to Otis-Wyman House?",
+                "Yes"
+            ],
+            [
+                "The added of Wyman House is 1989-09-18, and locmapin is Massachusetts#USA. Is the Wyman House referring to Francis Wyman House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/St._Margaret's_Church": {
+        "chosen_entity": "http://dbpedia.org/resource/St._Margaret's_Church,_Rochester",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/St._Margaret's_Church,_Mediaș",
+            "http://dbpedia.org/resource/St._Margaret's_Church,_Rochester"
+        ],
+        "questions": [
+            [
+                "The country of St. Margaret's Church is England, and province is Province of Canterbury. Is the St. Margaret's Church referring to St. Margaret's Church, Rochester?",
+                "Yes"
+            ],
+            [
+                "The country of St. Margaret's Church is England, and province is Province of Canterbury. Is the St. Margaret's Church referring to St. Margaret's Church, Mediaș?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Johnson_Farm": {
+        "chosen_entity": "http://dbpedia.org/resource/Atkins-Johnson_Farmhouse_Property",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Atkins-Johnson_Farmhouse_Property",
+            "http://dbpedia.org/resource/Knipe–Johnson_Farm",
+            "http://dbpedia.org/resource/Moss–Johnson_Farm"
+        ],
+        "questions": [
+            [
+                "The added of Johnson Farm is 2007-11-07, and architecture is I-house. Is the Johnson Farm referring to Atkins-Johnson Farmhouse Property?",
+                "Yes"
+            ],
+            [
+                "The added of Johnson Farm is 2007-11-07, and architecture is I-house. Is the Johnson Farm referring to Knipe–Johnson Farm?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bryan_House": {
+        "chosen_entity": "http://dbpedia.org/resource/Hardy_Bryan_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Alden_Bryan_House",
+            "http://dbpedia.org/resource/Bryan_House_and_Office",
+            "http://dbpedia.org/resource/Hardy_Bryan_House",
+            "http://dbpedia.org/resource/Villa_Serena",
+            "http://dbpedia.org/resource/William_Jennings_Bryan_House_(Asheville,_North_Carolina)",
+            "http://dbpedia.org/resource/William_Jennings_Bryan_House_(Lincoln,_Nebraska)"
+        ],
+        "questions": [
+            [
+                "The locmapin of Bryan House is USA Georgia#USA, and yearOfConstruction is 1833. Is the Bryan House referring to Hardy Bryan House?",
+                "Yes"
+            ],
+            [
+                "The locmapin of Bryan House is USA Georgia#USA, and yearOfConstruction is 1833. Is the Bryan House referring to Villa Serena?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Big_Bend": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Big_Bend",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Big_Bend_Historical_Area",
+            "http://dbpedia.org/resource/The_Big_Bend"
+        ],
+        "questions": [
+            [
+                "The height of Big Bend is 609.6, and architect is Ioannis Oikonomou. Is the Big Bend referring to The Big Bend?",
+                "Yes"
+            ],
+            [
+                "The height of Big Bend is 609.6, and architect is Ioannis Oikonomou. Is the Big Bend referring to Big Bend Historical Area?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/River_House": {
+        "chosen_entity": "http://dbpedia.org/resource/Harlem_River_Houses",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Galena_Hotel",
+            "http://dbpedia.org/resource/Harlem_River_Houses",
+            "http://dbpedia.org/resource/Las_Olas_River_House",
+            "http://dbpedia.org/resource/River_House_Condominiums"
+        ],
+        "questions": [
+            [
+                "The added of River House is 1979-12-18, and yearOfConstruction is 1936. Is the River House referring to Harlem River Houses?",
+                "Yes"
+            ],
+            [
+                "The added of River House is 1979-12-18, and yearOfConstruction is 1936. Is the River House referring to Las Olas River House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Vallejo": {
+        "chosen_entity": "http://dbpedia.org/resource/Estadio_de_Vallejo",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Estadio_de_Vallejo",
+            "http://dbpedia.org/resource/Vallejo_Estate"
+        ],
+        "questions": [
+            [
+                "The openingDate of Vallejo is 1925-11-29, and stadiumName is Estadio de Vallejo. Is the Vallejo referring to Estadio de Vallejo?",
+                "Yes"
+            ],
+            [
+                "The openingDate of Vallejo is 1925-11-29, and stadiumName is Estadio de Vallejo. Is the Vallejo referring to Vallejo Estate?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Steyer": {
+        "chosen_entity": "http://dbpedia.org/resource/Heinz-Steyer-Stadion",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Heinz-Steyer-Stadion",
+            "http://dbpedia.org/resource/Steyer_Bridge",
+            "http://dbpedia.org/resource/Steyer_Opera_House"
+        ],
+        "questions": [
+            [
+                "The stadiumName of Steyer is Heinz-Steyer-Stadion, and openingDate is 1919-01-01. Is the Steyer referring to Heinz-Steyer-Stadion?",
+                "Yes"
+            ],
+            [
+                "The stadiumName of Steyer is Heinz-Steyer-Stadion, and openingDate is 1919-01-01. Is the Steyer referring to Steyer Bridge?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Waterfront": {
+        "chosen_entity": "http://dbpedia.org/resource/Union_Square_(Hong_Kong)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Waterfront",
+            "http://dbpedia.org/resource/Union_Square_(Hong_Kong)",
+            "http://dbpedia.org/resource/Waterfront_Hall",
+            "http://dbpedia.org/resource/Waterfront_Place,_Brisbane"
+        ],
+        "questions": [
+            [
+                "The developer of Waterfront is Sun Hung Kai Properties, and height is 256.0. Is the Waterfront referring to Union Square (Hong Kong)?",
+                "Yes"
+            ],
+            [
+                "The developer of Waterfront is Sun Hung Kai Properties, and height is 256.0. Is the Waterfront referring to Waterfront Hall?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Church_of_the_Immaculate_Conception": {
+        "chosen_entity": "http://dbpedia.org/resource/Church_of_the_Immaculate_Conception,_Dublin",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Cathedral_of_the_Immaculate_Conception_(Camden,_New_Jersey)",
+            "http://dbpedia.org/resource/Church_of_the_Immaculate_Conception,_Baku",
+            "http://dbpedia.org/resource/Church_of_the_Immaculate_Conception,_Dublin",
+            "http://dbpedia.org/resource/Church_of_the_Immaculate_Conception,_Farm_Street",
+            "http://dbpedia.org/resource/Church_of_the_Immaculate_Conception,_Spinkhill",
+            "http://dbpedia.org/resource/Church_of_the_Immaculate_Conception_and_Clergy_Houses",
+            "http://dbpedia.org/resource/Collegiate_Church_of_the_Immaculate_Conception,_Bormla",
+            "http://dbpedia.org/resource/Immacolata_Concezione,_Riccia",
+            "http://dbpedia.org/resource/Immaculate_Conception_Church_(Tuckahoe,_New_York)",
+            "http://dbpedia.org/resource/Immaculate_Conception_St._Mary's_Church"
+        ],
+        "questions": [
+            [
+                "The foundedDate of Church of the Immaculate Conception is 1834, and country is Republic of Ireland. Is the Church of the Immaculate Conception referring to Church of the Immaculate Conception, Dublin?",
+                "Yes"
+            ],
+            [
+                "The foundedDate of Church of the Immaculate Conception is 1834, and country is Republic of Ireland. Is the Church of the Immaculate Conception referring to Church of the Immaculate Conception, Baku?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Graham_House": {
+        "chosen_entity": "http://dbpedia.org/resource/James_Graham_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/James_Graham_House",
+            "http://dbpedia.org/resource/Maj._David_Graham_House",
+            "http://dbpedia.org/resource/Peters-Graham_House",
+            "http://dbpedia.org/resource/William_J._Graham_House"
+        ],
+        "questions": [
+            [
+                "The yearOfConstruction of Graham House is 1822, and locmapin is Tennessee. Is the Graham House referring to James Graham House?",
+                "Yes"
+            ],
+            [
+                "The yearOfConstruction of Graham House is 1822, and locmapin is Tennessee. Is the Graham House referring to Maj. David Graham House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Central_Methodist_Church": {
+        "chosen_entity": "http://dbpedia.org/resource/Hanson_Place_Central_United_Methodist_Church",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Central_Methodist_Church,_Eastbourne",
+            "http://dbpedia.org/resource/Hanson_Place_Central_United_Methodist_Church"
+        ],
+        "questions": [
+            [
+                "The country of Central Methodist Church is United States, and style is Gothic revival architecture. Is the Central Methodist Church referring to Hanson Place Central United Methodist Church?",
+                "Yes"
+            ],
+            [
+                "The country of Central Methodist Church is United States, and style is Gothic revival architecture. Is the Central Methodist Church referring to Central Methodist Church, Eastbourne?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Walt_Whitman": {
+        "chosen_entity": "http://dbpedia.org/resource/Walt_Whitman_Shops",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Walt_Whitman_House",
+            "http://dbpedia.org/resource/Walt_Whitman_Shops"
+        ],
+        "questions": [
+            [
+                "The owner of Walt Whitman is Simon Property Group, and architect is Welton Becket. Is the Walt Whitman referring to Walt Whitman Shops?",
+                "Yes"
+            ],
+            [
+                "The owner of Walt Whitman is Simon Property Group, and architect is Welton Becket. Is the Walt Whitman referring to Walt Whitman House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Meeker": {
+        "chosen_entity": "http://dbpedia.org/resource/Meeker_Island_Lock_and_Dam",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Meeker's_Hardware",
+            "http://dbpedia.org/resource/Meeker_Island_Lock_and_Dam",
+            "http://dbpedia.org/resource/Meeker_Sugar_Refinery"
+        ],
+        "questions": [
+            [
+                "The yearOfConstruction of Meeker is 1899, and added is 2003-06-13. Is the Meeker referring to Meeker Island Lock and Dam?",
+                "Yes"
+            ],
+            [
+                "The yearOfConstruction of Meeker is 1899, and added is 2003-06-13. Is the Meeker referring to Meeker Sugar Refinery?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Mesilla": {
+        "chosen_entity": "http://dbpedia.org/resource/Mesilla_Valley_Mall",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Mesilla_Plaza",
+            "http://dbpedia.org/resource/Mesilla_Valley_Mall"
+        ],
+        "questions": [
+            [
+                "The owner of Mesilla is Namdar Realty Group, and openingDate is 1981. Is the Mesilla referring to Mesilla Valley Mall?",
+                "Yes"
+            ],
+            [
+                "The owner of Mesilla is Namdar Realty Group, and openingDate is 1981. Is the Mesilla referring to Mesilla Plaza?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kirby_House": {
+        "chosen_entity": "http://dbpedia.org/resource/Thomas_Kirby_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Josiah_Kirby_House",
+            "http://dbpedia.org/resource/Kirby_House,_Coventry",
+            "http://dbpedia.org/resource/Maxwell-Kirby_House",
+            "http://dbpedia.org/resource/McKleroy-Wilson-Kirby_House",
+            "http://dbpedia.org/resource/Thomas_Kirby_House"
+        ],
+        "questions": [
+            [
+                "The added of Kirby House is 1999-04-01, and locmapin is Idaho#USA. Is the Kirby House referring to Thomas Kirby House?",
+                "Yes"
+            ],
+            [
+                "The added of Kirby House is 1999-04-01, and locmapin is Idaho#USA. Is the Kirby House referring to McKleroy-Wilson-Kirby House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Église_Saint-Étienne": {
+        "chosen_entity": "http://dbpedia.org/resource/Saint-Étienne-du-Mont",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Church_of_Saint-Étienne,_Lille",
+            "http://dbpedia.org/resource/Saint-Étienne-du-Mont"
+        ],
+        "questions": [
+            [
+                "The religiousAffiliation of Église Saint-Étienne is Roman Catholic Church, and province is Roman Catholic Archdiocese of Paris. Is the Église Saint-Étienne referring to Saint-Étienne-du-Mont?",
+                "Yes"
+            ],
+            [
+                "The religiousAffiliation of Église Saint-Étienne is Roman Catholic Church, and province is Roman Catholic Archdiocese of Paris. Is the Église Saint-Étienne referring to Church of Saint-Étienne, Lille?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Hemingway": {
+        "chosen_entity": "http://dbpedia.org/resource/Ernest_Hemingway_Cottage",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ernest_Hemingway_Cottage",
+            "http://dbpedia.org/resource/Ernest_Hemingway_House"
+        ],
+        "questions": [
+            [
+                "The architect of Hemingway is Grace Hall Hemingway, and nrhpReferenceNumber is 68000026. Is the Hemingway referring to Ernest Hemingway Cottage?",
+                "Yes"
+            ],
+            [
+                "The architect of Hemingway is Grace Hall Hemingway, and nrhpReferenceNumber is 68000026. Is the Hemingway referring to Ernest Hemingway House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Paddock": {
+        "chosen_entity": "http://dbpedia.org/resource/Paddock_Mansion",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Paddock_Building",
+            "http://dbpedia.org/resource/Paddock_Mall",
+            "http://dbpedia.org/resource/Paddock_Mansion",
+            "http://dbpedia.org/resource/Paddock_Shops"
+        ],
+        "questions": [
+            [
+                "The architect of Paddock is Hose, John, and added is 1979-12-11. Is the Paddock referring to Paddock Mansion?",
+                "Yes"
+            ],
+            [
+                "The architect of Paddock is Hose, John, and added is 1979-12-11. Is the Paddock referring to Paddock Shops?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Davidson_House": {
+        "chosen_entity": "http://dbpedia.org/resource/Gifford–Davidson_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Benjamin_W._Davidson_House",
+            "http://dbpedia.org/resource/Clarke–Hobbs–Davidson_House",
+            "http://dbpedia.org/resource/Gifford–Davidson_House",
+            "http://dbpedia.org/resource/Walter_V._Davidson_House"
+        ],
+        "questions": [
+            [
+                "The locmapin of Davidson House is Illinois#USA, and added is 1980-05-31. Is the Davidson House referring to Gifford–Davidson House?",
+                "Yes"
+            ],
+            [
+                "The locmapin of Davidson House is Illinois#USA, and added is 1980-05-31. Is the Davidson House referring to Benjamin W. Davidson House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/St._Peter's_Cathedral": {
+        "chosen_entity": "http://dbpedia.org/resource/Cathedral_of_Saint_Peter_(Belleville,_Illinois)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Cathedral_of_Saint_Peter_(Belleville,_Illinois)",
+            "http://dbpedia.org/resource/St._Peter's_Cathedral,_Rabat",
+            "http://dbpedia.org/resource/St_Peter's_Cathedral,_Hamilton",
+            "http://dbpedia.org/resource/Vannes_Cathedral"
+        ],
+        "questions": [
+            [
+                "The heightMax of St. Peter's Cathedral is 222.0, and country is United States. Is the St. Peter's Cathedral referring to Cathedral of Saint Peter (Belleville, Illinois)?",
+                "Yes"
+            ],
+            [
+                "The heightMax of St. Peter's Cathedral is 222.0, and country is United States. Is the St. Peter's Cathedral referring to St. Peter's Cathedral, Rabat?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/White_House": {
+        "chosen_entity": "http://dbpedia.org/resource/White_House_of_the_Confederacy",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/First_White_House_of_the_Confederacy",
+            "http://dbpedia.org/resource/Little_White_House",
+            "http://dbpedia.org/resource/The_White_House_(Hartwick,_New_York)",
+            "http://dbpedia.org/resource/The_White_House_(Luray,_Virginia)",
+            "http://dbpedia.org/resource/White_House_of_the_Chickasaws",
+            "http://dbpedia.org/resource/White_House_of_the_Confederacy"
+        ],
+        "questions": [
+            [
+                "The yearOfConstruction of White House is 1818, and added is 1966-10-15. Is the White House referring to White House of the Confederacy?",
+                "Yes"
+            ],
+            [
+                "The yearOfConstruction of White House is 1818, and added is 1966-10-15. Is the White House referring to White House of the Chickasaws?",
+                "No"
+            ]
+        ]
+    }
+}

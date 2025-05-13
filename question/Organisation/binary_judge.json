@@ -1,0 +1,1815 @@
+{
+    "http://dbpedia.org/resource/Gtech": {
+        "chosen_entity": "http://dbpedia.org/resource/Grey_Technology_(Gtech)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/GTECH_Corporation",
+            "http://dbpedia.org/resource/Grey_Technology_(Gtech)"
+        ],
+        "questions": [
+            [
+                "The industry of Gtech is Major appliance, and locationCountry is United Kingdom. Is the Gtech referring to Grey Technology (Gtech)?",
+                "Yes"
+            ],
+            [
+                "The industry of Gtech is Major appliance, and locationCountry is United Kingdom. Is the Gtech referring to GTECH Corporation?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/NJS": {
+        "chosen_entity": "http://dbpedia.org/resource/Naval_Justice_School",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Nairobi_Japanese_School",
+            "http://dbpedia.org/resource/Naval_Justice_School"
+        ],
+        "questions": [
+            [
+                "The state of NJS is Rhode Island, and country is United States. Is the NJS referring to Naval Justice School?",
+                "Yes"
+            ],
+            [
+                "The state of NJS is Rhode Island, and country is United States. Is the NJS referring to Nairobi Japanese School?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/DMP": {
+        "chosen_entity": "http://dbpedia.org/resource/Digital_Manga",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/DMP_Digital_Music_Products",
+            "http://dbpedia.org/resource/Digital_Manga"
+        ],
+        "questions": [
+            [
+                "The foundingYear of DMP is 1996, and country is United States. Is the DMP referring to Digital Manga?",
+                "Yes"
+            ],
+            [
+                "The foundingYear of DMP is 1996, and country is United States. Is the DMP referring to DMP Digital Music Products?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/DGG": {
+        "chosen_entity": "http://dbpedia.org/resource/Dutch_Game_Garden",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Deutsche_Grammophon",
+            "http://dbpedia.org/resource/Dutch_Game_Garden"
+        ],
+        "questions": [
+            [
+                "The foundingYear of DGG is 2008, and industry is Video game industry. Is the DGG referring to Dutch Game Garden?",
+                "Yes"
+            ],
+            [
+                "The foundingYear of DGG is 2008, and industry is Video game industry. Is the DGG referring to Deutsche Grammophon?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/VAHS": {
+        "chosen_entity": "http://dbpedia.org/resource/Vail_Academy_and_High_School",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Vail_Academy_and_High_School",
+            "http://dbpedia.org/resource/Vicenza_American_High_School"
+        ],
+        "questions": [
+            [
+                "The city of VAHS is Tucson, Arizona, and country is United States. Is the VAHS referring to Vail Academy and High School?",
+                "Yes"
+            ],
+            [
+                "The city of VAHS is Tucson, Arizona, and country is United States. Is the VAHS referring to Vicenza American High School?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Government_College_for_Women": {
+        "chosen_entity": "http://dbpedia.org/resource/Government_College_for_Women_Dhoke_Kala_Khan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Government_College_for_Women,_Anantnag",
+            "http://dbpedia.org/resource/Government_College_for_Women,_Baramulla",
+            "http://dbpedia.org/resource/Government_College_for_Women,_Nawakadal_Srinagar",
+            "http://dbpedia.org/resource/Government_College_for_Women_Dhoke_Kala_Khan"
+        ],
+        "questions": [
+            [
+                "The city of Government College for Women is Rawalpindi, and established is 2004. Is the Government College for Women referring to Government College for Women Dhoke Kala Khan?",
+                "Yes"
+            ],
+            [
+                "The city of Government College for Women is Rawalpindi, and established is 2004. Is the Government College for Women referring to Government College for Women, Anantnag?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/People's_Democratic_Party": {
+        "chosen_entity": "http://dbpedia.org/resource/People's_Democratic_Party_of_Tajikistan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Eelam_People's_Democratic_Party",
+            "http://dbpedia.org/resource/People's_Democratic_Party_of_Afghanistan",
+            "http://dbpedia.org/resource/People's_Democratic_Party_of_Tajikistan",
+            "http://dbpedia.org/resource/People's_Democratic_Party_of_Uzbekistan"
+        ],
+        "questions": [
+            [
+                "The country of People's Democratic Party is Tajikistan, and founder is Abdulmajid Dostiev. Is the People's Democratic Party referring to People's Democratic Party of Tajikistan?",
+                "Yes"
+            ],
+            [
+                "The country of People's Democratic Party is Tajikistan, and founder is Abdulmajid Dostiev. Is the People's Democratic Party referring to People's Democratic Party of Uzbekistan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/ATO": {
+        "chosen_entity": "http://dbpedia.org/resource/Alpha_Tau_Omega",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/ATO_Records",
+            "http://dbpedia.org/resource/Air_Traffic_Organization",
+            "http://dbpedia.org/resource/Alpha_Tau_Omega",
+            "http://dbpedia.org/resource/Australian_Taxation_Office"
+        ],
+        "questions": [
+            [
+                "The country of ATO is USA, and city is Indianapolis. Is the ATO referring to Alpha Tau Omega?",
+                "Yes"
+            ],
+            [
+                "The country of ATO is USA, and city is Indianapolis. Is the ATO referring to Australian Taxation Office?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/DDI": {
+        "chosen_entity": "http://dbpedia.org/resource/Development_Dimensions_International",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Development_Dimensions_International",
+            "http://dbpedia.org/resource/Direct_Democracy_Ireland",
+            "http://dbpedia.org/resource/KDDI"
+        ],
+        "questions": [
+            [
+                "The locationCity of DDI is Pittsburgh, PA, and foundingYear is 1970. Is the DDI referring to Development Dimensions International?",
+                "Yes"
+            ],
+            [
+                "The locationCity of DDI is Pittsburgh, PA, and foundingYear is 1970. Is the DDI referring to KDDI?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/St._John's_High_School": {
+        "chosen_entity": "http://dbpedia.org/resource/St._John's_High_School,_Siddipet",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Saint_John's_High_School_(Massachusetts)",
+            "http://dbpedia.org/resource/St._John's_High_School,_Amalapuram",
+            "http://dbpedia.org/resource/St._John's_High_School,_Chandigarh",
+            "http://dbpedia.org/resource/St._John's_High_School,_Ranchi",
+            "http://dbpedia.org/resource/St._John's_High_School,_Siddipet"
+        ],
+        "questions": [
+            [
+                "The address of St. John's High School is Qadar pura Rd, Naseer Nagar,, and country is India. Is the St. John's High School referring to St. John's High School, Siddipet?",
+                "Yes"
+            ],
+            [
+                "The address of St. John's High School is Qadar pura Rd, Naseer Nagar,, and country is India. Is the St. John's High School referring to St. John's High School, Chandigarh?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/LLHS": {
+        "chosen_entity": "http://dbpedia.org/resource/Los_Lunas_High_School",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Las_Lomas_High_School",
+            "http://dbpedia.org/resource/Los_Lunas_High_School"
+        ],
+        "questions": [
+            [
+                "The foundingYear of LLHS is 1926, and country is USA. Is the LLHS referring to Los Lunas High School?",
+                "Yes"
+            ],
+            [
+                "The foundingYear of LLHS is 1926, and country is USA. Is the LLHS referring to Las Lomas High School?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/EGB": {
+        "chosen_entity": "http://dbpedia.org/resource/Erzgebirgsbahn",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/EGB_Forces",
+            "http://dbpedia.org/resource/Erzgebirgsbahn"
+        ],
+        "questions": [
+            [
+                "The owner of EGB is DB RegioNetz, and industry is Rail transport. Is the EGB referring to Erzgebirgsbahn?",
+                "Yes"
+            ],
+            [
+                "The owner of EGB is DB RegioNetz, and industry is Rail transport. Is the EGB referring to EGB Forces?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/DRL": {
+        "chosen_entity": "http://dbpedia.org/resource/National_Socialist_League_of_the_Reich_for_Physical_Exercise",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bureau_of_Democracy,_Human_Rights,_and_Labor",
+            "http://dbpedia.org/resource/Dr._Reddy's_Laboratories",
+            "http://dbpedia.org/resource/National_Socialist_League_of_the_Reich_for_Physical_Exercise"
+        ],
+        "questions": [
+            [
+                "The dissolved of DRL is 1945-05-31, and parentOrganisation is Nazi Party. Is the DRL referring to National Socialist League of the Reich for Physical Exercise?",
+                "Yes"
+            ],
+            [
+                "The dissolved of DRL is 1945-05-31, and parentOrganisation is Nazi Party. Is the DRL referring to Bureau of Democracy, Human Rights, and Labor?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/King_Edward_VI_College": {
+        "chosen_entity": "http://dbpedia.org/resource/King_Edward_VI_College,_Nuneaton",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/King_Edward_VI_College,_Nuneaton",
+            "http://dbpedia.org/resource/King_Edward_VI_College,_Stourbridge"
+        ],
+        "questions": [
+            [
+                "The founder of King Edward VI College is Edward VI of England, and foundedBy is Edward VI of England. Is the King Edward VI College referring to King Edward VI College, Nuneaton?",
+                "Yes"
+            ],
+            [
+                "The founder of King Edward VI College is Edward VI of England, and foundedBy is Edward VI of England. Is the King Edward VI College referring to King Edward VI College, Stourbridge?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Seton_High_School": {
+        "chosen_entity": "http://dbpedia.org/resource/Seton_School_(Manassas,_Virginia)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Elizabeth_Seton_High_School",
+            "http://dbpedia.org/resource/Redeemer-Seton_High_School",
+            "http://dbpedia.org/resource/Seton_School_(Manassas,_Virginia)"
+        ],
+        "questions": [
+            [
+                "The country of Seton High School is USA, and foundingYear is 1975. Is the Seton High School referring to Seton School (Manassas, Virginia)?",
+                "Yes"
+            ],
+            [
+                "The country of Seton High School is USA, and foundingYear is 1975. Is the Seton High School referring to Redeemer-Seton High School?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Presidential_transition": {
+        "chosen_entity": "http://dbpedia.org/resource/Presidential_transition_of_Rodrigo_Duterte",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Presidential_transition_of_Barack_Obama",
+            "http://dbpedia.org/resource/Presidential_transition_of_Donald_Trump",
+            "http://dbpedia.org/resource/Presidential_transition_of_Rodrigo_Duterte"
+        ],
+        "questions": [
+            [
+                "The foundingDate of Presidential transition is 2016-05-09, and motto is Change is Coming. Is the Presidential transition referring to Presidential transition of Rodrigo Duterte?",
+                "Yes"
+            ],
+            [
+                "The foundingDate of Presidential transition is 2016-05-09, and motto is Change is Coming. Is the Presidential transition referring to Presidential transition of Barack Obama?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/NHB": {
+        "chosen_entity": "http://dbpedia.org/resource/National_Housing_Bank",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/National_Heritage_Board_(Singapore)",
+            "http://dbpedia.org/resource/National_Housing_Bank"
+        ],
+        "questions": [
+            [
+                "The foundingYear of NHB is 1988, and industry is Mortgage loan. Is the NHB referring to National Housing Bank?",
+                "Yes"
+            ],
+            [
+                "The foundingYear of NHB is 1988, and industry is Mortgage loan. Is the NHB referring to National Heritage Board (Singapore)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/PAEC": {
+        "chosen_entity": "http://dbpedia.org/resource/Pakistan_Atomic_Energy_Commission",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Pakistan_Atomic_Energy_Commission",
+            "http://dbpedia.org/resource/Philippine_Nuclear_Research_Institute"
+        ],
+        "questions": [
+            [
+                "The formationYear of PAEC is 1956, and location is Islamabad. Is the PAEC referring to Pakistan Atomic Energy Commission?",
+                "Yes"
+            ],
+            [
+                "The formationYear of PAEC is 1956, and location is Islamabad. Is the PAEC referring to Philippine Nuclear Research Institute?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Beltona": {
+        "chosen_entity": "http://dbpedia.org/resource/Beltona_Resonator_Instruments",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Beltona_Records",
+            "http://dbpedia.org/resource/Beltona_Resonator_Instruments"
+        ],
+        "questions": [
+            [
+                "The founder of Beltona is Steve Evans and Bill Johnson, and locationCountry is United Kingdom. Is the Beltona referring to Beltona Resonator Instruments?",
+                "Yes"
+            ],
+            [
+                "The founder of Beltona is Steve Evans and Bill Johnson, and locationCountry is United Kingdom. Is the Beltona referring to Beltona Records?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Equitable": {
+        "chosen_entity": "http://dbpedia.org/resource/SunTrust_Banks",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Aegon_UK",
+            "http://dbpedia.org/resource/SunTrust_Banks",
+            "http://dbpedia.org/resource/The_Equitable_Life_Assurance_Society"
+        ],
+        "questions": [
+            [
+                "The industry of Equitable is Banking, and foundingYear is 1891. Is the Equitable referring to SunTrust Banks?",
+                "Yes"
+            ],
+            [
+                "The industry of Equitable is Banking, and foundingYear is 1891. Is the Equitable referring to The Equitable Life Assurance Society?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/WHA": {
+        "chosen_entity": "http://dbpedia.org/resource/Wallace_Hall_Academy",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/WHA_Junior_Hockey_League",
+            "http://dbpedia.org/resource/Wallace_Hall_Academy",
+            "http://dbpedia.org/resource/World_Hockey_Association"
+        ],
+        "questions": [
+            [
+                "The country of WHA is Scotland, and address is Station Road. Is the WHA referring to Wallace Hall Academy?",
+                "Yes"
+            ],
+            [
+                "The country of WHA is Scotland, and address is Station Road. Is the WHA referring to World Hockey Association?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/St._Andrew's_College": {
+        "chosen_entity": "http://dbpedia.org/resource/St._Andrew's_College,_Manitoba",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Saint_Dunstan's_University",
+            "http://dbpedia.org/resource/St._Andrew's_College,_Aurora",
+            "http://dbpedia.org/resource/St._Andrew's_College,_Grahamstown",
+            "http://dbpedia.org/resource/St._Andrew's_College,_Manitoba"
+        ],
+        "questions": [
+            [
+                "The city of St. Andrew's College is Winnipeg, and country is Canada. Is the St. Andrew's College referring to St. Andrew's College, Manitoba?",
+                "Yes"
+            ],
+            [
+                "The city of St. Andrew's College is Winnipeg, and country is Canada. Is the St. Andrew's College referring to St. Andrew's College, Grahamstown?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/FDA": {
+        "chosen_entity": "http://dbpedia.org/resource/Faisalabad_Development_Authority",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Faisalabad_Development_Authority",
+            "http://dbpedia.org/resource/Fuji_Dream_Airlines"
+        ],
+        "questions": [
+            [
+                "The parentOrganisation of FDA is Government of Punjab, Pakistan, and formationYear is 1976. Is the FDA referring to Faisalabad Development Authority?",
+                "Yes"
+            ],
+            [
+                "The parentOrganisation of FDA is Government of Punjab, Pakistan, and formationYear is 1976. Is the FDA referring to Fuji Dream Airlines?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Wah_Yan": {
+        "chosen_entity": "http://dbpedia.org/resource/Wah_Yan_College,_Hong_Kong",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Wah_Yan_College,_Hong_Kong",
+            "http://dbpedia.org/resource/Wah_Yan_College,_Kowloon"
+        ],
+        "questions": [
+            [
+                "The established of Wah Yan is 1919-12-16, and founder is Tsui Yan Sau Peter. Is the Wah Yan referring to Wah Yan College, Hong Kong?",
+                "Yes"
+            ],
+            [
+                "The established of Wah Yan is 1919-12-16, and founder is Tsui Yan Sau Peter. Is the Wah Yan referring to Wah Yan College, Kowloon?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/FHB": {
+        "chosen_entity": "http://dbpedia.org/resource/Food_and_Health_Bureau",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/FHB_Mortgage_Bank",
+            "http://dbpedia.org/resource/First_Hawaiian_Bank",
+            "http://dbpedia.org/resource/Food_and_Health_Bureau",
+            "http://dbpedia.org/resource/Haitian_Basketball_Federation"
+        ],
+        "questions": [
+            [
+                "The formationYear of FHB is 2007, and dissolved is 2022. Is the FHB referring to Food and Health Bureau?",
+                "Yes"
+            ],
+            [
+                "The formationYear of FHB is 2007, and dissolved is 2022. Is the FHB referring to Haitian Basketball Federation?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Commonweal": {
+        "chosen_entity": "http://dbpedia.org/resource/Commonweal_School",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Commonweal_Lodge",
+            "http://dbpedia.org/resource/Commonweal_School"
+        ],
+        "questions": [
+            [
+                "The city of Commonweal is Swindon, and foundingYear is 1927. Is the Commonweal referring to Commonweal School?",
+                "Yes"
+            ],
+            [
+                "The city of Commonweal is Swindon, and foundingYear is 1927. Is the Commonweal referring to Commonweal Lodge?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Gaston_High_School": {
+        "chosen_entity": "http://dbpedia.org/resource/East_Gaston_High_School",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/East_Gaston_High_School",
+            "http://dbpedia.org/resource/North_Gaston_High_School"
+        ],
+        "questions": [
+            [
+                "The country of Gaston High School is United States, and city is Mount Holly, North Carolina. Is the Gaston High School referring to East Gaston High School?",
+                "Yes"
+            ],
+            [
+                "The country of Gaston High School is United States, and city is Mount Holly, North Carolina. Is the Gaston High School referring to North Gaston High School?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/APCS": {
+        "chosen_entity": "http://dbpedia.org/resource/Academics_Plus_Charter_Schools",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Academics_Plus_Charter_Schools",
+            "http://dbpedia.org/resource/Avoyelles_Public_Charter_School"
+        ],
+        "questions": [
+            [
+                "The city of APCS is Maumelle, Arkansas, and address is 900 Edgewood Drive. Is the APCS referring to Academics Plus Charter Schools?",
+                "Yes"
+            ],
+            [
+                "The city of APCS is Maumelle, Arkansas, and address is 900 Edgewood Drive. Is the APCS referring to Avoyelles Public Charter School?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Green_Alternative": {
+        "chosen_entity": "http://dbpedia.org/resource/Civil_United_Green_Alternative",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Civil_United_Green_Alternative",
+            "http://dbpedia.org/resource/Green_Party_–_Green_Alternative",
+            "http://dbpedia.org/resource/The_Greens–Green_Alternative"
+        ],
+        "questions": [
+            [
+                "The country of Green Alternative is Russia, and formationYear is 1991. Is the Green Alternative referring to Civil United Green Alternative?",
+                "Yes"
+            ],
+            [
+                "The country of Green Alternative is Russia, and formationYear is 1991. Is the Green Alternative referring to Green Party – Green Alternative?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Vanguard_School": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Vanguard_School_(Colorado)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Vanguard_School_(Colorado)",
+            "http://dbpedia.org/resource/The_Vanguard_School_(Pennsylvania)"
+        ],
+        "questions": [
+            [
+                "The state of Vanguard School is Colorado, and city is Colorado Springs, Colorado. Is the Vanguard School referring to The Vanguard School (Colorado)?",
+                "Yes"
+            ],
+            [
+                "The state of Vanguard School is Colorado, and city is Colorado Springs, Colorado. Is the Vanguard School referring to The Vanguard School (Pennsylvania)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ministry_of_Energy": {
+        "chosen_entity": "http://dbpedia.org/resource/Ministry_of_Energy_of_Georgia",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ministry_of_Energy,_Science_&_Technology_and_Public_Utilities",
+            "http://dbpedia.org/resource/Ministry_of_Energy_Infrastructures_and_Natural_Resources_(Armenia)",
+            "http://dbpedia.org/resource/Ministry_of_Energy_and_Mining_(Algeria)",
+            "http://dbpedia.org/resource/Ministry_of_Energy_of_Georgia"
+        ],
+        "questions": [
+            [
+                "The formationYear of Ministry of Energy is 1991, and dissolved is 2017. Is the Ministry of Energy referring to Ministry of Energy of Georgia?",
+                "Yes"
+            ],
+            [
+                "The formationYear of Ministry of Energy is 1991, and dissolved is 2017. Is the Ministry of Energy referring to Ministry of Energy and Mining (Algeria)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Allied_Bank": {
+        "chosen_entity": "http://dbpedia.org/resource/Allied_Bank_Limited",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Allied_Bank_Limited",
+            "http://dbpedia.org/resource/Allied_Bank_Zimbabwe_Limited",
+            "http://dbpedia.org/resource/Allied_Banking_Corporation"
+        ],
+        "questions": [
+            [
+                "The locationCountry of Allied Bank is Pakistan, and foundingYear is 1942. Is the Allied Bank referring to Allied Bank Limited?",
+                "Yes"
+            ],
+            [
+                "The locationCountry of Allied Bank is Pakistan, and foundingYear is 1942. Is the Allied Bank referring to Allied Banking Corporation?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/MGM/UA": {
+        "chosen_entity": "http://dbpedia.org/resource/MGM_Television",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/MGM_Home_Entertainment",
+            "http://dbpedia.org/resource/MGM_Television"
+        ],
+        "questions": [
+            [
+                "The foundingDate of UA is 1956-06-30, and foundingYear is 1956. Is the UA referring to MGM Television?",
+                "Yes"
+            ],
+            [
+                "The foundingDate of UA is 1956-06-30, and foundingYear is 1956. Is the UA referring to MGM Home Entertainment?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/VNU": {
+        "chosen_entity": "http://dbpedia.org/resource/Vietnam_National_University,_Ho_Chi_Minh_City",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Vietnam_National_University,_Hanoi",
+            "http://dbpedia.org/resource/Vietnam_National_University,_Ho_Chi_Minh_City"
+        ],
+        "questions": [
+            [
+                "The established of VNU is 1995-01-27, and foundingDate is 1995-01-27. Is the VNU referring to Vietnam National University, Ho Chi Minh City?",
+                "Yes"
+            ],
+            [
+                "The established of VNU is 1995-01-27, and foundingDate is 1995-01-27. Is the VNU referring to Vietnam National University, Hanoi?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Cooper_Middle_School": {
+        "chosen_entity": "http://dbpedia.org/resource/William_John_Cooper_Academy",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Cobb_County_School_District",
+            "http://dbpedia.org/resource/William_John_Cooper_Academy"
+        ],
+        "questions": [
+            [
+                "The foundingYear of Cooper Middle School is 1959, and country is US. Is the Cooper Middle School referring to William John Cooper Academy?",
+                "Yes"
+            ],
+            [
+                "The foundingYear of Cooper Middle School is 1959, and country is US. Is the Cooper Middle School referring to Cobb County School District?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/St._Lawrence_College": {
+        "chosen_entity": "http://dbpedia.org/resource/St._Lawrence_College,_Ontario",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/St._Lawrence_College,_Ontario",
+            "http://dbpedia.org/resource/St_Lawrence_College,_Ramsgate"
+        ],
+        "questions": [
+            [
+                "The motto of St. Lawrence College is Hello Future., and established is 1967. Is the St. Lawrence College referring to St. Lawrence College, Ontario?",
+                "Yes"
+            ],
+            [
+                "The motto of St. Lawrence College is Hello Future., and established is 1967. Is the St. Lawrence College referring to St Lawrence College, Ramsgate?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Wesley_College": {
+        "chosen_entity": "http://dbpedia.org/resource/Wesley_College_of_Education,_Kumasi",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/John_Wesley_College",
+            "http://dbpedia.org/resource/Wesley_College,_Auckland",
+            "http://dbpedia.org/resource/Wesley_College,_Colombo",
+            "http://dbpedia.org/resource/Wesley_College,_Dublin",
+            "http://dbpedia.org/resource/Wesley_College,_Perth",
+            "http://dbpedia.org/resource/Wesley_College,_University_of_Sydney",
+            "http://dbpedia.org/resource/Wesley_College_of_Education,_Kumasi"
+        ],
+        "questions": [
+            [
+                "The city of Wesley College is Kumasi, and country is Ghana. Is the Wesley College referring to Wesley College of Education, Kumasi?",
+                "Yes"
+            ],
+            [
+                "The city of Wesley College is Kumasi, and country is Ghana. Is the Wesley College referring to John Wesley College?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/WPM": {
+        "chosen_entity": "http://dbpedia.org/resource/World_Patent_Marketing",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Wheaton_Precious_Metals",
+            "http://dbpedia.org/resource/World_Patent_Marketing"
+        ],
+        "questions": [
+            [
+                "The foundingYear of WPM is 2014, and locationCity is Florida. Is the WPM referring to World Patent Marketing?",
+                "Yes"
+            ],
+            [
+                "The foundingYear of WPM is 2014, and locationCity is Florida. Is the WPM referring to Wheaton Precious Metals?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/PCJ": {
+        "chosen_entity": "http://dbpedia.org/resource/PCJJ",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/PCJJ",
+            "http://dbpedia.org/resource/Petroleum_Corporation_of_Jamaica"
+        ],
+        "questions": [
+            [
+                "The country of PCJ is Netherlands, and dissolved is 1947-04-15. Is the PCJ referring to PCJJ?",
+                "Yes"
+            ],
+            [
+                "The country of PCJ is Netherlands, and dissolved is 1947-04-15. Is the PCJ referring to Petroleum Corporation of Jamaica?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/MBI": {
+        "chosen_entity": "http://dbpedia.org/resource/Mathematical_Biosciences_Institute",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Mathematical_Biosciences_Institute",
+            "http://dbpedia.org/resource/Moody_Bible_Institute"
+        ],
+        "questions": [
+            [
+                "The city of MBI is Columbus, Ohio, and country is United States. Is the MBI referring to Mathematical Biosciences Institute?",
+                "Yes"
+            ],
+            [
+                "The city of MBI is Columbus, Ohio, and country is United States. Is the MBI referring to Moody Bible Institute?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/OSB": {
+        "chosen_entity": "http://dbpedia.org/resource/Benedictines",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Benedictines",
+            "http://dbpedia.org/resource/Open_Source_Business_Alliance",
+            "http://dbpedia.org/resource/Oregon_State_Bar"
+        ],
+        "questions": [
+            [
+                "The parentOrganisation of OSB is Catholic Church, and motto is (English: 'Pray and Work'). Is the OSB referring to Benedictines?",
+                "Yes"
+            ],
+            [
+                "The parentOrganisation of OSB is Catholic Church, and motto is (English: 'Pray and Work'). Is the OSB referring to Oregon State Bar?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/GLHS": {
+        "chosen_entity": "http://dbpedia.org/resource/Governor_Livingston_High_School",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Gordon_Lee_High_School",
+            "http://dbpedia.org/resource/Governor_Livingston_High_School",
+            "http://dbpedia.org/resource/Grass_Lake_High_School",
+            "http://dbpedia.org/resource/Lincoln_High_School_(Gahanna,_Ohio)"
+        ],
+        "questions": [
+            [
+                "The city of GLHS is Berkeley Heights, New Jersey, and country is United States. Is the GLHS referring to Governor Livingston High School?",
+                "Yes"
+            ],
+            [
+                "The city of GLHS is Berkeley Heights, New Jersey, and country is United States. Is the GLHS referring to Grass Lake High School?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Royal_Library": {
+        "chosen_entity": "http://dbpedia.org/resource/Royal_Library,_Denmark",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Library_of_Alexandria",
+            "http://dbpedia.org/resource/National_Library_of_Sweden",
+            "http://dbpedia.org/resource/Royal_Library,_Denmark",
+            "http://dbpedia.org/resource/Royal_Library_of_Turin"
+        ],
+        "questions": [
+            [
+                "The country of Royal Library is Denmark, and location is Copenhagen. Is the Royal Library referring to Royal Library, Denmark?",
+                "Yes"
+            ],
+            [
+                "The country of Royal Library is Denmark, and location is Copenhagen. Is the Royal Library referring to National Library of Sweden?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/SSIM": {
+        "chosen_entity": "http://dbpedia.org/resource/Swedish_School_in_Moscow",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/S._S._Institute_of_Medical_Sciences",
+            "http://dbpedia.org/resource/Sri_Siddhartha_Institute_of_Business_Management",
+            "http://dbpedia.org/resource/Swedish_School_in_Moscow"
+        ],
+        "questions": [
+            [
+                "The location of SSIM is Moscow, and country is Russia. Is the SSIM referring to Swedish School in Moscow?",
+                "Yes"
+            ],
+            [
+                "The location of SSIM is Moscow, and country is Russia. Is the SSIM referring to Sri Siddhartha Institute of Business Management?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Grange_Academy": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Grange_Academy,_Runcorn",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Grange_Academy,_Kempston",
+            "http://dbpedia.org/resource/Grange_Academy,_Kilmarnock",
+            "http://dbpedia.org/resource/The_Grange_Academy,_Bushey",
+            "http://dbpedia.org/resource/The_Grange_Academy,_Runcorn"
+        ],
+        "questions": [
+            [
+                "The country of Grange Academy is England, and city is Runcorn. Is the Grange Academy referring to The Grange Academy, Runcorn?",
+                "Yes"
+            ],
+            [
+                "The country of Grange Academy is England, and city is Runcorn. Is the Grange Academy referring to Grange Academy, Kempston?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Edison_State_College": {
+        "chosen_entity": "http://dbpedia.org/resource/Thomas_Edison_State_University",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Florida_SouthWestern_State_College",
+            "http://dbpedia.org/resource/Thomas_Edison_State_University"
+        ],
+        "questions": [
+            [
+                "The country of Edison State College is United States, and city is Trenton, New Jersey. Is the Edison State College referring to Thomas Edison State University?",
+                "Yes"
+            ],
+            [
+                "The country of Edison State College is United States, and city is Trenton, New Jersey. Is the Edison State College referring to Florida SouthWestern State College?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/OLF": {
+        "chosen_entity": "http://dbpedia.org/resource/Oromo_Liberation_Front",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Office_québécois_de_la_langue_française",
+            "http://dbpedia.org/resource/Oromo_Liberation_Front",
+            "http://dbpedia.org/resource/Our_Lady_of_Fatima_High_School,_Aligarh"
+        ],
+        "questions": [
+            [
+                "The formationYear of OLF is 1973, and country is Ethiopia. Is the OLF referring to Oromo Liberation Front?",
+                "Yes"
+            ],
+            [
+                "The formationYear of OLF is 1973, and country is Ethiopia. Is the OLF referring to Office québécois de la langue française?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/IPN": {
+        "chosen_entity": "http://dbpedia.org/resource/International_Policy_Network",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Instituto_Politécnico_Nacional",
+            "http://dbpedia.org/resource/International_Policy_Network"
+        ],
+        "questions": [
+            [
+                "The dissolved of IPN is 2011, and foundedBy is Antony Fisher. Is the IPN referring to International Policy Network?",
+                "Yes"
+            ],
+            [
+                "The dissolved of IPN is 2011, and foundedBy is Antony Fisher. Is the IPN referring to Instituto Politécnico Nacional?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Sterling_Bank": {
+        "chosen_entity": "http://dbpedia.org/resource/American_Sterling_Bank",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/American_Sterling_Bank",
+            "http://dbpedia.org/resource/Sterling_Bank_of_Asia"
+        ],
+        "questions": [
+            [
+                "The foundingYear of Sterling Bank is 1934, and location is Sugar Creek, Missouri. Is the Sterling Bank referring to American Sterling Bank?",
+                "Yes"
+            ],
+            [
+                "The foundingYear of Sterling Bank is 1934, and location is Sugar Creek, Missouri. Is the Sterling Bank referring to Sterling Bank of Asia?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/AFSA": {
+        "chosen_entity": "http://dbpedia.org/resource/National_Security_Agency",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Australian_Financial_Security_Authority",
+            "http://dbpedia.org/resource/National_Security_Agency"
+        ],
+        "questions": [
+            [
+                "The location of AFSA is Fort George G. Meade, and formationYear is 1952. Is the AFSA referring to National Security Agency?",
+                "Yes"
+            ],
+            [
+                "The location of AFSA is Fort George G. Meade, and formationYear is 1952. Is the AFSA referring to Australian Financial Security Authority?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/AEI": {
+        "chosen_entity": "http://dbpedia.org/resource/DMX_(music_service)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Associated_Electrical_Industries",
+            "http://dbpedia.org/resource/DMX_(music_service)"
+        ],
+        "questions": [
+            [
+                "The parentCompany of AEI is Mood Media, and locationCity is Austin, Texas. Is the AEI referring to DMX (music service)?",
+                "Yes"
+            ],
+            [
+                "The parentCompany of AEI is Mood Media, and locationCity is Austin, Texas. Is the AEI referring to Associated Electrical Industries?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Enka": {
+        "chosen_entity": "http://dbpedia.org/resource/Enka_İnşaat_ve_Sanayi_A.Ş.",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/ENKA_Schools",
+            "http://dbpedia.org/resource/Enka_İnşaat_ve_Sanayi_A.Ş."
+        ],
+        "questions": [
+            [
+                "The locationCity of Enka is Istanbul, and foundingYear is 1957. Is the Enka referring to Enka İnşaat ve Sanayi A.Ş.?",
+                "Yes"
+            ],
+            [
+                "The locationCity of Enka is Istanbul, and foundingYear is 1957. Is the Enka referring to ENKA Schools?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/UO": {
+        "chosen_entity": "http://dbpedia.org/resource/University_of_Otago",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Osnabrück_University",
+            "http://dbpedia.org/resource/Universal_Orlando",
+            "http://dbpedia.org/resource/University_of_Okara",
+            "http://dbpedia.org/resource/University_of_Oradea",
+            "http://dbpedia.org/resource/University_of_Oregon",
+            "http://dbpedia.org/resource/University_of_Otago",
+            "http://dbpedia.org/resource/University_of_Ottawa",
+            "http://dbpedia.org/resource/University_of_Oxford",
+            "http://dbpedia.org/resource/Urban_Outfitters"
+        ],
+        "questions": [
+            [
+                "The country of UO is New Zealand, and established is 4.7967552E9. Is the UO referring to University of Otago?",
+                "Yes"
+            ],
+            [
+                "The country of UO is New Zealand, and established is 4.7967552E9. Is the UO referring to Universal Orlando?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Staples": {
+        "chosen_entity": "http://dbpedia.org/resource/Staples_Canada",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Staples_Canada",
+            "http://dbpedia.org/resource/Staples_Inc."
+        ],
+        "questions": [
+            [
+                "The foundingYear of Staples is 1991, and founder is Jack Bingleman. Is the Staples referring to Staples Canada?",
+                "Yes"
+            ],
+            [
+                "The foundingYear of Staples is 1991, and founder is Jack Bingleman. Is the Staples referring to Staples Inc.?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bethany": {
+        "chosen_entity": "http://dbpedia.org/resource/Bethany_Lutheran_College",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bethany_Christian_Schools",
+            "http://dbpedia.org/resource/Bethany_Lutheran_College",
+            "http://dbpedia.org/resource/Bethany_Lutheran_Theological_Seminary",
+            "http://dbpedia.org/resource/Bethany_Theological_Seminary"
+        ],
+        "questions": [
+            [
+                "The city of Bethany is Mankato, Minnesota, and country is United States. Is the Bethany referring to Bethany Lutheran College?",
+                "Yes"
+            ],
+            [
+                "The city of Bethany is Mankato, Minnesota, and country is United States. Is the Bethany referring to Bethany Lutheran Theological Seminary?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Baldwin": {
+        "chosen_entity": "http://dbpedia.org/resource/Baldwin_Girls'_High_School",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Baldwin_Boys'_High_School",
+            "http://dbpedia.org/resource/Baldwin_Girls'_High_School",
+            "http://dbpedia.org/resource/Baldwin_Piano_Company",
+            "http://dbpedia.org/resource/The_Baldwin_School"
+        ],
+        "questions": [
+            [
+                "The country of Baldwin is India, and city is Bangalore. Is the Baldwin referring to Baldwin Girls' High School?",
+                "Yes"
+            ],
+            [
+                "The country of Baldwin is India, and city is Bangalore. Is the Baldwin referring to The Baldwin School?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Corvette": {
+        "chosen_entity": "http://dbpedia.org/resource/Midway_Games",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Midway_Games",
+            "http://dbpedia.org/resource/Schwinn_Bicycle_Company"
+        ],
+        "questions": [
+            [
+                "The foundingYear of Corvette is 1958, and dissolutionDate is 2010-06-09. Is the Corvette referring to Midway Games?",
+                "Yes"
+            ],
+            [
+                "The foundingYear of Corvette is 1958, and dissolutionDate is 2010-06-09. Is the Corvette referring to Schwinn Bicycle Company?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/KAOS": {
+        "chosen_entity": "http://dbpedia.org/resource/Kaos_Worldwide",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kaos_Studios",
+            "http://dbpedia.org/resource/Kaos_Worldwide"
+        ],
+        "questions": [
+            [
+                "The locationCountry of KAOS is United States of America, and foundedBy is Bert Emanuel. Is the KAOS referring to Kaos Worldwide?",
+                "Yes"
+            ],
+            [
+                "The locationCountry of KAOS is United States of America, and foundedBy is Bert Emanuel. Is the KAOS referring to Kaos Studios?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/MCG": {
+        "chosen_entity": "http://dbpedia.org/resource/Medical_College_of_Georgia",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Management_Consulting_Group",
+            "http://dbpedia.org/resource/Medical_College_of_Georgia"
+        ],
+        "questions": [
+            [
+                "The city of MCG is Augusta, Georgia, and country is United States. Is the MCG referring to Medical College of Georgia?",
+                "Yes"
+            ],
+            [
+                "The city of MCG is Augusta, Georgia, and country is United States. Is the MCG referring to Management Consulting Group?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/TRA": {
+        "chosen_entity": "http://dbpedia.org/resource/Tanzania_Revenue_Authority",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/TRA,_Inc.",
+            "http://dbpedia.org/resource/Tanzania_Revenue_Authority",
+            "http://dbpedia.org/resource/Tripoli_Rocketry_Association"
+        ],
+        "questions": [
+            [
+                "The location of TRA is Dar es Salaam, and formationYear is 1995. Is the TRA referring to Tanzania Revenue Authority?",
+                "Yes"
+            ],
+            [
+                "The location of TRA is Dar es Salaam, and formationYear is 1995. Is the TRA referring to TRA, Inc.?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Angelicum": {
+        "chosen_entity": "http://dbpedia.org/resource/Angelicum_School_Iloilo",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Angelicum_School_Iloilo",
+            "http://dbpedia.org/resource/UST_Angelicum_College"
+        ],
+        "questions": [
+            [
+                "The founder of Angelicum is Rev.Fr.Rogelio B. Alarcon, OP, and established is 1978. Is the Angelicum referring to Angelicum School Iloilo?",
+                "Yes"
+            ],
+            [
+                "The founder of Angelicum is Rev.Fr.Rogelio B. Alarcon, OP, and established is 1978. Is the Angelicum referring to UST Angelicum College?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/MacKillop_College": {
+        "chosen_entity": "http://dbpedia.org/resource/Mary_MacKillop_College,_Kensington",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Clairvaux_MacKillop_College",
+            "http://dbpedia.org/resource/MacKillop_College,_Bathurst",
+            "http://dbpedia.org/resource/MacKillop_College,_Mornington",
+            "http://dbpedia.org/resource/Mary_MacKillop_College,_Kensington",
+            "http://dbpedia.org/resource/Mary_MacKillop_College,_Wakeley",
+            "http://dbpedia.org/resource/St_Mary_MacKillop_College,_Canberra",
+            "http://dbpedia.org/resource/St_Mary_MacKillop_College,_Swan_Hill"
+        ],
+        "questions": [
+            [
+                "The motto of MacKillop College is In Omnibus Caritas - In all things love, and country is Australia. Is the MacKillop College referring to Mary MacKillop College, Kensington?",
+                "Yes"
+            ],
+            [
+                "The motto of MacKillop College is In Omnibus Caritas - In all things love, and country is Australia. Is the MacKillop College referring to St Mary MacKillop College, Canberra?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Eaton": {
+        "chosen_entity": "http://dbpedia.org/resource/Bess_Eaton",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bess_Eaton",
+            "http://dbpedia.org/resource/Eaton's"
+        ],
+        "questions": [
+            [
+                "The founder of Eaton is Angelo  Gencarelli Jr. , David Ligouri, and foundingYear is 1953. Is the Eaton referring to Bess Eaton?",
+                "Yes"
+            ],
+            [
+                "The founder of Eaton is Angelo  Gencarelli Jr. , David Ligouri, and foundingYear is 1953. Is the Eaton referring to Eaton's?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Goodyear": {
+        "chosen_entity": "http://dbpedia.org/resource/Goodyear_Dunlop_Sava_Tires",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Goodyear_Aerospace",
+            "http://dbpedia.org/resource/Goodyear_Dunlop_Sava_Tires",
+            "http://dbpedia.org/resource/Goodyear_Tire_and_Rubber_Company"
+        ],
+        "questions": [
+            [
+                "The locationCountry of Goodyear is Slovenia, and locationCity is Kranj. Is the Goodyear referring to Goodyear Dunlop Sava Tires?",
+                "Yes"
+            ],
+            [
+                "The locationCountry of Goodyear is Slovenia, and locationCity is Kranj. Is the Goodyear referring to Goodyear Aerospace?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/ASTA": {
+        "chosen_entity": "http://dbpedia.org/resource/Tall_Ships_America",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/American_Society_of_Travel_Advisors",
+            "http://dbpedia.org/resource/Tall_Ships_America"
+        ],
+        "questions": [
+            [
+                "The foundingDate of ASTA is 1973-04-03, and founder is Barclay H. Warburton III. Is the ASTA referring to Tall Ships America?",
+                "Yes"
+            ],
+            [
+                "The foundingDate of ASTA is 1973-04-03, and founder is Barclay H. Warburton III. Is the ASTA referring to American Society of Travel Advisors?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Willamette": {
+        "chosen_entity": "http://dbpedia.org/resource/Willamette_Industries",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Willamette_High_School",
+            "http://dbpedia.org/resource/Willamette_Industries",
+            "http://dbpedia.org/resource/Willamette_University"
+        ],
+        "questions": [
+            [
+                "The foundingYear of Willamette is 1906, and location is Portland, Oregon. Is the Willamette referring to Willamette Industries?",
+                "Yes"
+            ],
+            [
+                "The foundingYear of Willamette is 1906, and location is Portland, Oregon. Is the Willamette referring to Willamette University?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/WNC": {
+        "chosen_entity": "http://dbpedia.org/resource/Women's_National_Commission",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/STI_West_Negros_University",
+            "http://dbpedia.org/resource/Western_Nevada_College",
+            "http://dbpedia.org/resource/Women's_National_Commission"
+        ],
+        "questions": [
+            [
+                "The parentOrganisation of WNC is Government Equalities Office, and formationYear is 1969. Is the WNC referring to Women's National Commission?",
+                "Yes"
+            ],
+            [
+                "The parentOrganisation of WNC is Government Equalities Office, and formationYear is 1969. Is the WNC referring to STI West Negros University?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/BC": {
+        "chosen_entity": "http://dbpedia.org/resource/Brunswick_Corporation",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/BC_Card",
+            "http://dbpedia.org/resource/Bakersfield_College",
+            "http://dbpedia.org/resource/Basilian_Chouerite_Order_of_Saint_John_the_Baptist",
+            "http://dbpedia.org/resource/Benedictine_College",
+            "http://dbpedia.org/resource/Bergen_Catholic_High_School",
+            "http://dbpedia.org/resource/Brazosport_College",
+            "http://dbpedia.org/resource/Broward_College",
+            "http://dbpedia.org/resource/Brunswick_Corporation"
+        ],
+        "questions": [
+            [
+                "The founder of BC is John Moses Brunswick, and foundedBy is John Moses Brunswick. Is the BC referring to Brunswick Corporation?",
+                "Yes"
+            ],
+            [
+                "The founder of BC is John Moses Brunswick, and foundedBy is John Moses Brunswick. Is the BC referring to Bakersfield College?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/PBS": {
+        "chosen_entity": "http://dbpedia.org/resource/PBS_Velká_Bíteš",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bombo_Radyo_Philippines",
+            "http://dbpedia.org/resource/General_Services_Administration",
+            "http://dbpedia.org/resource/PBS_America",
+            "http://dbpedia.org/resource/PBS_Kids",
+            "http://dbpedia.org/resource/PBS_Velká_Bíteš",
+            "http://dbpedia.org/resource/Pacific_Broadcasting_System",
+            "http://dbpedia.org/resource/Pakistan_Bureau_of_Statistics",
+            "http://dbpedia.org/resource/Philippine_Broadcasting_Service",
+            "http://dbpedia.org/resource/Thai_Public_Broadcasting_Service",
+            "http://dbpedia.org/resource/United_Sabah_Party"
+        ],
+        "questions": [
+            [
+                "The industry of PBS is mechanical engineering, aerospace, precision casting, and foundingYear is 1950. Is the PBS referring to PBS Velká Bíteš?",
+                "Yes"
+            ],
+            [
+                "The industry of PBS is mechanical engineering, aerospace, precision casting, and foundingYear is 1950. Is the PBS referring to Philippine Broadcasting Service?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Creative": {
+        "chosen_entity": "http://dbpedia.org/resource/Creative_Technology",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Creative_Commons",
+            "http://dbpedia.org/resource/Creative_Technology"
+        ],
+        "questions": [
+            [
+                "The industry of Creative is Consumer electronics, and foundingDate is 1981-07-01. Is the Creative referring to Creative Technology?",
+                "Yes"
+            ],
+            [
+                "The industry of Creative is Consumer electronics, and foundingDate is 1981-07-01. Is the Creative referring to Creative Commons?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/SSI": {
+        "chosen_entity": "http://dbpedia.org/resource/Survey_Sampling_International",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Sahaviriya_Steel_Industries",
+            "http://dbpedia.org/resource/Samsung",
+            "http://dbpedia.org/resource/State_Security_Investigations_Service",
+            "http://dbpedia.org/resource/Survey_Sampling_International"
+        ],
+        "questions": [
+            [
+                "The industry of SSI is Market Research, and foundingYear is 1977. Is the SSI referring to Survey Sampling International?",
+                "Yes"
+            ],
+            [
+                "The industry of SSI is Market Research, and foundingYear is 1977. Is the SSI referring to Samsung?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/WFHS": {
+        "chosen_entity": "http://dbpedia.org/resource/Williams_Field_High_School",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/West_Fargo_High_School",
+            "http://dbpedia.org/resource/West_Florida_High_School_of_Advanced_Technology",
+            "http://dbpedia.org/resource/West_Forsyth_High_School_(Georgia)",
+            "http://dbpedia.org/resource/West_Forsyth_High_School_(North_Carolina)",
+            "http://dbpedia.org/resource/West_Franklin_High_School",
+            "http://dbpedia.org/resource/Wichita_Falls_High_School",
+            "http://dbpedia.org/resource/Williams_Field_High_School",
+            "http://dbpedia.org/resource/Windsor_Forest_High_School"
+        ],
+        "questions": [
+            [
+                "The mascot of WFHS is Black Hawk, and city is Gilbert. Is the WFHS referring to Williams Field High School?",
+                "Yes"
+            ],
+            [
+                "The mascot of WFHS is Black Hawk, and city is Gilbert. Is the WFHS referring to Wichita Falls High School?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Timm": {
+        "chosen_entity": "http://dbpedia.org/resource/TIMM_(TV)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/TIMM_(TV)",
+            "http://dbpedia.org/resource/Timm_Aircraft"
+        ],
+        "questions": [
+            [
+                "The country of Timm is Germany, and locationCountry is Germany. Is the Timm referring to TIMM (TV)?",
+                "Yes"
+            ],
+            [
+                "The country of Timm is Germany, and locationCountry is Germany. Is the Timm referring to Timm Aircraft?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/St_Peter's_High_School": {
+        "chosen_entity": "http://dbpedia.org/resource/Basic_Education_High_School_No._9_Mandalay",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Basic_Education_High_School_No._9_Mandalay",
+            "http://dbpedia.org/resource/Ormiston_Rivers_Academy",
+            "http://dbpedia.org/resource/St_Peter's_High_School,_Gloucester"
+        ],
+        "questions": [
+            [
+                "The foundedBy of St Peter's High School is De La Salle Brothers, and city is Mandalay. Is the St Peter's High School referring to Basic Education High School No. 9 Mandalay?",
+                "Yes"
+            ],
+            [
+                "The foundedBy of St Peter's High School is De La Salle Brothers, and city is Mandalay. Is the St Peter's High School referring to Ormiston Rivers Academy?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Cabot": {
+        "chosen_entity": "http://dbpedia.org/resource/Cabot_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Cabot,_Cabot_&_Forbes",
+            "http://dbpedia.org/resource/Cabot_Corporation",
+            "http://dbpedia.org/resource/Cabot_Creamery",
+            "http://dbpedia.org/resource/Cabot_House"
+        ],
+        "questions": [
+            [
+                "The location of Cabot is 60, and established is 1901. Is the Cabot referring to Cabot House?",
+                "Yes"
+            ],
+            [
+                "The location of Cabot is 60, and established is 1901. Is the Cabot referring to Cabot Creamery?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Proffitt": {
+        "chosen_entity": "http://dbpedia.org/resource/Proffitt's",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Proffitt's",
+            "http://dbpedia.org/resource/Thacher_Proffitt_&_Wood"
+        ],
+        "questions": [
+            [
+                "The dissolutionDate of Proffitt is 2006-03-08, and industry is Retail. Is the Proffitt referring to Proffitt's?",
+                "Yes"
+            ],
+            [
+                "The dissolutionDate of Proffitt is 2006-03-08, and industry is Retail. Is the Proffitt referring to Thacher Proffitt & Wood?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Palestine_High_School": {
+        "chosen_entity": "http://dbpedia.org/resource/New_Palestine_High_School",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/East_Palestine_High_School",
+            "http://dbpedia.org/resource/New_Palestine_High_School"
+        ],
+        "questions": [
+            [
+                "The country of Palestine High School is USA, and mascot is Dragon50px. Is the Palestine High School referring to New Palestine High School?",
+                "Yes"
+            ],
+            [
+                "The country of Palestine High School is USA, and mascot is Dragon50px. Is the Palestine High School referring to East Palestine High School?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/PRO": {
+        "chosen_entity": "http://dbpedia.org/resource/Public.Resource.Org",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Party_for_a_Rule_of_Law_Offensive",
+            "http://dbpedia.org/resource/Public.Resource.Org"
+        ],
+        "questions": [
+            [
+                "The founder of PRO is Carl Malamud, and foundedBy is Carl Malamud. Is the PRO referring to Public.Resource.Org?",
+                "Yes"
+            ],
+            [
+                "The founder of PRO is Carl Malamud, and foundedBy is Carl Malamud. Is the PRO referring to Party for a Rule of Law Offensive?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Wis": {
+        "chosen_entity": "http://dbpedia.org/resource/Washington_International_School",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Washington_International_School",
+            "http://dbpedia.org/resource/Weizmann_Institute_of_Science",
+            "http://dbpedia.org/resource/West_Island_School",
+            "http://dbpedia.org/resource/Windhoek_International_School"
+        ],
+        "questions": [
+            [
+                "The mascot of Wis is Red Devils, and country is United States. Is the Wis referring to Washington International School?",
+                "Yes"
+            ],
+            [
+                "The mascot of Wis is Red Devils, and country is United States. Is the Wis referring to West Island School?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Allard": {
+        "chosen_entity": "http://dbpedia.org/resource/Peter_A._Allard_School_of_Law",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Allard_Motor_Company",
+            "http://dbpedia.org/resource/Peter_A._Allard_School_of_Law"
+        ],
+        "questions": [
+            [
+                "The country of Allard is Canada, and state is British Columbia. Is the Allard referring to Peter A. Allard School of Law?",
+                "Yes"
+            ],
+            [
+                "The country of Allard is Canada, and state is British Columbia. Is the Allard referring to Allard Motor Company?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/National_Council": {
+        "chosen_entity": "http://dbpedia.org/resource/National_Council_for_the_Defense_of_Democracy_–_Forces_for_the_Defense_of_Democracy",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Boy_Scouts_of_America",
+            "http://dbpedia.org/resource/National_Council_for_Accreditation_of_Teacher_Education",
+            "http://dbpedia.org/resource/National_Council_for_the_Defense_of_Democracy",
+            "http://dbpedia.org/resource/National_Council_for_the_Defense_of_Democracy_–_Forces_for_the_Defense_of_Democracy",
+            "http://dbpedia.org/resource/National_Council_of_American–Soviet_Friendship",
+            "http://dbpedia.org/resource/National_Council_of_Architectural_Registration_Boards",
+            "http://dbpedia.org/resource/National_Council_of_Examiners_for_Engineering_and_Surveying",
+            "http://dbpedia.org/resource/National_Council_of_Negro_Women",
+            "http://dbpedia.org/resource/National_Council_of_Nigeria_and_the_Cameroons",
+            "http://dbpedia.org/resource/National_Council_of_Unions_of_the_Industrial_and_Lower_Income_Group_of_Government_Workers",
+            "http://dbpedia.org/resource/National_Council_of_Venezuelan_Indians",
+            "http://dbpedia.org/resource/United_African_National_Council"
+        ],
+        "questions": [
+            [
+                "The state of National Council is Burundi, and formationYear is 1998. Is the National Council referring to National Council for the Defense of Democracy – Forces for the Defense of Democracy?",
+                "Yes"
+            ],
+            [
+                "The state of National Council is Burundi, and formationYear is 1998. Is the National Council referring to National Council of Nigeria and the Cameroons?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Navigator": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Navigator_Company",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Navigator_Records",
+            "http://dbpedia.org/resource/The_Navigator_Company",
+            "http://dbpedia.org/resource/The_Navigators_(organization)"
+        ],
+        "questions": [
+            [
+                "The industry of Navigator is Pulp and paper industry, and foundingYear is 2001. Is the Navigator referring to The Navigator Company?",
+                "Yes"
+            ],
+            [
+                "The industry of Navigator is Pulp and paper industry, and foundingYear is 2001. Is the Navigator referring to The Navigators (organization)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Veolia": {
+        "chosen_entity": "http://dbpedia.org/resource/Veolia_Water_Southeast",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Veolia_Cargo",
+            "http://dbpedia.org/resource/Veolia_Transport",
+            "http://dbpedia.org/resource/Veolia_Transport_Nederland",
+            "http://dbpedia.org/resource/Veolia_Water",
+            "http://dbpedia.org/resource/Veolia_Water_Central",
+            "http://dbpedia.org/resource/Veolia_Water_East",
+            "http://dbpedia.org/resource/Veolia_Water_Southeast"
+        ],
+        "questions": [
+            [
+                "The industry of Veolia is Water supply, and foundingYear is 1848. Is the Veolia referring to Veolia Water Southeast?",
+                "Yes"
+            ],
+            [
+                "The industry of Veolia is Water supply, and foundingYear is 1848. Is the Veolia referring to Veolia Water?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/RWS": {
+        "chosen_entity": "http://dbpedia.org/resource/Ravens_Wood_School",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/RWS_Group",
+            "http://dbpedia.org/resource/Ravens_Wood_School",
+            "http://dbpedia.org/resource/Running_with_Scissors_(company)"
+        ],
+        "questions": [
+            [
+                "The country of RWS is England, and motto is Committed to Excellence and Innovation. Is the RWS referring to Ravens Wood School?",
+                "Yes"
+            ],
+            [
+                "The country of RWS is England, and motto is Committed to Excellence and Innovation. Is the RWS referring to Running with Scissors (company)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Christian_Heritage_Party": {
+        "chosen_entity": "http://dbpedia.org/resource/Christian_Heritage_Party_of_Canada",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Christian_Heritage_Party_of_British_Columbia",
+            "http://dbpedia.org/resource/Christian_Heritage_Party_of_Canada",
+            "http://dbpedia.org/resource/Christian_Heritage_Party_of_New_Zealand"
+        ],
+        "questions": [
+            [
+                "The formationYear of Christian Heritage Party is 1987, and country is Canada. Is the Christian Heritage Party referring to Christian Heritage Party of Canada?",
+                "Yes"
+            ],
+            [
+                "The formationYear of Christian Heritage Party is 1987, and country is Canada. Is the Christian Heritage Party referring to Christian Heritage Party of British Columbia?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Linx": {
+        "chosen_entity": "http://dbpedia.org/resource/Linx_Cargo_Care_Group",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/ENEA_AB",
+            "http://dbpedia.org/resource/Linx_Cargo_Care_Group",
+            "http://dbpedia.org/resource/Linx_S.A."
+        ],
+        "questions": [
+            [
+                "The industry of Linx is Logistics, and foundingYear is 2016. Is the Linx referring to Linx Cargo Care Group?",
+                "Yes"
+            ],
+            [
+                "The industry of Linx is Logistics, and foundingYear is 2016. Is the Linx referring to ENEA AB?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/St_Patrick's_Grammar_School": {
+        "chosen_entity": "http://dbpedia.org/resource/St_Patrick's_Grammar_School,_Armagh",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/St_Patrick's_Grammar_School,_Armagh",
+            "http://dbpedia.org/resource/St_Patrick's_Grammar_School,_Downpatrick"
+        ],
+        "questions": [
+            [
+                "The city of St Patrick's Grammar School is Armagh, and country is Northern Ireland. Is the St Patrick's Grammar School referring to St Patrick's Grammar School, Armagh?",
+                "Yes"
+            ],
+            [
+                "The city of St Patrick's Grammar School is Armagh, and country is Northern Ireland. Is the St Patrick's Grammar School referring to St Patrick's Grammar School, Downpatrick?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/PLC": {
+        "chosen_entity": "http://dbpedia.org/resource/Conservative_Party_(Spain)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Colombian_Liberal_Party",
+            "http://dbpedia.org/resource/Conservative_Party_(Spain)",
+            "http://dbpedia.org/resource/Presidents_Leadership_Class",
+            "http://dbpedia.org/resource/Prism_Leisure_Corporation"
+        ],
+        "questions": [
+            [
+                "The country of PLC is Spain, and formationYear is 1876. Is the PLC referring to Conservative Party (Spain)?",
+                "Yes"
+            ],
+            [
+                "The country of PLC is Spain, and formationYear is 1876. Is the PLC referring to Prism Leisure Corporation?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Space_system": {
+        "chosen_entity": "http://dbpedia.org/resource/NASA",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/NASA",
+            "http://dbpedia.org/resource/SSL_(company)"
+        ],
+        "questions": [
+            [
+                "The state of Space system is collapsed, and motto is \"Exploring the secrets of the universe for the benefit of all\". Is the Space system referring to NASA?",
+                "Yes"
+            ],
+            [
+                "The state of Space system is collapsed, and motto is \"Exploring the secrets of the universe for the benefit of all\". Is the Space system referring to SSL (company)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Saunders": {
+        "chosen_entity": "http://dbpedia.org/resource/Saunders-Roe",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Saunders-Roe",
+            "http://dbpedia.org/resource/Saunders_Secondary_School"
+        ],
+        "questions": [
+            [
+                "The foundingYear of Saunders is 1929, and industry is Aerospace, Engineering. Is the Saunders referring to Saunders-Roe?",
+                "Yes"
+            ],
+            [
+                "The foundingYear of Saunders is 1929, and industry is Aerospace, Engineering. Is the Saunders referring to Saunders Secondary School?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/ASG": {
+        "chosen_entity": "http://dbpedia.org/resource/ASG_Technologies",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/ASG_Technologies",
+            "http://dbpedia.org/resource/All_Saints_Greek_Orthodox_Grammar_School"
+        ],
+        "questions": [
+            [
+                "The locationCity of ASG is Naples, Florida, and foundingYear is 1986. Is the ASG referring to ASG Technologies?",
+                "Yes"
+            ],
+            [
+                "The locationCity of ASG is Naples, Florida, and foundingYear is 1986. Is the ASG referring to All Saints Greek Orthodox Grammar School?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/TMK": {
+        "chosen_entity": "http://dbpedia.org/resource/Türk_Maarif_Koleji",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Globe_Life",
+            "http://dbpedia.org/resource/OAO_TMK",
+            "http://dbpedia.org/resource/Türk_Maarif_Koleji"
+        ],
+        "questions": [
+            [
+                "The established of TMK is 1964, and mottoTranslation is 50. Is the TMK referring to Türk Maarif Koleji?",
+                "Yes"
+            ],
+            [
+                "The established of TMK is 1964, and mottoTranslation is 50. Is the TMK referring to Globe Life?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/OAI": {
+        "chosen_entity": "http://dbpedia.org/resource/Office_of_American_Innovation",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Office_of_American_Innovation",
+            "http://dbpedia.org/resource/Omni_Air_International"
+        ],
+        "questions": [
+            [
+                "The parentOrganisation of OAI is Executive Office of the President of the United States, and dissolutionDate is 2021-01-20. Is the OAI referring to Office of American Innovation?",
+                "Yes"
+            ],
+            [
+                "The parentOrganisation of OAI is Executive Office of the President of the United States, and dissolutionDate is 2021-01-20. Is the OAI referring to Omni Air International?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Mosaic": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Mosaic_Company",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Mosaic_Inc.",
+            "http://dbpedia.org/resource/Mosaic_Records",
+            "http://dbpedia.org/resource/Northwestern_University",
+            "http://dbpedia.org/resource/The_Mosaic_Company"
+        ],
+        "questions": [
+            [
+                "The foundingDate of Mosaic is 2004-10-22, and location is Tampa, Florida, U.S.. Is the Mosaic referring to The Mosaic Company?",
+                "Yes"
+            ],
+            [
+                "The foundingDate of Mosaic is 2004-10-22, and location is Tampa, Florida, U.S.. Is the Mosaic referring to Northwestern University?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Willard": {
+        "chosen_entity": "http://dbpedia.org/resource/Emma_Willard_School",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Emma_Willard_School",
+            "http://dbpedia.org/resource/J._Willard_Marriott_Library"
+        ],
+        "questions": [
+            [
+                "The foundingYear of Willard is 1814, and city is Troy, New York. Is the Willard referring to Emma Willard School?",
+                "Yes"
+            ],
+            [
+                "The foundingYear of Willard is 1814, and city is Troy, New York. Is the Willard referring to J. Willard Marriott Library?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/University_of_Foreign_Languages": {
+        "chosen_entity": "http://dbpedia.org/resource/Ho_Chi_Minh_City_University_of_Foreign_Languages_and_Information_Technology",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Dalian_University_of_Foreign_Languages",
+            "http://dbpedia.org/resource/Ho_Chi_Minh_City_University_of_Foreign_Languages_and_Information_Technology",
+            "http://dbpedia.org/resource/Yangon_University_of_Foreign_Languages"
+        ],
+        "questions": [
+            [
+                "The foundingDate of University of Foreign Languages is 1994-10-26, and established is 1994-10-26. Is the University of Foreign Languages referring to Ho Chi Minh City University of Foreign Languages and Information Technology?",
+                "Yes"
+            ],
+            [
+                "The foundingDate of University of Foreign Languages is 1994-10-26, and established is 1994-10-26. Is the University of Foreign Languages referring to Yangon University of Foreign Languages?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/BNF": {
+        "chosen_entity": "http://dbpedia.org/resource/British_Nuclear_Fuels_Ltd",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Belarusian_Popular_Front",
+            "http://dbpedia.org/resource/Botswana_National_Front",
+            "http://dbpedia.org/resource/British_Nuclear_Fuels_Ltd",
+            "http://dbpedia.org/resource/National_Front_(UK)"
+        ],
+        "questions": [
+            [
+                "The industry of BNF is Nuclear power, and parentCompany is UK Government. Is the BNF referring to British Nuclear Fuels Ltd?",
+                "Yes"
+            ],
+            [
+                "The industry of BNF is Nuclear power, and parentCompany is UK Government. Is the BNF referring to Belarusian Popular Front?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/USP": {
+        "chosen_entity": "http://dbpedia.org/resource/University_of_the_South_Pacific",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/United_States_Pharmacopeia",
+            "http://dbpedia.org/resource/University_of_the_Sciences",
+            "http://dbpedia.org/resource/University_of_the_South_Pacific"
+        ],
+        "questions": [
+            [
+                "The country of USP is Fiji, and city is Suva. Is the USP referring to University of the South Pacific?",
+                "Yes"
+            ],
+            [
+                "The country of USP is Fiji, and city is Suva. Is the USP referring to United States Pharmacopeia?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/TNU": {
+        "chosen_entity": "http://dbpedia.org/resource/Tajik_National_University",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Tajik_National_University",
+            "http://dbpedia.org/resource/Tianjin_Normal_University",
+            "http://dbpedia.org/resource/Trevecca_Nazarene_University"
+        ],
+        "questions": [
+            [
+                "The country of TNU is Tajikistan, and address is Rudaki str. 17, 734025. Is the TNU referring to Tajik National University?",
+                "Yes"
+            ],
+            [
+                "The country of TNU is Tajikistan, and address is Rudaki str. 17, 734025. Is the TNU referring to Trevecca Nazarene University?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bias": {
+        "chosen_entity": "http://dbpedia.org/resource/BIAS",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/BIAS",
+            "http://dbpedia.org/resource/Birla_Institute_of_Applied_Sciences"
+        ],
+        "questions": [
+            [
+                "The industry of Bias is Technology, and location is Petaluma, California. Is the Bias referring to BIAS?",
+                "Yes"
+            ],
+            [
+                "The industry of Bias is Technology, and location is Petaluma, California. Is the Bias referring to Birla Institute of Applied Sciences?",
+                "No"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,1002 @@
+{
+    "http://dbpedia.org/resource/Georgian_House": {
+        "qa": [
+            "The producer of Georgian House is Leonard White, and firstAired is 1976-01-02. The numberOfEpisodes of Georgian House is __ .",
+            "7"
+        ],
+        "additionals": [
+            "The lastAired of Georgian House is 1976-02-13.",
+            "The country of Georgian House is United Kingdom."
+        ]
+    },
+    "http://dbpedia.org/resource/Smith_House": {
+        "qa": [
+            "The added of Smith House is 1983-01-03, and locmapin is Idaho#USA. The nrhpReferenceNumber of Smith House is __ .",
+            "83000258"
+        ],
+        "additionals": [
+            "The architect of Smith House is Tourtellotte,John & Company.",
+            "The yearOfConstruction of Smith House is 1900."
+        ]
+    },
+    "http://dbpedia.org/resource/Pilar": {
+        "qa": [
+            "The director of Pilar is Sister Ma. Andrea L. Yee, RVM, and religiousAffiliation is Catholic Church. The founder of Pilar is __ .",
+            "Congregation of the Religious of the Virgin Mary"
+        ],
+        "additionals": [
+            "The city of Pilar is Zamboanga City.",
+            "The country of Pilar is Philippines."
+        ]
+    },
+    "http://dbpedia.org/resource/Crozer": {
+        "qa": [
+            "The added of Crozer is 1973-06-18, and nrhpReferenceNumber is 73001626. The yearOfConstruction of Crozer is __ .",
+            "1857"
+        ],
+        "additionals": [
+            "The locmapin of Crozer is Pennsylvania#USA.",
+            "The architecture of Crozer is Italianate."
+        ]
+    },
+    "http://dbpedia.org/resource/Wimer": {
+        "qa": [
+            "The postalCodeType of Wimer is ZIP code, and timezoneDst is PDT. The utcOffsetDst of Wimer is __ .",
+            "-7"
+        ],
+        "additionals": [
+            "The timezone of Wimer is Pacific Time Zone.",
+            "The timeZone of Wimer is Pacific Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Silvestre": {
+        "qa": [
+            "The address of Silvestre is Av. Santa Cruz 1251, Miraflores, and city is Lima. The motto of Silvestre is __ .",
+            "I am, I can, I ought, I will"
+        ],
+        "additionals": [
+            "The foundingYear of Silvestre is 1932.",
+            "The established of Silvestre is 1932."
+        ]
+    },
+    "http://dbpedia.org/resource/Ingleby": {
+        "qa": [
+            "The birthPlace of Ingleby is North Yorkshire, England, and deathYear is 1586. The birthYear of Ingleby is __ .",
+            "1551"
+        ],
+        "additionals": [
+            "The deathDate of Ingleby is 1586-06-03.",
+            "The birthDate of Ingleby is c.1551."
+        ]
+    },
+    "http://dbpedia.org/resource/Broxton": {
+        "qa": [
+            "The finaldate of Broxton is --05-30, and finalyear is 2017. The debutteam of Broxton is __ .",
+            "Los Angeles Dodgers"
+        ],
+        "additionals": [
+            "The birthPlace of Broxton is Augusta, Georgia.",
+            "The birthDate of Broxton is 1984-06-16."
+        ]
+    },
+    "http://dbpedia.org/resource/Fiona": {
+        "qa": [
+            "The genre of Fiona is Survival horror, and designer is Yukio Ando. The programmer of Fiona is __ .",
+            "Jun Takahashi"
+        ],
+        "additionals": [
+            "The released of Fiona is --04-21.",
+            "The producer of Fiona is Koji Nakajima."
+        ]
+    },
+    "http://dbpedia.org/resource/Vigen": {
+        "qa": [
+            "The canton of Vigen is Condat-sur-Vienne, and inseeCode is 87205. The mayor of Vigen is __ .",
+            "Jean-Luc Bonnet"
+        ],
+        "additionals": [
+            "The postalCode of Vigen is 87110.",
+            "The country of Vigen is France."
+        ]
+    },
+    "http://dbpedia.org/resource/Hyde_Park": {
+        "qa": [
+            "The deathYear of Hyde Park is 2010, and deathDate is 2010-08-31. The birthDate of Hyde Park is __ .",
+            "1945-10-01"
+        ],
+        "additionals": [
+            "The nationality of Hyde Park is British.",
+            "The birthYear of Hyde Park is 1945."
+        ]
+    },
+    "http://dbpedia.org/resource/Canfield": {
+        "qa": [
+            "The timezoneDst of Canfield is CDT, and timeZone is Central Time Zone. The timezone of Canfield is __ .",
+            "Central Time Zone"
+        ],
+        "additionals": [
+            "The areaCode of Canfield is 870.",
+            "The utcOffsetDst of Canfield is -5."
+        ]
+    },
+    "http://dbpedia.org/resource/Faust": {
+        "qa": [
+            "The spouse of Faust is Connie Sweitzer Faust, and birthPlace is Williston, North Dakota. The almaMater of Faust is __ .",
+            "Oklahoma Christian University"
+        ],
+        "additionals": [
+            "The occupation of Faust is Novelist, freelance writer.",
+            "The nationality of Faust is American."
+        ]
+    },
+    "http://dbpedia.org/resource/Yolanda": {
+        "qa": [
+            "The timezoneDst of Yolanda is Pacific Daylight Time, and postalCodeType is ZIP Codes. The foundingDate of Yolanda is __ .",
+            "1907-04-09"
+        ],
+        "additionals": [
+            "The timezone of Yolanda is Pacific Time Zone.",
+            "The utcOffsetDst of Yolanda is 420.0."
+        ]
+    },
+    "http://dbpedia.org/resource/Ricordi": {
+        "qa": [
+            "The music of Ricordi is Renzo Rossellini, Gioachino Rossini, Giuseppe Verdi, Giacomo Puccini, Gaetano Donizetti and Vincenzo Bellini, and director is Carmine Gallone. Ricordi is editing __ .",
+            "Niccolò Lazzari"
+        ],
+        "additionals": [
+            "The language of Ricordi is Italian.",
+            "The cinematography of Ricordi is Marco Scarpelli."
+        ]
+    },
+    "http://dbpedia.org/resource/Boac": {
+        "qa": [
+            "The openingDate of Boac is 1940-04-01, and parent is Government of the United Kingdom. The parentCompany of Boac is __ .",
+            "Government of the United Kingdom"
+        ],
+        "additionals": [
+            "The formationDate of Boac is 1939-11-24.",
+            "The industry of Boac is Air Transport."
+        ]
+    },
+    "http://dbpedia.org/resource/Dowling": {
+        "qa": [
+            "The areaCode of Dowling is 409, and timezoneDst is CDT. The timezone of Dowling is __ .",
+            "Central Time Zone"
+        ],
+        "additionals": [
+            "The timeZone of Dowling is Central Time Zone.",
+            "The utcOffsetDst of Dowling is -5."
+        ]
+    },
+    "http://dbpedia.org/resource/Luckenbach": {
+        "qa": [
+            "The artist of Luckenbach is Waylon Jennings, and previousWork is Are You Ready for the Country (song). Luckenbach is released at __ .",
+            "1977-04-11"
+        ],
+        "additionals": [
+            "The subsequentWork of Luckenbach is The Wurlitzer Prize (I Don't Want to Get Over You).",
+            "The producer of Luckenbach is Chips Moman."
+        ]
+    },
+    "http://dbpedia.org/resource/Oval": {
+        "qa": [
+            "The airdate of Oval is 15, and numSeasons is 4. The numberOfEpisodes of Oval is __ .",
+            "70"
+        ],
+        "additionals": [
+            "The author of Oval is Tyler Perry.",
+            "The language of Oval is English."
+        ]
+    },
+    "http://dbpedia.org/resource/Letov": {
+        "qa": [
+            "The locationCity of Letov is Letňany, and locationCountry is Czech Republic. The parentCompany of Letov is __ .",
+            "Groupe Latécoère"
+        ],
+        "additionals": [
+            "The parent of Letov is Groupe Latécoère.",
+            "The industry of Letov is Aerospace."
+        ]
+    },
+    "http://dbpedia.org/resource/Balan": {
+        "qa": [
+            "The spouse of Balan is Sarada Nair, and deathYear is 2000. The birthDate of Balan is __ .",
+            "1933-04-04"
+        ],
+        "additionals": [
+            "The deathDate of Balan is 2000-08-26.",
+            "The birthYear of Balan is 1933."
+        ]
+    },
+    "http://dbpedia.org/resource/Magnat": {
+        "qa": [
+            "The hometown of Magnat is Puerto Rico, and genre is Reggaeton. The activeYearsStartYear of Magnat is __ .",
+            "1998"
+        ],
+        "additionals": [
+            "The occupation of Magnat is Singing.",
+            "The activeYearsEndYear of Magnat is 2013."
+        ]
+    },
+    "http://dbpedia.org/resource/Magoon": {
+        "qa": [
+            "The deathDate of Magoon is 1943-12-06, and birthDate is 1875-03-27. The debutteam of Magoon is __ .",
+            "Brooklyn Bridegrooms"
+        ],
+        "additionals": [
+            "The finaldate of Magoon is --09-28.",
+            "The finalyear of Magoon is 1903."
+        ]
+    },
+    "http://dbpedia.org/resource/Naranja": {
+        "qa": [
+            "The postalCodeType of Naranja is ZIP codes, and timezone is Eastern Time Zone. The areaCode of Naranja is __ .",
+            "305"
+        ],
+        "additionals": [
+            "The timeZone of Naranja is Eastern Time Zone.",
+            "The utcOffsetDst of Naranja is -4."
+        ]
+    },
+    "http://dbpedia.org/resource/Vox_humana": {
+        "qa": [
+            "The deathPlace of Vox humana is United Kingdom, and deathYear is 1962. The birthDate of Vox humana is __ .",
+            "1896-09-23"
+        ],
+        "additionals": [
+            "The birthYear of Vox humana is 1896.",
+            "The deathDate of Vox humana is 1962-02-05."
+        ]
+    },
+    "http://dbpedia.org/resource/Conflans": {
+        "qa": [
+            "The birthDate of Conflans is 1690, and deathPlace is Paris. The birthPlace of Conflans is __ .",
+            "Paris"
+        ],
+        "additionals": [
+            "The deathDate of Conflans is 1777-01-27.",
+            "The award of Conflans is Marshal of France."
+        ]
+    },
+    "http://dbpedia.org/resource/Sebago": {
+        "qa": [
+            "The owner of Sebago is Cove Communities, and city is Casco, Maine. The locationCountry of Sebago is __ .",
+            "United States"
+        ],
+        "additionals": [
+            "The locationCity of Sebago is Casco, Maine.",
+            "The country of Sebago is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/Hillhouse": {
+        "qa": [
+            "The locmapin of Hillhouse is Connecticut#USA, and added is 1985-09-13. The yearOfConstruction of Hillhouse is __ .",
+            "1792"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Hillhouse is 85002507.",
+            "The architecture of Hillhouse is Victorian."
+        ]
+    },
+    "http://dbpedia.org/resource/Villanelle": {
+        "qa": [
+            "The pages of Villanelle is 224, and country is United Kingdom. The subsequentWork of Villanelle is __ .",
+            "Killing Eve: No Tomorrow"
+        ],
+        "additionals": [
+            "The language of Villanelle is English.",
+            "The author of Villanelle is Luke Jennings."
+        ]
+    },
+    "http://dbpedia.org/resource/Nudie": {
+        "qa": [
+            "The birthDate of Nudie is 1902-12-15, and nationality is United States. The occupation of Nudie is __ .",
+            "Fashion designer"
+        ],
+        "additionals": [
+            "The deathDate of Nudie is 1984-05-09.",
+            "The deathPlace of Nudie is Burbank, California."
+        ]
+    },
+    "http://dbpedia.org/resource/Mahinda": {
+        "qa": [
+            "The deathDate of Mahinda is 1029, and activeYearsStartYear is 0982. The predecessor of Mahinda is __ .",
+            "Sena V of Anuradhapura"
+        ],
+        "additionals": [
+            "The parent of Mahinda is Mahinda IV of Anuradhapura.",
+            "The child of Mahinda is Vikramabahu of Ruhuna."
+        ]
+    },
+    "http://dbpedia.org/resource/Melcher": {
+        "qa": [
+            "The nrhpReferenceNumber of Melcher is 03000832, and added is 2003-08-28. The yearOfConstruction of Melcher is __ .",
+            "1842"
+        ],
+        "additionals": [
+            "The architecture of Melcher is Italianate.",
+            "The locmapin of Melcher is Iowa#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/Juno": {
+        "qa": [
+            "The editing of Juno is Park Soon-duk, and country is South Korea. The cinematography of Juno is __ .",
+            "Kim Dong-cheon"
+        ],
+        "additionals": [
+            "The language of Juno is Korean.",
+            "The distributor of Juno is Show East."
+        ]
+    },
+    "http://dbpedia.org/resource/Waco": {
+        "qa": [
+            "The postalCodeType of Waco is ZIP code, and areaCode is 859. The timezone of Waco is __ .",
+            "Eastern Time Zone"
+        ],
+        "additionals": [
+            "The timeZone of Waco is Eastern Time Zone.",
+            "The utcOffsetDst of Waco is -4."
+        ]
+    },
+    "http://dbpedia.org/resource/GAC": {
+        "qa": [
+            "The modes of GAC is a, and released is 1985. The developer of GAC is __ .",
+            "Sean Ellis, Brendan Kelly, Dave Kirby, \"The Kid\""
+        ],
+        "additionals": [
+            "The designer of GAC is Sean Ellis.",
+            "The publisher of GAC is Incentive Software."
+        ]
+    },
+    "http://dbpedia.org/resource/Isabela": {
+        "qa": [
+            "The deathPlace of Isabela is Mexico City, and deathDate is 1993-07-08. The activeYearsEndYear of Isabela is __ .",
+            "1990"
+        ],
+        "additionals": [
+            "The birthDate of Isabela is 1913-07-02.",
+            "The deathYear of Isabela is 1993."
+        ]
+    },
+    "http://dbpedia.org/resource/Knights_Templar": {
+        "qa": [
+            "The programmer of Knights Templar is Chris Carollo, and director is Harvey Smith (game designer). The releaseDate of Knights Templar is __ .",
+            "2003-12-02"
+        ],
+        "additionals": [
+            "The designer of Knights Templar is Ricardo Bare.",
+            "The released of Knights Templar is --12-02."
+        ]
+    },
+    "http://dbpedia.org/resource/Hersman": {
+        "qa": [
+            "The timezoneDst of Hersman is CDT, and timeZone is Central Time Zone. The timezone of Hersman is __ .",
+            "Central Time Zone"
+        ],
+        "additionals": [
+            "The areaCode of Hersman is 217.",
+            "The utcOffsetDst of Hersman is -5."
+        ]
+    },
+    "http://dbpedia.org/resource/El_Barco": {
+        "qa": [
+            "The author of El Barco is Álex Pina, and numSeasons is 3. The country of El Barco is __ .",
+            "Spain"
+        ],
+        "additionals": [
+            "The cinematography of El Barco is David Arribas.",
+            "The lastAired of El Barco is 2013-02-21."
+        ]
+    },
+    "http://dbpedia.org/resource/FO": {
+        "qa": [
+            "The date of FO is 2016-10-14, and child is Jacopo Fo. The deathDate of FO is __ .",
+            "2016-10-13"
+        ],
+        "additionals": [
+            "The birthDate of FO is 1926-03-24.",
+            "The genre of FO is Drama."
+        ]
+    },
+    "http://dbpedia.org/resource/Vardaman": {
+        "qa": [
+            "The postalCode of Vardaman is 38878, and areaCode is 662. The postalCodeType of Vardaman is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The motto of Vardaman is \"A Little Taste of Heaven in Mississippi.\".",
+            "The timezone of Vardaman is North American Central Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Brewster": {
+        "qa": [
+            "The floorCount of Brewster is 14, and buildingStartDate is 1935. The height of Brewster is __ .",
+            "49.0728"
+        ],
+        "additionals": [
+            "The locationCountry of Brewster is United States.",
+            "The country of Brewster is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/Pendleton_House": {
+        "qa": [
+            "The architecture of Pendleton House is Second Empire, and added is 1966-10-15. The locmapin of Pendleton House is __ .",
+            "Ohio#USA"
+        ],
+        "additionals": [
+            "The yearOfConstruction of Pendleton House is 1870.",
+            "The nrhpReferenceNumber of Pendleton House is 66000611."
+        ]
+    },
+    "http://dbpedia.org/resource/Madeline": {
+        "qa": [
+            "The timezone of Madeline is Eastern Time Zone, and timeZone is Eastern Time Zone. The postalCodeType of Madeline is __ .",
+            "ZIP codes"
+        ],
+        "additionals": [
+            "The utcOffsetDst of Madeline is -4.",
+            "The timezoneDst of Madeline is EDT."
+        ]
+    },
+    "http://dbpedia.org/resource/Manta": {
+        "qa": [
+            "The writer of Manta is Stefan Cantz, and country is Germany. The studio of Manta is __ .",
+            "Neue Constantin Film"
+        ],
+        "additionals": [
+            "The music of Manta is Stefan Will.",
+            "The editing of Manta is Gisela Haller."
+        ]
+    },
+    "http://dbpedia.org/resource/McBean": {
+        "qa": [
+            "The yearOfConstruction of McBean is 1920, and locmapin is New York#USA. The architecture of McBean is __ .",
+            "Craftsman"
+        ],
+        "additionals": [
+            "The added of McBean is 1992-11-06.",
+            "The nrhpReferenceNumber of McBean is 92001425."
+        ]
+    },
+    "http://dbpedia.org/resource/Rainforest": {
+        "qa": [
+            "The director of Rainforest is Bill Kroyer, and language is English. The budget of Rainforest is __ .",
+            "2.4E7"
+        ],
+        "additionals": [
+            "The music of Rainforest is Alan Silvestri.",
+            "The musicComposer of Rainforest is Alan Silvestri."
+        ]
+    },
+    "http://dbpedia.org/resource/Paradise_Park": {
+        "qa": [
+            "The nrhpReferenceNumber of Paradise Park is 84001256, and yearOfConstruction is 1907. Paradise Park is added at __ .",
+            "1984-09-07"
+        ],
+        "additionals": [
+            "The architecture of Paradise Park is Late 19th And 20th Century Revivals, Late Victorian, Classical Revival, Modern Movement.",
+            "The locmapin of Paradise Park is USA Georgia#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/Palau": {
+        "qa": [
+            "The numberOfEpisodes of Palau is 14, and airdate is 10. The seasonNumber of Palau is __ .",
+            "10"
+        ],
+        "additionals": [
+            "The lastAired of Palau is 2005-05-15.",
+            "The firstAired of Palau is 2005-02-17."
+        ]
+    },
+    "http://dbpedia.org/resource/Rodden": {
+        "qa": [
+            "The birthPlace of Rodden is Denver, North Carolina, and sport is NASCAR Cup Series. The birthDate of Rodden is __ .",
+            "1981-03-27"
+        ],
+        "additionals": [
+            "The nationality of Rodden is American.",
+            "The country of Rodden is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/Caxias": {
+        "qa": [
+            "The occupation of Caxias is Politician, and deathDate is 1880-05-07. The party of Caxias is __ .",
+            "Conservative Party (Brazil)"
+        ],
+        "additionals": [
+            "The birthDate of Caxias is 1803-08-25.",
+            "The award of Caxias is Luís Alves de Lima e Silva, Duke of Caxias."
+        ]
+    },
+    "http://dbpedia.org/resource/Wallop": {
+        "qa": [
+            "The cinematography of Wallop is Harry M. Fowler, and producer is John Ford. Wallop is starring __ .",
+            "Harry Carey (actor born 1878)"
+        ],
+        "additionals": [
+            "The director of Wallop is John Ford.",
+            "The country of Wallop is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/Black_squirrel": {
+        "qa": [
+            "The producer of Black squirrel is Rick Rubin, and previousWork is All Nightmare Long. The subsequentWork of Black squirrel is __ .",
+            "The View (song)"
+        ],
+        "additionals": [
+            "The artist of Black squirrel is Metallica.",
+            "The releaseDate of Black squirrel is 2009-04-03."
+        ]
+    },
+    "http://dbpedia.org/resource/Midge": {
+        "qa": [
+            "The producer of Midge is John Ryan (cartoonist), and country is United Kingdom. The airdate of Midge is __ .",
+            "20"
+        ],
+        "additionals": [
+            "The language of Midge is English.",
+            "The releaseDate of Midge is 1969-10-07."
+        ]
+    },
+    "http://dbpedia.org/resource/Blokker": {
+        "qa": [
+            "The country of Blokker is Netherlands, and timezone is Central European Time. The timezoneDst of Blokker is __ .",
+            "Central European Summer Time"
+        ],
+        "additionals": [
+            "The postalCodeType of Blokker is List of postal codes in the Netherlands.",
+            "The utcOffsetDst of Blokker is +2."
+        ]
+    },
+    "http://dbpedia.org/resource/New_Hope": {
+        "qa": [
+            "The musicComposer of New Hope is John Williams, and producer is Gary Kurtz. The style of New Hope is __ .",
+            "\"text-align:right;\""
+        ],
+        "additionals": [
+            "The cinematography of New Hope is Gilbert Taylor.",
+            "The language of New Hope is English."
+        ]
+    },
+    "http://dbpedia.org/resource/Gesundheit": {
+        "qa": [
+            "The modes of Gesundheit is Single player, and developer is Revolutionary Concepts. The releaseDate of Gesundheit is __ .",
+            "2011-08-03"
+        ],
+        "additionals": [
+            "The publisher of Gesundheit is Konami.",
+            "The genre of Gesundheit is Puzzle video game."
+        ]
+    },
+    "http://dbpedia.org/resource/Snowflake": {
+        "qa": [
+            "The location of Snowflake is Snowflake, and timeZone is Central Time Zone (North America). The country of Snowflake is __ .",
+            "Canada"
+        ],
+        "additionals": [
+            "The postalCodeType of Snowflake is Postal Code.",
+            "The areaCode of Snowflake is 204."
+        ]
+    },
+    "http://dbpedia.org/resource/AST": {
+        "qa": [
+            "The postalCode of AST is 14100, and mayor is Maurizio Rasero. The country of AST is __ .",
+            "Italy"
+        ],
+        "additionals": [
+            "The date of AST is October 2014.",
+            "The province of AST is Province of Asti."
+        ]
+    },
+    "http://dbpedia.org/resource/Cling": {
+        "qa": [
+            "The country of Cling is Netherlands, and timezone is Central European Time. The timezoneDst of Cling is __ .",
+            "Central European Summer Time"
+        ],
+        "additionals": [
+            "The postalCode of Cling is 4567.",
+            "The postalCodeType of Cling is List of postal codes in the Netherlands."
+        ]
+    },
+    "http://dbpedia.org/resource/Catlin": {
+        "qa": [
+            "The areaCode of Catlin is 620, and timezone is Central Time Zone. The postalCodeType of Catlin is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The timezoneDst of Catlin is CDT.",
+            "The timeZone of Catlin is Central Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Petal": {
+        "qa": [
+            "The timezone of Petal is North American Central Time Zone, and timezoneDst is CDT. The postalCodeType of Petal is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The timeZone of Petal is North American Central Time Zone.",
+            "The postalCode of Petal is 39465."
+        ]
+    },
+    "http://dbpedia.org/resource/Baghel": {
+        "qa": [
+            "The predecessor of Baghel is Ram Shankar Katheria, and residence is Agra. The birthDate of Baghel is __ .",
+            "1960-06-21"
+        ],
+        "additionals": [
+            "The date of Baghel is 2014-05-16.",
+            "The spouse of Baghel is Madhu Baghel."
+        ]
+    },
+    "http://dbpedia.org/resource/Wriston": {
+        "qa": [
+            "The timezone of Wriston is Eastern Time Zone, and timeZone is Eastern Time Zone. The postalCodeType of Wriston is __ .",
+            "ZIP codes"
+        ],
+        "additionals": [
+            "The utcOffsetDst of Wriston is -4.",
+            "The timezoneDst of Wriston is EDT."
+        ]
+    },
+    "http://dbpedia.org/resource/Sun_Valley": {
+        "qa": [
+            "The language of Sun Valley is English, and studio is Twentieth Century Fox Film Corporation. The producer of Sun Valley is __ .",
+            "Milton Sperling"
+        ],
+        "additionals": [
+            "The productionCompany of Sun Valley is Twentieth Century Fox Film Corporation.",
+            "The distributor of Sun Valley is 20."
+        ]
+    },
+    "http://dbpedia.org/resource/KB": {
+        "qa": [
+            "The birthDate of KB is 1983-06-20, and birthPlace is Lusaka. The nationality of KB is __ .",
+            "Zambian"
+        ],
+        "additionals": [
+            "The activeYearsStartYear of KB is 2004.",
+            "The birthYear of KB is 1983."
+        ]
+    },
+    "http://dbpedia.org/resource/Genlis": {
+        "qa": [
+            "The occupation of Genlis is Author, educationalist, and genre is Novels. The deathDate of Genlis is __ .",
+            "1830-12-31"
+        ],
+        "additionals": [
+            "The deathPlace of Genlis is Paris.",
+            "The birthDate of Genlis is 1746-01-25."
+        ]
+    },
+    "http://dbpedia.org/resource/Harrison_House": {
+        "qa": [
+            "The architecture of Harrison House is Craftsman, and locmapin is Massachusetts#USA. Harrison House is added at __ .",
+            "1990-02-16"
+        ],
+        "additionals": [
+            "The nrhpReferenceNumber of Harrison House is 90000045.",
+            "The yearOfConstruction of Harrison House is 1915."
+        ]
+    },
+    "http://dbpedia.org/resource/Amelia": {
+        "qa": [
+            "The timezone of Amelia is Eastern Time Zone, and postalCodeType is ZIP code. The location of Amelia is __ .",
+            "Amelia Court House, Virginia"
+        ],
+        "additionals": [
+            "The areaCode of Amelia is 804.",
+            "The postalCode of Amelia is 23002."
+        ]
+    },
+    "http://dbpedia.org/resource/Sandia": {
+        "qa": [
+            "The postalCode of Sandia is 87113, and foundingYear is 1966. The mascot of Sandia is __ .",
+            "Sundevil"
+        ],
+        "additionals": [
+            "The address of Sandia is 532 Osuna Rd NE.",
+            "The state of Sandia is New Mexico."
+        ]
+    },
+    "http://dbpedia.org/resource/Hammon": {
+        "qa": [
+            "The birthPlace of Hammon is Rapid City, South Dakota, and college is Colorado State Rams women's basketball. The activeYearsEndYear of Hammon is __ .",
+            "2014"
+        ],
+        "additionals": [
+            "The height of Hammon is 1.6764.",
+            "The activeYearsStartYear of Hammon is 1999."
+        ]
+    },
+    "http://dbpedia.org/resource/Argentina": {
+        "qa": [
+            "The deathDate of Argentina is 2005-12-20, and activeYearsStartYear is 1910. The birthPlace of Argentina is __ .",
+            "Buenos Aires, Argentina"
+        ],
+        "additionals": [
+            "The activeYearsEndYear of Argentina is 1910.",
+            "The birthYear of Argentina is 1907."
+        ]
+    },
+    "http://dbpedia.org/resource/Elio": {
+        "qa": [
+            "The founder of Elio is Paul Elio, and locationCountry is United States. The locationCity of Elio is __ .",
+            "Phoenix, Arizona"
+        ],
+        "additionals": [
+            "The owner of Elio is Paul Elio.",
+            "The industry of Elio is Automobile."
+        ]
+    },
+    "http://dbpedia.org/resource/Scottish_Rite_Cathedral": {
+        "qa": [
+            "The added of Scottish Rite Cathedral is 1987-03-13, and nrhpReferenceNumber is 87000424. The yearOfConstruction of Scottish Rite Cathedral is __ .",
+            "1911"
+        ],
+        "additionals": [
+            "The architecture of Scottish Rite Cathedral is Moorish Revival architecture.",
+            "The locmapin of Scottish Rite Cathedral is New Mexico#USA."
+        ]
+    },
+    "http://dbpedia.org/resource/Sweetwater": {
+        "qa": [
+            "The added of Sweetwater is 1982-11-01, and nrhpReferenceNumber is 82001838. The locmapin of Sweetwater is __ .",
+            "Wyoming#USA"
+        ],
+        "additionals": [
+            "The yearOfConstruction of Sweetwater is 1900.",
+            "The architect of Sweetwater is Hugo Gaensslen."
+        ]
+    },
+    "http://dbpedia.org/resource/GD": {
+        "qa": [
+            "The industry of GD is Diversified Machinery, and foundedBy is Simon Ingersoll. The predecessor of GD is __ .",
+            "Trane Technologies"
+        ],
+        "additionals": [
+            "The locationCountry of GD is U.S..",
+            "The date of GD is November 2019."
+        ]
+    },
+    "http://dbpedia.org/resource/Pronto": {
+        "qa": [
+            "The region of Pronto is United States, and artist is Snoop Dogg. The producer of Pronto is __ .",
+            "*B-Don *Battlecat *Danja *Jason Martin *Lil Jon *Nottz *PMG *Scoop DeVille *Snoop Dogg *Super Ced *Teddy Riley *The-Dream *The Neptunes *Terrace Martin *Tricky Stewart"
+        ],
+        "additionals": [
+            "The released of Pronto is 2009-12-08.",
+            "The genre of Pronto is Hip hop music."
+        ]
+    },
+    "http://dbpedia.org/resource/Young_Guard": {
+        "qa": [
+            "The formationDate of Young Guard is 2005-11-15, and position is Big tent. The predecessor of Young Guard is __ .",
+            "Unity (Russian political party)"
+        ],
+        "additionals": [
+            "The formationYear of Young Guard is 2005.",
+            "The country of Young Guard is Russia."
+        ]
+    },
+    "http://dbpedia.org/resource/Windham": {
+        "qa": [
+            "The country of Windham is U.S., and foundingYear is 1976. The parent of Windham is __ .",
+            "Sony Music Entertainment"
+        ],
+        "additionals": [
+            "The parentCompany of Windham is Sony Music Entertainment.",
+            "The foundedBy of Windham is William Ackerman."
+        ]
+    },
+    "http://dbpedia.org/resource/English_Martyrs": {
+        "qa": [
+            "The address of English Martyrs is hell, and postalCode is TS25 4HA. The country of English Martyrs is __ .",
+            "England"
+        ],
+        "additionals": [
+            "The date of English Martyrs is August 2019.",
+            "The city of English Martyrs is Hartlepool."
+        ]
+    },
+    "http://dbpedia.org/resource/Many": {
+        "qa": [
+            "The inseeCode of Many is 57442, and postalCode is 57000. The canton of Many is __ .",
+            "Faulquemont"
+        ],
+        "additionals": [
+            "The mayor of Many is Jonathan Szablewski.",
+            "The country of Many is France."
+        ]
+    },
+    "http://dbpedia.org/resource/Cory": {
+        "qa": [
+            "The numSeasons of Cory is 2, and language is English. The date of Cory is __ .",
+            "February 2021"
+        ],
+        "additionals": [
+            "The numberOfEpisodes of Cory is 34.",
+            "The lastAired of Cory is 2008-09-12."
+        ]
+    },
+    "http://dbpedia.org/resource/SAS": {
+        "qa": [
+            "The height of SAS is 150, and language is Tagalog. The totalWidth of SAS is __ .",
+            "450"
+        ],
+        "additionals": [
+            "The numberOfEpisodes of SAS is 107.",
+            "The releaseDate of SAS is 2013-06-16."
+        ]
+    },
+    "http://dbpedia.org/resource/Hamlet": {
+        "qa": [
+            "The country of Hamlet is Germany, and studio is Art-Film GmbH. The music of Hamlet is __ .",
+            "Giuseppe Becce"
+        ],
+        "additionals": [
+            "The distributor of Hamlet is Asta Films.",
+            "The musicComposer of Hamlet is Giuseppe Becce."
+        ]
+    },
+    "http://dbpedia.org/resource/Minott": {
+        "qa": [
+            "The architecture of Minott is Federal, and added is 1979-07-10. The architect of Minott is __ .",
+            "William Minott"
+        ],
+        "additionals": [
+            "The locmapin of Minott is Maine#USA.",
+            "The nrhpReferenceNumber of Minott is 79000142."
+        ]
+    },
+    "http://dbpedia.org/resource/Camp_House": {
+        "qa": [
+            "The architecture of Camp House is Greek Revival, and locmapin is Connecticut#USA. The yearOfConstruction of Camp House is __ .",
+            "1840"
+        ],
+        "additionals": [
+            "The added of Camp House is 1984-05-10.",
+            "The nrhpReferenceNumber of Camp House is 84001060."
+        ]
+    },
+    "http://dbpedia.org/resource/Gobi": {
+        "qa": [
+            "The releaseDate of Gobi is 1941, and author is Pierre Benoit (novelist). The genre of Gobi is __ .",
+            "Adventure"
+        ],
+        "additionals": [
+            "The mediaType of Gobi is Print.",
+            "The language of Gobi is French."
+        ]
+    },
+    "http://dbpedia.org/resource/Universal_City": {
+        "qa": [
+            "The postalCode of Universal City is 91608, and postalCodeType is ZIP codes. The utcOffsetDst of Universal City is __ .",
+            "-7"
+        ],
+        "additionals": [
+            "The location of Universal City is Universal City, California.",
+            "The timezoneDst of Universal City is PDT."
+        ]
+    },
+    "http://dbpedia.org/resource/Paras": {
+        "qa": [
+            "The college of Paras is University of the Philippines, and height is 1.9304. The activeYearsStartYear of Paras is __ .",
+            "1989"
+        ],
+        "additionals": [
+            "The position of Paras is Center (basketball).",
+            "The activeYearsEndYear of Paras is 2003."
+        ]
+    },
+    "http://dbpedia.org/resource/Lady_in_Blue": {
+        "qa": [
+            "The deathYear of Lady in Blue is 2007, and deathDate is 2007-12-26. The activeYearsStartYear of Lady in Blue is __ .",
+            "1958"
+        ],
+        "additionals": [
+            "The birthYear of Lady in Blue is 1939.",
+            "The activeYearsEndYear of Lady in Blue is 2007."
+        ]
+    },
+    "http://dbpedia.org/resource/Merlin": {
+        "qa": [
+            "The postalCodeType of Merlin is ZIP code, and postalCode is 97532. The utcOffsetDst of Merlin is __ .",
+            "-7"
+        ],
+        "additionals": [
+            "The timezoneDst of Merlin is PDT.",
+            "The timezone of Merlin is Pacific Time Zone."
+        ]
+    },
+    "http://dbpedia.org/resource/Tickle": {
+        "qa": [
+            "The areaCode of Tickle is 709, and province is Newfoundland and Labrador. The country of Tickle is __ .",
+            "Canada"
+        ],
+        "additionals": [
+            "The timezoneDst of Tickle is Newfoundland Time.",
+            "The timezone of Tickle is Newfoundland Time."
+        ]
+    },
+    "http://dbpedia.org/resource/Perrins": {
+        "qa": [
+            "The country of Perrins is England, and founder is Charles William Dyson Perrins. Perrins is established at __ .",
+            "1956-10-27"
+        ],
+        "additionals": [
+            "The postalCode of Perrins is WR14 1WD.",
+            "The foundingDate of Perrins is 1956-10-27."
+        ]
+    },
+    "http://dbpedia.org/resource/Byrd_High_School": {
+        "qa": [
+            "The foundingYear of Byrd High School is 1925, and founder is Clifton Ellis Byrd. Byrd High School is established at __ .",
+            "1925"
+        ],
+        "additionals": [
+            "The postalCode of Byrd High School is 71104.",
+            "The state of Byrd High School is Louisiana."
+        ]
+    },
+    "http://dbpedia.org/resource/Kadokawa": {
+        "qa": [
+            "The termStart of Kadokawa is 2008-02-26, and party is Independent politician. The termPeriod of Kadokawa is __ .",
+            "Daisaku Kadokawa  Tenure  1"
+        ],
+        "additionals": [
+            "The almaMater of Kadokawa is Ritsumeikan University.",
+            "The predecessor of Kadokawa is Yorikane Masumoto."
+        ]
+    },
+    "http://dbpedia.org/resource/Biagio": {
+        "qa": [
+            "The spouse of Biagio is Pina Marini, and birthDate is 1891-06-29. The date of Biagio is __ .",
+            "November 2017"
+        ],
+        "additionals": [
+            "The occupation of Biagio is Poet, Professor, Teacher, Librarian.",
+            "The deathDate of Biagio is 1985-12-24."
+        ]
+    },
+    "http://dbpedia.org/resource/Hahn": {
+        "qa": [
+            "The areaCode of Hahn is 979, and postalCode is 77437. The postalCodeType of Hahn is __ .",
+            "ZIP code"
+        ],
+        "additionals": [
+            "The timezone of Hahn is North American Central Time Zone.",
+            "The timezoneDst of Hahn is CDT."
+        ]
+    },
+    "http://dbpedia.org/resource/Halcyon": {
+        "qa": [
+            "The timezone of Halcyon is Eastern Time Zone, and timeZone is Eastern Time Zone. The postalCodeType of Halcyon is __ .",
+            "ZIP codes"
+        ],
+        "additionals": [
+            "The utcOffsetDst of Halcyon is -4.",
+            "The timezoneDst of Halcyon is EDT."
+        ]
+    },
+    "http://dbpedia.org/resource/Intan": {
+        "qa": [
+            "The nationality of Intan is Singaporean, and successor is Ng Ling Ling. The termPeriod of Intan is __ .",
+            "Intan Azura Mokhtar  Tenure  2"
+        ],
+        "additionals": [
+            "The birthDate of Intan is 1976.",
+            "The termStart of Intan is 2011-05-07."
+        ]
+    },
+    "http://dbpedia.org/resource/TNPL": {
+        "qa": [
+            "The timeZone of TNPL is Indian Standard Time, and postalCode is 639. The timezone of TNPL is __ .",
+            "Indian Standard Time"
+        ],
+        "additionals": [
+            "The country of TNPL is India.",
+            "The postalCodeType of TNPL is Postal Index Number."
+        ]
+    }
+}

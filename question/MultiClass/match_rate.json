@@ -1,0 +1,402 @@
+{
+    "http://dbpedia.org/resource/Olmos": [
+        "The parent of \"Olmos\" is Edward James Olmos, and birthPlace is United States. Which one is the \"Olmos\" referring to? A. Bodie Olmos B. Olmos District",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Georgian_House": [
+        "The country of \"Georgian House\" is United Kingdom, and language is English. Which one is the \"Georgian House\" referring to? A. Georgian House, Bristol B. The Georgian House",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Kempton_Park": [
+        "The postalCodeType of \"Kempton Park\" is List of postal codes in South Africa, and country is South Africa. Which one is the \"Kempton Park\" referring to? A. Kempton Park, Gauteng B. Kempton Park Racecourse",
+        "A"
+    ],
+    "http://dbpedia.org/resource/RD": [
+        "The formationYear of \"RD\" is 1994, and parentOrganisation is United States Department of Agriculture. Which one is the \"RD\" referring to? A. USDA Rural Development B. Rilindja Demokratike",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Abel": [
+        "The activeYearsStartYear of \"Abel\" is 1997, and occupation is Musician, singer-songwriter. Which one is the \"Abel\" referring to? A. Abel, Alabama B. Abel Pintos",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Boehringer": [
+        "The industry of \"Boehringer\" is Pharmaceuticals, and locationCity is Ingelheim. Which one is the \"Boehringer\" referring to? A. Boehringer Ingelheim B. Jorge Boehringer",
+        "A"
+    ],
+    "http://dbpedia.org/resource/KNR": [
+        "The country of \"KNR\" is Kingdom of Denmark, and owner is Politics of Greenland. Which one is the \"KNR\" referring to? A. Kalaallit Nunaata Radioa B. Kannur",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Robbins": [
+        "The stadiumName of \"Robbins\" is Surf Stadium, and surface is Natural grass. Which one is the \"Robbins\" referring to? A. Robbins Entertainment B. Robbins, Illinois C. Surf Stadium",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Smith_House": [
+        "The locmapin of \"Smith House\" is Missouri#USA, and location is Grandin, Missouri. Which one is the \"Smith House\" referring to? A. Nathan Smith House B. Milton W. Smith House C. Missouri Lumber and Mining Company",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Fawcett": [
+        "The owner of \"Fawcett\" is Hall of Fame Village, and stadiumName is Tom Benson Stadium. Which one is the \"Fawcett\" referring to? A. Fawcett, Alberta B. Fawcett Publications C. Tom Benson Hall of Fame Stadium",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Love_Bug": [
+        "The director of \"Love Bug\" is Robert F. McGowan, and producer is Hal Roach. Which one is the \"Love Bug\" referring to? A. The Love Bug (1925 film) B. Raffi",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Duveneck": [
+        "The birthDate of \"Duveneck\" is 1848-10-09, and deathDate is 1919-01-03. Which one is the \"Duveneck\" referring to? A. Duveneck, Wisconsin B. Frank Duveneck",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Submarine": [
+        "The subsequentWork of \"Submarine\" is Ophelia (The Lumineers song), and producer is Ryan Hadlock. Which one is the \"Submarine\" referring to? A. Submarines (The Lumineers song) B. The Submarines",
+        "A"
+    ],
+    "http://dbpedia.org/resource/María_Auxiliadora": [
+        "The utcOffsetDst of \"María Auxiliadora\" is None, and country is Dominican Republic. Which one is the \"María Auxiliadora\" referring to? A. María Auxiliadora, Colón, Montevideo B. María Auxiliadora, Distrito Nacional",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Pilar": [
+        "The timezone of \"Pilar\" is Philippine Standard Time, and postalCodeType is List of ZIP codes in the Philippines. Which one is the \"Pilar\" referring to? A. Pilar, Bataan B. Fort Pilar C. Pilar College",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Tsuzuki": [
+        "The country of \"Tsuzuki\" is Japan, and timezone is Japan Standard Time. Which one is the \"Tsuzuki\" referring to? A. Ryōta Tsuzuki B. Tsuzuki-ku, Yokohama",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Oberg": [
+        "The birthDate of \"Oberg\" is 1897-01-27, and deathDate is 1965-06-03. Which one is the \"Oberg\" referring to? A. Carl Oberg B. Ilsede",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Chenghua": [
+        "The postalCodeType of \"Chenghua\" is Postal code of China, and timezone is China Standard Time. Which one is the \"Chenghua\" referring to? A. Chenghua District B. Chenghua Emperor C. Southwestern University of Finance and Economics",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Basser": [
+        "The surface of \"Basser\" is grass, and renovated is 2002. Which one is the \"Basser\" referring to? A. Basser College, University of New South Wales B. Stade Francis Le Basser",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Bloodshot": [
+        "The country of \"Bloodshot\" is United States, and location is Chicago, Illinois. Which one is the \"Bloodshot\" referring to? A. Bloodshot Records B. Condemned 2: Bloodshot",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Malmstrom": [
+        "The deathPlace of \"Malmstrom\" is Great Falls, Montana, U.S., and birthPlace is Chicago, Illinois, U.S.. Which one is the \"Malmstrom\" referring to? A. Einar Axel Malmstrom B. Malmstrom Air Force Base",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Crozer": [
+        "The locmapin of \"Crozer\" is Pennsylvania#USA, and added is 1973-06-18. Which one is the \"Crozer\" referring to? A. Crozer Theological Seminary B. Elizabeth Warder Crozer Campbell",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Wimer": [
+        "The yearOfConstruction of \"Wimer\" is 1927, and architecture is Queen post. Which one is the \"Wimer\" referring to? A. Wimer, Oregon B. John Wimer C. Wimer Bridge",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Ahlam": [
+        "The utcOffsetDst of \"Ahlam\" is 270.0, and country is Iran. Which one is the \"Ahlam\" referring to? A. Ahlam, Iran B. Ahlam Amrani",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Silvestre": [
+        "The timezone of \"Silvestre\" is Central European Time, and utcOffsetDst is +2. Which one is the \"Silvestre\" referring to? A. Encina de San Silvestre B. San Silvestre School",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Orr": [
+        "The added of \"Orr\" is 1976-07-30, and locmapin is Arkansas#USA. Which one is the \"Orr\" referring to? A. Office of Rail and Road B. Orr School C. Orr Barouch",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Tokyo_Tower": [
+        "The height of \"Tokyo Tower\" is 193.5, and floorCount is 60. Which one is the \"Tokyo Tower\" referring to? A. The Tokyo Towers B. Tokyo Tower: Mom and Me, and Sometimes Dad",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Bour": [
+        "The timeZone of \"Bour\" is Greenwich Mean Time, and country is Senegal. Which one is the \"Bour\" referring to? A. Justin Bour B. M'Bour",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Faut": [
+        "The award of \"Faut\" is Gold, and region is Belgium. Which one is the \"Faut\" referring to? A. Compagnie des Tabacs Comme Il Faut, S.A. B. Il nous faut C. Jean Faut",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Sikandar": [
+        "The utcOffsetDst of \"Sikandar\" is 270.0, and country is Iran. Which one is the \"Sikandar\" referring to? A. Irafshan B. Sikandar Kher",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Harmer": [
+        "The region of \"Harmer\" is West Midlands, and postalCode is SY4. Which one is the \"Harmer\" referring to? A. Barbara Harmer B. Harmer Hill",
+        "B"
+    ],
+    "http://dbpedia.org/resource/SFW": [
+        "The owner of \"SFW\" is United Natural Foods, and foundingYear is 1949. Which one is the \"SFW\" referring to? A. S.F.W. B. Shoppers Food & Pharmacy",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Andante": [
+        "The activeYearsEndYear of \"Andante\" is 1972, and activeYearsStartYear is 1958. Which one is the \"Andante\" referring to? A. Andante, Andante B. Andante Mount C. The Andantes",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Ingleby": [
+        "The birthYear of \"Ingleby\" is 1551, and birthPlace is North Yorkshire, England. Which one is the \"Ingleby\" referring to? A. Francis Ingleby B. Ingleby Barwick",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Trinchera": [
+        "The architecture of \"Trinchera\" is Stacked stone enclosure, and locmapin is Colorado#USA. Which one is the \"Trinchera\" referring to? A. Dominick Trinchera B. Trinchera Cave Archeological District",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Tier": [
+        "The founder of \"Tier\" is Koo Chen-fu, and foundedBy is Koo Chen-fu. Which one is the \"Tier\" referring to? A. Sehnsucht (Rammstein album) B. Taiwan Institute of Economic Research",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Verges": [
+        "The canton of \"Verges\" is Poligny, and country is France. Which one is the \"Verges\" referring to? A. Troy Verges B. Verges, Jura",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Cree": [
+        "The parent of \"Cree\" is Cree Regional Economic Enterprises Company Inc., and parentCompany is Cree Regional Economic Enterprises Company Inc.. Which one is the \"Cree\" referring to? A. Air Creebec B. Cree Summer",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Ipswich": [
+        "The owner of \"Ipswich\" is Gamechanger 20 Ltd., and formationDate is 1878-10-16. Which one is the \"Ipswich\" referring to? A. City of Ipswich B. Ipswich Town F.C. C. Ipswich serial murders",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Lincoln_Plaza": [
+        "The locationCountry of \"Lincoln Plaza\" is United States, and owner is Lincoln Property Company. Which one is the \"Lincoln Plaza\" referring to? A. 1 Lincoln Plaza B. Lincoln Plaza at SunTrust Center",
+        "B"
+    ],
+    "http://dbpedia.org/resource/NMA": [
+        "The director of \"NMA\" is Mathew Trinca, and established is 1980. Which one is the \"NMA\" referring to? A. National Museum of Australia B. New Media Age",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Boa_Vista": [
+        "The country of \"Boa Vista\" is Brazil, and timezone is Time in Brazil. Which one is the \"Boa Vista\" referring to? A. Boa Vista do Cadeado B. Boa Vista FM",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Coon_Creek": [
+        "The timezone of \"Coon Creek\" is North American Central Time Zone, and timeZone is North American Central Time Zone. Which one is the \"Coon Creek\" referring to? A. Coon Creek Girls B. Coon Creek Township, Lyon County, Minnesota",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Madam": [
+        "The timezone of \"Madam\" is Yemen Standard Time, and country is Yemen. Which one is the \"Madam\" referring to? A. Madam, Yemen B. Madame (2017 film)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/The": [
+        "The industry of \"The\" is Publishing, and founder is Wolfgang Philipp Müller. Which one is the \"The\" referring to? A. OmniScriptum B. Thee (2009 film)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Broxton": [
+        "The finalyear of \"Broxton\" is 2017, and birthDate is 1984-06-16. Which one is the \"Broxton\" referring to? A. Broxton, Oklahoma B. Jonathan Broxton",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Gros": [
+        "The country of \"Gros\" is France, and postalCode is 27370. Which one is the \"Gros\" referring to? A. Antoine-Jean Gros B. Le Gros-Theil",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Apsey": [
+        "The timezone of \"Apsey\" is Newfoundland Time, and areaCode is 709. Which one is the \"Apsey\" referring to? A. Apsey Brook B. Len Apsey",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Ready_set_go": [
+        "The released of \"Ready set go\" is 2010-11-02, and artist is Roscoe Dash. Which one is the \"Ready set go\" referring to? A. Echosmith B. Ready Set Go! (album)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Box_Elder": [
+        "The postalCode of \"Box Elder\" is 80137, and country is United States. Which one is the \"Box Elder\" referring to? A. Watkins, Colorado B. Box Elders",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Lei": [
+        "The size of \"Lei\" is 500, and founder is Mufti Munir Shakir. Which one is the \"Lei\" referring to? A. Lashkar-e-Islam B. Lei, Sardinia",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Fiona": [
+        "The designer of \"Fiona\" is Yukio Ando, and genre is Survival horror. Which one is the \"Fiona\" referring to? A. Fiona Fung B. Haunting Ground",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Farrar": [
+        "The genre of \"Farrar\" is Rock music, and activeYearsEndYear is 1973. Which one is the \"Farrar\" referring to? A. Farrar, Iowa B. Marvin, Welch & Farrar",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Bromhead": [
+        "The hometown of \"Bromhead\" is Sheffield, and activeYearsStartYear is 2005. Which one is the \"Bromhead\" referring to? A. Bromhead, Saskatchewan B. Bromheads Jacket",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Landin": [
+        "The dissolved of \"Landin\" is 2022, and postalCode is 16278. Which one is the \"Landin\" referring to? A. Mark Landin B. Peter Landin",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Lavern": [
+        "The country of \"Lavern\" is France, and inseeCode is 12126. Which one is the \"Lavern\" referring to? A. LaVern Gibson Championship Cross Country Course B. Lavernhe",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Vigen": [
+        "The deathPlace of \"Vigen\" is Los Angeles, California, United States, and birthDate is 1929-11-23. Which one is the \"Vigen\" referring to? A. Viguen B. Le Vigen",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Hyde_Park": [
+        "The birthYear of \"Hyde Park\" is 1945, and birthDate is 1945-10-01. Which one is the \"Hyde Park\" referring to? A. Deadman Standing B. Hyde Park, Gauteng C. Hyde Park Junior School D. Sid Rawle",
+        "D"
+    ],
+    "http://dbpedia.org/resource/Cornelius": [
+        "The nrhpReferenceNumber of \"Cornelius\" is 71000510, and yearOfConstruction is 1741. Which one is the \"Cornelius\" referring to? A. Cornelius, Oregon B. Cornelius Low House C. Cornelius the Centurion",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Conrado": [
+        "The established of \"Conrado\" is 1948-03-01, and foundingDate is 1948-03-01. Which one is the \"Conrado\" referring to? A. Gregorio Conrado Álvarez B. Colegio San Conrado",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Dardania": [
+        "The formationYear of \"Dardania\" is 2007, and position is Center-right. Which one is the \"Dardania\" referring to? A. Democratic League of Dardania B. Samothrace",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Whitbread": [
+        "The deathDate of \"Whitbread\" is 1815-07-06, and birthDate is 1764-01-18. Which one is the \"Whitbread\" referring to? A. Samuel Whitbread (1764–1815) B. Samuel Whitbread Academy",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Canfield": [
+        "The timezone of \"Canfield\" is Central Time Zone, and utcOffsetDst is -5. Which one is the \"Canfield\" referring to? A. A.J. Canfield Company B. Canfield, Arkansas",
+        "B"
+    ],
+    "http://dbpedia.org/resource/The_Range": [
+        "The activeYearsStartYear of \"The Range\" is 1974, and birthDate is 1954-11-23. Which one is the \"The Range\" referring to? A. Bruce Hornsby B. The Range, Queensland",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Enderlin": [
+        "The timezone of \"Enderlin\" is Central Time Zone, and postalCode is 58027. Which one is the \"Enderlin\" referring to? A. Richard Enderlin B. Enderlin, North Dakota",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Faust": [
+        "The almaMater of \"Faust\" is Oklahoma Christian University, and occupation is Novelist, freelance writer. Which one is the \"Faust\" referring to? A. Joe Clifford Faust B. The Last Faust C. Hotel Faust",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Yolanda": [
+        "The foundingDate of \"Yolanda\" is 1907-04-09, and postalCodeType is ZIP Codes. Which one is the \"Yolanda\" referring to? A. Jolanda, the Daughter of the Black Corsair B. San Anselmo, California",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Ricordi": [
+        "The parent of \"Ricordi\" is Universal Music Publishing Group, and country is Italy. Which one is the \"Ricordi\" referring to? A. Casa Ricordi B. House of Ricordi",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Som": [
+        "The genre of \"Som\" is Drum and bass, and activeYearsStartYear is 2002. Which one is the \"Som\" referring to? A. State of Mind (band) B. Skidmore, Owings & Merrill C. Secret of Mana D. Somalia",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Whelan": [
+        "The activeYearsStartYear of \"Whelan\" is 1982, and hometown is Whalley Range, Manchester. Which one is the \"Whelan\" referring to? A. Jill Whelan B. James (band)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Rosengarten": [
+        "The birthDate of \"Rosengarten\" is 1944-12-17, and nationality is American. Which one is the \"Rosengarten\" referring to? A. Theodore Rosengarten B. Rosengarten, Baden-Württemberg",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Boac": [
+        "The openingDate of \"Boac\" is 1940-04-01, and industry is Air Transport. Which one is the \"Boac\" referring to? A. Boac, Marinduque B. British Overseas Airways Corporation",
+        "B"
+    ],
+    "http://dbpedia.org/resource/BDC": [
+        "The genre of \"BDC\" is Content management system, and computingPlatform is X64. Which one is the \"BDC\" referring to? A. Montel Vontavious Porter B. SharePoint",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Alanna": [
+        "The author of \"Alanna\" is Tamora Pierce, and genre is Fantasy novel. Which one is the \"Alanna\" referring to? A. Alanna: The First Adventure B. The Alannah and Madeline Foundation",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Manigault": [
+        "The added of \"Manigault\" is 1973-11-07, and architect is Gabriel Manigault. Which one is the \"Manigault\" referring to? A. Omarosa Manigault Newman B. Joseph Manigault House",
+        "B"
+    ],
+    "http://dbpedia.org/resource/McGeorge": [
+        "The city of \"McGeorge\" is Sacramento, California, and country is United States. Which one is the \"McGeorge\" referring to? A. Lee McGeorge Durrell B. McGeorge School of Law",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Dowling": [
+        "The state of \"Dowling\" is New York (state), and city is Oakdale, New York. Which one is the \"Dowling\" referring to? A. Dowling, Texas B. Dowling College",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Beer": [
+        "The postalCode of \"Beer\" is EX12, and district is East Devon. Which one is the \"Beer\" referring to? A. Beer, Devon B. Campaign for Real Ale",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Luckenbach": [
+        "The employer of \"Luckenbach\" is Luckenbach Steamship Company, and deathDate is --04-26. Which one is the \"Luckenbach\" referring to? A. Edgar F. Luckenbach B. Luckenbach School (Gillespie County, Texas) C. Luckenbach, Texas (Back to the Basics of Love)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Oval": [
+        "The utcOffsetDst of \"Oval\" is -4, and timeZone is North American Eastern Time Zone. Which one is the \"Oval\" referring to? A. Oval, Pennsylvania B. Olympic Oval C. The Oval (TV series)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Letov": [
+        "The locationCountry of \"Letov\" is Czech Republic, and locationCity is Letňany. Which one is the \"Letov\" referring to? A. Letov Kbely B. Yegor Letov",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Santana": [
+        "The country of \"Santana\" is Brazil, and timezone is Time in Brazil. Which one is the \"Santana\" referring to? A. Tacima B. Santana Moss C. Santana Cycles D. Santana IV",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Gren": [
+        "The region of \"Gren\" is Graubünden, and country is Switzerland. Which one is the \"Gren\" referring to? A. Piz Gren B. Wenner-Gren Center",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Shilla": [
+        "The industry of \"Shilla\" is Hospitality, and location is Seoul, South Korea. Which one is the \"Shilla\" referring to? A. Hotel Shilla B. Illiasu Shilla",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Nishimura": [
+        "The activeYearsStartYear of \"Nishimura\" is 1997, and activeYearsEndYear is 1997. Which one is the \"Nishimura\" referring to? A. Koji Nishimura B. Zone (band)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Schwartze": [
+        "The nationality of \"Schwartze\" is Netherlands, and deathDate is 1918-12-23. Which one is the \"Schwartze\" referring to? A. Thérèse Schwartze B. Schwartze Mansion",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Balan": [
+        "The activeYearsStartYear of \"Balan\" is 1970, and child is Meghanathan. Which one is the \"Balan\" referring to? A. Balan, Ain B. Balan: Book of Angels Volume 5 C. Balan K. Nair",
+        "C"
+    ],
+    "http://dbpedia.org/resource/Ehrhardt": [
+        "The utcOffsetDst of \"Ehrhardt\" is -4, and timeZone is North American Eastern Time Zone. Which one is the \"Ehrhardt\" referring to? A. Ehrhardt, South Carolina B. Marinebrigade Ehrhardt",
+        "A"
+    ],
+    "http://dbpedia.org/resource/No_Regrets": [
+        "The artist of \"No Regrets\" is Magic!, and released is 2016-07-01. Which one is the \"No Regrets\" referring to? A. Pandora (singer) B. Primary Colours (Magic! album)",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Springdale": [
+        "The locmapin of \"Springdale\" is Pennsylvania#USA, and yearOfConstruction is 1857. Which one is the \"Springdale\" referring to? A. Springdale High School B. Springdale Mills",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Wop": [
+        "The releaseDate of \"Wop\" is 2007-04-01, and engine is ioquake3. Which one is the \"Wop\" referring to? A. World of Padman B. Wop May",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Nariño": [
+        "The party of \"Nariño\" is Centralist, and nationality is Viceroyalty of New Granada. Which one is the \"Nariño\" referring to? A. Antonio Nariño B. Nariño Department",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Billo": [
+        "The deathYear of \"Billo\" is 1988, and birthYear is 1915. Which one is the \"Billo\" referring to? A. Billo De Ghar B. Billo Frómeta",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Cool_Kids": [
+        "The genre of \"Cool Kids\" is Hip hop music, and date is July 2019. Which one is the \"Cool Kids\" referring to? A. The Cool Kids (TV series) B. The Cool Kids",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Goodell": [
+        "The timeZone of \"Goodell\" is North American Central Time Zone, and country is United States. Which one is the \"Goodell\" referring to? A. Goodell, Iowa B. Goodell-Pratt",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Force_majeure": [
+        "The writer of \"Force majeure\" is Chip Johannessen, and episode is 13. Which one is the \"Force majeure\" referring to? A. Force Majeure (Millennium) B. Force Majeure (band)",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Kiri": [
+        "The timezone of \"Kiri\" is West Africa Time, and country is DR Congo. Which one is the \"Kiri\" referring to? A. Breuvages Kiri B. Kiri, Democratic Republic of the Congo",
+        "B"
+    ],
+    "http://dbpedia.org/resource/Magnat": [
+        "The postalCode of \"Magnat\" is 23260, and inseeCode is 23115. Which one is the \"Magnat\" referring to? A. Magnat-l'Étrange B. Magnate & Valentino",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Self": [
+        "The birthDate of \"Self\" is 1964-01-08, and nationality is British. Which one is the \"Self\" referring to? A. Marc Quinn B. Solar Electric Light Fund",
+        "A"
+    ],
+    "http://dbpedia.org/resource/Crossen": [
+        "The district of \"Crossen\" is Saale-Holzland-Kreis, and mayor is Uwe Berndt. Which one is the \"Crossen\" referring to? A. Crossen an der Elster B. Kendell Foster Crossen",
+        "A"
+    ]
+}

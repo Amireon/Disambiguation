@@ -1,0 +1,1723 @@
+{
+    "http://dbpedia.org/resource/Olmos": {
+        "chosen_entity": "http://dbpedia.org/resource/Bodie_Olmos",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bodie_Olmos",
+            "http://dbpedia.org/resource/Olmos_District"
+        ],
+        "questions": [
+            [
+                "The parent of Olmos is Edward James Olmos, and birthPlace is United States. Is the Olmos referring to Bodie Olmos?",
+                "Yes"
+            ],
+            [
+                "The parent of Olmos is Edward James Olmos, and birthPlace is United States. Is the Olmos referring to Olmos District?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Georgian_House": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Georgian_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Georgian_House,_Bristol",
+            "http://dbpedia.org/resource/The_Georgian_House"
+        ],
+        "questions": [
+            [
+                "The country of Georgian House is United Kingdom, and language is English. Is the Georgian House referring to The Georgian House?",
+                "Yes"
+            ],
+            [
+                "The country of Georgian House is United Kingdom, and language is English. Is the Georgian House referring to Georgian House, Bristol?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kempton_Park": {
+        "chosen_entity": "http://dbpedia.org/resource/Kempton_Park,_Gauteng",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kempton_Park,_Gauteng",
+            "http://dbpedia.org/resource/Kempton_Park_Racecourse"
+        ],
+        "questions": [
+            [
+                "The postalCodeType of Kempton Park is List of postal codes in South Africa, and country is South Africa. Is the Kempton Park referring to Kempton Park, Gauteng?",
+                "Yes"
+            ],
+            [
+                "The postalCodeType of Kempton Park is List of postal codes in South Africa, and country is South Africa. Is the Kempton Park referring to Kempton Park Racecourse?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/RD": {
+        "chosen_entity": "http://dbpedia.org/resource/USDA_Rural_Development",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/USDA_Rural_Development",
+            "http://dbpedia.org/resource/Rilindja_Demokratike"
+        ],
+        "questions": [
+            [
+                "The formationYear of RD is 1994, and parentOrganisation is United States Department of Agriculture. Is the RD referring to USDA Rural Development?",
+                "Yes"
+            ],
+            [
+                "The formationYear of RD is 1994, and parentOrganisation is United States Department of Agriculture. Is the RD referring to Rilindja Demokratike?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Abel": {
+        "chosen_entity": "http://dbpedia.org/resource/Abel_Pintos",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Abel,_Alabama",
+            "http://dbpedia.org/resource/Abel_Pintos"
+        ],
+        "questions": [
+            [
+                "The activeYearsStartYear of Abel is 1997, and occupation is Musician, singer-songwriter. Is the Abel referring to Abel Pintos?",
+                "Yes"
+            ],
+            [
+                "The activeYearsStartYear of Abel is 1997, and occupation is Musician, singer-songwriter. Is the Abel referring to Abel, Alabama?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Boehringer": {
+        "chosen_entity": "http://dbpedia.org/resource/Boehringer_Ingelheim",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Boehringer_Ingelheim",
+            "http://dbpedia.org/resource/Jorge_Boehringer"
+        ],
+        "questions": [
+            [
+                "The industry of Boehringer is Pharmaceuticals, and locationCity is Ingelheim. Is the Boehringer referring to Boehringer Ingelheim?",
+                "Yes"
+            ],
+            [
+                "The industry of Boehringer is Pharmaceuticals, and locationCity is Ingelheim. Is the Boehringer referring to Jorge Boehringer?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/KNR": {
+        "chosen_entity": "http://dbpedia.org/resource/Kalaallit_Nunaata_Radioa",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Kalaallit_Nunaata_Radioa",
+            "http://dbpedia.org/resource/Kannur"
+        ],
+        "questions": [
+            [
+                "The country of KNR is Kingdom of Denmark, and owner is Politics of Greenland. Is the KNR referring to Kalaallit Nunaata Radioa?",
+                "Yes"
+            ],
+            [
+                "The country of KNR is Kingdom of Denmark, and owner is Politics of Greenland. Is the KNR referring to Kannur?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Robbins": {
+        "chosen_entity": "http://dbpedia.org/resource/Surf_Stadium",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Robbins_Entertainment",
+            "http://dbpedia.org/resource/Robbins,_Illinois",
+            "http://dbpedia.org/resource/Surf_Stadium"
+        ],
+        "questions": [
+            [
+                "The stadiumName of Robbins is Surf Stadium, and surface is Natural grass. Is the Robbins referring to Surf Stadium?",
+                "Yes"
+            ],
+            [
+                "The stadiumName of Robbins is Surf Stadium, and surface is Natural grass. Is the Robbins referring to Robbins Entertainment?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Smith_House": {
+        "chosen_entity": "http://dbpedia.org/resource/Missouri_Lumber_and_Mining_Company",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Nathan_Smith_House",
+            "http://dbpedia.org/resource/Milton_W._Smith_House",
+            "http://dbpedia.org/resource/Missouri_Lumber_and_Mining_Company"
+        ],
+        "questions": [
+            [
+                "The locmapin of Smith House is Missouri#USA, and location is Grandin, Missouri. Is the Smith House referring to Missouri Lumber and Mining Company?",
+                "Yes"
+            ],
+            [
+                "The locmapin of Smith House is Missouri#USA, and location is Grandin, Missouri. Is the Smith House referring to Nathan Smith House?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Fawcett": {
+        "chosen_entity": "http://dbpedia.org/resource/Tom_Benson_Hall_of_Fame_Stadium",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Fawcett,_Alberta",
+            "http://dbpedia.org/resource/Fawcett_Publications",
+            "http://dbpedia.org/resource/Tom_Benson_Hall_of_Fame_Stadium"
+        ],
+        "questions": [
+            [
+                "The owner of Fawcett is Hall of Fame Village, and stadiumName is Tom Benson Stadium. Is the Fawcett referring to Tom Benson Hall of Fame Stadium?",
+                "Yes"
+            ],
+            [
+                "The owner of Fawcett is Hall of Fame Village, and stadiumName is Tom Benson Stadium. Is the Fawcett referring to Fawcett Publications?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Love_Bug": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Love_Bug_(1925_film)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Love_Bug_(1925_film)",
+            "http://dbpedia.org/resource/Raffi"
+        ],
+        "questions": [
+            [
+                "The director of Love Bug is Robert F. McGowan, and producer is Hal Roach. Is the Love Bug referring to The Love Bug (1925 film)?",
+                "Yes"
+            ],
+            [
+                "The director of Love Bug is Robert F. McGowan, and producer is Hal Roach. Is the Love Bug referring to Raffi?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Duveneck": {
+        "chosen_entity": "http://dbpedia.org/resource/Frank_Duveneck",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Duveneck,_Wisconsin",
+            "http://dbpedia.org/resource/Frank_Duveneck"
+        ],
+        "questions": [
+            [
+                "The birthDate of Duveneck is 1848-10-09, and deathDate is 1919-01-03. Is the Duveneck referring to Frank Duveneck?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Duveneck is 1848-10-09, and deathDate is 1919-01-03. Is the Duveneck referring to Duveneck, Wisconsin?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Submarine": {
+        "chosen_entity": "http://dbpedia.org/resource/Submarines_(The_Lumineers_song)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Submarines_(The_Lumineers_song)",
+            "http://dbpedia.org/resource/The_Submarines"
+        ],
+        "questions": [
+            [
+                "The subsequentWork of Submarine is Ophelia (The Lumineers song), and producer is Ryan Hadlock. Is the Submarine referring to Submarines (The Lumineers song)?",
+                "Yes"
+            ],
+            [
+                "The subsequentWork of Submarine is Ophelia (The Lumineers song), and producer is Ryan Hadlock. Is the Submarine referring to The Submarines?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/María_Auxiliadora": {
+        "chosen_entity": "http://dbpedia.org/resource/María_Auxiliadora,_Distrito_Nacional",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/María_Auxiliadora,_Colón,_Montevideo",
+            "http://dbpedia.org/resource/María_Auxiliadora,_Distrito_Nacional"
+        ],
+        "questions": [
+            [
+                "The utcOffsetDst of María Auxiliadora is None, and country is Dominican Republic. Is the María Auxiliadora referring to María Auxiliadora, Distrito Nacional?",
+                "Yes"
+            ],
+            [
+                "The utcOffsetDst of María Auxiliadora is None, and country is Dominican Republic. Is the María Auxiliadora referring to María Auxiliadora, Colón, Montevideo?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Pilar": {
+        "chosen_entity": "http://dbpedia.org/resource/Pilar,_Bataan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Pilar,_Bataan",
+            "http://dbpedia.org/resource/Fort_Pilar",
+            "http://dbpedia.org/resource/Pilar_College"
+        ],
+        "questions": [
+            [
+                "The timezone of Pilar is Philippine Standard Time, and postalCodeType is List of ZIP codes in the Philippines. Is the Pilar referring to Pilar, Bataan?",
+                "Yes"
+            ],
+            [
+                "The timezone of Pilar is Philippine Standard Time, and postalCodeType is List of ZIP codes in the Philippines. Is the Pilar referring to Fort Pilar?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Tsuzuki": {
+        "chosen_entity": "http://dbpedia.org/resource/Tsuzuki-ku,_Yokohama",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ryōta_Tsuzuki",
+            "http://dbpedia.org/resource/Tsuzuki-ku,_Yokohama"
+        ],
+        "questions": [
+            [
+                "The country of Tsuzuki is Japan, and timezone is Japan Standard Time. Is the Tsuzuki referring to Tsuzuki-ku, Yokohama?",
+                "Yes"
+            ],
+            [
+                "The country of Tsuzuki is Japan, and timezone is Japan Standard Time. Is the Tsuzuki referring to Ryōta Tsuzuki?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Oberg": {
+        "chosen_entity": "http://dbpedia.org/resource/Carl_Oberg",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Carl_Oberg",
+            "http://dbpedia.org/resource/Ilsede"
+        ],
+        "questions": [
+            [
+                "The birthDate of Oberg is 1897-01-27, and deathDate is 1965-06-03. Is the Oberg referring to Carl Oberg?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Oberg is 1897-01-27, and deathDate is 1965-06-03. Is the Oberg referring to Ilsede?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Chenghua": {
+        "chosen_entity": "http://dbpedia.org/resource/Chenghua_District",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Chenghua_District",
+            "http://dbpedia.org/resource/Chenghua_Emperor",
+            "http://dbpedia.org/resource/Southwestern_University_of_Finance_and_Economics"
+        ],
+        "questions": [
+            [
+                "The postalCodeType of Chenghua is Postal code of China, and timezone is China Standard Time. Is the Chenghua referring to Chenghua District?",
+                "Yes"
+            ],
+            [
+                "The postalCodeType of Chenghua is Postal code of China, and timezone is China Standard Time. Is the Chenghua referring to Southwestern University of Finance and Economics?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Basser": {
+        "chosen_entity": "http://dbpedia.org/resource/Stade_Francis_Le_Basser",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Basser_College,_University_of_New_South_Wales",
+            "http://dbpedia.org/resource/Stade_Francis_Le_Basser"
+        ],
+        "questions": [
+            [
+                "The surface of Basser is grass, and renovated is 2002. Is the Basser referring to Stade Francis Le Basser?",
+                "Yes"
+            ],
+            [
+                "The surface of Basser is grass, and renovated is 2002. Is the Basser referring to Basser College, University of New South Wales?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bloodshot": {
+        "chosen_entity": "http://dbpedia.org/resource/Bloodshot_Records",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bloodshot_Records",
+            "http://dbpedia.org/resource/Condemned_2:_Bloodshot"
+        ],
+        "questions": [
+            [
+                "The country of Bloodshot is United States, and location is Chicago, Illinois. Is the Bloodshot referring to Bloodshot Records?",
+                "Yes"
+            ],
+            [
+                "The country of Bloodshot is United States, and location is Chicago, Illinois. Is the Bloodshot referring to Condemned 2: Bloodshot?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Malmstrom": {
+        "chosen_entity": "http://dbpedia.org/resource/Einar_Axel_Malmstrom",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Einar_Axel_Malmstrom",
+            "http://dbpedia.org/resource/Malmstrom_Air_Force_Base"
+        ],
+        "questions": [
+            [
+                "The deathPlace of Malmstrom is Great Falls, Montana, U.S., and birthPlace is Chicago, Illinois, U.S.. Is the Malmstrom referring to Einar Axel Malmstrom?",
+                "Yes"
+            ],
+            [
+                "The deathPlace of Malmstrom is Great Falls, Montana, U.S., and birthPlace is Chicago, Illinois, U.S.. Is the Malmstrom referring to Malmstrom Air Force Base?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Crozer": {
+        "chosen_entity": "http://dbpedia.org/resource/Crozer_Theological_Seminary",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Crozer_Theological_Seminary",
+            "http://dbpedia.org/resource/Elizabeth_Warder_Crozer_Campbell"
+        ],
+        "questions": [
+            [
+                "The locmapin of Crozer is Pennsylvania#USA, and added is 1973-06-18. Is the Crozer referring to Crozer Theological Seminary?",
+                "Yes"
+            ],
+            [
+                "The locmapin of Crozer is Pennsylvania#USA, and added is 1973-06-18. Is the Crozer referring to Elizabeth Warder Crozer Campbell?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Wimer": {
+        "chosen_entity": "http://dbpedia.org/resource/Wimer_Bridge",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Wimer,_Oregon",
+            "http://dbpedia.org/resource/John_Wimer",
+            "http://dbpedia.org/resource/Wimer_Bridge"
+        ],
+        "questions": [
+            [
+                "The yearOfConstruction of Wimer is 1927, and architecture is Queen post. Is the Wimer referring to Wimer Bridge?",
+                "Yes"
+            ],
+            [
+                "The yearOfConstruction of Wimer is 1927, and architecture is Queen post. Is the Wimer referring to John Wimer?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ahlam": {
+        "chosen_entity": "http://dbpedia.org/resource/Ahlam,_Iran",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ahlam,_Iran",
+            "http://dbpedia.org/resource/Ahlam_Amrani"
+        ],
+        "questions": [
+            [
+                "The utcOffsetDst of Ahlam is 270.0, and country is Iran. Is the Ahlam referring to Ahlam, Iran?",
+                "Yes"
+            ],
+            [
+                "The utcOffsetDst of Ahlam is 270.0, and country is Iran. Is the Ahlam referring to Ahlam Amrani?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Silvestre": {
+        "chosen_entity": "http://dbpedia.org/resource/Encina_de_San_Silvestre",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Encina_de_San_Silvestre",
+            "http://dbpedia.org/resource/San_Silvestre_School"
+        ],
+        "questions": [
+            [
+                "The timezone of Silvestre is Central European Time, and utcOffsetDst is +2. Is the Silvestre referring to Encina de San Silvestre?",
+                "Yes"
+            ],
+            [
+                "The timezone of Silvestre is Central European Time, and utcOffsetDst is +2. Is the Silvestre referring to San Silvestre School?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Orr": {
+        "chosen_entity": "http://dbpedia.org/resource/Orr_School",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Office_of_Rail_and_Road",
+            "http://dbpedia.org/resource/Orr_School",
+            "http://dbpedia.org/resource/Orr_Barouch"
+        ],
+        "questions": [
+            [
+                "The added of Orr is 1976-07-30, and locmapin is Arkansas#USA. Is the Orr referring to Orr School?",
+                "Yes"
+            ],
+            [
+                "The added of Orr is 1976-07-30, and locmapin is Arkansas#USA. Is the Orr referring to Office of Rail and Road?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Tokyo_Tower": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Tokyo_Towers",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Tokyo_Towers",
+            "http://dbpedia.org/resource/Tokyo_Tower:_Mom_and_Me,_and_Sometimes_Dad"
+        ],
+        "questions": [
+            [
+                "The height of Tokyo Tower is 193.5, and floorCount is 60. Is the Tokyo Tower referring to The Tokyo Towers?",
+                "Yes"
+            ],
+            [
+                "The height of Tokyo Tower is 193.5, and floorCount is 60. Is the Tokyo Tower referring to Tokyo Tower: Mom and Me, and Sometimes Dad?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bour": {
+        "chosen_entity": "http://dbpedia.org/resource/M'Bour",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Justin_Bour",
+            "http://dbpedia.org/resource/M'Bour"
+        ],
+        "questions": [
+            [
+                "The timeZone of Bour is Greenwich Mean Time, and country is Senegal. Is the Bour referring to M'Bour?",
+                "Yes"
+            ],
+            [
+                "The timeZone of Bour is Greenwich Mean Time, and country is Senegal. Is the Bour referring to Justin Bour?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Faut": {
+        "chosen_entity": "http://dbpedia.org/resource/Il_nous_faut",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Compagnie_des_Tabacs_Comme_Il_Faut,_S.A.",
+            "http://dbpedia.org/resource/Il_nous_faut",
+            "http://dbpedia.org/resource/Jean_Faut"
+        ],
+        "questions": [
+            [
+                "The award of Faut is Gold, and region is Belgium. Is the Faut referring to Il nous faut?",
+                "Yes"
+            ],
+            [
+                "The award of Faut is Gold, and region is Belgium. Is the Faut referring to Jean Faut?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Sikandar": {
+        "chosen_entity": "http://dbpedia.org/resource/Irafshan",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Irafshan",
+            "http://dbpedia.org/resource/Sikandar_Kher"
+        ],
+        "questions": [
+            [
+                "The utcOffsetDst of Sikandar is 270.0, and country is Iran. Is the Sikandar referring to Irafshan?",
+                "Yes"
+            ],
+            [
+                "The utcOffsetDst of Sikandar is 270.0, and country is Iran. Is the Sikandar referring to Sikandar Kher?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Harmer": {
+        "chosen_entity": "http://dbpedia.org/resource/Harmer_Hill",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Barbara_Harmer",
+            "http://dbpedia.org/resource/Harmer_Hill"
+        ],
+        "questions": [
+            [
+                "The region of Harmer is West Midlands, and postalCode is SY4. Is the Harmer referring to Harmer Hill?",
+                "Yes"
+            ],
+            [
+                "The region of Harmer is West Midlands, and postalCode is SY4. Is the Harmer referring to Barbara Harmer?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/SFW": {
+        "chosen_entity": "http://dbpedia.org/resource/Shoppers_Food_&_Pharmacy",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/S.F.W.",
+            "http://dbpedia.org/resource/Shoppers_Food_&_Pharmacy"
+        ],
+        "questions": [
+            [
+                "The owner of SFW is United Natural Foods, and foundingYear is 1949. Is the SFW referring to Shoppers Food & Pharmacy?",
+                "Yes"
+            ],
+            [
+                "The owner of SFW is United Natural Foods, and foundingYear is 1949. Is the SFW referring to S.F.W.?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Andante": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Andantes",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Andante,_Andante",
+            "http://dbpedia.org/resource/Andante_Mount",
+            "http://dbpedia.org/resource/The_Andantes"
+        ],
+        "questions": [
+            [
+                "The activeYearsEndYear of Andante is 1972, and activeYearsStartYear is 1958. Is the Andante referring to The Andantes?",
+                "Yes"
+            ],
+            [
+                "The activeYearsEndYear of Andante is 1972, and activeYearsStartYear is 1958. Is the Andante referring to Andante, Andante?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ingleby": {
+        "chosen_entity": "http://dbpedia.org/resource/Francis_Ingleby",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Francis_Ingleby",
+            "http://dbpedia.org/resource/Ingleby_Barwick"
+        ],
+        "questions": [
+            [
+                "The birthYear of Ingleby is 1551, and birthPlace is North Yorkshire, England. Is the Ingleby referring to Francis Ingleby?",
+                "Yes"
+            ],
+            [
+                "The birthYear of Ingleby is 1551, and birthPlace is North Yorkshire, England. Is the Ingleby referring to Ingleby Barwick?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Trinchera": {
+        "chosen_entity": "http://dbpedia.org/resource/Trinchera_Cave_Archeological_District",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Dominick_Trinchera",
+            "http://dbpedia.org/resource/Trinchera_Cave_Archeological_District"
+        ],
+        "questions": [
+            [
+                "The architecture of Trinchera is Stacked stone enclosure, and locmapin is Colorado#USA. Is the Trinchera referring to Trinchera Cave Archeological District?",
+                "Yes"
+            ],
+            [
+                "The architecture of Trinchera is Stacked stone enclosure, and locmapin is Colorado#USA. Is the Trinchera referring to Dominick Trinchera?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Tier": {
+        "chosen_entity": "http://dbpedia.org/resource/Taiwan_Institute_of_Economic_Research",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Sehnsucht_(Rammstein_album)",
+            "http://dbpedia.org/resource/Taiwan_Institute_of_Economic_Research"
+        ],
+        "questions": [
+            [
+                "The founder of Tier is Koo Chen-fu, and foundedBy is Koo Chen-fu. Is the Tier referring to Taiwan Institute of Economic Research?",
+                "Yes"
+            ],
+            [
+                "The founder of Tier is Koo Chen-fu, and foundedBy is Koo Chen-fu. Is the Tier referring to Sehnsucht (Rammstein album)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Verges": {
+        "chosen_entity": "http://dbpedia.org/resource/Verges,_Jura",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Troy_Verges",
+            "http://dbpedia.org/resource/Verges,_Jura"
+        ],
+        "questions": [
+            [
+                "The canton of Verges is Poligny, and country is France. Is the Verges referring to Verges, Jura?",
+                "Yes"
+            ],
+            [
+                "The canton of Verges is Poligny, and country is France. Is the Verges referring to Troy Verges?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Cree": {
+        "chosen_entity": "http://dbpedia.org/resource/Air_Creebec",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Air_Creebec",
+            "http://dbpedia.org/resource/Cree_Summer"
+        ],
+        "questions": [
+            [
+                "The parent of Cree is Cree Regional Economic Enterprises Company Inc., and parentCompany is Cree Regional Economic Enterprises Company Inc.. Is the Cree referring to Air Creebec?",
+                "Yes"
+            ],
+            [
+                "The parent of Cree is Cree Regional Economic Enterprises Company Inc., and parentCompany is Cree Regional Economic Enterprises Company Inc.. Is the Cree referring to Cree Summer?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ipswich": {
+        "chosen_entity": "http://dbpedia.org/resource/Ipswich_Town_F.C.",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/City_of_Ipswich",
+            "http://dbpedia.org/resource/Ipswich_Town_F.C.",
+            "http://dbpedia.org/resource/Ipswich_serial_murders"
+        ],
+        "questions": [
+            [
+                "The owner of Ipswich is Gamechanger 20 Ltd., and formationDate is 1878-10-16. Is the Ipswich referring to Ipswich Town F.C.?",
+                "Yes"
+            ],
+            [
+                "The owner of Ipswich is Gamechanger 20 Ltd., and formationDate is 1878-10-16. Is the Ipswich referring to Ipswich serial murders?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Lincoln_Plaza": {
+        "chosen_entity": "http://dbpedia.org/resource/Lincoln_Plaza_at_SunTrust_Center",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/1_Lincoln_Plaza",
+            "http://dbpedia.org/resource/Lincoln_Plaza_at_SunTrust_Center"
+        ],
+        "questions": [
+            [
+                "The locationCountry of Lincoln Plaza is United States, and owner is Lincoln Property Company. Is the Lincoln Plaza referring to Lincoln Plaza at SunTrust Center?",
+                "Yes"
+            ],
+            [
+                "The locationCountry of Lincoln Plaza is United States, and owner is Lincoln Property Company. Is the Lincoln Plaza referring to 1 Lincoln Plaza?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/NMA": {
+        "chosen_entity": "http://dbpedia.org/resource/National_Museum_of_Australia",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/National_Museum_of_Australia",
+            "http://dbpedia.org/resource/New_Media_Age"
+        ],
+        "questions": [
+            [
+                "The director of NMA is Mathew Trinca, and established is 1980. Is the NMA referring to National Museum of Australia?",
+                "Yes"
+            ],
+            [
+                "The director of NMA is Mathew Trinca, and established is 1980. Is the NMA referring to New Media Age?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Boa_Vista": {
+        "chosen_entity": "http://dbpedia.org/resource/Boa_Vista_do_Cadeado",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Boa_Vista_do_Cadeado",
+            "http://dbpedia.org/resource/Boa_Vista_FM"
+        ],
+        "questions": [
+            [
+                "The country of Boa Vista is Brazil, and timezone is Time in Brazil. Is the Boa Vista referring to Boa Vista do Cadeado?",
+                "Yes"
+            ],
+            [
+                "The country of Boa Vista is Brazil, and timezone is Time in Brazil. Is the Boa Vista referring to Boa Vista FM?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Coon_Creek": {
+        "chosen_entity": "http://dbpedia.org/resource/Coon_Creek_Township,_Lyon_County,_Minnesota",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Coon_Creek_Girls",
+            "http://dbpedia.org/resource/Coon_Creek_Township,_Lyon_County,_Minnesota"
+        ],
+        "questions": [
+            [
+                "The timezone of Coon Creek is North American Central Time Zone, and timeZone is North American Central Time Zone. Is the Coon Creek referring to Coon Creek Township, Lyon County, Minnesota?",
+                "Yes"
+            ],
+            [
+                "The timezone of Coon Creek is North American Central Time Zone, and timeZone is North American Central Time Zone. Is the Coon Creek referring to Coon Creek Girls?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Madam": {
+        "chosen_entity": "http://dbpedia.org/resource/Madam,_Yemen",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Madam,_Yemen",
+            "http://dbpedia.org/resource/Madame_(2017_film)"
+        ],
+        "questions": [
+            [
+                "The timezone of Madam is Yemen Standard Time, and country is Yemen. Is the Madam referring to Madam, Yemen?",
+                "Yes"
+            ],
+            [
+                "The timezone of Madam is Yemen Standard Time, and country is Yemen. Is the Madam referring to Madame (2017 film)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/The": {
+        "chosen_entity": "http://dbpedia.org/resource/OmniScriptum",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/OmniScriptum",
+            "http://dbpedia.org/resource/Thee_(2009_film)"
+        ],
+        "questions": [
+            [
+                "The industry of The is Publishing, and founder is Wolfgang Philipp Müller. Is the The referring to OmniScriptum?",
+                "Yes"
+            ],
+            [
+                "The industry of The is Publishing, and founder is Wolfgang Philipp Müller. Is the The referring to Thee (2009 film)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Broxton": {
+        "chosen_entity": "http://dbpedia.org/resource/Jonathan_Broxton",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Broxton,_Oklahoma",
+            "http://dbpedia.org/resource/Jonathan_Broxton"
+        ],
+        "questions": [
+            [
+                "The finalyear of Broxton is 2017, and birthDate is 1984-06-16. Is the Broxton referring to Jonathan Broxton?",
+                "Yes"
+            ],
+            [
+                "The finalyear of Broxton is 2017, and birthDate is 1984-06-16. Is the Broxton referring to Broxton, Oklahoma?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Gros": {
+        "chosen_entity": "http://dbpedia.org/resource/Le_Gros-Theil",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Antoine-Jean_Gros",
+            "http://dbpedia.org/resource/Le_Gros-Theil"
+        ],
+        "questions": [
+            [
+                "The country of Gros is France, and postalCode is 27370. Is the Gros referring to Le Gros-Theil?",
+                "Yes"
+            ],
+            [
+                "The country of Gros is France, and postalCode is 27370. Is the Gros referring to Antoine-Jean Gros?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Apsey": {
+        "chosen_entity": "http://dbpedia.org/resource/Apsey_Brook",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Apsey_Brook",
+            "http://dbpedia.org/resource/Len_Apsey"
+        ],
+        "questions": [
+            [
+                "The timezone of Apsey is Newfoundland Time, and areaCode is 709. Is the Apsey referring to Apsey Brook?",
+                "Yes"
+            ],
+            [
+                "The timezone of Apsey is Newfoundland Time, and areaCode is 709. Is the Apsey referring to Len Apsey?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ready_set_go": {
+        "chosen_entity": "http://dbpedia.org/resource/Ready_Set_Go!_(album)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Echosmith",
+            "http://dbpedia.org/resource/Ready_Set_Go!_(album)"
+        ],
+        "questions": [
+            [
+                "The released of Ready set go is 2010-11-02, and artist is Roscoe Dash. Is the Ready set go referring to Ready Set Go! (album)?",
+                "Yes"
+            ],
+            [
+                "The released of Ready set go is 2010-11-02, and artist is Roscoe Dash. Is the Ready set go referring to Echosmith?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Box_Elder": {
+        "chosen_entity": "http://dbpedia.org/resource/Watkins,_Colorado",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Watkins,_Colorado",
+            "http://dbpedia.org/resource/Box_Elders"
+        ],
+        "questions": [
+            [
+                "The postalCode of Box Elder is 80137, and country is United States. Is the Box Elder referring to Watkins, Colorado?",
+                "Yes"
+            ],
+            [
+                "The postalCode of Box Elder is 80137, and country is United States. Is the Box Elder referring to Box Elders?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Lei": {
+        "chosen_entity": "http://dbpedia.org/resource/Lashkar-e-Islam",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Lashkar-e-Islam",
+            "http://dbpedia.org/resource/Lei,_Sardinia"
+        ],
+        "questions": [
+            [
+                "The size of Lei is 500, and founder is Mufti Munir Shakir. Is the Lei referring to Lashkar-e-Islam?",
+                "Yes"
+            ],
+            [
+                "The size of Lei is 500, and founder is Mufti Munir Shakir. Is the Lei referring to Lei, Sardinia?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Fiona": {
+        "chosen_entity": "http://dbpedia.org/resource/Haunting_Ground",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Fiona_Fung",
+            "http://dbpedia.org/resource/Haunting_Ground"
+        ],
+        "questions": [
+            [
+                "The designer of Fiona is Yukio Ando, and genre is Survival horror. Is the Fiona referring to Haunting Ground?",
+                "Yes"
+            ],
+            [
+                "The designer of Fiona is Yukio Ando, and genre is Survival horror. Is the Fiona referring to Fiona Fung?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Farrar": {
+        "chosen_entity": "http://dbpedia.org/resource/Marvin,_Welch_&_Farrar",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Farrar,_Iowa",
+            "http://dbpedia.org/resource/Marvin,_Welch_&_Farrar"
+        ],
+        "questions": [
+            [
+                "The genre of Farrar is Rock music, and activeYearsEndYear is 1973. Is the Farrar referring to Marvin, Welch & Farrar?",
+                "Yes"
+            ],
+            [
+                "The genre of Farrar is Rock music, and activeYearsEndYear is 1973. Is the Farrar referring to Farrar, Iowa?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Bromhead": {
+        "chosen_entity": "http://dbpedia.org/resource/Bromheads_Jacket",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bromhead,_Saskatchewan",
+            "http://dbpedia.org/resource/Bromheads_Jacket"
+        ],
+        "questions": [
+            [
+                "The hometown of Bromhead is Sheffield, and activeYearsStartYear is 2005. Is the Bromhead referring to Bromheads Jacket?",
+                "Yes"
+            ],
+            [
+                "The hometown of Bromhead is Sheffield, and activeYearsStartYear is 2005. Is the Bromhead referring to Bromhead, Saskatchewan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Landin": {
+        "chosen_entity": "http://dbpedia.org/resource/Mark_Landin",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Mark_Landin",
+            "http://dbpedia.org/resource/Peter_Landin"
+        ],
+        "questions": [
+            [
+                "The dissolved of Landin is 2022, and postalCode is 16278. Is the Landin referring to Mark Landin?",
+                "Yes"
+            ],
+            [
+                "The dissolved of Landin is 2022, and postalCode is 16278. Is the Landin referring to Peter Landin?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Lavern": {
+        "chosen_entity": "http://dbpedia.org/resource/Lavernhe",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/LaVern_Gibson_Championship_Cross_Country_Course",
+            "http://dbpedia.org/resource/Lavernhe"
+        ],
+        "questions": [
+            [
+                "The country of Lavern is France, and inseeCode is 12126. Is the Lavern referring to Lavernhe?",
+                "Yes"
+            ],
+            [
+                "The country of Lavern is France, and inseeCode is 12126. Is the Lavern referring to LaVern Gibson Championship Cross Country Course?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Vigen": {
+        "chosen_entity": "http://dbpedia.org/resource/Viguen",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Viguen",
+            "http://dbpedia.org/resource/Le_Vigen"
+        ],
+        "questions": [
+            [
+                "The deathPlace of Vigen is Los Angeles, California, United States, and birthDate is 1929-11-23. Is the Vigen referring to Viguen?",
+                "Yes"
+            ],
+            [
+                "The deathPlace of Vigen is Los Angeles, California, United States, and birthDate is 1929-11-23. Is the Vigen referring to Le Vigen?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Hyde_Park": {
+        "chosen_entity": "http://dbpedia.org/resource/Sid_Rawle",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Deadman_Standing",
+            "http://dbpedia.org/resource/Hyde_Park,_Gauteng",
+            "http://dbpedia.org/resource/Hyde_Park_Junior_School",
+            "http://dbpedia.org/resource/Sid_Rawle"
+        ],
+        "questions": [
+            [
+                "The birthYear of Hyde Park is 1945, and birthDate is 1945-10-01. Is the Hyde Park referring to Sid Rawle?",
+                "Yes"
+            ],
+            [
+                "The birthYear of Hyde Park is 1945, and birthDate is 1945-10-01. Is the Hyde Park referring to Deadman Standing?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Cornelius": {
+        "chosen_entity": "http://dbpedia.org/resource/Cornelius_Low_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Cornelius,_Oregon",
+            "http://dbpedia.org/resource/Cornelius_Low_House",
+            "http://dbpedia.org/resource/Cornelius_the_Centurion"
+        ],
+        "questions": [
+            [
+                "The nrhpReferenceNumber of Cornelius is 71000510, and yearOfConstruction is 1741. Is the Cornelius referring to Cornelius Low House?",
+                "Yes"
+            ],
+            [
+                "The nrhpReferenceNumber of Cornelius is 71000510, and yearOfConstruction is 1741. Is the Cornelius referring to Cornelius, Oregon?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Conrado": {
+        "chosen_entity": "http://dbpedia.org/resource/Colegio_San_Conrado",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Gregorio_Conrado_Álvarez",
+            "http://dbpedia.org/resource/Colegio_San_Conrado"
+        ],
+        "questions": [
+            [
+                "The established of Conrado is 1948-03-01, and foundingDate is 1948-03-01. Is the Conrado referring to Colegio San Conrado?",
+                "Yes"
+            ],
+            [
+                "The established of Conrado is 1948-03-01, and foundingDate is 1948-03-01. Is the Conrado referring to Gregorio Conrado Álvarez?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Dardania": {
+        "chosen_entity": "http://dbpedia.org/resource/Democratic_League_of_Dardania",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Democratic_League_of_Dardania",
+            "http://dbpedia.org/resource/Samothrace"
+        ],
+        "questions": [
+            [
+                "The formationYear of Dardania is 2007, and position is Center-right. Is the Dardania referring to Democratic League of Dardania?",
+                "Yes"
+            ],
+            [
+                "The formationYear of Dardania is 2007, and position is Center-right. Is the Dardania referring to Samothrace?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Whitbread": {
+        "chosen_entity": "http://dbpedia.org/resource/Samuel_Whitbread_(1764–1815)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Samuel_Whitbread_(1764–1815)",
+            "http://dbpedia.org/resource/Samuel_Whitbread_Academy"
+        ],
+        "questions": [
+            [
+                "The deathDate of Whitbread is 1815-07-06, and birthDate is 1764-01-18. Is the Whitbread referring to Samuel Whitbread (1764–1815)?",
+                "Yes"
+            ],
+            [
+                "The deathDate of Whitbread is 1815-07-06, and birthDate is 1764-01-18. Is the Whitbread referring to Samuel Whitbread Academy?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Canfield": {
+        "chosen_entity": "http://dbpedia.org/resource/Canfield,_Arkansas",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/A.J._Canfield_Company",
+            "http://dbpedia.org/resource/Canfield,_Arkansas"
+        ],
+        "questions": [
+            [
+                "The timezone of Canfield is Central Time Zone, and utcOffsetDst is -5. Is the Canfield referring to Canfield, Arkansas?",
+                "Yes"
+            ],
+            [
+                "The timezone of Canfield is Central Time Zone, and utcOffsetDst is -5. Is the Canfield referring to A.J. Canfield Company?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/The_Range": {
+        "chosen_entity": "http://dbpedia.org/resource/Bruce_Hornsby",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Bruce_Hornsby",
+            "http://dbpedia.org/resource/The_Range,_Queensland"
+        ],
+        "questions": [
+            [
+                "The activeYearsStartYear of The Range is 1974, and birthDate is 1954-11-23. Is the The Range referring to Bruce Hornsby?",
+                "Yes"
+            ],
+            [
+                "The activeYearsStartYear of The Range is 1974, and birthDate is 1954-11-23. Is the The Range referring to The Range, Queensland?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Enderlin": {
+        "chosen_entity": "http://dbpedia.org/resource/Enderlin,_North_Dakota",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Richard_Enderlin",
+            "http://dbpedia.org/resource/Enderlin,_North_Dakota"
+        ],
+        "questions": [
+            [
+                "The timezone of Enderlin is Central Time Zone, and postalCode is 58027. Is the Enderlin referring to Enderlin, North Dakota?",
+                "Yes"
+            ],
+            [
+                "The timezone of Enderlin is Central Time Zone, and postalCode is 58027. Is the Enderlin referring to Richard Enderlin?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Faust": {
+        "chosen_entity": "http://dbpedia.org/resource/Joe_Clifford_Faust",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Joe_Clifford_Faust",
+            "http://dbpedia.org/resource/The_Last_Faust",
+            "http://dbpedia.org/resource/Hotel_Faust"
+        ],
+        "questions": [
+            [
+                "The almaMater of Faust is Oklahoma Christian University, and occupation is Novelist, freelance writer. Is the Faust referring to Joe Clifford Faust?",
+                "Yes"
+            ],
+            [
+                "The almaMater of Faust is Oklahoma Christian University, and occupation is Novelist, freelance writer. Is the Faust referring to Hotel Faust?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Yolanda": {
+        "chosen_entity": "http://dbpedia.org/resource/San_Anselmo,_California",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Jolanda,_the_Daughter_of_the_Black_Corsair",
+            "http://dbpedia.org/resource/San_Anselmo,_California"
+        ],
+        "questions": [
+            [
+                "The foundingDate of Yolanda is 1907-04-09, and postalCodeType is ZIP Codes. Is the Yolanda referring to San Anselmo, California?",
+                "Yes"
+            ],
+            [
+                "The foundingDate of Yolanda is 1907-04-09, and postalCodeType is ZIP Codes. Is the Yolanda referring to Jolanda, the Daughter of the Black Corsair?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ricordi": {
+        "chosen_entity": "http://dbpedia.org/resource/Casa_Ricordi",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Casa_Ricordi",
+            "http://dbpedia.org/resource/House_of_Ricordi"
+        ],
+        "questions": [
+            [
+                "The parent of Ricordi is Universal Music Publishing Group, and country is Italy. Is the Ricordi referring to Casa Ricordi?",
+                "Yes"
+            ],
+            [
+                "The parent of Ricordi is Universal Music Publishing Group, and country is Italy. Is the Ricordi referring to House of Ricordi?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Som": {
+        "chosen_entity": "http://dbpedia.org/resource/State_of_Mind_(band)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/State_of_Mind_(band)",
+            "http://dbpedia.org/resource/Skidmore,_Owings_&_Merrill",
+            "http://dbpedia.org/resource/Secret_of_Mana",
+            "http://dbpedia.org/resource/Somalia"
+        ],
+        "questions": [
+            [
+                "The genre of Som is Drum and bass, and activeYearsStartYear is 2002. Is the Som referring to State of Mind (band)?",
+                "Yes"
+            ],
+            [
+                "The genre of Som is Drum and bass, and activeYearsStartYear is 2002. Is the Som referring to Skidmore, Owings & Merrill?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Whelan": {
+        "chosen_entity": "http://dbpedia.org/resource/James_(band)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Jill_Whelan",
+            "http://dbpedia.org/resource/James_(band)"
+        ],
+        "questions": [
+            [
+                "The activeYearsStartYear of Whelan is 1982, and hometown is Whalley Range, Manchester. Is the Whelan referring to James (band)?",
+                "Yes"
+            ],
+            [
+                "The activeYearsStartYear of Whelan is 1982, and hometown is Whalley Range, Manchester. Is the Whelan referring to Jill Whelan?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Rosengarten": {
+        "chosen_entity": "http://dbpedia.org/resource/Theodore_Rosengarten",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Theodore_Rosengarten",
+            "http://dbpedia.org/resource/Rosengarten,_Baden-Württemberg"
+        ],
+        "questions": [
+            [
+                "The birthDate of Rosengarten is 1944-12-17, and nationality is American. Is the Rosengarten referring to Theodore Rosengarten?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Rosengarten is 1944-12-17, and nationality is American. Is the Rosengarten referring to Rosengarten, Baden-Württemberg?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Boac": {
+        "chosen_entity": "http://dbpedia.org/resource/British_Overseas_Airways_Corporation",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Boac,_Marinduque",
+            "http://dbpedia.org/resource/British_Overseas_Airways_Corporation"
+        ],
+        "questions": [
+            [
+                "The openingDate of Boac is 1940-04-01, and industry is Air Transport. Is the Boac referring to British Overseas Airways Corporation?",
+                "Yes"
+            ],
+            [
+                "The openingDate of Boac is 1940-04-01, and industry is Air Transport. Is the Boac referring to Boac, Marinduque?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/BDC": {
+        "chosen_entity": "http://dbpedia.org/resource/SharePoint",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Montel_Vontavious_Porter",
+            "http://dbpedia.org/resource/SharePoint"
+        ],
+        "questions": [
+            [
+                "The genre of BDC is Content management system, and computingPlatform is X64. Is the BDC referring to SharePoint?",
+                "Yes"
+            ],
+            [
+                "The genre of BDC is Content management system, and computingPlatform is X64. Is the BDC referring to Montel Vontavious Porter?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Alanna": {
+        "chosen_entity": "http://dbpedia.org/resource/Alanna:_The_First_Adventure",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Alanna:_The_First_Adventure",
+            "http://dbpedia.org/resource/The_Alannah_and_Madeline_Foundation"
+        ],
+        "questions": [
+            [
+                "The author of Alanna is Tamora Pierce, and genre is Fantasy novel. Is the Alanna referring to Alanna: The First Adventure?",
+                "Yes"
+            ],
+            [
+                "The author of Alanna is Tamora Pierce, and genre is Fantasy novel. Is the Alanna referring to The Alannah and Madeline Foundation?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Manigault": {
+        "chosen_entity": "http://dbpedia.org/resource/Joseph_Manigault_House",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Omarosa_Manigault_Newman",
+            "http://dbpedia.org/resource/Joseph_Manigault_House"
+        ],
+        "questions": [
+            [
+                "The added of Manigault is 1973-11-07, and architect is Gabriel Manigault. Is the Manigault referring to Joseph Manigault House?",
+                "Yes"
+            ],
+            [
+                "The added of Manigault is 1973-11-07, and architect is Gabriel Manigault. Is the Manigault referring to Omarosa Manigault Newman?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/McGeorge": {
+        "chosen_entity": "http://dbpedia.org/resource/McGeorge_School_of_Law",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Lee_McGeorge_Durrell",
+            "http://dbpedia.org/resource/McGeorge_School_of_Law"
+        ],
+        "questions": [
+            [
+                "The city of McGeorge is Sacramento, California, and country is United States. Is the McGeorge referring to McGeorge School of Law?",
+                "Yes"
+            ],
+            [
+                "The city of McGeorge is Sacramento, California, and country is United States. Is the McGeorge referring to Lee McGeorge Durrell?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Dowling": {
+        "chosen_entity": "http://dbpedia.org/resource/Dowling_College",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Dowling,_Texas",
+            "http://dbpedia.org/resource/Dowling_College"
+        ],
+        "questions": [
+            [
+                "The state of Dowling is New York (state), and city is Oakdale, New York. Is the Dowling referring to Dowling College?",
+                "Yes"
+            ],
+            [
+                "The state of Dowling is New York (state), and city is Oakdale, New York. Is the Dowling referring to Dowling, Texas?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Beer": {
+        "chosen_entity": "http://dbpedia.org/resource/Beer,_Devon",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Beer,_Devon",
+            "http://dbpedia.org/resource/Campaign_for_Real_Ale"
+        ],
+        "questions": [
+            [
+                "The postalCode of Beer is EX12, and district is East Devon. Is the Beer referring to Beer, Devon?",
+                "Yes"
+            ],
+            [
+                "The postalCode of Beer is EX12, and district is East Devon. Is the Beer referring to Campaign for Real Ale?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Luckenbach": {
+        "chosen_entity": "http://dbpedia.org/resource/Edgar_F._Luckenbach",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Edgar_F._Luckenbach",
+            "http://dbpedia.org/resource/Luckenbach_School_(Gillespie_County,_Texas)",
+            "http://dbpedia.org/resource/Luckenbach,_Texas_(Back_to_the_Basics_of_Love)"
+        ],
+        "questions": [
+            [
+                "The employer of Luckenbach is Luckenbach Steamship Company, and deathDate is --04-26. Is the Luckenbach referring to Edgar F. Luckenbach?",
+                "Yes"
+            ],
+            [
+                "The employer of Luckenbach is Luckenbach Steamship Company, and deathDate is --04-26. Is the Luckenbach referring to Luckenbach, Texas (Back to the Basics of Love)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Oval": {
+        "chosen_entity": "http://dbpedia.org/resource/Oval,_Pennsylvania",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Oval,_Pennsylvania",
+            "http://dbpedia.org/resource/Olympic_Oval",
+            "http://dbpedia.org/resource/The_Oval_(TV_series)"
+        ],
+        "questions": [
+            [
+                "The utcOffsetDst of Oval is -4, and timeZone is North American Eastern Time Zone. Is the Oval referring to Oval, Pennsylvania?",
+                "Yes"
+            ],
+            [
+                "The utcOffsetDst of Oval is -4, and timeZone is North American Eastern Time Zone. Is the Oval referring to Olympic Oval?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Letov": {
+        "chosen_entity": "http://dbpedia.org/resource/Letov_Kbely",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Letov_Kbely",
+            "http://dbpedia.org/resource/Yegor_Letov"
+        ],
+        "questions": [
+            [
+                "The locationCountry of Letov is Czech Republic, and locationCity is Letňany. Is the Letov referring to Letov Kbely?",
+                "Yes"
+            ],
+            [
+                "The locationCountry of Letov is Czech Republic, and locationCity is Letňany. Is the Letov referring to Yegor Letov?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Santana": {
+        "chosen_entity": "http://dbpedia.org/resource/Tacima",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Tacima",
+            "http://dbpedia.org/resource/Santana_Moss",
+            "http://dbpedia.org/resource/Santana_Cycles",
+            "http://dbpedia.org/resource/Santana_IV"
+        ],
+        "questions": [
+            [
+                "The country of Santana is Brazil, and timezone is Time in Brazil. Is the Santana referring to Tacima?",
+                "Yes"
+            ],
+            [
+                "The country of Santana is Brazil, and timezone is Time in Brazil. Is the Santana referring to Santana IV?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Gren": {
+        "chosen_entity": "http://dbpedia.org/resource/Piz_Gren",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Piz_Gren",
+            "http://dbpedia.org/resource/Wenner-Gren_Center"
+        ],
+        "questions": [
+            [
+                "The region of Gren is Graubünden, and country is Switzerland. Is the Gren referring to Piz Gren?",
+                "Yes"
+            ],
+            [
+                "The region of Gren is Graubünden, and country is Switzerland. Is the Gren referring to Wenner-Gren Center?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Shilla": {
+        "chosen_entity": "http://dbpedia.org/resource/Hotel_Shilla",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Hotel_Shilla",
+            "http://dbpedia.org/resource/Illiasu_Shilla"
+        ],
+        "questions": [
+            [
+                "The industry of Shilla is Hospitality, and location is Seoul, South Korea. Is the Shilla referring to Hotel Shilla?",
+                "Yes"
+            ],
+            [
+                "The industry of Shilla is Hospitality, and location is Seoul, South Korea. Is the Shilla referring to Illiasu Shilla?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Nishimura": {
+        "chosen_entity": "http://dbpedia.org/resource/Zone_(band)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Koji_Nishimura",
+            "http://dbpedia.org/resource/Zone_(band)"
+        ],
+        "questions": [
+            [
+                "The activeYearsStartYear of Nishimura is 1997, and activeYearsEndYear is 1997. Is the Nishimura referring to Zone (band)?",
+                "Yes"
+            ],
+            [
+                "The activeYearsStartYear of Nishimura is 1997, and activeYearsEndYear is 1997. Is the Nishimura referring to Koji Nishimura?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Schwartze": {
+        "chosen_entity": "http://dbpedia.org/resource/Thérèse_Schwartze",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Thérèse_Schwartze",
+            "http://dbpedia.org/resource/Schwartze_Mansion"
+        ],
+        "questions": [
+            [
+                "The nationality of Schwartze is Netherlands, and deathDate is 1918-12-23. Is the Schwartze referring to Thérèse Schwartze?",
+                "Yes"
+            ],
+            [
+                "The nationality of Schwartze is Netherlands, and deathDate is 1918-12-23. Is the Schwartze referring to Schwartze Mansion?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Balan": {
+        "chosen_entity": "http://dbpedia.org/resource/Balan_K._Nair",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Balan,_Ain",
+            "http://dbpedia.org/resource/Balan:_Book_of_Angels_Volume_5",
+            "http://dbpedia.org/resource/Balan_K._Nair"
+        ],
+        "questions": [
+            [
+                "The activeYearsStartYear of Balan is 1970, and child is Meghanathan. Is the Balan referring to Balan K. Nair?",
+                "Yes"
+            ],
+            [
+                "The activeYearsStartYear of Balan is 1970, and child is Meghanathan. Is the Balan referring to Balan: Book of Angels Volume 5?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Ehrhardt": {
+        "chosen_entity": "http://dbpedia.org/resource/Ehrhardt,_South_Carolina",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Ehrhardt,_South_Carolina",
+            "http://dbpedia.org/resource/Marinebrigade_Ehrhardt"
+        ],
+        "questions": [
+            [
+                "The utcOffsetDst of Ehrhardt is -4, and timeZone is North American Eastern Time Zone. Is the Ehrhardt referring to Ehrhardt, South Carolina?",
+                "Yes"
+            ],
+            [
+                "The utcOffsetDst of Ehrhardt is -4, and timeZone is North American Eastern Time Zone. Is the Ehrhardt referring to Marinebrigade Ehrhardt?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/No_Regrets": {
+        "chosen_entity": "http://dbpedia.org/resource/Primary_Colours_(Magic!_album)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Pandora_(singer)",
+            "http://dbpedia.org/resource/Primary_Colours_(Magic!_album)"
+        ],
+        "questions": [
+            [
+                "The artist of No Regrets is Magic!, and released is 2016-07-01. Is the No Regrets referring to Primary Colours (Magic! album)?",
+                "Yes"
+            ],
+            [
+                "The artist of No Regrets is Magic!, and released is 2016-07-01. Is the No Regrets referring to Pandora (singer)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Springdale": {
+        "chosen_entity": "http://dbpedia.org/resource/Springdale_Mills",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Springdale_High_School",
+            "http://dbpedia.org/resource/Springdale_Mills"
+        ],
+        "questions": [
+            [
+                "The locmapin of Springdale is Pennsylvania#USA, and yearOfConstruction is 1857. Is the Springdale referring to Springdale Mills?",
+                "Yes"
+            ],
+            [
+                "The locmapin of Springdale is Pennsylvania#USA, and yearOfConstruction is 1857. Is the Springdale referring to Springdale High School?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Wop": {
+        "chosen_entity": "http://dbpedia.org/resource/World_of_Padman",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/World_of_Padman",
+            "http://dbpedia.org/resource/Wop_May"
+        ],
+        "questions": [
+            [
+                "The releaseDate of Wop is 2007-04-01, and engine is ioquake3. Is the Wop referring to World of Padman?",
+                "Yes"
+            ],
+            [
+                "The releaseDate of Wop is 2007-04-01, and engine is ioquake3. Is the Wop referring to Wop May?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Nariño": {
+        "chosen_entity": "http://dbpedia.org/resource/Antonio_Nariño",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Antonio_Nariño",
+            "http://dbpedia.org/resource/Nariño_Department"
+        ],
+        "questions": [
+            [
+                "The party of Nariño is Centralist, and nationality is Viceroyalty of New Granada. Is the Nariño referring to Antonio Nariño?",
+                "Yes"
+            ],
+            [
+                "The party of Nariño is Centralist, and nationality is Viceroyalty of New Granada. Is the Nariño referring to Nariño Department?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Billo": {
+        "chosen_entity": "http://dbpedia.org/resource/Billo_Frómeta",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Billo_De_Ghar",
+            "http://dbpedia.org/resource/Billo_Frómeta"
+        ],
+        "questions": [
+            [
+                "The deathYear of Billo is 1988, and birthYear is 1915. Is the Billo referring to Billo Frómeta?",
+                "Yes"
+            ],
+            [
+                "The deathYear of Billo is 1988, and birthYear is 1915. Is the Billo referring to Billo De Ghar?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Cool_Kids": {
+        "chosen_entity": "http://dbpedia.org/resource/The_Cool_Kids",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/The_Cool_Kids_(TV_series)",
+            "http://dbpedia.org/resource/The_Cool_Kids"
+        ],
+        "questions": [
+            [
+                "The genre of Cool Kids is Hip hop music, and date is July 2019. Is the Cool Kids referring to The Cool Kids?",
+                "Yes"
+            ],
+            [
+                "The genre of Cool Kids is Hip hop music, and date is July 2019. Is the Cool Kids referring to The Cool Kids (TV series)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Goodell": {
+        "chosen_entity": "http://dbpedia.org/resource/Goodell,_Iowa",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Goodell,_Iowa",
+            "http://dbpedia.org/resource/Goodell-Pratt"
+        ],
+        "questions": [
+            [
+                "The timeZone of Goodell is North American Central Time Zone, and country is United States. Is the Goodell referring to Goodell, Iowa?",
+                "Yes"
+            ],
+            [
+                "The timeZone of Goodell is North American Central Time Zone, and country is United States. Is the Goodell referring to Goodell-Pratt?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Force_majeure": {
+        "chosen_entity": "http://dbpedia.org/resource/Force_Majeure_(Millennium)",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Force_Majeure_(Millennium)",
+            "http://dbpedia.org/resource/Force_Majeure_(band)"
+        ],
+        "questions": [
+            [
+                "The writer of Force majeure is Chip Johannessen, and episode is 13. Is the Force majeure referring to Force Majeure (Millennium)?",
+                "Yes"
+            ],
+            [
+                "The writer of Force majeure is Chip Johannessen, and episode is 13. Is the Force majeure referring to Force Majeure (band)?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Kiri": {
+        "chosen_entity": "http://dbpedia.org/resource/Kiri,_Democratic_Republic_of_the_Congo",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Breuvages_Kiri",
+            "http://dbpedia.org/resource/Kiri,_Democratic_Republic_of_the_Congo"
+        ],
+        "questions": [
+            [
+                "The timezone of Kiri is West Africa Time, and country is DR Congo. Is the Kiri referring to Kiri, Democratic Republic of the Congo?",
+                "Yes"
+            ],
+            [
+                "The timezone of Kiri is West Africa Time, and country is DR Congo. Is the Kiri referring to Breuvages Kiri?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Magnat": {
+        "chosen_entity": "http://dbpedia.org/resource/Magnat-l'Étrange",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Magnat-l'Étrange",
+            "http://dbpedia.org/resource/Magnate_&_Valentino"
+        ],
+        "questions": [
+            [
+                "The postalCode of Magnat is 23260, and inseeCode is 23115. Is the Magnat referring to Magnat-l'Étrange?",
+                "Yes"
+            ],
+            [
+                "The postalCode of Magnat is 23260, and inseeCode is 23115. Is the Magnat referring to Magnate & Valentino?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Self": {
+        "chosen_entity": "http://dbpedia.org/resource/Marc_Quinn",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Marc_Quinn",
+            "http://dbpedia.org/resource/Solar_Electric_Light_Fund"
+        ],
+        "questions": [
+            [
+                "The birthDate of Self is 1964-01-08, and nationality is British. Is the Self referring to Marc Quinn?",
+                "Yes"
+            ],
+            [
+                "The birthDate of Self is 1964-01-08, and nationality is British. Is the Self referring to Solar Electric Light Fund?",
+                "No"
+            ]
+        ]
+    },
+    "http://dbpedia.org/resource/Crossen": {
+        "chosen_entity": "http://dbpedia.org/resource/Crossen_an_der_Elster",
+        "candidate_entity": [
+            "http://dbpedia.org/resource/Crossen_an_der_Elster",
+            "http://dbpedia.org/resource/Kendell_Foster_Crossen"
+        ],
+        "questions": [
+            [
+                "The district of Crossen is Saale-Holzland-Kreis, and mayor is Uwe Berndt. Is the Crossen referring to Crossen an der Elster?",
+                "Yes"
+            ],
+            [
+                "The district of Crossen is Saale-Holzland-Kreis, and mayor is Uwe Berndt. Is the Crossen referring to Kendell Foster Crossen?",
+                "No"
+            ]
+        ]
+    }
+}

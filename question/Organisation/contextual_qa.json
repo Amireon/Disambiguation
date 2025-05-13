@@ -1,0 +1,1002 @@
+{
+    "http://dbpedia.org/resource/St._John's_High_School": {
+        "qa": [
+            "The mascot of St. John's High School is Pioneer, and city is Shrewsbury, Massachusetts. The country of St. John's High School is __ .",
+            "USA"
+        ],
+        "additionals": [
+            "The state of St. John's High School is Massachusetts.",
+            "The address of St. John's High School is 378 Main Street."
+        ]
+    },
+    "http://dbpedia.org/resource/LLHS": {
+        "qa": [
+            "The established of LLHS is 1926, and state is NM. The country of LLHS is __ .",
+            "USA"
+        ],
+        "additionals": [
+            "The foundingYear of LLHS is 1926.",
+            "The mascot of LLHS is Tiger."
+        ]
+    },
+    "http://dbpedia.org/resource/King_Edward_VI_College": {
+        "qa": [
+            "The country of King Edward VI College is England, and city is Stourbridge. The foundingYear of King Edward VI College is __ .",
+            "1552"
+        ],
+        "additionals": [
+            "The address of King Edward VI College is Lower High Street.",
+            "The founder of King Edward VI College is King Edward VI."
+        ]
+    },
+    "http://dbpedia.org/resource/Seton_High_School": {
+        "qa": [
+            "The country of Seton High School is USA, and address is 5715 Emerson Street. The mascot of Seton High School is __ .",
+            "Roadrunner"
+        ],
+        "additionals": [
+            "The foundingYear of Seton High School is 1959.",
+            "The established of Seton High School is 1959."
+        ]
+    },
+    "http://dbpedia.org/resource/St._Andrew's_College": {
+        "qa": [
+            "The country of St. Andrew's College is Canada, and foundingYear is 1899. The religion of St. Andrew's College is __ .",
+            "Non-denominational"
+        ],
+        "additionals": [
+            "The mascot of St. Andrew's College is Braveheart.",
+            "The founder of St. Andrew's College is Rev Dr. George Bruce."
+        ]
+    },
+    "http://dbpedia.org/resource/Wah_Yan": {
+        "qa": [
+            "The established of Wah Yan is 1919-12-16, and state is Hong Kong. The foundingDate of Wah Yan is __ .",
+            "1919-12-16"
+        ],
+        "additionals": [
+            "The founder of Wah Yan is Tsui Yan Sau Peter.",
+            "The foundingYear of Wah Yan is 1919."
+        ]
+    },
+    "http://dbpedia.org/resource/Commonweal": {
+        "qa": [
+            "The country of Commonweal is England, and foundingYear is 1916. Commonweal is established at __ .",
+            "1916"
+        ],
+        "additionals": [
+            "The address of Commonweal is Woodcote Lane.",
+            "The city of Commonweal is Purley, London."
+        ]
+    },
+    "http://dbpedia.org/resource/Allied_Bank": {
+        "qa": [
+            "The locationCountry of Allied Bank is Zimbabwe, and industry is Financial services. The dissolutionDate of Allied Bank is __ .",
+            "2015-01-08"
+        ],
+        "additionals": [
+            "The foundingYear of Allied Bank is 2005.",
+            "The locationCity of Allied Bank is Harare."
+        ]
+    },
+    "http://dbpedia.org/resource/Cooper_Middle_School": {
+        "qa": [
+            "The country of Cooper Middle School is USA, and address is 514. The motto of Cooper Middle School is __ .",
+            "\"One Team, One Goal, Student Success\""
+        ],
+        "additionals": [
+            "The city of Cooper Middle School is Marietta, Georgia.",
+            "The state of Cooper Middle School is Georgia (U.S. state)."
+        ]
+    },
+    "http://dbpedia.org/resource/Wesley_College": {
+        "qa": [
+            "The foundingYear of Wesley College is 1845, and founder is Methodist Church in Ireland. The foundingDate of Wesley College is __ .",
+            "1845-10-01"
+        ],
+        "additionals": [
+            "The established of Wesley College is 1845-10-01.",
+            "The foundedBy of Wesley College is Methodist Church in Ireland."
+        ]
+    },
+    "http://dbpedia.org/resource/GLHS": {
+        "qa": [
+            "The foundingYear of GLHS is 1930, and address is 105 Lee Circle. GLHS is established at __ .",
+            "1930"
+        ],
+        "additionals": [
+            "The state of GLHS is Georgia (U.S. state).",
+            "The mascot of GLHS is Trojan."
+        ]
+    },
+    "http://dbpedia.org/resource/Grange_Academy": {
+        "qa": [
+            "The city of Grange Academy is Kilmarnock, and mottoTranslation is Be Of Good Courage. The religion of Grange Academy is __ .",
+            "Non-denominational"
+        ],
+        "additionals": [
+            "The address of Grange Academy is Grange Campus, Beech Avenue.",
+            "The foundingYear of Grange Academy is 1966."
+        ]
+    },
+    "http://dbpedia.org/resource/Bethany": {
+        "qa": [
+            "The motto of Bethany is One Thing Needful, and state is Minnesota. The country of Bethany is __ .",
+            "USA"
+        ],
+        "additionals": [
+            "The established of Bethany is 1946.",
+            "The city of Bethany is Mankato, Minnesota."
+        ]
+    },
+    "http://dbpedia.org/resource/Baldwin": {
+        "qa": [
+            "The country of Baldwin is India, and foundingYear is 1880. The motto of Baldwin is __ .",
+            "Loyalty and Service"
+        ],
+        "additionals": [
+            "The city of Baldwin is Bangalore.",
+            "The religion of Baldwin is Methodist."
+        ]
+    },
+    "http://dbpedia.org/resource/KAOS": {
+        "qa": [
+            "The industry of KAOS is Video game industry, and locationCountry is United States. The parentCompany of KAOS is __ .",
+            "THQ"
+        ],
+        "additionals": [
+            "The dissolutionDate of KAOS is 2011-06-13.",
+            "The foundingYear of KAOS is 2006."
+        ]
+    },
+    "http://dbpedia.org/resource/MacKillop_College": {
+        "qa": [
+            "The country of MacKillop College is Australia, and foundingYear is 1987. The mottoTranslation of MacKillop College is __ .",
+            "In God my faith is constant"
+        ],
+        "additionals": [
+            "The state of MacKillop College is Victoria, Australia.",
+            "The city of MacKillop College is Swan Hill, Victoria."
+        ]
+    },
+    "http://dbpedia.org/resource/Willamette": {
+        "qa": [
+            "The foundingYear of Willamette is 1949, and motto is Velocius quam Amicorum Natare. The city of Willamette is __ .",
+            "Eugene, Oregon"
+        ],
+        "additionals": [
+            "The address of Willamette is 1801 Echo Hollow Road.",
+            "The country of Willamette is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/BC": {
+        "qa": [
+            "The state of BC is California, and established is 1913. The mascot of BC is __ .",
+            "Knight"
+        ],
+        "additionals": [
+            "The city of BC is Bakersfield, California.",
+            "The country of BC is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/WFHS": {
+        "qa": [
+            "The location of WFHS is 2076, and city is Gilbert. The mascot of WFHS is __ .",
+            "Black Hawk"
+        ],
+        "additionals": [
+            "The state of WFHS is Arizona.",
+            "The foundingYear of WFHS is 2007."
+        ]
+    },
+    "http://dbpedia.org/resource/St_Peter's_High_School": {
+        "qa": [
+            "The foundedBy of St Peter's High School is De La Salle Brothers, and city is Mandalay. The state of St Peter's High School is __ .",
+            "Mandalay Region"
+        ],
+        "additionals": [
+            "The country of St Peter's High School is Myanmar.",
+            "The founder of St Peter's High School is De La Salle Brothers."
+        ]
+    },
+    "http://dbpedia.org/resource/Palestine_High_School": {
+        "qa": [
+            "The established of Palestine High School is 1876, and country is USA. The foundingYear of Palestine High School is __ .",
+            "1876"
+        ],
+        "additionals": [
+            "The city of Palestine High School is East Palestine, Ohio.",
+            "The address of Palestine High School is 360 West Grant Street."
+        ]
+    },
+    "http://dbpedia.org/resource/St_Patrick's_Grammar_School": {
+        "qa": [
+            "The motto of St Patrick's Grammar School is Fratres in Unum, and established is 1838. The religion of St Patrick's Grammar School is __ .",
+            "Catholic Church"
+        ],
+        "additionals": [
+            "The foundingYear of St Patrick's Grammar School is 1838.",
+            "The country of St Patrick's Grammar School is Northern Ireland."
+        ]
+    },
+    "http://dbpedia.org/resource/Bishop_Kearney": {
+        "qa": [
+            "The state of Bishop Kearney is New York (state), and mottoTranslation is Do All Things Well.. The country of Bishop Kearney is __ .",
+            "USA"
+        ],
+        "additionals": [
+            "The founder of Bishop Kearney is Edmund Rice.",
+            "The address of Bishop Kearney is 125 Kings Highway South."
+        ]
+    },
+    "http://dbpedia.org/resource/Boston": {
+        "qa": [
+            "The country of Boston is England, and motto is Floreat Bostona. The address of Boston is __ .",
+            "South End"
+        ],
+        "additionals": [
+            "The foundingYear of Boston is 1555.",
+            "The city of Boston is Boston, Lincolnshire."
+        ]
+    },
+    "http://dbpedia.org/resource/McLaren": {
+        "qa": [
+            "The founder of McLaren is Ron Dennis, and locationCity is Woking. The industry of McLaren is __ .",
+            "Automotive industry"
+        ],
+        "additionals": [
+            "The foundedBy of McLaren is Ron Dennis.",
+            "The foundingDate of McLaren is 1985-12-02."
+        ]
+    },
+    "http://dbpedia.org/resource/Griswold": {
+        "qa": [
+            "The founder of Griswold is Franklin W. Griswold, and locationCountry is United States. The locationCity of Griswold is __ .",
+            "Minneapolis"
+        ],
+        "additionals": [
+            "The industry of Griswold is Engineering.",
+            "The foundingYear of Griswold is 1923."
+        ]
+    },
+    "http://dbpedia.org/resource/Revolution": {
+        "qa": [
+            "The foundingYear of Revolution is 1990, and country is U.S., Sweden. The genre of Revolution is __ .",
+            "Various"
+        ],
+        "additionals": [
+            "The foundedBy of Revolution is Irving Azoff.",
+            "The founder of Revolution is Irving Azoff."
+        ]
+    },
+    "http://dbpedia.org/resource/FLHS": {
+        "qa": [
+            "The state of FLHS is New York (state), and established is 1960-09-13. The city of FLHS is __ .",
+            "Fresh Meadows, Queens"
+        ],
+        "additionals": [
+            "The mascot of FLHS is Patriots.",
+            "The motto of FLHS is Preparing students for success in college, career, and life."
+        ]
+    },
+    "http://dbpedia.org/resource/Zastava": {
+        "qa": [
+            "The industry of Zastava is Automotive industry, and owner is Government of Serbia. The foundingDate of Zastava is __ .",
+            "2000-09-11"
+        ],
+        "additionals": [
+            "The locationCity of Zastava is Kosovska 4, Kragujevac.",
+            "The dissolutionDate of Zastava is 2008-11-21."
+        ]
+    },
+    "http://dbpedia.org/resource/GSIS": {
+        "qa": [
+            "The city of GSIS is Ooty, and state is Tamil Nadu. The address of GSIS is __ .",
+            "M.Palada P.O."
+        ],
+        "additionals": [
+            "The motto of GSIS is 'Truth, Trust, Triumph''.",
+            "The foundingYear of GSIS is 1977."
+        ]
+    },
+    "http://dbpedia.org/resource/BDS": {
+        "qa": [
+            "The owner of BDS is Luminate, and foundingYear is 1982. The locationCountry of BDS is __ .",
+            "United States"
+        ],
+        "additionals": [
+            "The parentCompany of BDS is MRC (company).",
+            "The industry of BDS is Internet Music Data Analysis."
+        ]
+    },
+    "http://dbpedia.org/resource/Wagoner": {
+        "qa": [
+            "The foundingYear of Wagoner is 1899, and locationCountry is United States. The industry of Wagoner is __ .",
+            "Automotive industry"
+        ],
+        "additionals": [
+            "The locationCity of Wagoner is Syracuse, New York.",
+            "The genre of Wagoner is Electric and gasoline run-about called the Van Wagoner and later renamed to Syracuse."
+        ]
+    },
+    "http://dbpedia.org/resource/NCC": {
+        "qa": [
+            "The religion of NCC is Catholic Church, and motto is To succeed you must believe, and we believe.. The mascot of NCC is __ .",
+            "Thoroughbreds"
+        ],
+        "additionals": [
+            "The country of NCC is USA.",
+            "The city of NCC is Newport, Kentucky."
+        ]
+    },
+    "http://dbpedia.org/resource/Mutual_Life_Insurance_Company": {
+        "qa": [
+            "The locationCountry of Mutual Life Insurance Company is United States, 90018, and industry is Insurance. The location of Mutual Life Insurance Company is __ .",
+            "1999"
+        ],
+        "additionals": [
+            "The foundingYear of Mutual Life Insurance Company is 1925.",
+            "The locationCity of Mutual Life Insurance Company is Los Angeles California."
+        ]
+    },
+    "http://dbpedia.org/resource/Leadership_Academy": {
+        "qa": [
+            "The motto of Leadership Academy is Learn, Create, Lead, and country is USA. Leadership Academy is established at __ .",
+            "2006"
+        ],
+        "additionals": [
+            "The foundingYear of Leadership Academy is 2006.",
+            "The mascot of Leadership Academy is Rockets."
+        ]
+    },
+    "http://dbpedia.org/resource/Chaitanya": {
+        "qa": [
+            "The state of Chaitanya is Andhra Pradesh, and established is 1986. The city of Chaitanya is __ .",
+            "Eluru"
+        ],
+        "additionals": [
+            "The foundingYear of Chaitanya is 1986.",
+            "The country of Chaitanya is India."
+        ]
+    },
+    "http://dbpedia.org/resource/Tech": {
+        "qa": [
+            "The motto of Tech is \"From here, it's possible.\", and established is 1923-02-10. The city of Tech is __ .",
+            "Lubbock, Texas"
+        ],
+        "additionals": [
+            "The state of Tech is Texas.",
+            "The foundingDate of Tech is 1923-02-10."
+        ]
+    },
+    "http://dbpedia.org/resource/FMC": {
+        "qa": [
+            "The city of FMC is Abbottabad, and country is Pakistan. FMC is established at __ .",
+            "1995-04-10"
+        ],
+        "additionals": [
+            "The foundingDate of FMC is 1995-04-10.",
+            "The motto of FMC is Excellence and Innovation."
+        ]
+    },
+    "http://dbpedia.org/resource/OL": {
+        "qa": [
+            "The foundingYear of OL is 1235, and address is East Road. The country of OL is __ .",
+            "England"
+        ],
+        "additionals": [
+            "The founder of OL is John Gardyner.",
+            "The city of OL is Lancaster, Lancashire."
+        ]
+    },
+    "http://dbpedia.org/resource/UAT": {
+        "qa": [
+            "The country of UAT is Mexico], and city is Ciudad Victoria, Tamaulipas. The foundingDate of UAT is __ .",
+            "1950-10-30"
+        ],
+        "additionals": [
+            "The established of UAT is 1950-10-30.",
+            "The state of UAT is Tamaulipas."
+        ]
+    },
+    "http://dbpedia.org/resource/PPR": {
+        "qa": [
+            "The dissolutionDate of PPR is 1990-12-31, and dissolved is 1990-12-31. The country of PPR is __ .",
+            "Netherlands"
+        ],
+        "additionals": [
+            "The formationYear of PPR is 1968.",
+            "The formationDate of PPR is 1968-04-27."
+        ]
+    },
+    "http://dbpedia.org/resource/Robotron": {
+        "qa": [
+            "The genre of Robotron is Technology, and foundedBy is Milan Hudecek. The founder of Robotron is __ .",
+            "Milan Hudecek"
+        ],
+        "additionals": [
+            "The locationCountry of Robotron is Australia.",
+            "The foundingYear of Robotron is 1983."
+        ]
+    },
+    "http://dbpedia.org/resource/GME": {
+        "qa": [
+            "The industry of GME is Retail, and locationCity is Grapevine, Texas. The parentCompany of GME is __ .",
+            "Barnes & Noble"
+        ],
+        "additionals": [
+            "The foundingYear of GME is 1984.",
+            "The owner of GME is Ryan Cohen."
+        ]
+    },
+    "http://dbpedia.org/resource/SJC": {
+        "qa": [
+            "The established of SJC is 1875-11-07, and foundingYear is 1875. SJC is foundedBy __ .",
+            "Institute of the Brothers of the Christian Schools"
+        ],
+        "additionals": [
+            "The country of SJC is Hong Kong.",
+            "The foundingDate of SJC is 1875-11-07."
+        ]
+    },
+    "http://dbpedia.org/resource/Hilton": {
+        "qa": [
+            "The foundingDate of Hilton is 1919-05-31, and foundedBy is Conrad Hilton. The locationCountry of Hilton is __ .",
+            "United States"
+        ],
+        "additionals": [
+            "The locationCity of Hilton is Tysons Corner, Virginia.",
+            "The foundingYear of Hilton is 1919."
+        ]
+    },
+    "http://dbpedia.org/resource/Front_line": {
+        "qa": [
+            "The country of Front line is Greece, and dissolved is 2000. The formationYear of Front line is __ .",
+            "1999"
+        ],
+        "additionals": [
+            "The founder of Front line is Konstantinos Plevris.",
+            "The religion of Front line is Greek Orthodox Church."
+        ]
+    },
+    "http://dbpedia.org/resource/ACI": {
+        "qa": [
+            "The foundingYear of ACI is 1878, and country is Turkey. ACI is established at __ .",
+            "1878"
+        ],
+        "additionals": [
+            "The city of ACI is Izmir.",
+            "The motto of ACI is Enter to Learn, Depart to Serve."
+        ]
+    },
+    "http://dbpedia.org/resource/Valley_High_School": {
+        "qa": [
+            "The foundingYear of Valley High School is 2005, and city is Ceres, California. The address of Valley High School is __ .",
+            "4033 Central Avenue"
+        ],
+        "additionals": [
+            "The state of Valley High School is California.",
+            "The motto of Valley High School is Stay fly Hawks!."
+        ]
+    },
+    "http://dbpedia.org/resource/RAHS": {
+        "qa": [
+            "The state of RAHS is Illinois, and address is 5110 N. Damen Avenue. The foundingYear of RAHS is __ .",
+            "1929"
+        ],
+        "additionals": [
+            "The city of RAHS is Chicago.",
+            "The country of RAHS is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/National_Party": {
+        "qa": [
+            "The formationYear of National Party is 1961, and formationDate is 1961-04-10. The founder of National Party is __ .",
+            "Stephen Kalong Ningkan"
+        ],
+        "additionals": [
+            "The country of National Party is Malaysia.",
+            "The dissolutionDate of National Party is 2013-01-17."
+        ]
+    },
+    "http://dbpedia.org/resource/Golden_West": {
+        "qa": [
+            "The city of Golden West is Huntington Beach, California, and motto is Oceans of Opportunity. The country of Golden West is __ .",
+            "U.S."
+        ],
+        "additionals": [
+            "The established of Golden West is 1965.",
+            "The mascot of Golden West is Rustler Sam."
+        ]
+    },
+    "http://dbpedia.org/resource/NUHS": {
+        "qa": [
+            "The motto of NUHS is Esse Quam Videri, and established is 1906. The mascot of NUHS is __ .",
+            "Eagle"
+        ],
+        "additionals": [
+            "The state of NUHS is Illinois.",
+            "The city of NUHS is Lombard, Illinois."
+        ]
+    },
+    "http://dbpedia.org/resource/AIT": {
+        "qa": [
+            "The foundedBy of AIT is Raymond Dokpesi, and country is Nigeria. The owner of AIT is __ .",
+            "DAAR Communications plc."
+        ],
+        "additionals": [
+            "The locationCountry of AIT is Nigeria.",
+            "The founder of AIT is Raymond Dokpesi."
+        ]
+    },
+    "http://dbpedia.org/resource/PVHS": {
+        "qa": [
+            "The state of PVHS is Pennsylvania, and city is Lansford, Pennsylvania. The address of PVHS is __ .",
+            "912 Coal Region Way"
+        ],
+        "additionals": [
+            "The foundingYear of PVHS is 1973.",
+            "The country of PVHS is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/St_Hugh's": {
+        "qa": [
+            "The foundingYear of St Hugh's is 1899, and country is Jamaica. The mottoTranslation of St Hugh's is __ .",
+            "Loyalty and faithfulness"
+        ],
+        "additionals": [
+            "The city of St Hugh's is Kingston 5.",
+            "The religion of St Hugh's is Anglican."
+        ]
+    },
+    "http://dbpedia.org/resource/Condor": {
+        "qa": [
+            "The locationCity of Condor is London, and locationCountry is United Kingdom. The industry of Condor is __ .",
+            "Retail"
+        ],
+        "additionals": [
+            "The founder of Condor is Monty Young.",
+            "The foundingYear of Condor is 1948."
+        ]
+    },
+    "http://dbpedia.org/resource/Presentation_College": {
+        "qa": [
+            "The foundingYear of Presentation College is 1873, and established is 1873. The country of Presentation College is __ .",
+            "Australia"
+        ],
+        "additionals": [
+            "The city of Presentation College is Windsor, Victoria.",
+            "The state of Presentation College is Victoria, Australia."
+        ]
+    },
+    "http://dbpedia.org/resource/IBAT": {
+        "qa": [
+            "The founder of IBAT is Shane Ormsby, and established is 2004. The address of IBAT is __ .",
+            "16"
+        ],
+        "additionals": [
+            "The country of IBAT is Republic of Ireland.",
+            "The city of IBAT is Dublin."
+        ]
+    },
+    "http://dbpedia.org/resource/Olin": {
+        "qa": [
+            "The foundedBy of Olin is Franklin W. Olin, and locationCountry is United States. The founder of Olin is __ .",
+            "Franklin W. Olin"
+        ],
+        "additionals": [
+            "The foundingYear of Olin is 1892.",
+            "The locationCity of Olin is Clayton, Missouri."
+        ]
+    },
+    "http://dbpedia.org/resource/MHHS": {
+        "qa": [
+            "The mascot of MHHS is Bomber, and address is 500 Bomber Boulevard. The country of MHHS is __ .",
+            "USA"
+        ],
+        "additionals": [
+            "The state of MHHS is Arkansas.",
+            "The city of MHHS is Mountain Home, Arkansas."
+        ]
+    },
+    "http://dbpedia.org/resource/AIB": {
+        "qa": [
+            "The city of AIB is Adelaide, and state is South Australia. The motto of AIB is __ .",
+            "The Practical Business School"
+        ],
+        "additionals": [
+            "The country of AIB is Australia.",
+            "The established of AIB is 1985."
+        ]
+    },
+    "http://dbpedia.org/resource/Bishop": {
+        "qa": [
+            "The country of Bishop is Canada, and state is Quebec. The mascot of Bishop is __ .",
+            "Alligator"
+        ],
+        "additionals": [
+            "The motto of Bishop is Righteous ways makes strong the heart.",
+            "The city of Bishop is Sherbrooke."
+        ]
+    },
+    "http://dbpedia.org/resource/Woodlands_Academy": {
+        "qa": [
+            "The country of Woodlands Academy is England, and city is Coventry. The address of Woodlands Academy is __ .",
+            "Broad Lane"
+        ],
+        "additionals": [
+            "The foundingYear of Woodlands Academy is 1954.",
+            "The established of Woodlands Academy is 1954."
+        ]
+    },
+    "http://dbpedia.org/resource/Whitewater": {
+        "qa": [
+            "The city of Whitewater is Whitewater, Wisconsin, and established is 1868. The state of Whitewater is __ .",
+            "Wisconsin"
+        ],
+        "additionals": [
+            "The mascot of Whitewater is Willie Warhawk.",
+            "The country of Whitewater is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/Nai": {
+        "qa": [
+            "The founder of Nai is Mark A. LeDoux, and locationCountry is USA. The locationCity of Nai is __ .",
+            "Carlsbad, California"
+        ],
+        "additionals": [
+            "The genre of Nai is Health.",
+            "The foundingYear of Nai is 1980."
+        ]
+    },
+    "http://dbpedia.org/resource/KJHS": {
+        "qa": [
+            "The city of KJHS is Portadown, and foundingYear is 1958. KJHS is foundedBy __ .",
+            "Dickson Plan"
+        ],
+        "additionals": [
+            "The established of KJHS is 1958.",
+            "The address of KJHS is Upper Church Lane."
+        ]
+    },
+    "http://dbpedia.org/resource/Reverb": {
+        "qa": [
+            "The genre of Reverb is Various, and country is Australia. The location of Reverb is __ .",
+            "Sydney, New South Wales"
+        ],
+        "additionals": [
+            "The foundedBy of Reverb is Rusty Hopkinson.",
+            "The foundingYear of Reverb is 2003."
+        ]
+    },
+    "http://dbpedia.org/resource/Lincoln_Park": {
+        "qa": [
+            "The address of Lincoln Park is 1701 Champaign Road, and country is United States. The foundingYear of Lincoln Park is __ .",
+            "1957"
+        ],
+        "additionals": [
+            "The state of Lincoln Park is Michigan.",
+            "The city of Lincoln Park is Lincoln Park, Michigan."
+        ]
+    },
+    "http://dbpedia.org/resource/SMC": {
+        "qa": [
+            "The foundingYear of SMC is 2005, and genre is Hip hop. The founder of SMC is __ .",
+            "Charles Vasquez, Micheal Luna, Saroj Thapa"
+        ],
+        "additionals": [
+            "The parentCompany of SMC is Universal Music Group.",
+            "The location of SMC is Del Valle, Texas."
+        ]
+    },
+    "http://dbpedia.org/resource/NPA": {
+        "qa": [
+            "The foundingDate of NPA is 1998-06-01, and foundingYear is 1998. The locationCity of NPA is __ .",
+            "Craigieburn, Victoria"
+        ],
+        "additionals": [
+            "The owner of NPA is Reserve Bank of Australia.",
+            "The industry of NPA is Printing."
+        ]
+    },
+    "http://dbpedia.org/resource/CEC": {
+        "qa": [
+            "The foundingYear of CEC is 1970, and established is 1970. The country of CEC is __ .",
+            "Canada"
+        ],
+        "additionals": [
+            "The address of CEC is 34 Lorne Street.",
+            "The city of CEC is Truro, Nova Scotia."
+        ]
+    },
+    "http://dbpedia.org/resource/Doane": {
+        "qa": [
+            "The city of Doane is Burlington, New Jersey, and state is New Jersey. The religion of Doane is __ .",
+            "Episcopal Church (United States)"
+        ],
+        "additionals": [
+            "The motto of Doane is Right Onward.",
+            "The founder of Doane is George Washington Doane."
+        ]
+    },
+    "http://dbpedia.org/resource/Storyville": {
+        "qa": [
+            "The country of Storyville is U.S., and location is Boston. The genre of Storyville is __ .",
+            "Jazz"
+        ],
+        "additionals": [
+            "The founder of Storyville is George Wein.",
+            "The foundingYear of Storyville is 1950."
+        ]
+    },
+    "http://dbpedia.org/resource/GSC": {
+        "qa": [
+            "The foundingDate of GSC is 1923-09-24, and state is New Jersey. The city of GSC is __ .",
+            "Glassboro, New Jersey"
+        ],
+        "additionals": [
+            "The mascot of GSC is Whoo RU the Prof.",
+            "The established of GSC is 1923-09-24."
+        ]
+    },
+    "http://dbpedia.org/resource/Holy_Family_Catholic_School": {
+        "qa": [
+            "The country of Holy Family Catholic School is England, and city is Keighley. The address of Holy Family Catholic School is __ .",
+            "Spring Gardens Lane"
+        ],
+        "additionals": [
+            "The religion of Holy Family Catholic School is Roman Catholic.",
+            "The foundingYear of Holy Family Catholic School is 1965."
+        ]
+    },
+    "http://dbpedia.org/resource/California_School_for_the_Deaf": {
+        "qa": [
+            "The city of California School for the Deaf is Riverside, California, and mascot is Cubs. The foundingYear of California School for the Deaf is __ .",
+            "1953"
+        ],
+        "additionals": [
+            "The state of California School for the Deaf is California.",
+            "The country of California School for the Deaf is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/Waterfront": {
+        "qa": [
+            "The locationCountry of Waterfront is Norway, and foundingYear is 1988. The industry of Waterfront is __ .",
+            "Shipping"
+        ],
+        "additionals": [
+            "The locationCity of Waterfront is Oslo.",
+            "The parentCompany of Waterfront is Kistefos."
+        ]
+    },
+    "http://dbpedia.org/resource/LBHS": {
+        "qa": [
+            "The country of LBHS is US, and address is 2201 Placida Road. The city of LBHS is __ .",
+            "Englewood, Florida"
+        ],
+        "additionals": [
+            "The motto of LBHS is \"Enter to Learn, Go Forth to Serve\".",
+            "The state of LBHS is Florida."
+        ]
+    },
+    "http://dbpedia.org/resource/IHS": {
+        "qa": [
+            "The locationCity of IHS is London, and locationCountry is United Kingdom. The foundingYear of IHS is __ .",
+            "1959"
+        ],
+        "additionals": [
+            "The parentCompany of IHS is S&P Global.",
+            "The industry of IHS is Information services."
+        ]
+    },
+    "http://dbpedia.org/resource/DJO": {
+        "qa": [
+            "The city of DJO is Arlington, Virginia, and established is 1957. The country of DJO is __ .",
+            "USA"
+        ],
+        "additionals": [
+            "The foundingYear of DJO is 1957.",
+            "The state of DJO is Virginia."
+        ]
+    },
+    "http://dbpedia.org/resource/Camp_Hill": {
+        "qa": [
+            "The foundingYear of Camp Hill is 1883, and founder is King Edward Foundation. The country of Camp Hill is __ .",
+            "England"
+        ],
+        "additionals": [
+            "The motto of Camp Hill is (God and my right).",
+            "The address of Camp Hill is Vicarage Road."
+        ]
+    },
+    "http://dbpedia.org/resource/Institute_of_Medical_Sciences": {
+        "qa": [
+            "The motto of Institute of Medical Sciences is In the Service of Humanity, and state is Manipur. The city of Institute of Medical Sciences is __ .",
+            "Imphal"
+        ],
+        "additionals": [
+            "The established of Institute of Medical Sciences is 1972-09-14.",
+            "The country of Institute of Medical Sciences is India."
+        ]
+    },
+    "http://dbpedia.org/resource/Walt_Whitman": {
+        "qa": [
+            "The state of Walt Whitman is Maryland, and established is 1962. The city of Walt Whitman is __ .",
+            "Bethesda, Maryland"
+        ],
+        "additionals": [
+            "The foundingYear of Walt Whitman is 1962.",
+            "The country of Walt Whitman is United States."
+        ]
+    },
+    "http://dbpedia.org/resource/Nest": {
+        "qa": [
+            "The owner of Nest is Alphabet Inc., and locationCity is Palo Alto, California. The industry of Nest is __ .",
+            "Home automation"
+        ],
+        "additionals": [
+            "The parentCompany of Nest is Google LLC.",
+            "The foundedBy of Nest is Tony Fadell."
+        ]
+    },
+    "http://dbpedia.org/resource/Capri": {
+        "qa": [
+            "The founder of Capri is Huey P. Meaux, and location is United States. The parentCompany of Capri is __ .",
+            "Warner Music Group"
+        ],
+        "additionals": [
+            "The genre of Capri is Rock and roll.",
+            "The foundedBy of Capri is Huey P. Meaux."
+        ]
+    },
+    "http://dbpedia.org/resource/KEHS": {
+        "qa": [
+            "The country of KEHS is England, and foundingYear is 1883. The city of KEHS is __ .",
+            "Birmingham"
+        ],
+        "additionals": [
+            "The established of KEHS is 1883.",
+            "The address of KEHS is Edgbaston Park Road."
+        ]
+    },
+    "http://dbpedia.org/resource/Islamic_university": {
+        "qa": [
+            "The established of Islamic university is 1979-11-22, and motto is Enhance Quality of Higher Education and Research. The city of Islamic university is __ .",
+            "Kushtia"
+        ],
+        "additionals": [
+            "The foundingDate of Islamic university is 1979-11-22.",
+            "The country of Islamic university is Bangladesh."
+        ]
+    },
+    "http://dbpedia.org/resource/McKinnon": {
+        "qa": [
+            "The country of McKinnon is Australia, and established is 1955. The motto of McKinnon is __ .",
+            "Wisdom & Service"
+        ],
+        "additionals": [
+            "The city of McKinnon is McKinnon, Victoria.",
+            "The foundingYear of McKinnon is 1955."
+        ]
+    },
+    "http://dbpedia.org/resource/CA": {
+        "qa": [
+            "The foundingYear of CA is 1997, and motto is Discovery, Innovation, Collaboration, and Excellence. The state of CA is __ .",
+            "North Carolina"
+        ],
+        "additionals": [
+            "The country of CA is United States.",
+            "The city of CA is Cary, North Carolina."
+        ]
+    },
+    "http://dbpedia.org/resource/Hudson": {
+        "qa": [
+            "The foundingYear of Hudson is 1973, and foundingDate is 1973-05-18. The industry of Hudson is __ .",
+            "Video game industry"
+        ],
+        "additionals": [
+            "The dissolutionDate of Hudson is 2012-03-01.",
+            "The parentCompany of Hudson is Konami."
+        ]
+    },
+    "http://dbpedia.org/resource/Killarney": {
+        "qa": [
+            "The city of Killarney is Vancouver, and foundingDate is 1957-09-29. The country of Killarney is __ .",
+            "Canada"
+        ],
+        "additionals": [
+            "The mascot of Killarney is Cougar.",
+            "The mottoTranslation of Killarney is \"Always faithful\"."
+        ]
+    },
+    "http://dbpedia.org/resource/Sands": {
+        "qa": [
+            "The address of Sands is East Street, and country is England. The city of Sands is __ .",
+            "Ashburton, Devon"
+        ],
+        "additionals": [
+            "The foundingYear of Sands is 1987.",
+            "The established of Sands is 1987."
+        ]
+    },
+    "http://dbpedia.org/resource/Nasr": {
+        "qa": [
+            "The city of Nasr is Alexandria, and location is Shatby. The foundingYear of Nasr is __ .",
+            "1929"
+        ],
+        "additionals": [
+            "The country of Nasr is Egypt.",
+            "The motto of Nasr is Long Live E.B.S."
+        ]
+    },
+    "http://dbpedia.org/resource/HSC": {
+        "qa": [
+            "The address of HSC is 299 Fennell Ave W, Hamilton, and city is Hamilton, Ontario. The country of HSC is __ .",
+            "Canada"
+        ],
+        "additionals": [
+            "The established of HSC is 1901.",
+            "The founder of HSC is John H. Collinson."
+        ]
+    },
+    "http://dbpedia.org/resource/Majestic": {
+        "qa": [
+            "The genre of Majestic is Liquor firm, and locationCity is Watford, Hertfordshire. The foundingYear of Majestic is __ .",
+            "1980"
+        ],
+        "additionals": [
+            "The founder of Majestic is Sheldon Graner.",
+            "The locationCountry of Majestic is United Kingdom."
+        ]
+    },
+    "http://dbpedia.org/resource/SBS": {
+        "qa": [
+            "The industry of SBS is Banking, and foundingYear is 1869. The locationCountry of SBS is __ .",
+            "New Zealand"
+        ],
+        "additionals": [
+            "The locationCity of SBS is Head office based in Invercargill.",
+            "The foundingDate of SBS is 1869-03-23."
+        ]
+    },
+    "http://dbpedia.org/resource/ACS": {
+        "qa": [
+            "The established of ACS is 1906, and city is Downers Grove, Illinois. The address of ACS is __ .",
+            "1400 Maple Avenue"
+        ],
+        "additionals": [
+            "The foundingYear of ACS is 1906.",
+            "The motto of ACS is \"Onward and Upward\"."
+        ]
+    },
+    "http://dbpedia.org/resource/HHHS": {
+        "qa": [
+            "The city of HHHS is Lincoln City, Indiana, and location is 3644. The state of HHHS is __ .",
+            "Indiana"
+        ],
+        "additionals": [
+            "The established of HHHS is 1972.",
+            "The foundingYear of HHHS is 1972."
+        ]
+    },
+    "http://dbpedia.org/resource/Capitol": {
+        "qa": [
+            "The state of Capitol is Maryland, and city is South Laurel, Maryland. Capitol is established at __ .",
+            "1927-06-01"
+        ],
+        "additionals": [
+            "The country of Capitol is United States.",
+            "The foundingDate of Capitol is 1927-06-01."
+        ]
+    },
+    "http://dbpedia.org/resource/DCHS": {
+        "qa": [
+            "The mascot of DCHS is Hawk, and motto is \"Inspiring all to achieve their highest potential.\". The state of DCHS is __ .",
+            "Indiana"
+        ],
+        "additionals": [
+            "The city of DCHS is Indianapolis.",
+            "The country of DCHS is United States."
+        ]
+    }
+}

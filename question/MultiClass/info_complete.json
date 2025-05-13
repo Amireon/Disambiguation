@@ -1,0 +1,402 @@
+{
+    "http://dbpedia.org/resource/Georgian_House": [
+        "The numberOfEpisodes of Georgian House is 7, and author is Jill Laurimore. The country of Georgian House is __ .",
+        "United Kingdom"
+    ],
+    "http://dbpedia.org/resource/Smith_House": [
+        "The locmapin of Smith House is Idaho#USA, and added is 1983-01-03. The nrhpReferenceNumber of Smith House is __ .",
+        "83000258"
+    ],
+    "http://dbpedia.org/resource/Pilar": [
+        "The country of Pilar is Philippines, and city is Zamboanga City. The religiousAffiliation of Pilar is __ .",
+        "Catholic Church"
+    ],
+    "http://dbpedia.org/resource/Crozer": [
+        "The nrhpReferenceNumber of Crozer is 73001626, and yearOfConstruction is 1857. The locmapin of Crozer is __ .",
+        "Pennsylvania#USA"
+    ],
+    "http://dbpedia.org/resource/Wimer": [
+        "The timezone of Wimer is Pacific Time Zone, and postalCodeType is ZIP code. The timezoneDst of Wimer is __ .",
+        "PDT"
+    ],
+    "http://dbpedia.org/resource/Silvestre": [
+        "The foundingYear of Silvestre is 1932, and city is Lima. The motto of Silvestre is __ .",
+        "I am, I can, I ought, I will"
+    ],
+    "http://dbpedia.org/resource/Ingleby": [
+        "The deathYear of Ingleby is 1586, and birthYear is 1551. The deathDate of Ingleby is __ .",
+        "1586-06-03"
+    ],
+    "http://dbpedia.org/resource/Broxton": [
+        "The debutyear of Broxton is 2005, and finalyear is 2017. The birthDate of Broxton is __ .",
+        "1984-06-16"
+    ],
+    "http://dbpedia.org/resource/Fiona": [
+        "The publisher of Fiona is Capcom, and platforms is PlayStation 2. The director of Fiona is __ .",
+        "Kazuhiro Tsuchiya"
+    ],
+    "http://dbpedia.org/resource/Vigen": [
+        "The postalCode of Vigen is 87110, and inseeCode is 87205. The country of Vigen is __ .",
+        "France"
+    ],
+    "http://dbpedia.org/resource/Hyde_Park": [
+        "The nationality of Hyde Park is British, and deathDate is 2010-08-31. The birthYear of Hyde Park is __ .",
+        "1945"
+    ],
+    "http://dbpedia.org/resource/Canfield": [
+        "The timezoneDst of Canfield is CDT, and timezone is Central Time Zone. The timeZone of Canfield is __ .",
+        "Central Time Zone"
+    ],
+    "http://dbpedia.org/resource/Faust": [
+        "The occupation of Faust is Novelist, freelance writer, and spouse is Connie Sweitzer Faust. The birthPlace of Faust is __ .",
+        "Williston, North Dakota"
+    ],
+    "http://dbpedia.org/resource/Yolanda": [
+        "The timezone of Yolanda is Pacific Time Zone, and foundingDate is 1907-04-09. The postalCodeType of Yolanda is __ .",
+        "ZIP Codes"
+    ],
+    "http://dbpedia.org/resource/Ricordi": [
+        "The director of Ricordi is Carmine Gallone, and language is Italian. Ricordi is editing __ .",
+        "Niccolò Lazzari"
+    ],
+    "http://dbpedia.org/resource/Boac": [
+        "The formationDate of Boac is 1939-11-24, and parentCompany is Government of the United Kingdom. The openingDate of Boac is __ .",
+        "1940-04-01"
+    ],
+    "http://dbpedia.org/resource/Dowling": [
+        "The timezoneDst of Dowling is CDT, and timezone is Central Time Zone. The timeZone of Dowling is __ .",
+        "Central Time Zone"
+    ],
+    "http://dbpedia.org/resource/Luckenbach": [
+        "The previousWork of Luckenbach is Are You Ready for the Country (song), and released is 1977-04-11. The subsequentWork of Luckenbach is __ .",
+        "The Wurlitzer Prize (I Don't Want to Get Over You)"
+    ],
+    "http://dbpedia.org/resource/Oval": [
+        "The airdate of Oval is 15, and releaseDate is 2019-10-23. The author of Oval is __ .",
+        "Tyler Perry"
+    ],
+    "http://dbpedia.org/resource/Letov": [
+        "The parentCompany of Letov is Groupe Latécoère, and parent is Groupe Latécoère. The industry of Letov is __ .",
+        "Aerospace"
+    ],
+    "http://dbpedia.org/resource/Balan": [
+        "The child of Balan is Meghanathan, and deathDate is 2000-08-26. The deathYear of Balan is __ .",
+        "2000"
+    ],
+    "http://dbpedia.org/resource/Magnat": [
+        "The genre of Magnat is Reggaeton, and hometown is Puerto Rico. The activeYearsStartYear of Magnat is __ .",
+        "1998"
+    ],
+    "http://dbpedia.org/resource/Magoon": [
+        "The finalyear of Magoon is 1903, and deathDate is 1943-12-06. The birthDate of Magoon is __ .",
+        "1875-03-27"
+    ],
+    "http://dbpedia.org/resource/Naranja": [
+        "The timezoneDst of Naranja is EDT, and areaCode is 305. The utcOffsetDst of Naranja is __ .",
+        "-4"
+    ],
+    "http://dbpedia.org/resource/Vox_humana": [
+        "The birthDate of Vox humana is 1896-09-23, and deathPlace is United Kingdom. The deathDate of Vox humana is __ .",
+        "1962-02-05"
+    ],
+    "http://dbpedia.org/resource/Conflans": [
+        "The birthDate of Conflans is 1690, and deathPlace is Paris. The birthPlace of Conflans is __ .",
+        "Paris"
+    ],
+    "http://dbpedia.org/resource/Sebago": [
+        "The owner of Sebago is Cove Communities, and city is Casco, Maine. The country of Sebago is __ .",
+        "United States"
+    ],
+    "http://dbpedia.org/resource/Hillhouse": [
+        "The nrhpReferenceNumber of Hillhouse is 85002507, and architecture is Victorian. The yearOfConstruction of Hillhouse is __ .",
+        "1792"
+    ],
+    "http://dbpedia.org/resource/Villanelle": [
+        "The pages of Villanelle is 224, and publisher is John Murray (publishing house). The country of Villanelle is __ .",
+        "United Kingdom"
+    ],
+    "http://dbpedia.org/resource/Nudie": [
+        "The deathPlace of Nudie is Burbank, California, and nationality is United States. The deathDate of Nudie is __ .",
+        "1984-05-09"
+    ],
+    "http://dbpedia.org/resource/Mahinda": [
+        "The father of Mahinda is Mahinda IV of Anuradhapura, and activeYearsEndYear is 1017. The child of Mahinda is __ .",
+        "Vikramabahu of Ruhuna"
+    ],
+    "http://dbpedia.org/resource/Melcher": [
+        "The nrhpReferenceNumber of Melcher is 03000832, and locmapin is Iowa#USA. The yearOfConstruction of Melcher is __ .",
+        "1842"
+    ],
+    "http://dbpedia.org/resource/Juno": [
+        "The language of Juno is Korean, and writer is Kim Ho-jun. The cinematography of Juno is __ .",
+        "Kim Dong-cheon"
+    ],
+    "http://dbpedia.org/resource/Waco": [
+        "The timezoneDst of Waco is EDT, and postalCode is 40385. The utcOffsetDst of Waco is __ .",
+        "-4"
+    ],
+    "http://dbpedia.org/resource/GAC": [
+        "The designer of GAC is Sean Ellis, and developer is Sean Ellis, Brendan Kelly, Dave Kirby, \"The Kid\". GAC is released at __ .",
+        "1985"
+    ],
+    "http://dbpedia.org/resource/Isabela": [
+        "The deathPlace of Isabela is Mexico City, and birthPlace is Autlán de Navarro. The deathDate of Isabela is __ .",
+        "1993-07-08"
+    ],
+    "http://dbpedia.org/resource/Knights_Templar": [
+        "The director of Knights Templar is Harvey Smith (game designer), and developer is Ion Storm. The engine of Knights Templar is __ .",
+        "Unreal Engine 2"
+    ],
+    "http://dbpedia.org/resource/Hersman": [
+        "The timezoneDst of Hersman is CDT, and areaCode is 217. The timeZone of Hersman is __ .",
+        "Central Time Zone"
+    ],
+    "http://dbpedia.org/resource/El_Barco": [
+        "The producer of El Barco is Globomedia, and numberOfEpisodes is 43. The author of El Barco is __ .",
+        "Álex Pina"
+    ],
+    "http://dbpedia.org/resource/FO": [
+        "The date of FO is 2016-10-14, and deathDate is 2016-10-13. The child of FO is __ .",
+        "Jacopo Fo"
+    ],
+    "http://dbpedia.org/resource/Vardaman": [
+        "The timezoneDst of Vardaman is CDT, and motto is \"A Little Taste of Heaven in Mississippi.\". The timeZone of Vardaman is __ .",
+        "North American Central Time Zone"
+    ],
+    "http://dbpedia.org/resource/Brewster": [
+        "The floorCount of Brewster is 14, and buildingStartDate is 1935. The country of Brewster is __ .",
+        "United States"
+    ],
+    "http://dbpedia.org/resource/Pendleton_House": [
+        "The locmapin of Pendleton House is Ohio#USA, and yearOfConstruction is 1870. The nrhpReferenceNumber of Pendleton House is __ .",
+        "66000611"
+    ],
+    "http://dbpedia.org/resource/Madeline": [
+        "The timezoneDst of Madeline is EDT, and postalCodeType is ZIP codes. The utcOffsetDst of Madeline is __ .",
+        "-4"
+    ],
+    "http://dbpedia.org/resource/Manta": [
+        "The editing of Manta is Gisela Haller, and writer is Stefan Cantz. The headline of Manta is __ .",
+        "Manta, Manta: Original Soundtrack Recording"
+    ],
+    "http://dbpedia.org/resource/McBean": [
+        "The architecture of McBean is Craftsman, and yearOfConstruction is 1920. The nrhpReferenceNumber of McBean is __ .",
+        "92001425"
+    ],
+    "http://dbpedia.org/resource/Rainforest": [
+        "The musicComposer of Rainforest is Alan Silvestri, and budget is 2.4E7. Rainforest is editing __ .",
+        "Gillian Hutshing"
+    ],
+    "http://dbpedia.org/resource/Paradise_Park": [
+        "The yearOfConstruction of Paradise Park is 1907, and locmapin is USA Georgia#USA. The architect of Paradise Park is __ .",
+        "Roderick Brantley, Joe Robinson"
+    ],
+    "http://dbpedia.org/resource/Palau": [
+        "The seasonNumber of Palau is 10, and airdate is 10. Palau is lastAired at __ .",
+        "2005-05-15"
+    ],
+    "http://dbpedia.org/resource/Rodden": [
+        "The birthDate of Rodden is 1981-03-27, and nationality is American. The country of Rodden is __ .",
+        "United States"
+    ],
+    "http://dbpedia.org/resource/Caxias": [
+        "The award of Caxias is Luís Alves de Lima e Silva, Duke of Caxias, and deathDate is 1880-05-07. The birthDate of Caxias is __ .",
+        "1803-08-25"
+    ],
+    "http://dbpedia.org/resource/Wallop": [
+        "The starring of Wallop is Harry Carey (actor born 1878), and director is John Ford. The country of Wallop is __ .",
+        "United States"
+    ],
+    "http://dbpedia.org/resource/Black_squirrel": [
+        "The artist of Black squirrel is Metallica, and released is 2009-04-03. The previousWork of Black squirrel is __ .",
+        "All Nightmare Long"
+    ],
+    "http://dbpedia.org/resource/Midge": [
+        "The genre of Midge is Animated television series, and releaseDate is 1969-10-07. The country of Midge is __ .",
+        "United Kingdom"
+    ],
+    "http://dbpedia.org/resource/Blokker": [
+        "The timezoneDst of Blokker is Central European Summer Time, and utcOffsetDst is +2. The country of Blokker is __ .",
+        "Netherlands"
+    ],
+    "http://dbpedia.org/resource/New_Hope": [
+        "The cinematography of New Hope is Gilbert Taylor, and studio is Lucasfilm. The country of New Hope is __ .",
+        "United States"
+    ],
+    "http://dbpedia.org/resource/Gesundheit": [
+        "The developer of Gesundheit is Revolutionary Concepts, and releaseDate is 2011-08-03. The publisher of Gesundheit is __ .",
+        "Konami"
+    ],
+    "http://dbpedia.org/resource/Snowflake": [
+        "The date of Snowflake is August 2010, and utcOffsetDst is −5. The location of Snowflake is __ .",
+        "Snowflake"
+    ],
+    "http://dbpedia.org/resource/AST": [
+        "The region of AST is Piedmont, and location is Asti. The mayor of AST is __ .",
+        "Maurizio Rasero"
+    ],
+    "http://dbpedia.org/resource/Cling": [
+        "The timezoneDst of Cling is Central European Summer Time, and utcOffsetDst is +2. The country of Cling is __ .",
+        "Netherlands"
+    ],
+    "http://dbpedia.org/resource/Catlin": [
+        "The timeZone of Catlin is Central Time Zone, and timezoneDst is CDT. The areaCode of Catlin is __ .",
+        "620"
+    ],
+    "http://dbpedia.org/resource/Petal": [
+        "The timezoneDst of Petal is CDT, and postalCodeType is ZIP code. The timeZone of Petal is __ .",
+        "North American Central Time Zone"
+    ],
+    "http://dbpedia.org/resource/Baghel": [
+        "The predecessor of Baghel is Ram Shankar Katheria, and spouse is Madhu Baghel. The birthDate of Baghel is __ .",
+        "1960-06-21"
+    ],
+    "http://dbpedia.org/resource/Wriston": [
+        "The timezoneDst of Wriston is EDT, and postalCodeType is ZIP codes. The utcOffsetDst of Wriston is __ .",
+        "-4"
+    ],
+    "http://dbpedia.org/resource/Sun_Valley": [
+        "The studio of Sun Valley is Twentieth Century Fox Film Corporation, and distributor is 20. The country of Sun Valley is __ .",
+        "United States"
+    ],
+    "http://dbpedia.org/resource/KB": [
+        "The birthPlace of KB is Lusaka, and activeYearsStartYear is 2004. The nationality of KB is __ .",
+        "Zambian"
+    ],
+    "http://dbpedia.org/resource/Genlis": [
+        "The deathPlace of Genlis is Paris, and birthDate is 1746-01-25. The occupation of Genlis is __ .",
+        "Author, educationalist"
+    ],
+    "http://dbpedia.org/resource/Harrison_House": [
+        "The yearOfConstruction of Harrison House is 1915, and locmapin is Massachusetts#USA. The architecture of Harrison House is __ .",
+        "Craftsman"
+    ],
+    "http://dbpedia.org/resource/Amelia": [
+        "The areaCode of Amelia is 804, and timezoneDst is EDT. The utcOffsetDst of Amelia is __ .",
+        "&minus;4"
+    ],
+    "http://dbpedia.org/resource/Sandia": [
+        "The established of Sandia is 1966, and country is United States. The state of Sandia is __ .",
+        "New Mexico"
+    ],
+    "http://dbpedia.org/resource/Hammon": [
+        "The date of Hammon is mdy, and height is 1.6764. The activeYearsStartYear of Hammon is __ .",
+        "1999"
+    ],
+    "http://dbpedia.org/resource/Argentina": [
+        "The deathPlace of Argentina is Rome, Italy, and activeYearsStartYear is 1910. The birthDate of Argentina is __ .",
+        "1907-08-31"
+    ],
+    "http://dbpedia.org/resource/Elio": [
+        "The owner of Elio is Paul Elio, and locationCity is Phoenix, Arizona. The founder of Elio is __ .",
+        "Paul Elio"
+    ],
+    "http://dbpedia.org/resource/Scottish_Rite_Cathedral": [
+        "The architecture of Scottish Rite Cathedral is Moorish Revival architecture, and nrhpReferenceNumber is 87000424. Scottish Rite Cathedral is added at __ .",
+        "1987-03-13"
+    ],
+    "http://dbpedia.org/resource/Sweetwater": [
+        "The architect of Sweetwater is Hugo Gaensslen, and added is 1982-11-01. The nrhpReferenceNumber of Sweetwater is __ .",
+        "82001838"
+    ],
+    "http://dbpedia.org/resource/GD": [
+        "The foundedBy of GD is Simon Ingersoll, and locationCountry is U.S.. The predecessor of GD is __ .",
+        "Trane Technologies"
+    ],
+    "http://dbpedia.org/resource/Pronto": [
+        "The released of Pronto is 2009-12-08, and genre is Hip hop music. The artist of Pronto is __ .",
+        "Snoop Dogg"
+    ],
+    "http://dbpedia.org/resource/Young_Guard": [
+        "The predecessor of Young Guard is Unity (Russian political party), and formationYear is 2005. The country of Young Guard is __ .",
+        "Russia"
+    ],
+    "http://dbpedia.org/resource/Windham": [
+        "The parent of Windham is Sony Music Entertainment, and foundingYear is 1976. The parentCompany of Windham is __ .",
+        "Sony Music Entertainment"
+    ],
+    "http://dbpedia.org/resource/English_Martyrs": [
+        "The date of English Martyrs is August 2019, and postcode is TS25 4HA. The postalCode of English Martyrs is __ .",
+        "TS25 4HA"
+    ],
+    "http://dbpedia.org/resource/Many": [
+        "The country of Many is France, and postalCode is 57000. The mayor of Many is __ .",
+        "Jonathan Szablewski"
+    ],
+    "http://dbpedia.org/resource/Cory": [
+        "The firstAired of Cory is 2007-01-12, and date is February 2021. The country of Cory is __ .",
+        "United States"
+    ],
+    "http://dbpedia.org/resource/SAS": [
+        "The language of SAS is Tagalog, and firstAired is 2013-06-16. The director of SAS is __ .",
+        "Rommel Gacho"
+    ],
+    "http://dbpedia.org/resource/Hamlet": [
+        "The distributor of Hamlet is Asta Films, and studio is Art-Film GmbH. The music of Hamlet is __ .",
+        "Giuseppe Becce"
+    ],
+    "http://dbpedia.org/resource/Minott": [
+        "The nrhpReferenceNumber of Minott is 79000142, and added is 1979-07-10. The architecture of Minott is __ .",
+        "Federal"
+    ],
+    "http://dbpedia.org/resource/Camp_House": [
+        "The architecture of Camp House is Greek Revival, and added is 1984-05-10. The yearOfConstruction of Camp House is __ .",
+        "1840"
+    ],
+    "http://dbpedia.org/resource/Gobi": [
+        "The country of Gobi is France, and pages is 318. The author of Gobi is __ .",
+        "Pierre Benoit (novelist)"
+    ],
+    "http://dbpedia.org/resource/Universal_City": [
+        "The postalCodeType of Universal City is ZIP codes, and timezoneDst is PDT. The postalCode of Universal City is __ .",
+        "91608"
+    ],
+    "http://dbpedia.org/resource/Paras": [
+        "The nationality of Paras is Filipino, and college is University of the Philippines. The birthDate of Paras is __ .",
+        "1968-10-02"
+    ],
+    "http://dbpedia.org/resource/Lady_in_Blue": [
+        "The deathYear of Lady in Blue is 2007, and activeYearsStartYear is 1958. The deathDate of Lady in Blue is __ .",
+        "2007-12-26"
+    ],
+    "http://dbpedia.org/resource/Merlin": [
+        "The timezone of Merlin is Pacific Time Zone, and postalCodeType is ZIP code. The timezoneDst of Merlin is __ .",
+        "PDT"
+    ],
+    "http://dbpedia.org/resource/Tickle": [
+        "The province of Tickle is Newfoundland and Labrador, and utcOffsetDst is 150.0. The timezoneDst of Tickle is __ .",
+        "Newfoundland Time"
+    ],
+    "http://dbpedia.org/resource/Perrins": [
+        "The founder of Perrins is Charles William Dyson Perrins, and foundedBy is Charles William Dyson Perrins. The postalCode of Perrins is __ .",
+        "WR14 1WD"
+    ],
+    "http://dbpedia.org/resource/Byrd_High_School": [
+        "The state of Byrd High School is Louisiana, and established is 1925. The country of Byrd High School is __ .",
+        "United States"
+    ],
+    "http://dbpedia.org/resource/Kadokawa": [
+        "The almaMater of Kadokawa is Ritsumeikan University, and termPeriod is Daisaku Kadokawa  Tenure  1. The birthDate of Kadokawa is __ .",
+        "1950-11-23"
+    ],
+    "http://dbpedia.org/resource/Biagio": [
+        "The deathDate of Biagio is 1985-12-24, and birthDate is 1891-06-29. The spouse of Biagio is __ .",
+        "Pina Marini"
+    ],
+    "http://dbpedia.org/resource/Hahn": [
+        "The timezoneDst of Hahn is CDT, and areaCode is 979. The timeZone of Hahn is __ .",
+        "North American Central Time Zone"
+    ],
+    "http://dbpedia.org/resource/Halcyon": [
+        "The timezoneDst of Halcyon is EDT, and postalCodeType is ZIP codes. The utcOffsetDst of Halcyon is __ .",
+        "-4"
+    ],
+    "http://dbpedia.org/resource/Intan": [
+        "The termStart of Intan is 2011-05-07, and predecessor is Wee Siew Kim. The termPeriod of Intan is __ .",
+        "Intan Azura Mokhtar  Tenure  2"
+    ],
+    "http://dbpedia.org/resource/TNPL": [
+        "The country of TNPL is India, and postalCode is 639. The timezone of TNPL is __ .",
+        "Indian Standard Time"
+    ]
+}
